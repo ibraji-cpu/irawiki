@@ -189,29 +189,6 @@ export default (() => {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: jsonLdSchemas }}
         />
-        <style dangerouslySetInnerHTML={{ __html: `
-          :root {
-            --light: #161618 !important;
-            --lightgray: #393639 !important;
-            --gray: #6e6e6e !important;
-            --darkgray: #d4d4d4 !important;
-            --dark: #ebebec !important;
-            --secondary: #6a994e !important;
-            --tertiary: #84a59d !important;
-            --highlight: rgba(143, 159, 169, 0.15) !important;
-          }
-          body, .page, main, .center { background-color: #161618 !important; color: #ebebec !important; }
-          a, .internal, .external { color: #6a994e !important; }
-          h1, h2, h3, h4, h5, h6 { color: #ebebec !important; }
-          .page-header h1, .center h1, article h1 { font-size: 1.4rem !important; }
-          header h1, .site-title, #title { font-size: 70% !important; }
-          .sidebar, .right, .left, nav { background-color: #161618 !important; color: #d4d4d4 !important; }
-          .search, input, button { background-color: #393639 !important; color: #ebebec !important; border-color: #6e6e6e !important; }
-          blockquote { border-left-color: #6a994e !important; color: #d4d4d4 !important; }
-          pre, code { background-color: #2b2b2b !important; color: #ebebec !important; }
-          table, th, td { border-color: #393639 !important; }
-          hr { border-color: #393639 !important; }
-        `}} />
       </head>
     )
   }
