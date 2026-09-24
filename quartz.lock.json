@@ -1,0 +1,11 @@
+{
+  "version": "1.0.0",
+  "plugins": {
+    "darkmode": {
+      "source": "github:quartz-community/darkmode",
+      "resolved": "https://github.com/quartz-community/darkmode.git",
+      "commit": "cc19caffb47798aac2c53155810237132e131e65",
+      "installedAt": "2026-09-24T17:42:57.124Z"
+    }
+  }
+}
