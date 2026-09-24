@@ -1,4 +1,5 @@
 ---
+
 title: Andi Syamsuddin Arsyad
 tags:
 - 2% saham PT Bayan Resources Tbk (BYAN)
@@ -87,6 +88,21 @@ nama_alias:
 - Haji Isam
 - Sang Raja Batubara
 - H. Isam
+member_of:
+- pan
+leader_of:
+- jhonlin-group
+owner_of:
+- jhonlin-group
+- pt-jhonlin-agro-raya
+- pt-jhonlin-baratama
+- pt-pradiksi-gunatama
+related:
+- bayan-resources
+- erna-lisa-halaby
+- jokowi
+- liana-saputri
+- sahbirin-noor
 ---
 
 # Andi Syamsuddin Arsyad

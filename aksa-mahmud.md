@@ -1,4 +1,5 @@
 ---
+
 title: Aksa Mahmud
 tags:
 - individu
@@ -80,6 +81,10 @@ kategori:
 nama_alias:
 - Haji Aksa
 - Sang Transformator Ekonomi Timur
+member_of:
+- dpp-partai-golkar
+related:
+- muhammad-jusuf-kalla
 ---
 
 # Aksa Mahmud

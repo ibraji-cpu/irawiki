@@ -1,4 +1,5 @@
 ---
+
 title: Agus Harimurti Yudhoyono
 tags:
 - Kepastian hukum pertanahan
@@ -67,6 +68,8 @@ kategori:
 - pengusaha
 nama_alias:
 - AHY
+leader_of:
+- kementerian-atr-bpn
 ---
 
 # Agus Harimurti Yudhoyono

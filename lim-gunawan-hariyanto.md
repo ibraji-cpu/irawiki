@@ -1,4 +1,5 @@
 ---
+
 title: Lim Gunawan Hariyanto
 tags:
 - Kehutanan berkelanjutan
@@ -54,6 +55,9 @@ kategori:
 - pengusaha
 nama_alias:
 - '-'
+related:
+- lim-hariyanto
+- lim-hariyanto-wijaya-sarwono
 ---
 
 # Lim Gunawan Hariyanto

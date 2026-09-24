@@ -1,4 +1,5 @@
 ---
+
 title: bayan-resources
 source: kg-documents[haji-isam-saham-bayan-2026], kg-documents[bloomberg-byan-outlook-negatif-2026]
 attributes: '{"stock_code": "BYAN", "sector": "Batubara", "headquarters": "Jakarta",
@@ -14,6 +15,10 @@ description: Produsen batu bara termal terintegrasi yang paling efisien di Indon
   Akuisisi 30% saham oleh Haji Isam. Menerapkan force majeure akibat revisi RKAB 2026
   belum disetujui. Potensi kehilangan profit Rp5 triliun. Credit metrics kuat karena
   debt-free.
+related:
+- bloomberg-byan-outlook-negatif-2026
+- haji-isam
+- haji-isam-saham-bayan-2026
 ---
 
 # bayan-resources

@@ -1,4 +1,5 @@
 ---
+
 title: Zaini Mahdi
 tags:
 - individu
@@ -53,6 +54,8 @@ kategori:
 nama_alias:
 - Haji Ijai
 - Baron Batubara Tapin
+related:
+- muhammad-hatta
 ---
 
 # Zaini Mahdi

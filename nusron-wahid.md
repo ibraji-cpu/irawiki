@@ -1,4 +1,5 @@
 ---
+
 title: Nusron Wahid
 tags:
 - anggota_dpr
@@ -33,6 +34,10 @@ kategori:
 - politisi
 - menteri
 - anggota_dpr
+member_of:
+- dpp-partai-golkar
+related:
+- kpk
 ---
 
 # Nusron Wahid

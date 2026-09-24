@@ -1,4 +1,5 @@
 ---
+
 title: PT Kereta Cepat Indonesia China (PT KCIC)
 tags:
 - joint-venture
@@ -25,6 +26,8 @@ confidence: 3
 nama_alias:
 - PT KCIC
 - KCIC
+related:
+- beijing-yawan-hsr-co-ltd
 ---
 
 # PT Kereta Cepat Indonesia China (PT KCIC)

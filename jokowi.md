@@ -1,4 +1,5 @@
 ---
+
 title: Joko Widodo
 tags:
 - individu
@@ -28,6 +29,8 @@ kategori:
 confidence: 5
 nama_alias:
 - Jokowi
+related:
+- joko-widodo
 ---
 
 # Joko Widodo

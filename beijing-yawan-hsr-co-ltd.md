@@ -1,4 +1,5 @@
 ---
+
 title: Beijing Yawan HSR Co. Ltd
 tags:
 - infrastruktur
@@ -24,6 +25,8 @@ industri:
 confidence: 3
 nama_alias:
 - Beijing Yawan HSR
+related:
+- pt-kcic
 ---
 
 # Beijing Yawan HSR Co. Ltd

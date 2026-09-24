@@ -1,4 +1,5 @@
 ---
+
 title: Lampri
 tags:
 - individu
@@ -22,6 +23,8 @@ kategori:
 confidence: 2
 nama_alias:
 - LMP
+leader_of:
+- kementerian-atr-bpn
 ---
 
 # Lampri

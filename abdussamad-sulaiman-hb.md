@@ -1,4 +1,5 @@
 ---
+
 title: Abdussamad Sulaiman HB
 tags:
 - individu
@@ -77,6 +78,10 @@ kategori:
 - pengusaha
 nama_alias:
 - Haji Leman
+member_of:
+- dpp-partai-golkar
+leader_of:
+- dpp-partai-golkar
 ---
 
 # Abdussamad Sulaiman HB

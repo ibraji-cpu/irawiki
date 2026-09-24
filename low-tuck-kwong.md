@@ -1,4 +1,5 @@
 ---
+
 title: low-tuck-kwong
 tags:
 - individual
@@ -14,6 +15,11 @@ entity_id: low-tuck-kwong
 description: Pemegang saham pengendali PT Bayan Resources Tbk (BYAN) saat ini. Turut
   hadir bersama Haji Isam dan Norman Joesoef saat kunjungan lapangan ke tambang BYAN
   di Kutai Kartanegara, 15 Agustus 2026.
+related:
+- bayan-resources
+- haji-isam
+- haji-isam-saham-bayan-2026
+- pt-bayan-resources-tbk
 ---
 
 # low-tuck-kwong

@@ -1,4 +1,5 @@
 ---
+
 title: Kantor Pertanahan Kabupaten Bogor I
 tags:
 - lembaga
@@ -13,6 +14,8 @@ entity_id: kantah-bpn-kabupaten-bogor-1
 industri:
 - pemerintahan
 - pertanahan
+related:
+- sontang-coin-manurung
 ---
 
 # Kantor Pertanahan Kabupaten Bogor I

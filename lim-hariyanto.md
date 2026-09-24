@@ -1,4 +1,5 @@
 ---
+
 title: Lim Hariyanto Wijaya Sarwono
 tags:
 - Ekspansi Smelter Terpadu
@@ -71,6 +72,9 @@ kategori:
 - pengusaha
 nama_alias:
 - Taipan Tertua Indonesia
+related:
+- lim-gunawan-hariyanto
+- lim-hariyanto-wijaya-sarwono
 ---
 
 # Lim Hariyanto Wijaya Sarwono

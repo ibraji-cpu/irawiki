@@ -1,4 +1,5 @@
 ---
+
 title: Prabowo Subianto
 tags:
 - Kebocoran anggaran dan efisiensi belanja negara
@@ -97,6 +98,8 @@ kategori:
 nama_alias:
 - Jenderal 08
 - Pandu
+related:
+- hashim-djojohadikusumo
 ---
 
 # Prabowo Subianto

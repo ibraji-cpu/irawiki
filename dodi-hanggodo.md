@@ -1,4 +1,5 @@
 ---
+
 title: Dodi Hanggodo
 tags:
 - individu
@@ -24,6 +25,8 @@ risiko_editorial: sedang
 kategori:
 - politisi
 confidence: 4
+member_of:
+- dpp-partai-golkar
 ---
 
 # Dodi Hanggodo

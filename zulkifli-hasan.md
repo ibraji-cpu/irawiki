@@ -1,4 +1,5 @@
 ---
+
 title: Zulkifli Hasan
 tags:
 - Pangan nasional
@@ -66,6 +67,10 @@ kategori:
 nama_alias:
 - Zulhas
 - Bang Zul
+member_of:
+- pan
+leader_of:
+- pan
 ---
 
 # Zulkifli Hasan

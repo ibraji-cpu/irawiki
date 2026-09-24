@@ -1,4 +1,5 @@
 ---
+
 title: Alphington Universal
 tags:
 - korporasi
@@ -9,6 +10,8 @@ tipe_organisasi: korporasi
 nama_lengkap: Alphington Universal
 entity_id: alphington-universal
 confidence: 0.7
+related:
+- jhonlin-group
 ---
 
 # Alphington Universal

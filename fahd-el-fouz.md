@@ -1,4 +1,5 @@
 ---
+
 title: Fahd El Fouz / Fahd A. Rafiq
 tags:
 - individu
@@ -30,6 +31,10 @@ confidence: 2
 nama_alias:
 - FEZ
 - Fahd A. Rafiq
+member_of:
+- dpp-partai-golkar
+leader_of:
+- dpp-partai-golkar
 ---
 
 # Fahd El Fouz / Fahd A. Rafiq

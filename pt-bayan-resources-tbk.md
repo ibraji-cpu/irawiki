@@ -1,4 +1,5 @@
 ---
+
 title: PT Bayan Resources Tbk
 tags:
 - korporasi
@@ -10,6 +11,9 @@ nama_lengkap: PT Bayan Resources Tbk
 doc_ids:
 - kronologi-20260918-timeline-haji-isam-bayan-resources
 entity_id: pt-bayan-resources-tbk
+related:
+- bayan-resources
+- pt-jhonlin-baratama
 ---
 
 # PT Bayan Resources Tbk

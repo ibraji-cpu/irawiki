@@ -1,4 +1,5 @@
 ---
+
 title: Joko Widodo
 tags:
 - dinamika pasca-kepresidenan
@@ -31,6 +32,9 @@ kategori:
 - politisi
 nama_alias:
 - Jokowi
+related:
+- budi-arie-setiadi
+- jokowi
 ---
 
 # Joko Widodo

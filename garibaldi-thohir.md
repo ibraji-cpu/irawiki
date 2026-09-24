@@ -1,4 +1,5 @@
 ---
+
 title: Garibaldi Thohir
 tags:
 - Sektor teknologi dan finansial
@@ -42,6 +43,8 @@ kategori:
 - pengusaha
 nama_alias:
 - Boy Thohir
+leader_of:
+- bursa-efek-indonesia
 ---
 
 # Garibaldi Thohir

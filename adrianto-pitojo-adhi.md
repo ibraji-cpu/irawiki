@@ -1,4 +1,5 @@
 ---
+
 title: Adrianto Pitojo Adhi
 tags:
 - individu
@@ -25,6 +26,10 @@ kategori:
 confidence: 2
 nama_alias:
 - ADR
+leader_of:
+- pt-summarecon-agung-tbk
+owner_of:
+- pt-summarecon-agung-tbk
 ---
 
 # Adrianto Pitojo Adhi

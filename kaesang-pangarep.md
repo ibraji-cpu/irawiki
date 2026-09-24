@@ -1,4 +1,5 @@
 ---
+
 title: Kaesang Pangarep
 tags:
 - Pemasaran kreatif dan digital
@@ -75,6 +76,8 @@ kategori:
 - YouTuber
 nama_alias:
 - Mister Kacang
+related:
+- joko-widodo
 ---
 
 # Kaesang Pangarep

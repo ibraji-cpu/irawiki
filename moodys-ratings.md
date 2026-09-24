@@ -1,4 +1,5 @@
 ---
+
 title: moodys-ratings
 tags:
 - organization
@@ -10,6 +11,10 @@ name: Moody\u2019s Ratings
 entity_id: moodys-ratings
 description: Lembaga pemeringkat global yang menurunkan prospek outlook PT Bayan Resources
   Tbk dari stabil menjadi negatif dengan peringkat tetap di Ba1.
+related:
+- bayan-resources
+- bloomberg-byan-outlook-negatif-2026
+- pt-bayan-resources-tbk
 ---
 
 # moodys-ratings

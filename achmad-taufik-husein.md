@@ -1,4 +1,5 @@
 ---
+
 title: Achmad Taufik Husein
 tags:
 - individu
@@ -17,6 +18,8 @@ latar_militer: tidak
 entity_id: achmad-taufik-husein
 risiko_editorial: rendah
 confidence: 2
+leader_of:
+- kpk
 ---
 
 # Achmad Taufik Husein

@@ -1,4 +1,5 @@
 ---
+
 title: Ditjen Pengendalian dan Penertiban Tanah dan Ruang Kementerian ATR/BPN
 tags:
 - lembaga
@@ -10,6 +11,9 @@ nama_lengkap: Ditjen Pengendalian dan Penertiban Tanah dan Ruang Kementerian ATR
 entity_id: ditjen-pengendalian-dan-penertiban-tanah-dan-ruang
 industri:
 - pemerintahan
+related:
+- kementerian-atr-bpn
+- lampri
 ---
 
 # Ditjen Pengendalian dan Penertiban Tanah dan Ruang Kementerian ATR/BPN

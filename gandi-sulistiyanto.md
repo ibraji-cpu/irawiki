@@ -1,4 +1,5 @@
 ---
+
 title: Gandi Sulistiyanto Suherman
 tags:
 - Diplomasi ekonomi internasional
@@ -72,6 +73,8 @@ kategori:
 - politisi
 nama_alias:
 - Sulis
+related:
+- kaesang-pangarep
 ---
 
 # Gandi Sulistiyanto Suherman

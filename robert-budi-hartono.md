@@ -1,4 +1,5 @@
 ---
+
 title: Robert Budi Hartono
 tags:
 - Perbankan dan Industri Rokok
@@ -33,6 +34,8 @@ kategori:
 - pengusaha
 nama_alias:
 - Budi Hartono
+related:
+- michael-bambang-hartono
 ---
 
 # Robert Budi Hartono

@@ -1,4 +1,5 @@
 ---
+
 title: Castro Enterprises
 tags:
 - korporasi
@@ -9,6 +10,8 @@ tipe_organisasi: korporasi
 nama_lengkap: Castro Enterprises
 entity_id: castro-enterprises
 confidence: 0.7
+related:
+- jhonlin-group
 ---
 
 # Castro Enterprises

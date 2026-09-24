@@ -1,4 +1,5 @@
 ---
+
 title: Muhammad Jusuf Kalla
 tags:
 - individu
@@ -92,6 +93,12 @@ kategori:
 nama_alias:
 - JK
 - Daeng Ucu
+member_of:
+- dpp-partai-golkar
+leader_of:
+- dpp-partai-golkar
+related:
+- aksa-mahmud
 ---
 
 # Muhammad Jusuf Kalla

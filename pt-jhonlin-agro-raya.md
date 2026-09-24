@@ -1,4 +1,5 @@
 ---
+
 title: PT Jhonlin Agro Raya Tbk
 tags:
 - korporasi
@@ -10,6 +11,9 @@ nama_lengkap: PT Jhonlin Agro Raya Tbk
 doc_ids:
 - kronologi-20260918-timeline-haji-isam-bayan-resources
 entity_id: pt-jhonlin-agro-raya
+related:
+- haji-isam
+- pt-jhonlin-baratama
 ---
 
 # PT Jhonlin Agro Raya Tbk

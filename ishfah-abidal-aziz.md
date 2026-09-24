@@ -1,4 +1,5 @@
 ---
+
 title: Ishfah Abidal Aziz
 tags:
 - individu
@@ -39,6 +40,8 @@ kategori:
 - pejabat
 nama_alias:
 - Gus Alex
+related:
+- kpk
 ---
 
 # Ishfah Abidal Aziz

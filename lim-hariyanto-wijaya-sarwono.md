@@ -1,4 +1,5 @@
 ---
+
 title: Lim Hariyanto Wijaya Sarwono
 tags:
 - Hilirisasi Nikel dan Perkebunan Sawit
@@ -28,6 +29,8 @@ risiko_editorial: rendah
 kategori:
 - pengusaha
 confidence: 5
+related:
+- lim-hariyanto
 ---
 
 # Lim Hariyanto Wijaya Sarwono

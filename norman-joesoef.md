@@ -1,4 +1,5 @@
 ---
+
 title: norman-joesoef
 tags:
 - individual
@@ -12,6 +13,10 @@ description: Pemilik Republik Korpora Indonesia (RKI) atau Republikorp. Turut ha
   bersama Haji Isam dan Low Tuck Kwong saat kunjungan lapangan ke tambang BYAN di
   Kutai Kartanegara, 15 Agustus 2026. Menjadi kunci penyeimbang pada sisi infrastruktur
   dan rantai pasok maritim.
+related:
+- haji-isam
+- haji-isam-saham-bayan-2026
+- rki
 ---
 
 # norman-joesoef

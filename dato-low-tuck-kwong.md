@@ -1,4 +1,5 @@
 ---
+
 title: Dato' Low Tuck Kwong
 tags:
 - individu
@@ -29,6 +30,13 @@ kategori:
 - pengusaha
 nama_alias:
 - Low Tuck Kwong
+owner_of:
+- bayan-resources
+- pt-bayan-resources-tbk
+related:
+- elaine-low
+- haji-isam
+- low-tuck-kwong
 ---
 
 # Dato' Low Tuck Kwong

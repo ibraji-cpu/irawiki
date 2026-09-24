@@ -1,4 +1,5 @@
 ---
+
 title: 'Akuisisi Bayan Resources oleh Haji Isam: Dari Rumor 62% hingga Transaksi Resmi
   30%'
 tags:
@@ -9,6 +10,19 @@ tags:
 - jhonlin-group
 date: '2026-09-18'
 cover_image: https://drive.google.com/file/d/1d_ZsRCtZiATB0RqCJnnmeNxUp9I2xChc/view?usp=drive_link
+related:
+- bayan-resources
+- bursa-efek-indonesia
+- dato-low-tuck-kwong
+- elaine-low
+- haji-isam
+- jhonlin-group
+- low-tuck-kwong
+- norman-joesoef
+- pt-bayan-resources-tbk
+- pt-jhonlin-agro-raya
+- pt-jhonlin-baratama
+- rki
 ---
 
 <img src="https://drive.google.com/file/d/1d_ZsRCtZiATB0RqCJnnmeNxUp9I2xChc/view?usp=drive_link" alt="Akuisisi Bayan Resources oleh Haji Isam: Dari Rumor 62% hingga Transaksi Resmi 30%" style="width:100%;max-height:400px;object-fit:cover;margin-bottom:2rem;" />

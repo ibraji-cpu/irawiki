@@ -1,4 +1,5 @@
 ---
+
 title: Hashim Djojohadikusumo
 tags:
 - Ketahanan energi nasional non-fosil
@@ -46,6 +47,8 @@ kategori:
 - politisi
 nama_alias:
 - '-'
+related:
+- prabowo-subianto
 ---
 
 # Hashim Djojohadikusumo

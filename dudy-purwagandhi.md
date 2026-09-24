@@ -1,4 +1,5 @@
 ---
+
 title: Dudy Purwagandhi
 tags:
 - individu
@@ -26,6 +27,8 @@ kategori:
 - politisi
 - pengusaha
 confidence: 4
+member_of:
+- pan
 ---
 
 # Dudy Purwagandhi

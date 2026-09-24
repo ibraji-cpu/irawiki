@@ -1,4 +1,5 @@
 ---
+
 title: BYAN speaks out on Haji Isam takeover rumor
 tags:
 - 62-persen
@@ -6,6 +7,11 @@ tags:
 - elaine-low
 - haji-isam
 - klarifikasi
+- low-tuck-kwong
+related:
+- dato-low-tuck-kwong
+- elaine-low
+- haji-isam
 - low-tuck-kwong
 ---
 

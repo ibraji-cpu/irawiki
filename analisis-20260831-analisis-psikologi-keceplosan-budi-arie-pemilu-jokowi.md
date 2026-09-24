@@ -1,4 +1,5 @@
 ---
+
 title: 'Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana
   Percepatan Pemilu'
 tags:
@@ -8,6 +9,11 @@ tags:
 - psikologi-kognitif
 date: '2026-08-31'
 cover_image: https://drive.google.com/file/d/1d_ZsRCtZiATB0RqCJnnmeNxUp9I2xChc/view?usp=drive_link
+related:
+- budi-arie-setiadi
+- joko-widodo
+- jokowi
+- projo
 ---
 
 <img src="https://drive.google.com/file/d/1d_ZsRCtZiATB0RqCJnnmeNxUp9I2xChc/view?usp=drive_link" alt="Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu" style="width:100%;max-height:400px;object-fit:cover;margin-bottom:2rem;" />

@@ -1,4 +1,5 @@
 ---
+
 title: PT Summarecon Agung Tbk
 tags:
 - korporasi
@@ -13,6 +14,8 @@ entity_id: pt-summarecon-agung-tbk
 industri:
 - properti
 - real estate
+related:
+- adrianto-pitojo-adhi
 ---
 
 # PT Summarecon Agung Tbk

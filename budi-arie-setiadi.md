@@ -1,4 +1,5 @@
 ---
+
 title: Budi Arie Setiadi
 tags:
 - individu
@@ -28,6 +29,11 @@ kategori:
 confidence: 3
 nama_alias:
 - Budi Arie
+leader_of:
+- projo
+related:
+- joko-widodo
+- jokowi
 ---
 
 # Budi Arie Setiadi

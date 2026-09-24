@@ -1,4 +1,5 @@
 ---
+
 title: Michael Bambang Hartono
 tags:
 - Kedermawanan Sosial (Philanthropy)
@@ -80,6 +81,8 @@ kategori:
 nama_alias:
 - Oei Hwie Siang
 - Bambang Hartono
+related:
+- robert-budi-hartono
 ---
 
 # Michael Bambang Hartono

@@ -1,4 +1,5 @@
 ---
+
 title: PT Sebuku Iron Lateritic Ores
 tags:
 - korporasi
@@ -9,6 +10,8 @@ tipe_organisasi: korporasi
 nama_lengkap: PT Sebuku Iron Lateritic Ores
 entity_id: pt-sebuku-iron
 confidence: 0.8
+related:
+- sahbirin-noor
 ---
 
 # PT Sebuku Iron Lateritic Ores

@@ -1,4 +1,5 @@
 ---
+
 title: liana-saputri
 tags:
 - individual
@@ -11,6 +12,11 @@ entity_id: liana-saputri
 description: Putri Haji Isam (Andi Syamsuddin Arsyad). Pemilik PT Pradiksi Gunatama
   Tbk (PGUN) yang masuk daftar High Shareholding Concentration (HSC) BEI pada 14 Juli
   2026. PGUN dikendalikan >90% oleh segelintir investor.
+related:
+- andi-syamsuddin-arsyad
+- haji-isam
+- idnfinancials-hsc-byan-juli-2026
+- pt-pradiksi-gunatama
 ---
 
 # liana-saputri

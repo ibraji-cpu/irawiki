@@ -1,4 +1,5 @@
 ---
+
 title: '36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting
   Bagi Masa Depan Indonesia?'
 tags:
@@ -9,6 +10,9 @@ tags:
 - sejarah
 date: '2026-09-23'
 cover_image: https://iraamalia.id/covers/ira-amalia-cover.jpg
+related:
+- iraamalia-id
+- prabowo-subianto
 ---
 
 <img src="https://iraamalia.id/covers/ira-amalia-cover.jpg" alt="36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting Bagi Masa Depan Indonesia?" style="width:100%;max-height:400px;object-fit:cover;margin-bottom:2rem;" />

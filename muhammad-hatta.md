@@ -1,4 +1,5 @@
 ---
+
 title: Muhammad Hatta
 tags:
 - individu
@@ -59,6 +60,8 @@ kategori:
 nama_alias:
 - Haji Ciut
 - Crazy Rich Binuang
+related:
+- zaini-mahdi
 ---
 
 # Muhammad Hatta

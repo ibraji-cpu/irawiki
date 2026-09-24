@@ -1,4 +1,5 @@
 ---
+
 title: DPP Partai Golkar
 tags:
 - organisasi
@@ -10,6 +11,8 @@ nama_lengkap: DPP Partai Golkar
 entity_id: dpp-partai-golkar
 industri:
 - Politik
+related:
+- fahd-el-fouz
 ---
 
 # DPP Partai Golkar

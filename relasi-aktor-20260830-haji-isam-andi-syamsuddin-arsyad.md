@@ -1,4 +1,5 @@
 ---
+
 title: 'Knowledge Graph Relasi Aktor: Andi Syamsuddin Arsyad (Haji Isam)'
 tags:
 - andi-syamsuddin-arsyad
@@ -12,6 +13,9 @@ tags:
 - relasi-aktor
 - transfer-pricing
 date: '2026-08-30'
+related:
+- andi-syamsuddin-arsyad
+- haji-isam
 ---
 
 Dokumen ini merupakan peta relasi aktor (*knowledge graph edges*) dari Andi Syamsuddin Arsyad alias Haji Isam.

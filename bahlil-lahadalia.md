@@ -1,4 +1,5 @@
 ---
+
 title: Bahlil Lahadalia
 tags:
 - Hilirisasi tambang nikel
@@ -81,6 +82,10 @@ kategori:
 - pengusaha
 nama_alias:
 - Bahlil
+member_of:
+- dpp-partai-golkar
+leader_of:
+- dpp-partai-golkar
 ---
 
 # Bahlil Lahadalia

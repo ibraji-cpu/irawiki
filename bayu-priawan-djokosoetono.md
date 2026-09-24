@@ -1,4 +1,5 @@
 ---
+
 title: Bayu Priawan Djokosoetono
 tags:
 - Modernisasi sistem transportasi perkotaan
@@ -41,6 +42,8 @@ kategori:
 - pengusaha
 nama_alias:
 - '-'
+related:
+- dpp-partai-golkar
 ---
 
 # Bayu Priawan Djokosoetono

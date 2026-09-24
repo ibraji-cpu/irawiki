@@ -1,4 +1,5 @@
 ---
+
 title: Projo
 tags:
 - dukungan politik
@@ -17,6 +18,8 @@ entity_id: projo
 confidence: 3
 nama_alias:
 - Projo
+related:
+- budi-arie-setiadi
 ---
 
 # Projo

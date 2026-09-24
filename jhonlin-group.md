@@ -1,4 +1,5 @@
 ---
+
 title: jhonlin-group
 source: kg-documents[haji-isam-saham-bayan-2026]
 attributes: '{"sector": "Batubara & Infrastruktur", "owner": "Andi Syamsuddin Arsyad
@@ -11,6 +12,10 @@ description: Konglomerasi pertambangan dan infrastruktur milik Andi Syamsuddin A
   (Haji Isam). Memiliki kuota produksi batubara pemerintah sekitar 60 juta ton per
   tahun. Merupakan induk dari beberapa emiten (PGUN, JARR, TEBE). Memiliki rencana
   akuisisi mayoritas saham BYAN dan bermitra dengan RKI.
+related:
+- andi-syamsuddin-arsyad
+- haji-isam
+- haji-isam-saham-bayan-2026
 ---
 
 # jhonlin-group

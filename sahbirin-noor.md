@@ -1,4 +1,5 @@
 ---
+
 title: Sahbirin Noor
 tags:
 - individu
@@ -24,6 +25,8 @@ risiko_editorial: tinggi
 kategori:
 - politisi
 confidence: 5
+member_of:
+- dpp-partai-golkar
 ---
 
 # Sahbirin Noor

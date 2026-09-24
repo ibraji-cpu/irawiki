@@ -1,4 +1,5 @@
 ---
+
 title: pt-pradiksi-gunatama
 source: kg-documents[idnfinancials-hsc-byan-juli-2026]
 attributes: '{"stock_code": "PGUN", "sector": "Pertambangan/Perkebunan", "hsc_date":
@@ -9,6 +10,10 @@ org_type: public_company
 description: Emiten milik Liana Saputri (putri Haji Isam). Masuk daftar High Shareholding
   Concentration (HSC) BEI pada 14 Juli 2026. >90% sahamnya dikendalikan segelintir
   investor. Termasuk emiten terkait Haji Isam yang masuk HSC.
+related:
+- haji-isam
+- idnfinancials-hsc-byan-juli-2026
+- liana-saputri
 ---
 
 # pt-pradiksi-gunatama

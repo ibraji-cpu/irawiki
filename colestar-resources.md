@@ -1,4 +1,5 @@
 ---
+
 title: Colestar Resources
 tags:
 - korporasi
@@ -9,6 +10,8 @@ tipe_organisasi: korporasi
 nama_lengkap: Colestar Resources
 entity_id: colestar-resources
 confidence: 0.7
+related:
+- jhonlin-group
 ---
 
 # Colestar Resources

@@ -1,4 +1,5 @@
 ---
+
 title: elaine-low
 tags:
 - individual
@@ -12,6 +13,12 @@ description: Putri Low Tuck Kwong, pemegang saham PT Bayan Resources Tbk (BYAN) 
   22,002% per 31 Juli 2026. Bersama ayahnya, total kepemilikan 62,253%. Menandatangani
   CSPA penjualan 10 miliar saham BYAN kepada PT Jhonlin Baratama pada 16 September
   2026.
+related:
+- bayan-resources
+- dato-low-tuck-kwong
+- indonesia-business-post-byan-klarifikasi-agustus
+- low-tuck-kwong
+- pt-bayan-resources-tbk
 ---
 
 # elaine-low

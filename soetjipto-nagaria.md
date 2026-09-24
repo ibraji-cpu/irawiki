@@ -1,4 +1,5 @@
 ---
+
 title: Soetjipto Nagaria
 tags:
 - Konservasi kualitas air kawasan hunian
@@ -41,6 +42,8 @@ kategori:
 - pengusaha
 nama_alias:
 - Liang Sheng Wan
+leader_of:
+- pt-summarecon-agung-tbk
 ---
 
 # Soetjipto Nagaria

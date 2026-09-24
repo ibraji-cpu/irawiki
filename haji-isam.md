@@ -1,4 +1,5 @@
 ---
+
 title: haji-isam
 tags:
 - individual
@@ -17,6 +18,10 @@ description: Pengusaha nasional asal Kalimantan, pemilik Jhonlin Group. Diisukan
   alih 62.2% saham PT Bayan Resources Tbk (BYAN). Kekayaan sahamnya di tiga emiten
   (PGUN, JARR, TEBE) diperkirakan Rp62,14 triliun (~US$3,50 miliar). Penawaran akuisisi
   BYAN sekitar US$3 miliar (Rp52,53 triliun). Resmi membeli 30% saham BYAN.
+related:
+- bloomberg-byan-outlook-negatif-2026
+- haji-isam-saham-bayan-2026
+- jhonlin-group
 ---
 
 # haji-isam

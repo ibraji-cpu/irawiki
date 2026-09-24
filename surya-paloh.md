@@ -1,4 +1,5 @@
 ---
+
 title: Surya Paloh
 tags:
 - Koalisi politik pendukung pembangunan pemerintah
@@ -46,6 +47,8 @@ kategori:
 - media
 nama_alias:
 - Surya Dharma Paloh
+related:
+- dpp-partai-golkar
 ---
 
 # Surya Paloh
