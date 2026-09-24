@@ -25,7 +25,7 @@ leader_of:
 # Achmad Taufik Husein
 
 ## Jabatan Aktif
-- Plt. Direktur Penyidikan KPK
+- Plt. Direktur Penyidikan Komisi Pemberantasan Korupsi
 
 ## Catatan
 Onboarding otomatis dari artikel pipeline

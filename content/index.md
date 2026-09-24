@@ -15,7 +15,7 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 - [Akuisisi Bayan Resources oleh Haji Isam: Dari Rumor 62% hingga Transaksi Resmi 30%](./akuisisi-bayan-haji-isam-2026)
 - [Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026](./krisis-makna-subsidi-silang-pertamina-kelas-menengah)
 - [Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu](./analisis-20260831-analisis-psikologi-keceplosan-budi-arie-pemilu-jokowi)
-- [Knowledge Graph Relasi Aktor: Andi Syamsuddin Arsyad (Haji Isam)](./relasi-aktor-20260830-haji-isam-andi-syamsuddin-arsyad)
+- [Knowledge Graph Relasi Aktor: Andi Syamsuddin Arsyad (Haji Isam)](relasi-aktor-andi-syamsuddin-arsyad-haji-isam).md)
 - [Saham terkosentrasi tinggi naik, milik putri Haji Isam hingga Djarum](./idnfinancials-hsc-byan-juli-2026)
 - [Haji Isam Masuk Saat BYAN Berpotensi Kehilangan Profit Rp5 T](./bloomberg-byan-outlook-negatif-2026)
 - [BYAN speaks out on Haji Isam takeover rumor](./indonesia-business-post-byan-klarifikasi-agustus)

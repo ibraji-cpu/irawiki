@@ -4,21 +4,21 @@
     "type": "split",
     "children": [
       {
-        "id": "4ad2062c6e3b3915",
+        "id": "ff4f0174b84a36b7",
         "type": "tabs",
         "children": [
           {
-            "id": "669ecd48a16b87ad",
+            "id": "fdd66d8bd8735781",
             "type": "leaf",
             "state": {
               "type": "markdown",
               "state": {
-                "file": "36-tahun-humanika.md",
+                "file": "andi-syamsuddin-arsyad.md",
                 "mode": "source",
                 "source": false
               },
               "icon": "lucide-file",
-              "title": "36-tahun-humanika"
+              "title": "andi-syamsuddin-arsyad"
             }
           }
         ]
@@ -55,7 +55,7 @@
             "state": {
               "type": "search",
               "state": {
-                "query": "",
+                "query": "andi syam",
                 "matchingCase": false,
                 "explainSearch": false,
                 "collapseAll": false,
@@ -79,7 +79,8 @@
               "title": "Bookmarks"
             }
           }
-        ]
+        ],
+        "currentTab": 1
       }
     ],
     "direction": "horizontal",
@@ -188,12 +189,20 @@
       "bases:Create new base": false
     }
   },
-  "active": "669ecd48a16b87ad",
+  "active": "fdd66d8bd8735781",
   "lastOpenFiles": [
+    "relasi-aktor-andi-syamsuddin-arsyad-haji-isam.md",
+    "index.md",
+    "edwin-soeryadjaya.md",
+    "dudy-purwagandhi.md",
+    "achmad-taufik-husein.md",
+    "abdussamad-sulaiman-hb.md",
+    "andi-syamsuddin-arsyad.md",
+    "dato-low-tuck-kwong.md",
+    "ahmad-syaikhu.md",
     "abdul-rasyid-as.md",
-    "Untitled.base",
-    "Untitled",
     "36-tahun-humanika.md",
-    "abdussamad-sulaiman-hb.md"
+    "Untitled.base",
+    "Untitled"
   ]
 }
