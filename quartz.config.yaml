@@ -183,6 +183,7 @@ plugins:
       position: beforeBody
       priority: 5
       condition: not-index
+
   - source: "@quartz-community/comments"
     enabled: false
   - source: "@quartz-community/footer"

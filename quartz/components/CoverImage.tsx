@@ -17,7 +17,7 @@ const CoverImage: QuartzComponent = ({ fileData, cfg, displayClass }) => {
 
   return (
     <div class={`cover-image ${displayClass ?? ""}`}>
-      <img src={cover} alt={fm?.title ?? ""} loading="lazy" />
+      <img src={cover} alt="" loading="lazy" />
     </div>
   )
 }

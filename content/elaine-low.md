@@ -21,6 +21,18 @@ related:
 - pt-bayan-resources-tbk
 ---
 
-# elaine-low
+# Elaine Low
+
+[[Elaine Low]] adalah putri [[Dato' Low Tuck Kwong]], pemegang saham [[PT Bayan Resources Tbk (BYAN)]] sebesar 22,002% per 31 Juli 2026. Bersama ayahnya, total kepemilikan keluarga Low mencapai 62,253% saham BYAN.
+
+## Peran dalam Akuisisi BYAN
+
+- **16 September 2026**: Menandatangani Conditional Sale and Purchase of Shares Agreement (CSPA) bersama [[Dato' Low Tuck Kwong]] dengan [[PT Jhonlin Baratama]] sebagai pembeli untuk 10.000.000.500 saham BYAN (~30%).
+- **17 September 2026**: [[PT Bayan Resources Tbk (BYAN)]] mengumumkan transaksi resmi kepada OJK dan BEI.
+
+## Afiliasi
+
+- [[PT Bayan Resources Tbk (BYAN)]] — Pemegang saham 22,002%
+- [[Dato' Low Tuck Kwong]] — Ayah, pemegang saham 40,251%
 
 

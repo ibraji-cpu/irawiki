@@ -189,6 +189,32 @@ export default (() => {
           type="application/ld+json"
           dangerouslySetInnerHTML={{ __html: jsonLdSchemas }}
         />
+        <style
+          dangerouslySetInnerHTML={{
+            __html: `
+              /* Wrap site title into 2 lines with left alignment */
+              .page-title {
+                max-width: 120px;
+                word-wrap: break-word;
+                white-space: normal;
+                text-align: left;
+                font-size: 1rem;
+                line-height: 1.4;
+              }
+              .page-title a {
+                text-decoration: none;
+              }
+              /* Reduce article title by 30% */
+              .page-header h1, .center h1, article h1, h1.article-title {
+                font-size: 1.4rem !important;
+              }
+              /* Reduce site title by 30% */
+              header h1, .site-title, #title {
+                font-size: 70% !important;
+              }
+            `,
+          }}
+        />
       </head>
     )
   }
