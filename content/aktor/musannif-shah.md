@@ -21,8 +21,8 @@ date: '2026-08-19T19:56:25.448206+00:00'
 - [[PT Anugerah Sawindo]]
 - [[PT Anugerah Kawan Setia]]
 - [[PT Kembang Sepatu Alam Abadi]]
-- [[Kompleks Perumahan Cemara Asri & Cemara Abadi (perumahan mewah terbesar di Medan)]]
-- [[SPBU]]
-- [[Pabrik Kompos]]
-- [[Bisnis Sarang Burung Walet]]
+- Kompleks Perumahan Cemara Asri & Cemara Abadi (perumahan mewah terbesar di Medan)
+- SPBU
+- Pabrik Kompos
+- Bisnis Sarang Burung Walet
 

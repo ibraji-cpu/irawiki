@@ -16,6 +16,6 @@ date: '2026-08-19T19:56:25.648951+00:00'
 - Wakil Presiden Direktur PT Gudang Garam Tbk
 
 ## Afiliasi Bisnis
-- [[PT Gudang Garam Tbk (President Director, Vice President Director, Director)]]
-- [[PT Suryaduta Investama (Pengendali saham mayoritas 69,29%)]]
+- PT Gudang Garam Tbk (President Director, Vice President Director, Director)
+- [[PT Suryaduta Investama]] (Pengendali saham mayoritas 69,29%)
 

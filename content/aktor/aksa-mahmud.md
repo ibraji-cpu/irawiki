@@ -23,8 +23,8 @@ date: '2026-08-19T19:56:25.036714+00:00'
 
 ## Afiliasi Bisnis
 - [[Bosowa Corporation (Bosowa Corp)]]
-- [[PT Bank Bukopin Tbk (pemegang saham)]]
-- [[PT Bank QNB Indonesia Tbk (pemegang saham)]]
+- [[PT Bank Bukopin Tbk]] (pemegang saham)
+- [[PT Bank QNB Indonesia Tbk]] (pemegang saham)
 
 ## Relasi Terkait
 

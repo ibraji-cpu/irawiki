@@ -22,5 +22,5 @@ date: '2026-08-19T09:50:51.243389+00:00'
 - Perwira Menengah TNI AD (Pensiun Dini dengan pangkat Mayor)
 
 ## Afiliasi Bisnis
-- [[PT Exquisite Indonesia (Kepemilikan usaha diperoleh 2010–2016 senilai Rp360.000.000)]]
+- PT Exquisite Indonesia (Kepemilikan usaha diperoleh 2010–2016 senilai Rp360.000.000)
 

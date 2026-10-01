@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
-- [Gugatan PHPU Syarat Pendidikan Gibran Rakabuming Raka](./peristiwa/gugatan-phpu-syarat-pendidikan-gibran-rakabuming-raka)
-- [Gugatan Ijazah Gibran](./peristiwa/gugatan-ijazah-gibran)
-- [Akuisisi BYAN oleh Haji Isam](./peristiwa/akuisisi-byan-oleh-haji-isam)
-- [Pencalonan Kapolri 2026](./peristiwa/pencalonan-kapolri-2026)
-- [Ir. H. Muhammad Said Iqbal, M.E.](./aktor/muhammad-said-iqbal)
-- [PT Tirta Mahakam Resources Tbk](./aktor/pt-tirta-mahakam-resources-tbk)
-- [Partai Hanura](./aktor/partai-hanura)
-- [PT PP Bajabang Indonesia](./aktor/pt-pp-bajabang-indonesia)
-- [PT Bank Central Asia Tbk (BBCA)](./aktor/pt-bank-central-asia-tbk)
-- [Bambang Widjojanto](./aktor/bambang-widjojanto)
+- [Indonet](./aktor/indonet)
+- [PT Harapan Binuang Motor](./aktor/pt-harapan-binuang-motor)
+- [PT Gunung Mulia Binuang](./aktor/pt-gunung-mulia-binuang)
+- [PT Jantan Celebes Indah](./aktor/pt-jantan-celebes-indah)
+- [PT Lubuk Lancang Kuning](./aktor/pt-lubuk-lancang-kuning)
+- [PT Djagad Kilat](./aktor/pt-djagad-kilat)
+- [PT Raf Rad Corporindo](./aktor/pt-raf-rad-corporindo)
+- [PT Tjimangkok Indah](./aktor/pt-tjimangkok-indah)
+- [PT Colorama Jaya Trading](./aktor/pt-colorama-jaya-trading)
+- [PT Salira Indah](./aktor/pt-salira-indah)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)

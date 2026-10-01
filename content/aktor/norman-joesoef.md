@@ -39,5 +39,4 @@ Norman Joesoef dan [[RKI]] memainkan peran sebagai penyeimbang logistik dalam ek
 ## Relasi Terkait
 
 - [[haji-isam]]
-- [[haji-isam-saham-bayan-2026]]
 - [[rki]]

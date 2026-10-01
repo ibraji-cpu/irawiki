@@ -25,5 +25,5 @@ date: '2026-08-19T09:50:51.365278+00:00'
 - Ketua DPW PPP Provinsi Banten
 
 ## Afiliasi Bisnis
-- [[PT Buana Centra Swakarsa (BCS) (bisnis yang bergerak di bidang jasa logistik, transportasi, dan peralatan militer)]]
+- PT Buana Centra Swakarsa (BCS) (bisnis yang bergerak di bidang jasa logistik, transportasi, dan peralatan militer)
 

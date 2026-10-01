@@ -22,5 +22,5 @@ date: '2026-08-19T09:50:51.353755+00:00'
 - Menteri Tenaga Kerja dan Transmigrasi RI (2009–2014)
 
 ## Afiliasi Bisnis
-- [[Tabloid Detik (salah satu pendiri dan mantan Kepala Litbang)]]
+- Tabloid Detik (salah satu pendiri dan mantan Kepala Litbang)
 

@@ -23,5 +23,5 @@ date: '2026-08-19T19:56:25.692825+00:00'
 - Katib 'Aam PBNU (2015-2021)
 
 ## Afiliasi Bisnis
-- [[data belum ada (secara pribadi tidak terafiliasi dengan perusahaan komersial swasta, namun di bawah kepemimpinannya PBNU mendirikan badan usaha pengelola tambang)]]
+- data belum ada (secara pribadi tidak terafiliasi dengan perusahaan komersial swasta, namun di bawah kepemimpinannya PBNU mendirikan badan usaha pengelola tambang)
 

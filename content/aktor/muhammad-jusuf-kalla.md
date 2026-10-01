@@ -26,11 +26,11 @@ date: '2026-08-19T19:56:25.330765+00:00'
 
 ## Afiliasi Bisnis
 - [[Kalla Group (NV Hadji Kalla)]]
-- [[PT Bukaka Teknik Utama Tbk (Komisaris Utama, 1988-2001)]]
-- [[PT Bumi Sarana Utama (Direktur Utama, 1988-2001)]]
-- [[PT Bukaka Singtel International (Komisaris Utama, 1995-2001)]]
-- [[PT Kalla Inti Karsa (Direktur Utama, 1993-2001)]]
-- [[PT Bumi Karsa (Direktur Utama, 1969-2001)]]
+- [[PT Bukaka Teknik Utama Tbk]] (Komisaris Utama, 1988-2001)
+- [[PT Bumi Sarana Utama]] (Direktur Utama, 1988-2001)
+- [[PT Bukaka Singtel International]] (Komisaris Utama, 1995-2001)
+- [[PT Kalla Inti Karsa]] (Direktur Utama, 1993-2001)
+- [[PT Bumi Karsa]] (Direktur Utama, 1969-2001)
 
 ## Relasi Terkait
 

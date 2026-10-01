@@ -45,4 +45,3 @@ Jika transaksi 30% saham BYAN berhasil dituntaskan, konsolidasi [[Jhonlin Group]
 
 - [[andi-syamsuddin-arsyad]]
 - [[haji-isam]]
-- [[haji-isam-saham-bayan-2026]]

@@ -59,4 +59,4 @@ Perubahan zaman datang lewat transaksi, rumor, dan perpindahan kepemilikan. Pert
 - [[bayan-resources]]
 - [[haji-isam]]
 - [[jhonlin-group]]
-- [[pasal-33-uud-1945]]
+- pasal-33-uud-1945

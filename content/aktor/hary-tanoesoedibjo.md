@@ -24,8 +24,8 @@ date: '2026-08-19T09:50:51.318753+00:00'
 - Bendahara KONI Pusat (2003–2007)
 
 ## Afiliasi Bisnis
-- [[MNC Group (Global Mediacom, Media Nusantara Citra, PT MNC Investama Tbk/PT MNC Asia Holding Tbk, HT Investment Development Ltd)]]
-- [[PT MNC Energy Investments Tbk (IATA) (sektor pertambangan batu bara, migas)]]
+- MNC Group (Global Mediacom, Media Nusantara Citra, PT MNC Investama Tbk/PT MNC Asia Holding Tbk, HT Investment Development Ltd)
+- PT MNC Energy Investments Tbk (IATA) (sektor pertambangan batu bara, migas)
 - [[PT Bhakti Coal Resources (BCR)]]
-- [[Hotel Mewah MNC Group (MNC Bali Resort, The Westin Resort Nusa Dua, Oakwood Surabaya, Next Hotel Yogyakarta)]]
+- Hotel Mewah MNC Group (MNC Bali Resort, The Westin Resort Nusa Dua, Oakwood Surabaya, Next Hotel Yogyakarta)
 

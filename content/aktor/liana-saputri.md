@@ -23,5 +23,4 @@ tags:
 
 - [[andi-syamsuddin-arsyad]]
 - [[haji-isam]]
-- [[idnfinancials-hsc-byan-juli-2026]]
 - [[pt-pradiksi-gunatama]]

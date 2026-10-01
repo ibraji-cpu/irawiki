@@ -24,5 +24,5 @@ date: '2026-08-19T09:50:51.342823+00:00'
 - Anggota DPR RI (1987–1997, 1999)
 
 ## Afiliasi Bisnis
-- [[SPBU Megawati (pengusaha SPBU di Jakarta)]]
+- SPBU Megawati (pengusaha SPBU di Jakarta)
 

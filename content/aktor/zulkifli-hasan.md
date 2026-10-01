@@ -23,5 +23,5 @@ date: '2026-08-19T09:50:51.389023+00:00'
 - Sekretaris Jenderal [[pan|PAN]] (2005–2010)
 
 ## Afiliasi Bisnis
-- [[Sebelum berpolitik aktif bekerja membangun usaha, mendirikan serta menjabat sebagai Presiden Direktur dari berbagai perusahaan swasta]]
+- Sebelum berpolitik aktif bekerja membangun usaha, mendirikan serta menjabat sebagai Presiden Direktur dari berbagai perusahaan swasta
 

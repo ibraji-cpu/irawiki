@@ -39,5 +39,4 @@ Jika transaksi 30% saham BYAN berhasil dituntaskan, konsolidasi tiga kekuatan be
 ## Relasi Terkait
 
 - [[haji-isam]]
-- [[haji-isam-saham-bayan-2026]]
 - [[norman-joesoef]]
