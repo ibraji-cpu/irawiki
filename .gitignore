@@ -1,0 +1,18 @@
+# Quartz build output
+public/
+.quartz-cache/
+
+# Dependencies
+node_modules/
+
+# Raw inputs (Layer 1)
+raw/
+
+# Obsidian workspace cache
+.obsidian/workspace*
+
+# Temporary & OS files
+.DS_Store
+*.tmp
+*.bak
+*.log
