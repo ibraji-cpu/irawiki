@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
-- [Rumor Akuisisi BBCA oleh Haji Isam](./peristiwa/2026-09-29-rumor-akuisisi-bca-haji-isam)
-- [GKSR - Gerakan Kedaulatan Suara Rakyat](./gksr-gerakan-kedaulatan-suara-rakyat)
-- [Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR](./peristiwa/Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR)
-- [Tentang PKPU yang Disorot Hakim MK di Sidang Syarat Ijazah Pencalonan Gibran](./peristiwa/2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran)
-- [Sidang Gugatan Ijazah Gibran, Hakim MK Sorot Banyak Calon Lulusan Paket C](./peristiwa/2026-09-30-sidang-gugatan-ijazah-gibran-hakim-mk-sorot-paket-c)
-- [Bambang Widjojanto Minta MK Panggil Gibran di Sidang Pembuktian](./peristiwa/2026-09-30-bambang-widjojanto-minta-mk-panggil-gibran)
-- [Tentang PKPU yang Disorot Hakim MK di Sidang Syarat Ijazah Pencalonan Gibran](./peristiwa/2026-09-30-PKPU-Hakim-MK-Sidang-Ijazah-Gibran)
-- [Tanggapan Jokowi Mengenai Ijazah Gibran Kini Disoal](./peristiwa/2026-09-24-Tanggapan-Jokowi-Ijazah-Gibran-Disoal)
-- [Syarat Pendidikan Gibran Digugat ke MK, Jokowi Ungkap Riwayat Sekolah](./peristiwa/2026-09-24-Jokowi-Ungkap-Riwayat-Sekolah-Gibran)
-- [Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR](./milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr)
+- [Gugatan PHPU Syarat Pendidikan Gibran Rakabuming Raka](./peristiwa/gugatan-phpu-syarat-pendidikan-gibran-rakabuming-raka)
+- [Gugatan Ijazah Gibran](./peristiwa/gugatan-ijazah-gibran)
+- [Akuisisi BYAN oleh Haji Isam](./peristiwa/akuisisi-byan-oleh-haji-isam)
+- [Pencalonan Kapolri 2026](./peristiwa/pencalonan-kapolri-2026)
+- [Ir. H. Muhammad Said Iqbal, M.E.](./aktor/muhammad-said-iqbal)
+- [PT Tirta Mahakam Resources Tbk](./aktor/pt-tirta-mahakam-resources-tbk)
+- [Partai Hanura](./aktor/partai-hanura)
+- [PT PP Bajabang Indonesia](./aktor/pt-pp-bajabang-indonesia)
+- [PT Bank Central Asia Tbk (BBCA)](./aktor/pt-bank-central-asia-tbk)
+- [Bambang Widjojanto](./aktor/bambang-widjojanto)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)

@@ -2,6 +2,8 @@
 title: Moody\u2019s Ratings
 aliases:
 - moodys-ratings
+- Moody's Ratings
+- Moodys Ratings
 category: aktor
 tags:
 - organization
