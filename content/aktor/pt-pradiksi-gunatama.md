@@ -2,16 +2,18 @@
 title: PT Pradiksi Gunatama Tbk (PGUN)
 aliases:
 - pt-pradiksi-gunatama
+- PT Pradiksi Gunatama Tbk (PGUN)
+- PT Pradiksi Gunatama
+- PGUN
 category: aktor
----
-# pt-pradiksi-gunatama
+---# pt-pradiksi-gunatama
 
 ## Atribut Data
 
 - **stock_code**: PGUN
 - **sector**: Pertambangan/Perkebunan
 - **hsc_date**: 2026-07-14
-- **controller**: [[[[liana-saputri|liana-saputri]]|Liana Saputri]]
+- **controller**: [[liana-saputri|Liana Saputri]]
 - **concentration**: >90%
 
 ## Sumber Data

@@ -2,13 +2,13 @@
 title: PT Jhonlin Baratama
 aliases:
 - pt-jhonlin-baratama
+- PT Jhonlin Baratama
 category: aktor
----
-# pt-jhonlin-baratama
+---# pt-jhonlin-baratama
 
 ## Atribut Data
 
-- **parent**: [[[[jhonlin-group|jhonlin-group]]|Jhonlin Group]]
+- **parent**: [[jhonlin-group|Jhonlin Group]]
 - **sector**: Investasi
 - **key_deal**: Akuisisi 30% BYAN via CSPA 16 Sep 2026
 

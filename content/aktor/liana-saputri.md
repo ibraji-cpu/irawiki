@@ -2,6 +2,7 @@
 title: Liana Saputri
 aliases:
 - liana-saputri
+- Liana Saputri
 category: aktor
 tags:
 - individual
@@ -12,7 +13,7 @@ tags:
 
 - **role**: Pemilik PGUN
 - **relation**: Putri [[haji-isam|Haji Isam]]
-- **company**: [[[[pt-pradiksi-gunatama|pt-pradiksi-gunatama]]|[[pt-pradiksi-gunatama|PT Pradiksi Gunatama]] Tbk (PGUN)]]
+- **company**: [[pt-pradiksi-gunatama|PT Pradiksi Gunatama]] Tbk (PGUN)
 
 ## Sumber Data
 

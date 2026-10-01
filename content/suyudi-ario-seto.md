@@ -64,11 +64,11 @@ isu_konsisten:
 catatan_kontroversial: "tidak diketahui"
 
 member_of:
-- "[[Polri]]"
-- "[[BNN]]"
+- "Polri"
+- "BNN"
 
 leader_of:
-- "[[Kepala BNN RI]]"
+- "Kepala BNN RI"
 
 pengaruh_media: "sedang"
 status_hukum: "tidak diketahui"

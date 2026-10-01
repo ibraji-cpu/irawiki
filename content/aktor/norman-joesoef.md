@@ -2,6 +2,7 @@
 title: Norman Joesoef
 aliases:
 - norman-joesoef
+- Norman Joesoef
 category: aktor
 tags:
 - individual
@@ -33,7 +34,7 @@ Norman Joesoef dan [[RKI]] memainkan peran sebagai penyeimbang logistik dalam ek
 
 ## Sumber Data
 
-- kg-documents[[[haji-isam|haji-isam]]-saham-bayan-2026]
+- kg-documents[haji-isam-saham-bayan-2026]
 
 ## Relasi Terkait
 

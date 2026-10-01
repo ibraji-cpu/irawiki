@@ -10,18 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
-- [36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting Bagi Masa Depan Indonesia?](./36-tahun-humanika)
-- [Akuisisi Bayan Resources oleh Haji Isam: Dari Rumor 62% hingga Transaksi Resmi 30%](Akuisisi%20Bayan%20Resources%20oleh%20Haji%20Isam,%20Dari%20Rumor%20hingga%20Transaksi%20Resmi.md)
-- [Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026](Krisis%20Makna%20Subsidi%20Silang%20Pertamina%20Kelas%20Menangah.md)
-- [Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu](Di%20Balik%20Keceplosan%20Budi%20Arie%20dan%20Diamnya%20Jokowi.md)
-- [Knowledge Graph Relasi Aktor: Andi Syamsuddin Arsyad (Haji Isam)](relasi-aktor-andi-syamsuddin-arsyad-haji-isam).md)
-- [Saham terkosentrasi tinggi naik, milik putri Haji Isam hingga Djarum](./idnfinancials-hsc-byan-juli-2026)
-- [Haji Isam Masuk Saat BYAN Berpotensi Kehilangan Profit Rp5 T](BYAN%20Negatif%20Outlook%20Setelah%20Isu%20Akuisisi%20oleh%20Haji%20Isam.md)
-- [BYAN speaks out on Haji Isam takeover rumor](BYAN%20Membantah%20Rencana%20Akuisisi%20oleh%20Haji%20Isam.md)
-- [Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong](Haji%20Isam%20Sepakat%20Beli%2030%%20Saham%20BYAN%20dari%20Low%20Tuck%20Kwong.md)
-- [Haji Isam Selangkah Lagi Jadi Pemegang 10 Miliar Saham BYAN](Haji%20Isam%20Selangkah%20Lagi%20Jadi%20Pemegang%2010%20Miliar%20Saham%20BYAN.md)
-- [Bukan lewat JARR, Haji Isam borong 30% BYAN via Jhonlin Baratama](Haji%20Isam%20Borong%20BYAN%20via%20Jhonlin%20Baratama.md)
-- [Mengintip Harta Haji Isam yang Diisukan Borong 62,2 Persen Saham Bayan](./haji-isam-saham-bayan-2026)
+- [Rumor Akuisisi BBCA oleh Haji Isam](./peristiwa/2026-09-29-rumor-akuisisi-bca-haji-isam)
+- [GKSR - Gerakan Kedaulatan Suara Rakyat](./gksr-gerakan-kedaulatan-suara-rakyat)
+- [Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR](./peristiwa/Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR)
+- [Tentang PKPU yang Disorot Hakim MK di Sidang Syarat Ijazah Pencalonan Gibran](./peristiwa/2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran)
+- [Sidang Gugatan Ijazah Gibran, Hakim MK Sorot Banyak Calon Lulusan Paket C](./peristiwa/2026-09-30-sidang-gugatan-ijazah-gibran-hakim-mk-sorot-paket-c)
+- [Bambang Widjojanto Minta MK Panggil Gibran di Sidang Pembuktian](./peristiwa/2026-09-30-bambang-widjojanto-minta-mk-panggil-gibran)
+- [Tentang PKPU yang Disorot Hakim MK di Sidang Syarat Ijazah Pencalonan Gibran](./peristiwa/2026-09-30-PKPU-Hakim-MK-Sidang-Ijazah-Gibran)
+- [Tanggapan Jokowi Mengenai Ijazah Gibran Kini Disoal](./peristiwa/2026-09-24-Tanggapan-Jokowi-Ijazah-Gibran-Disoal)
+- [Syarat Pendidikan Gibran Digugat ke MK, Jokowi Ungkap Riwayat Sekolah](./peristiwa/2026-09-24-Jokowi-Ungkap-Riwayat-Sekolah-Gibran)
+- [Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR](./milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)

@@ -1,5 +1,7 @@
 ---
 title: Prabowo Subianto
+aliases:
+- Prabowo Subianto
 category: aktor
 tags:
 - Kebocoran anggaran dan efisiensi belanja negara

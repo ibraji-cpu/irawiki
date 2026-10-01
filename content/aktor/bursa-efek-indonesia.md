@@ -1,5 +1,9 @@
 ---
 title: Bursa Efek Indonesia
+aliases:
+- Bursa Efek Indonesia
+- BEI
+- IDX
 category: aktor
 tags:
 - lembaga

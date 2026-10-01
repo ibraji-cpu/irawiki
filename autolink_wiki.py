@@ -1,124 +1,156 @@
+#!/usr/bin/env python3
+"""Autolink wiki — versi perbaikan (idempoten).
+
+Perbaikan dari versi lama:
+  1. HANYA body yang diproses (frontmatter tidak pernah disentuh).
+  2. Satu-pass: teks dipecah pada link/kode yang sudah ada, hanya segmen
+     teks biasa yang diproses -> tidak mungkin menghasilkan nesting [[[[.
+  3. Hanya menautkan target yang BENAR-BENAR ada (slug atau alias di frontmatter)
+     -> tidak menghasilkan 404.
+  4. Hanya kemunculan PERTAMA tiap entitas per file (gaya Wikipedia).
+  5. Lewati self-link, heading, code block, inline code, URL, markdown link.
+
+Pemakaian:
+  python3 autolink_wiki.py --dry-run
+  python3 autolink_wiki.py --apply
+"""
 import os
 import re
+import sys
 import yaml
 
-# Script ini berada di dalam repo irawiki/ (sejajar dengan folder content/)
-content_dir = os.path.join(os.path.dirname(os.path.abspath(__file__)), "content")
+CONTENT = os.path.join(os.path.dirname(os.path.abspath(__file__)), "content")
+FM_RE = re.compile(r"^(---\r?\n.*?\r?\n---\r?\n?)(.*)$", re.DOTALL)
 
-# 1. Kumpulkan semua entitas (title, aliases, filename)
-entities = {}  # Format: { "term lowercase": ("filename", "Original Term") }
+# Segmen yang dilindungi: tidak boleh ditautkan
+PROTECT_RE = re.compile(
+    r"```.*?```"          # code block
+    r"|`[^`\n]*`"         # inline code
+    r"|\[\[[^\]]*\]\]"    # wiki link yang sudah ada
+    r"|\[[^\]\n]*\]\([^)\n]*\)"  # markdown link
+    r"|https?://\S+"      # URL
+    r"|^\s{0,3}#{1,6}\s.*$",     # heading
+    re.DOTALL | re.MULTILINE,
+)
 
-# Kumpulkan semua file .md menggunakan os.walk agar mendukung sub-folder
-files_info = [] 
-for root, dirs, files in os.walk(content_dir):
-    for filename in files:
-        if filename.endswith('.md'):
-            if filename.lower() == 'index.md':
-                continue # Skip index.md dari target
-            
-            filepath = os.path.join(root, filename)
-            files_info.append((filepath, filename))
-            
-            with open(filepath, 'r', encoding='utf-8') as f:
-                content = f.read()
-            
-            match = re.match(r'^---\n(.*?)\n---\n(.*)', content, re.DOTALL)
-            if not match:
+
+def split_fm(txt):
+    m = FM_RE.match(txt)
+    return (m.group(1), m.group(2)) if m else ("", txt)
+
+
+def load_entities():
+    """slug -> (title, aliases) dan peta term-lower -> slug."""
+    entities = {}
+    by_term = {}
+    for root, _d, files in os.walk(CONTENT):
+        for fn in files:
+            if not fn.endswith(".md") or fn.lower() == "index.md":
                 continue
-            
-            fm_text = match.group(1)
-            try:
-                fm = yaml.safe_load(fm_text) or {}
-            except:
-                continue
-                
-            base_name = filename[:-3] # hapus .md
-            
-            # Tambahkan title
-            title = fm.get('title')
-            if title:
-                entities[title.lower()] = (base_name, title)
-                
-            # Tambahkan aliases
-            aliases = fm.get('aliases', [])
+            slug = fn[:-3]
+            with open(os.path.join(root, fn), encoding="utf-8") as f:
+                txt = f.read()
+            fm, _ = split_fm(txt)
+            meta = {}
+            if fm:
+                try:
+                    meta = yaml.safe_load(fm.strip().strip("-").strip()) or {}
+                except Exception:
+                    meta = {}
+            terms = set()
+            title = meta.get("title")
+            if isinstance(title, str) and title.strip():
+                terms.add(title.strip())
+            aliases = meta.get("aliases") or []
             if isinstance(aliases, list):
-                for al in aliases:
-                    if isinstance(al, str):
-                        entities[al.lower()] = (base_name, al)
-                    
-            # Tambahkan filename itu sendiri
-            clean_basename = base_name.replace('-', ' ')
-            entities[clean_basename.lower()] = (base_name, clean_basename)
+                for a in aliases:
+                    if isinstance(a, str) and a.strip() and not a.strip().startswith("/"):
+                        terms.add(a.strip())
+            # nama file dengan spasi juga dianggap nama
+            terms.add(slug.replace("-", " "))
+            entities[slug] = terms
+            for t in terms:
+                key = t.lower()
+                # jangan override term yang sudah punya slug lain (hindari ambiguitas)
+                if key not in by_term or by_term[key] == slug:
+                    by_term[key] = slug
+    return entities, by_term
 
-# Urutkan berdasarkan panjang teks (dari yang terpanjang ke terpendek)
-sorted_terms = sorted(entities.keys(), key=len, reverse=True)
-sorted_terms = [t for t in sorted_terms if len(t) > 2]
 
-def replace_terms(text, current_file_basename):
-    placeholders = []
-    
-    protect_patterns = [
-        r'```.*?```',           # Code blocks
-        r'\[\[.*?\]\]',         # Wiki links yang sudah ada
-        r'\[.*?\]\(.*?\)',      # Markdown links
-        r'https?://[^\s<>]+',   # Raw URL
-        r'`[^`]*`',             # Inline code
-        r'^#+\s+.*$',           # Headings
-    ]
-    
-    def replacer(match):
-        placeholders.append(match.group(0))
-        return f"__PLACEHOLDER_{len(placeholders)-1}__"
-    
-    # Gantikan code block dan heading
-    text = re.sub(r'```.*?```', replacer, text, flags=re.DOTALL)
-    text = re.sub(r'^#+\s+.*$', replacer, text, flags=re.MULTILINE)
-    
-    for pat in protect_patterns[1:-1]:
-        text = re.sub(pat, replacer, text)
-        
-    # Proses pembuatan Wiki Link
-    for term in sorted_terms:
-        target_file, orig_term = entities[term]
-        
-        # Hindari self-linking
-        if target_file == current_file_basename:
-            continue
-            
-        escaped_term = re.escape(term)
-        pattern = re.compile(rf'(?i)(?<![a-zA-Z0-9_])({escaped_term})(?![a-zA-Z0-9_])')
-        
-        def term_replacer(match):
-            matched_text = match.group(1)
-            return f"[[{target_file}|{matched_text}]]"
-            
-        text = pattern.sub(term_replacer, text)
+def main():
+    apply = "--apply" in sys.argv
+    entities, by_term = load_entities()
 
-    # Kembalikan teks yang dilindungi
-    for i in range(len(placeholders)-1, -1, -1):
-        text = text.replace(f"__PLACEHOLDER_{i}__", placeholders[i])
-        
-    return text
+    # hanya term yang >= 3 karakter, urut panjang -> pendek
+    terms = sorted([t for t in by_term if len(t) > 2], key=len, reverse=True)
+    if not terms:
+        print("Tidak ada entitas.")
+        return
+    term_re = re.compile(
+        r"(?<![A-Za-z0-9_])(" + "|".join(re.escape(t) for t in terms) + r")(?![A-Za-z0-9_])",
+        re.IGNORECASE,
+    )
 
-count_modified = 0
-for filepath, filename in files_info:
-    with open(filepath, 'r', encoding='utf-8') as f:
-        content = f.read()
-        
-    match = re.match(r'^---\n(.*?)\n---\n(.*)', content, re.DOTALL)
-    if not match:
-        continue
-        
-    fm_text = match.group(1)
-    body = match.group(2)
-    base_name = filename[:-3]
-    
-    new_body = replace_terms(body, base_name)
-    
-    if new_body != body:
-        new_content = f"---\n{fm_text}\n---{new_body}"
-        with open(filepath, 'w', encoding='utf-8') as f:
-            f.write(new_content)
-        count_modified += 1
+    files_changed = 0
+    links_added = 0
+    samples = []
 
-print(f"[Autolink] Berhasil menambahkan wiki link otomatis pada {count_modified} file.")
+    for root, _d, files in os.walk(CONTENT):
+        for fn in sorted(files):
+            if not fn.endswith(".md") or fn.lower() == "index.md":
+                continue
+            path = os.path.join(root, fn)
+            slug = fn[:-3]
+            with open(path, encoding="utf-8") as f:
+                txt = f.read()
+            fm, body = split_fm(txt)
+            if not body:
+                continue
+
+            # seed: entitas yang sudah punya link di body (idempoten + sekali per file)
+            seen = set()
+            for ex in re.findall(r"\[\[([^\]]+)\]\]", body):
+                tgt = ex.split("|")[0].strip()
+                seen.add(tgt)
+            added = 0
+
+            def do_segment(seg):
+                nonlocal added
+                def repl(m):
+                    nonlocal added
+                    matched = m.group(1)
+                    target = by_term.get(matched.lower())
+                    if not target or target == slug or target in seen:
+                        return matched
+                    seen.add(target)
+                    added += 1
+                    if len(samples) < 40:
+                        samples.append((os.path.relpath(path, CONTENT), matched, target))
+                    return f"[[{target}|{matched}]]"
+                return term_re.sub(repl, seg)
+
+            # pecah body pada segmen terproteksi
+            out = []
+            pos = 0
+            for m in PROTECT_RE.finditer(body):
+                out.append(do_segment(body[pos:m.start()]))
+                out.append(m.group(0))
+                pos = m.end()
+            out.append(do_segment(body[pos:]))
+            new_body = "".join(out)
+
+            if new_body != body:
+                files_changed += 1
+                links_added += added
+                if apply:
+                    with open(path, "w", encoding="utf-8") as f:
+                        f.write(fm + new_body)
+
+    print(f"{'APPLIED' if apply else 'DRY-RUN'}: {files_changed} file, {links_added} link baru")
+    print("=" * 70)
+    for p, t, tgt in samples:
+        print(f"  {p}: '{t}' -> [[{tgt}]]")
+
+
+if __name__ == "__main__":
+    main()

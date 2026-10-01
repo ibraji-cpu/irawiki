@@ -1,5 +1,8 @@
 ---
 title: PT Summarecon Agung Tbk
+aliases:
+- PT Summarecon Agung Tbk
+- Summarecon
 category: aktor
 tags:
 - korporasi

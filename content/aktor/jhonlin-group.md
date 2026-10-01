@@ -2,6 +2,8 @@
 title: Jhonlin Group
 aliases:
 - jhonlin-group
+- Jhonlin Group
+- jhonlin
 category: aktor
 ---
 # Jhonlin Group
@@ -31,13 +33,13 @@ Jika transaksi 30% saham BYAN berhasil dituntaskan, konsolidasi [[Jhonlin Group]
 ## Atribut Data
 
 - **sector**: Batubara & Infrastruktur
-- **owner**: [[[[haji-isam|haji-isam]]|[[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad]] ([[haji-isam|Haji Isam]])]]
+- **owner**: [[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad]] ([[haji-isam|Haji Isam]])
 - **coal_quota_2026**: 60 juta ton
 - **subsidiaries**: PT Primanugraha Permata (PGUN), [[pt-jhonlin-agro-raya|PT Jhonlin Agro Raya]] (JARR), PT Tunas Energi Bayu (TEBE)
 
 ## Sumber Data
 
-- kg-documents[[[haji-isam|haji-isam]]-saham-bayan-2026]
+- kg-documents[haji-isam-saham-bayan-2026]
 
 ## Relasi Terkait
 

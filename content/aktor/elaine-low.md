@@ -2,6 +2,7 @@
 title: Elaine Low
 aliases:
 - elaine-low
+- Elaine Low
 category: aktor
 tags:
 - individual

@@ -9,8 +9,7 @@ tags:
   - bbcA
   - haji-isam
 date: 2026-09-26
----
-# BCA Bantah Isu Rumor Akuisisi Saham BBCA oleh Haji Isam
+---# BCA Bantah Isu Rumor Akuisisi Saham BBCA oleh Haji Isam
 
 > **Kronologi Singkat:** Pada 26 September 2026, isu yang beredar di media sosial mengenai rencana [[haji-isam|Haji Isam]] ([[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad]]) mengakuisisi saham PT Bank Central Asia Tbk (BBCA) dibantah oleh BCA. EVP Corporate Communications & Social Responsibility BCA, Hera F Haryn, menyatakan informasi tersebut tidak benar dan mengimbau publik untuk hanya mengandalkan sumber resmi.
 
@@ -24,7 +23,7 @@ date: 2026-09-26
 
 - **PT Bank Central Asia Tbk (BCA)** — Bank swasta terbesar di Indonesia, membantah rumor.
 - **Hera F Haryn** — EVP Corporate Communications & Social Responsibility BCA, memberikan pernyataan resmi.
-- **[[[[haji-isam|haji-isam]]|[[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad]] ([[haji-isam|Haji Isam]])]]** — Nama yang disebut dalam rumor sebagai calon akuisitor; bos [[[[jhonlin-group|jhonlin-group]]|Jhonlin Group]].
+- **[[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad]] ([[haji-isam|Haji Isam]])** — Nama yang disebut dalam rumor sebagai calon akuisitor; bos [[jhonlin-group|Jhonlin Group]].
 - **[[robert-budi-hartono|Robert Budi Hartono]]** — Pemilik Djarum Group & BCA bersama saudaranya.
 - **[[michael-bambang-hartono|Michael Bambang Hartono]]** — Almarhum, pemilik utama Djarum & BCA bersama [[robert-budi-hartono|Robert Budi Hartono]] (meninggal 19 Maret 2026).
 

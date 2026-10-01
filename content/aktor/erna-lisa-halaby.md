@@ -1,5 +1,7 @@
 ---
 title: Erna Lisa Halaby
+aliases:
+- Erna Lisa Halaby
 category: aktor
 tags:
 - individu

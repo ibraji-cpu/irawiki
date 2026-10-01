@@ -1,5 +1,7 @@
 ---
 title: Sahbirin Noor
+aliases:
+- Sahbirin Noor
 category: aktor
 tags:
 - individu

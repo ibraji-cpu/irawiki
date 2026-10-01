@@ -9,12 +9,11 @@ tags:
 - pengusaha
 - politisi
 date: '2026-08-19T09:50:51.389023+00:00'
----
-# Zulkifli Hasan
+---# Zulkifli Hasan
 
 ## Jabatan Aktif
 - Menteri Koordinator Bidang Pangan Kabinet Merah Putih (2024–sekarang)
-- Ketua Umum [[[[pan|pan]]|Partai Amanat Nasional]] ([[pan|PAN]]) (2015–sekarang)
+- Ketua Umum [[pan|Partai Amanat Nasional]] ([[pan|PAN]]) (2015–sekarang)
 
 ## Riwayat Jabatan
 - Menteri Perdagangan Republik Indonesia (2022–2024)
