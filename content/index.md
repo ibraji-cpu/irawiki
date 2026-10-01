@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
-- [Indonet](./aktor/indonet)
-- [PT Harapan Binuang Motor](./aktor/pt-harapan-binuang-motor)
-- [PT Gunung Mulia Binuang](./aktor/pt-gunung-mulia-binuang)
-- [PT Jantan Celebes Indah](./aktor/pt-jantan-celebes-indah)
-- [PT Lubuk Lancang Kuning](./aktor/pt-lubuk-lancang-kuning)
-- [PT Djagad Kilat](./aktor/pt-djagad-kilat)
-- [PT Raf Rad Corporindo](./aktor/pt-raf-rad-corporindo)
+- [KPU, MK, dan Sengketa Syarat Pendidikan Gibran: Membaca Ujian Integritas Institusi melalui Siklus Berpikir Ichsanuddin Noorsy](./analisis/kpu-mk-syarat-pendidikan-gibran)
+- [PT Priamanaya Djan Internasional](./aktor/pt-priamanaya-djan-internasional)
+- [Republik Korpora Indonesia (RKI) / Republikorp](./aktor/rki)
+- [Keluarga Low](./aktor/keluarga-low)
+- [PT Krakatau Daya Listrik](./aktor/pt-krakatau-daya-listrik)
+- [PT Asuransi Jiwa Eka Life](./aktor/pt-asuransi-jiwa-eka-life)
+- [PT Anugerah Kawan Setia](./aktor/pt-anugerah-kawan-setia)
+- [Fajar Surya Wisesa](./aktor/fajar-surya-wisesa)
+- [PT Rifa Capital (Rifa Finance)](./aktor/pt-rifa-capital)
 - [PT Tjimangkok Indah](./aktor/pt-tjimangkok-indah)
-- [PT Colorama Jaya Trading](./aktor/pt-colorama-jaya-trading)
-- [PT Salira Indah](./aktor/pt-salira-indah)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)
