@@ -17,10 +17,11 @@ nama_lengkap: "Suyudi Ario Seto"
 nama_alias: []
 
 jabatan_aktif:
-- "Calon Kapolri — disetujui DPR RI, 1 Oktober 2026"
+- "Kapolri — dilantik 1 Oktober 2026"
 - "Kepala BNN RI — Agustus 2025–2026"
 
 jabatan_historis:
+- "Calon Kapolri — disetujui DPR RI, 1 Oktober 2026"
 - "Kapolres Metro Jakarta Pusat — 2017–2019"
 - "Dirreskrimum Polda Metro Jaya — 2019–2020"
 - "Wakapolda Metro Jaya — 2023–2024"
@@ -86,7 +87,7 @@ Suyudi Ario Seto adalah perwira tinggi Kepolisian Negara Republik Indonesia yang
 
 Pada 1 Oktober 2026, Komisi III DPR RI menyetujui pencalonannya sebagai Kapolri dan keputusan tersebut kemudian disahkan melalui Rapat Paripurna DPR RI.
 
-> **Catatan status:** Persetujuan DPR merupakan tahapan politik-konstitusional sebelum pelantikan oleh Presiden. Status sebagai Kapolri perlu diperbarui setelah terdapat keputusan/pelantikan resmi Presiden.
+> **Catatan status:** Persetujuan DPR merupakan tahapan politik-konstitusional sebelum pelantikan oleh Presiden. Menurut CNBC Indonesia (1 Oktober 2026), jabatan Kapolri kini ditempati Suyudi Ario Seto.
 
 ## Identitas
 
@@ -182,7 +183,9 @@ Rekam jejak Suyudi di Jakarta terlihat melalui penugasan operasionalnya sebagai 
 
 - Komisi III DPR RI menyetujui pencalonan Suyudi Ario Seto sebagai Kapolri.
 - Rapat Paripurna DPR RI menyetujui pengangkatannya sebagai Kapolri.
+- Dilantik di Istana Negara, Jakarta; jabatan Kapolri ditempati Suyudi Ario Seto, menggantikan Listyo Sigit Prabowo yang menjadi Kepala Staf Kepresidenan (CNBC Indonesia, 1 Oktober 2026).
 - [[Pencalonan Kapolri 2026]]
+- [[Peristiwa Reshuffle Kabinet Merah Putih 1 Oktober 2026]]
 
 ## Data yang Masih Perlu Diverifikasi
 
