@@ -9,86 +9,93 @@ tags:
 - politikus
 entity_type: individu
 entity_id: "gibran-rakabuming-raka"
-status_data: "stub"
+status_data: "active"
 
 nama_lengkap: "Gibran Rakabuming Raka"
 nama_alias:
 - "lihat aliases"
 
 jabatan_aktif:
-- "_belum ada data_"
+- "Wakil Presiden RI (2024–)"
 
 jabatan_historis:
-- "_belum ada data_"
+- "Wali Kota Surakarta (2021–2024)"
 
-partai: "_belum ada data_"
+partai: "Independen (diusung koalisi partai)"
 basis_daerah:
-- "_belum ada data_"
+- "Jawa Tengah"
 
-latar_militer: "tidak diketahui"
+latar_militer: "tidak"
 
 afiliasi_bisnis:
-- "_belum ada data_"
+- "tidak diketahui"
 
 afiliasi_ormas:
-- "_belum ada data_"
+- "tidak diketahui"
 
-afiliasi_keagamaan: "tidak diketahui"
-dinasti_politik: "tidak diketahui"
+afiliasi_keagamaan: "Islam"
+dinasti_politik: "Putra Presiden Joko Widodo (Jokowi)"
 kepemilikan_konsesi: "tidak diketahui"
 
 kebijakan_didukung:
-- "_belum ada data_"
+- "tidak diketahui"
 
 kebijakan_ditolak:
-- "_belum ada data_"
+- "tidak diketahui"
 
 isu_konsisten:
-- "_belum ada data_"
+- "Sengketa syarat pendidikan (ijazah SMA) sebagai calon wakil presiden"
 
-catatan_kontroversial: "tidak diketahui"
+catatan_kontroversial: "Gugatan ke MK terkait syarat pendidikan/ijazah SMA sebagai calon Wapres. Perkara No. 01/PHPU.PRES-XXIV/2026. Pemohon dipimpin Denny Indrayana. Tahap pembuktian berlangsung 29 Sep – 1 Okt 2026. Putusan dijadwalkan 5 Okt 2026."
 
 member_of:
-- "_belum ada data_"
+- "tidak diketahui"
 
 leader_of:
-- "_belum ada data_"
+- "tidak diketahui"
 
-pengaruh_media: "tidak diketahui"
-status_hukum: "tidak diketahui"
-risiko_editorial: "sedang"
-confidence: 1
-last_updated: "2026-10-01"
+pengaruh_media: "tinggi"
+status_hukum: "bermasalah (gugatan MK berlangsung)"
+risiko_editorial: "tinggi"
+confidence: 4
+last_updated: "2026-10-03"
 ---
 
 # Gibran Rakabuming Raka
 
-> **Status: stub.** Halaman ini dibuat agar wiki link ke halaman ini tidak menunjuk ke halaman kosong. Isi bagian di bawah akan dilengkapi dari data yang disediakan.
-
 ## Jabatan Aktif
 
-- _belum ada data_
+- Wakil Presiden RI (2024–)
 
 ## Riwayat Jabatan
 
-- _belum ada data_
+- Wali Kota Surakarta (2021–2024)
 
 ## Afiliasi Bisnis
 
-- _belum ada data_
+- tidak diketahui
 
 ## Afiliasi Organisasi
 
-- _belum ada data_
+- tidak diketahui
 
 ## Perkembangan Terakhir
 
-- _belum ada data_
+### 2026-10-03
+
+- Gugatan syarat pendidikan (ijazah SMA) sebagai calon Wapres di MK memasuki tahap pembuktian. Perkara No. 01/PHPU.PRES-XXIV/2026.
+- [[Sengketa Ijazah Wapres Gibran di MK]]
 
 ## Catatan
 
-- _belum ada data_
+- Gugatan diajukan 10 Sep 2026 oleh 12 pemohon yang dipimpin Denny Indrayana.
+- Temuan pemohon: tidak ditemukan dokumen dasar penerbitan surat keterangan oleh Kemendikbud.
+- KPU tidak melampirkan bukti syarat pendidikan.
+- Putusan MK dijadwalkan 5 Okt 2026.
 
 ## Sumber
 
-- _belum ada data_
+- Kompas: https://video.kompas.com/watch/1957575
+- CNBC Indonesia: https://www.cnbcindonesia.com/news/20261002104005-4-772792
+- Kompas TV: https://www.kompas.tv/nasional/693358
+- BBC Indonesia: https://www.bbc.com/indonesia/articles/cmly4yeq6r34o
