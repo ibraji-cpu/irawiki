@@ -16,7 +16,7 @@ relasi:
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
-  - objek_id: "aktor/jokowi"
+  - objek_id: "aktor/joko-widodo"
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
@@ -29,7 +29,7 @@ date: 2026-08-31
 
 Apakah sebuah "keceplosan" di panggung politik murni kesalahan mekanis otak yang kelelahan, atau justru wacana rahasia yang sengaja dibiarkan merembes untuk menguji ombak publik? Pertanyaan ini mengemuka setelah beredarnya rekaman viral yang memperlihatkan Ketua Umum [[projo|Projo]], [[budi-arie-setiadi|Budi Arie Setiadi]], melontarkan gagasan spekulatif mengenai percepatan pemilu sebelum 2029. 
 
-Ironisnya, pernyataan itu disampaikan di hadapan relawan, dengan mantan Presiden [[joko-widodo|Joko Widodo]] duduk tepat di sebelahnya, bungkam tanpa sanggahan. Di tengah gelombang kritik yang menyusul, Budi Arie pada tanggal 26 Agustus 2026 maju sebagai perisai, meminta maaf, dan menyebut wacana tersebut murni sebagai "analisis dan insting pribadi" yang tidak berkaitan dengan [[jokowi|Jokowi]]. Namun, benarkah demikian cara kerja pikiran dan dinamika panggung politik?
+Ironisnya, pernyataan itu disampaikan di hadapan relawan, dengan mantan Presiden [[joko-widodo|Joko Widodo]] duduk tepat di sebelahnya, bungkam tanpa sanggahan. Di tengah gelombang kritik yang menyusul, Budi Arie pada tanggal 26 Agustus 2026 maju sebagai perisai, meminta maaf, dan menyebut wacana tersebut murni sebagai "analisis dan insting pribadi" yang tidak berkaitan dengan [[joko-widodo|Jokowi]]. Namun, benarkah demikian cara kerja pikiran dan dinamika panggung politik?
 
 ## Anatomi Keceplosan: Lebih dari Sekadar Eror Kognitif
 
@@ -43,7 +43,7 @@ Kesimpulannya: keceplosan mungkin bukan sebuah konspirasi matang, tetapi ia hamp
 
 ## Makna Psikologis Sikap Diam Sang Patron
 
-Elemen yang tak kalah krusial dari insiden ini adalah sikap diam [[jokowi|Jokowi]]. Ketika wacana inkonstitusional dilontarkan, mengapa tidak ada koreksi seketika?
+Elemen yang tak kalah krusial dari insiden ini adalah sikap diam [[joko-widodo|Jokowi]]. Ketika wacana inkonstitusional dilontarkan, mengapa tidak ada koreksi seketika?
 
 Dalam sosiologi dramaturgi Erving Goffman, interaksi ini adalah masalah "panggung depan" (*front stage*) dan "panggung belakang" (*backstage*). Apa yang dibicarakan Budi Arie seolah-olah adalah narasi *backstage* yang bocor ke *front stage*. Secara psikologis, mengoreksi loyalis atau sekutu di depan massa pendukung adalah tindakan yang mengancam harga diri (*face-threatening act*). Diam, dalam konteks ini, merupakan insting pelestarian harmoni panggung.
 
@@ -62,7 +62,7 @@ Manuver pelemparan wacana inkonstitusional oleh elit atau loyalis akan memantik 
 
 ## Referensi
 
-* **[artikel]** "Budi Arie Minta Maaf soal Video yang Viral, Sebut Analisis Pribadi, [[jokowi|Jokowi]] Tak Terkait" — *kompas-com*  
+* **[artikel]** "Budi Arie Minta Maaf soal Video yang Viral, Sebut Analisis Pribadi, [[joko-widodo|Jokowi]] Tak Terkait" — *kompas-com*  
   URL: https://nasional.kompas.com/read/2026/08/26/13352091/budi-arie-minta-maaf-soal-video-yang-viral-sebut-analisa-pribadi-jokowi-tak
 * **[dokumen]** "The Psychopathology of Everyday Life" — *buku-literatur-akademik*  
   URL: null
@@ -77,5 +77,5 @@ Manuver pelemparan wacana inkonstitusional oleh elit atau loyalis akan memantik 
 
 - [[budi-arie-setiadi]]
 - [[joko-widodo]]
-- [[jokowi]]
+- [[joko-widodo]]
 - [[projo]]

@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
-- [Suyudi Ario Seto](./suyudi-ario-seto)
-- [Muhammad Sarmuji](./aktor/muhammad-sarmuji)
-- [Arrmanatha Nasir](./aktor/arrmanatha-nasir)
-- [Sugiono](./aktor/sugiono)
-- [Dudung Abdurachman](./aktor/dudung-abdurachman)
-- [Listyo Sigit Prabowo](./aktor/listyo-sigit-prabowo)
-- [Reshuffle Kabinet Merah Putih 1 Oktober 2026](./peristiwa/2026-10-01-reshuffle-kabinet-merah-putih)
-- [Sengketa Ijazah Wapres Gibran di MK](./peristiwa/sengketa-ijazah-gibran-2026)
-- [Haji Isam Harus Siapkan Duit Segini Jika Mau Caplok BCA (BBCA)](./peristiwa/2026-09-28-haji-isam-siapkan-duit-caplok-bca)
-- [MDIS Sudah Angkat Bicara, PSI Minta Polemik Ijazah Gibran Disetop](./peristiwa/2025-10-03-mdis-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop)
+- [Analisis: Taktik Komunikasi GKSR dalam Peluncuran Naskah Akademik RUU Politik](./analisis-taktik-komunikasi-gksr-dalam-peluncuran-naskah-akademik-ruu-politik)
+- [Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR](./milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr)
+- [Republik Korpora Indonesia (RKI) / Republikorp](./aktor/rki)
+- [Lim Gunawan Hariyanto](./aktor/lim-gunawan-hariyanto)
+- [Ishfah Abidal Aziz](./aktor/ishfah-abidal-aziz)
+- [Haji Bachrullah](./aktor/haji-bachrullah)
+- [Andi Syamsuddin Arsyad (Haji Isam)](./aktor/andi-syamsuddin-arsyad)
+- [Airlangga Hartarto](./aktor/airlangga-hartarto)
+- [Soedomo Mergonoto](./aktor/soedomo-mergonoto)
+- [Abdul Rasyid AS](./aktor/abdul-rasyid-as)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)

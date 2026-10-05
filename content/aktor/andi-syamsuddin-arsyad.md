@@ -63,7 +63,7 @@ relasi:
     predikat: "terkait_dengan"
     confidence: "medium"
     sumber: null
-  - objek_id: "aktor/jokowi"
+  - objek_id: "aktor/joko-widodo"
     predikat: "terkait_dengan"
     confidence: "medium"
     sumber: null

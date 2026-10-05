@@ -43,7 +43,7 @@ relasi:
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
-  - objek_id: "aktor/lim-hariyanto-wijaya-sarwono"
+  - objek_id: "aktor/lim-hariyanto"
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
@@ -73,4 +73,4 @@ date: '2026-08-19T19:56:25.354062+00:00'
 ## Relasi Terkait
 
 - [[lim-hariyanto]]
-- [[lim-hariyanto-wijaya-sarwono]]
+- [[lim-hariyanto]]

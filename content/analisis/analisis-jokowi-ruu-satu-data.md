@@ -7,7 +7,7 @@ entity_type: analisis
 sumber_status: prosa
 entity_id: "analisis-jokowi-ruu-satu-data"
 relasi:
-  - subjek_id: "aktor/jokowi"
+  - subjek_id: "aktor/joko-widodo"
     objek_id: "aktor/prabowo-subianto"
     predikat: "terkait_dengan"
     confidence: "low"

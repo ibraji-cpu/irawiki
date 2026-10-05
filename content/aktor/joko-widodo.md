@@ -12,20 +12,16 @@ tags:
 - relasi dengan loyalis
 entity_type: individu
 relasi:
-  - subjek_id: "aktor/jokowi"
+  - subjek_id: "aktor/joko-widodo"
     objek_id: "aktor/budi-arie-setiadi"
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
-  - subjek_id: "aktor/jokowi"
-    objek_id: "aktor/jokowi"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+sumber_status: prosa
 ---
 # Joko Widodo
 
-[[jokowi|Joko Widodo]], atau [[jokowi|Jokowi]], adalah mantan Presiden Indonesia yang dalam artikel ini dikaitkan dengan insiden viral wacana percepatan pemilu. Ia hadir di lokasi kejadian namun memilih diam tanpa memberikan sanggahan seketika, sebuah sikap yang dianalisis sebagai taktik "trial balloon" atau pelestarian harmoni panggung politik di hadapan loyalisnya.
+[[joko-widodo|Joko Widodo]], atau [[joko-widodo|Jokowi]], adalah mantan Presiden Indonesia yang dalam artikel ini dikaitkan dengan insiden viral wacana percepatan pemilu. Ia hadir di lokasi kejadian namun memilih diam tanpa memberikan sanggahan seketika, sebuah sikap yang dianalisis sebagai taktik "trial balloon" atau pelestarian harmoni panggung politik di hadapan loyalisnya.
 
 ## Riwayat Jabatan
 - Presiden Indonesia (2014-2024)
@@ -36,4 +32,3 @@ Sikap diamnya saat Budi Arie melontarkan wacana inkonstitusional menjadi fokus a
 ## Relasi Terkait
 
 - [[budi-arie-setiadi]]
-- [[jokowi]]

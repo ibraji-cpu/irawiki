@@ -10,7 +10,7 @@ relasi:
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
-  - objek_id: "aktor/jokowi"
+  - objek_id: "aktor/joko-widodo"
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
@@ -22,9 +22,9 @@ Budi Arie Setiadi adalah Ketua Umum [[projo|Projo]] yang menjadi sorotan publik 
 - Ketua Umum [[projo|Projo]] (2026-sekarang)
 
 ## Catatan
-Dikenal sebagai figur yang dekat dengan lingkaran kekuasaan [[jokowi|Jokowi]].
+Dikenal sebagai figur yang dekat dengan lingkaran kekuasaan [[joko-widodo|Jokowi]].
 
 ## Relasi Terkait
 
 - [[joko-widodo]]
-- [[jokowi]]
+- [[joko-widodo]]

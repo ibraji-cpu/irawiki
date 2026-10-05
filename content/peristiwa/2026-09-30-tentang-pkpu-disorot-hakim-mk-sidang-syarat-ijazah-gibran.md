@@ -34,6 +34,18 @@ relasi:
     confidence: "medium"
     sumber: null
     keterangan: "Termohon dalam gugatan"
+  - subjek_id: "peristiwa/2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran"
+    objek_id: "aktor/denny-indrayana"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Mantan Wakil Menteri Hukum dan HAM, salah satu pemohon gugatan"
+  - subjek_id: "aktor/denny-indrayana"
+    objek_id: "aktor/mahkamah-konstitusi"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Denny mengajukan gugatan PHPU terkait syarat pendidikan Gibran."
 
 tanggal:
 - "2026-09-30"
@@ -46,11 +58,13 @@ status_hukum_politik: "berjalan"
 kategori_isu:
 - "hukum"
 - "politik"
+- "pemilu"
 
 aktor_terlibat:
 - "Gibran Rakabuming Raka"
 - "Mahkamah Konstitusi"
 - "KPU"
+- "Denny Indrayana"
 
 peristiwa_terkait:
 - "Gugatan Ijazah Gibran"
@@ -75,6 +89,7 @@ last_updated: "2026-10-01"
 - [[Gibran Rakabuming Raka]] — Terdakwa dalam gugatan syarat pendidikan
 - [[Mahkamah Konstitusi]] — Lembaga yang memeriksa gugatan
 - [[KPU]] — Termohon dalam gugatan
+- [[Denny Indrayana]] — Mantan Wakil Menteri Hukum dan HAM, salah satu pemohon gugatan
 
 ## Latar Belakang
 
@@ -94,6 +109,7 @@ PKPU nomor 19 tahun 2023 tentang Pencalonan Peserta Pemilihan Umum Presiden dan 
 
 - [[Mahkamah Konstitusi]] — [[KPU]]: Memeriksa gugatan syarat pendidikan
 - [[KPU]] — [[Gibran Rakabuming Raka]]: Termohon dalam gugatan
+- [[Denny Indrayana]] — [[Mahkamah Konstitusi]]: Denny mengajukan gugatan PHPU terkait syarat pendidikan Gibran.
 
 ## Sumber
 

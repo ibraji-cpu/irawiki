@@ -220,7 +220,7 @@ Perkara memasuki tahap pembuktian. MK mencatat perkara Nomor 01/PHPU.PRES-XXIV/2
 
 Pada tahap ini, status persoalan yang diperdebatkan masih merupakan materi pemeriksaan perkara. Belum terdapat putusan akhir yang dapat dijadikan dasar untuk menyatakan bahwa KPU telah terbukti melakukan pelanggaran atau bahwa pencalonan Gibran telah terbukti tidak sah.
 
-Lihat juga: [[gugatan-phpu-syarat-pendidikan-gibran-rakabuming-raka|Perkara 01/PHPU.PRES-XXIV/2026]], [[2026-09-30-PKPU-Hakim-MK-Sidang-Ijazah-Gibran|PKPU disorot hakim MK di sidang syarat ijazah Gibran]], dan [[2026-09-30-sidang-gugatan-ijazah-gibran-hakim-mk-sorot-paket-c|Sidang gugatan ijazah Gibran: hakim MK sorot lulusan Paket C]].
+Lihat juga: [[gugatan-phpu-syarat-pendidikan-gibran-rakabuming-raka|Perkara 01/PHPU.PRES-XXIV/2026]], [[2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran|PKPU disorot hakim MK di sidang syarat ijazah Gibran]], dan [[2026-09-30-sidang-gugatan-ijazah-gibran-hakim-mk-sorot-paket-c|Sidang gugatan ijazah Gibran: hakim MK sorot lulusan Paket C]].
 
 ## Perspektif / Interpretasi
 

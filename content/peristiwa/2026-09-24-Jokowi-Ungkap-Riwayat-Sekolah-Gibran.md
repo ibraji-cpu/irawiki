@@ -7,7 +7,7 @@ entity_id: "2026-09-24-jokowi-ungkap-riwayat-sekolah-gibran"
 sumber:
   - url: "https://news.detik.com/berita/d-8677899/syarat-pendidikan-gibran-digugat-ke-mk-jokowi-ungkap-riwayat-sekolah"
 relasi:
-  - objek_id: "aktor/jokowi"
+  - objek_id: "aktor/joko-widodo"
     predikat: "terkait_dengan"
     confidence: "medium"
     sumber: null
@@ -27,7 +27,7 @@ relasi:
     confidence: "medium"
     sumber: null
     keterangan: "Menhut dan Sekjen PSI, menyebut gugatan sebagai manuver politik tak beradab"
-  - subjek_id: "aktor/jokowi"
+  - subjek_id: "aktor/joko-widodo"
     objek_id: "aktor/gibran-rakabuming-raka"
     predikat: "terkait_dengan"
     confidence: "medium"
@@ -67,14 +67,14 @@ last_updated: "2026-09-30"
 ---
 # Syarat Pendidikan Gibran Digugat ke MK, Jokowi Ungkap Riwayat Sekolah
 
-> **Kronologi Singkat:** [[jokowi|Jokowi]] merespons gugatan syarat pendidikan Gibran Rakabuming Raka dengan mengungkap riwayat pendidikan putranya, dari SD di Surakarta hingga MDIS di Singapura. [[jokowi|Jokowi]] menyebut syarat pendidikan Gibran sudah diterima KPU.
+> **Kronologi Singkat:** [[joko-widodo|Jokowi]] merespons gugatan syarat pendidikan Gibran Rakabuming Raka dengan mengungkap riwayat pendidikan putranya, dari SD di Surakarta hingga MDIS di Singapura. [[joko-widodo|Jokowi]] menyebut syarat pendidikan Gibran sudah diterima KPU.
 
 ## Kronologi
 
 - **2026-09-10** — Denny Indrayana bersama 11 pemohon mengajukan gugatan PHPU ke MK.
 - **2026-09-17** — Gugatan diregistrasi MK dengan nomor perkara 01/PHPU.PRES-XXIV/2026.
 - **2026-09-21** — Sidang pemeriksaan pendahuluan digelar di MK.
-- **2026-09-24** — [[jokowi|Jokowi]] merespons gugatan, mengungkap riwayat pendidikan Gibran dari SD hingga MDIS.
+- **2026-09-24** — [[joko-widodo|Jokowi]] merespons gugatan, mengungkap riwayat pendidikan Gibran dari SD hingga MDIS.
 
 ## Aktor yang Terlibat
 
@@ -89,7 +89,7 @@ Pemohon mendalilkan indikasi cacat syarat pencalonan pendidikan Gibran, termasuk
 
 ## Perkembangan Terakhir
 
-- **2026-09-24** — [[jokowi|Jokowi]] menyebut Gibran menempuh pendidikan SD di SD 16 Surakarta, SMP di SMPN 1 Surakarta, SMA di Orchid Park Secondary School Singapura, lalu UTS Insearch Australia, dan MDIS Singapura.
+- **2026-09-24** — [[joko-widodo|Jokowi]] menyebut Gibran menempuh pendidikan SD di SD 16 Surakarta, SMP di SMPN 1 Surakarta, SMA di Orchid Park Secondary School Singapura, lalu UTS Insearch Australia, dan MDIS Singapura.
 - [[Gugatan PHPU Syarat Pendidikan Gibran Rakabuming Raka]]
 
 ## Dampak Langsung
@@ -99,7 +99,7 @@ Pemohon mendalilkan indikasi cacat syarat pencalonan pendidikan Gibran, termasuk
 
 ## Relasi yang Terdokumentasi
 
-- [[Joko Widodo]] — [[Gibran Rakabuming Raka]]: Ayah-anak, [[jokowi|Jokowi]] membela riwayat pendidikan Gibran.
+- [[Joko Widodo]] — [[Gibran Rakabuming Raka]]: Ayah-anak, [[joko-widodo|Jokowi]] membela riwayat pendidikan Gibran.
 - [[Denny Indrayana]] — [[Gibran Rakabuming Raka]]: Pemohon-tergugat dalam perkara PHPU.
 
 ## Sumber
