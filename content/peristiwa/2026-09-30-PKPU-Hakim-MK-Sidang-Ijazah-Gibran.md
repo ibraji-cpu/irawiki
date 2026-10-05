@@ -6,6 +6,43 @@ entity_type: peristiwa
 entity_id: "2026-09-30-pkpu-hakim-mk-ijazah-gibran"
 sumber:
   - url: "https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran"
+relasi:
+  - subjek_id: "peristiwa/2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran"
+    objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Calon Wakil Presiden yang dicalonkan dalam Pemilu 2024, dinyatakan memenuhi syarat oleh KPU"
+  - subjek_id: "peristiwa/2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran"
+    objek_id: "aktor/mahkamah-konstitusi"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Lembaga yang memeriksa gugatan PHPU terkait syarat pendidikan calon wakil presiden"
+  - subjek_id: "peristiwa/2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran"
+    objek_id: "aktor/komisi-pemilihan-umum"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Komisi Pemilihan Umum yang menyatakan dokumen Gibran memenuhi syarat"
+  - subjek_id: "peristiwa/2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran"
+    objek_id: "aktor/denny-indrayana"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Mantan Wakil Menteri Hukum dan HAM, salah satu pemohon gugatan"
+  - subjek_id: "aktor/gibran-rakabuming-raka"
+    objek_id: "aktor/komisi-pemilihan-umum"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "KPU menyatakan dokumen Gibran memenuhi syarat pencalonan."
+  - subjek_id: "aktor/denny-indrayana"
+    objek_id: "aktor/mahkamah-konstitusi"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Denny mengajukan gugatan PHPU terkait syarat pendidikan Gibran."
 
 tanggal:
 - "2026-09-30"

@@ -6,6 +6,15 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
+relasi:
+  - objek_id: "aktor/pt-dci-indonesia-tbk"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/indonet"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-09-12T15:07:15.239649+00:00'
 ---
 

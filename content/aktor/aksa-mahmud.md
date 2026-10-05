@@ -6,6 +6,25 @@ tags:
 - pengusaha
 - politisi
 entity_type: individu
+relasi:
+  - objek_id: "aktor/bosowa-corporation"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-bank-bukopin-tbk"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "(pemegang saham)"
+  - objek_id: "aktor/pt-bank-qnb-indonesia-tbk"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "(pemegang saham)"
+  - objek_id: "aktor/muhammad-jusuf-kalla"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-08-19T19:56:25.036714+00:00'
 ---
 

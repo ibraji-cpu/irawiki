@@ -15,6 +15,40 @@ sumber:
   - url: "https://www.bloombergtechnoz.com/detail-news/122336/bahlil-penerbitan-rkab-bayan-byan-tak-terkait-saham-haji-isam"
   - url: "https://www.bloombergtechnoz.com/detail-news/122098/tujuan-jhonlin-group-kuasai-10-miliar-saham-bayan-resources-byan"
   - url: "https://github.com/ibraji-cpu/irawiki/blob/main/content/pt-bayan-resources-tbk.md"
+relasi:
+  - subjek_id: "aktor/andi-syamsuddin-arsyad"
+    objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "** ()** — Bos , pihak yang terlibat dalam aksi korporasi terhadap BYAN."
+  - objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "** (BYAN)** — Emiten batubara yang menjadi target akuisisi, terdaftar di BEI."
+  - objek_id: "aktor/pt-jhonlin-baratama"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**** — Perusahaan dari keluarga Low yang bertindak dalam proses akuisisi saham BYAN."
+  - objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**Bahlil** — Pejabat yang menyatakan penerbitan RKAB BYAN tidak terkait saham ."
+  - subjek_id: "aktor/andi-syamsuddin-arsyad"
+    objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**** — : Melalui ,  terlibat dalam akuisisi saham BYAN."
+  - subjek_id: "aktor/pt-jhonlin-baratama"
+    objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**** — : Perusahaan dari keluarga Low yang menyepakati pengambilan alih 30% saham BYAN."
 date: 2026-09-26
 ---# Haji Isam Akuisisi Saham Bayan Resources (BYAN)
 

@@ -8,6 +8,15 @@ category: aktor
 tags:
 - organization
 entity_type: individu
+relasi:
+  - objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "peristiwa/BYAN Negatif Outlook Setelah Isu Akuisisi oleh Haji Isam"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 ---
 
 # moodys-ratings

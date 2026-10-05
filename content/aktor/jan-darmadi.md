@@ -9,6 +9,67 @@ tags:
 - pengusaha
 - politisi
 entity_type: individu
+relasi:
+  - objek_id: "aktor/pt-jakarta-setiabudi-internasional-tbk"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-wynncor-bali"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-skyline-building"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-jan-darmadi-investindo"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-rasuna-setiabudi-raya"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-property-java"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-puri-setiabudi-real-estate"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-salira-indah"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-colorama-jaya-trading"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-tjimangkok-indah"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-raf-rad-corporindo"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-djagad-kilat"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-pp-bajabang-indonesia"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-lubuk-lancang-kuning"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-jantan-celebes-indah"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-08-19T19:56:25.298680+00:00'
 ---
 

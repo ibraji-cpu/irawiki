@@ -7,6 +7,15 @@ category: aktor
 tags:
 - individual
 entity_type: individu
+relasi:
+  - objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/rki"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 ---
 # Norman Joesoef
 

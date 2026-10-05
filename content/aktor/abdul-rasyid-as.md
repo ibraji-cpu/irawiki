@@ -5,6 +5,43 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
+relasi:
+  - objek_id: "aktor/pt-citra-borneo-indah"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-sawit-sumbermas-sarana-tbk"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-kalimantan-sawit-abadi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-mitra-mendawai-sejati"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-sawit-multi-utama"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-tanjung-sawit-abadi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-mirza-pratama-putra"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-menteng-kencana-mas"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/bank-perkreditan-rakyat"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-08-19T19:56:24.968502+00:00'
 ---
 

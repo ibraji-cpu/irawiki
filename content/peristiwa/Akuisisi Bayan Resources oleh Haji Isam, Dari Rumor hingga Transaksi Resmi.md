@@ -8,6 +8,47 @@ tags:
   - haji-isam
   - jhonlin-group
 entity_type: peristiwa
+relasi:
+  - objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/bursa-efek-indonesia"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/dato-low-tuck-kwong"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/elaine-low"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/jhonlin-group"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/norman-joesoef"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-jhonlin-agro-raya"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-jhonlin-baratama"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/rki"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: 2026-09-18
 ---
 # Akuisisi Bayan Resources oleh Haji Isam: Dari Rumor 62% hingga Transaksi Resmi 30%

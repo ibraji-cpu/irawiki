@@ -6,6 +6,34 @@ entity_type: peristiwa
 entity_id: "tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran"
 sumber:
   - url: "https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran"
+relasi:
+  - objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Terdakwa dalam gugatan syarat pendidikan"
+  - objek_id: "aktor/mahkamah-konstitusi"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Lembaga yang memeriksa gugatan"
+  - objek_id: "aktor/komisi-pemilihan-umum"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Termohon dalam gugatan"
+  - subjek_id: "aktor/mahkamah-konstitusi"
+    objek_id: "aktor/komisi-pemilihan-umum"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Memeriksa gugatan syarat pendidikan"
+  - subjek_id: "aktor/komisi-pemilihan-umum"
+    objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Termohon dalam gugatan"
 
 tanggal:
 - "2026-09-30"

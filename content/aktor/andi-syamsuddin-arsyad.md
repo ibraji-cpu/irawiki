@@ -21,6 +21,68 @@ sumber:
   - url: "https://www.bloombergtechnoz.com/detail-news/122578/haji-isam-masuk-force-majeure-bayan-byan-dicabut"
   - url: "https://www.bloombergtechnoz.com/detail-news/122101/kerajaan-bisnis-bos-jhonlin-group-usai-kuasai-miliaran-saham-byan"
   - tanggal: "2026-09-11"
+relasi:
+  - objek_id: "aktor/jhonlin-group"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**** — Grup korporasi yang dimilikinya, bergerak di bidang batubara dan energi."
+  - subjek_id: "aktor/pt-jhonlin-baratama"
+    objek_id: "aktor/jhonlin-group"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**** — Perusahaan terkait  yang terlibat dalam aksi akuisisi terhadap BYAN."
+  - subjek_id: "aktor/pt-jhonlin-agro-raya"
+    objek_id: "aktor/jhonlin-group"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**** — Emiten di bawah ."
+  - subjek_id: "aktor/pt-pradiksi-gunatama"
+    objek_id: "aktor/jhonlin-group"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**** — Emiten di bawah ."
+  - subjek_id: "aktor/pt-dana-brata-luhur-tbk"
+    objek_id: "aktor/jhonlin-group"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**** — Emiten di bawah ."
+  - objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+  - objek_id: "aktor/pt-jhonlin-baratama"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+  - objek_id: "aktor/keluarga-low"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+  - objek_id: "aktor/jokowi"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+  - objek_id: "aktor/erna-lisa-halaby"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+  - objek_id: "aktor/liana-saputri"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+  - objek_id: "aktor/sahbirin-noor"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+  - objek_id: "peristiwa/2026-09-29-rumor-akuisisi-bca-haji-isam"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
 date: '2026-09-26'
 ---# Andi Syamsuddin Arsyad (Haji Isam)
 

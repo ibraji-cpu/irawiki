@@ -7,6 +7,15 @@ category: aktor
 tags:
 - individual
 entity_type: individu
+relasi:
+  - objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-pradiksi-gunatama"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 ---
 # liana-saputri
 

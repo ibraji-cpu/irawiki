@@ -7,6 +7,15 @@ tags:
   - individu
   - pengusaha
 entity_type: individu
+relasi:
+  - objek_id: "aktor/mayapada-group"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/bank-mayapada"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: 2026-09-12T15:07:15.294769+00:00
 ---
 

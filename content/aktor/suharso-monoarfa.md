@@ -9,6 +9,31 @@ tags:
 - pengusaha
 - politisi
 entity_type: individu
+relasi:
+  - objek_id: "aktor/pt-bukaka-teknik-utama"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-bukaka-sembawang-systems"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-bukaka-telekomindo-international"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-agro-utama-global"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-first-nabel-supply"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/majalah-mobil-motor"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-08-19T19:56:25.614673+00:00'
 ---
 

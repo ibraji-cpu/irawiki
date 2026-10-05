@@ -6,6 +6,34 @@ entity_type: peristiwa
 entity_id: "2026-09-24-tanggapan-jokowi-ijazah-gibran-disoal"
 sumber:
   - url: "https://www.detik.com/sumut/berita/d-8677439/tanggapan-jokowi-mengenai-ijazah-gibran-kini-disoal"
+relasi:
+  - objek_id: "aktor/jokowi"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Presiden ke-7 RI, memberikan tanggapan terkait gugatan"
+  - objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Calon Wakil Presiden yang dicalonkan dalam Pemilu 2024"
+  - objek_id: "aktor/denny-indrayana"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Mantan Wakil Menteri Hukum dan HAM, pemohon gugatan"
+  - subjek_id: "aktor/jokowi"
+    objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Ayah-anak,  membela Gibran."
+  - subjek_id: "aktor/denny-indrayana"
+    objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Pemohon-tergugat dalam perkara PHPU."
 
 tanggal:
 - "2026-09-24"

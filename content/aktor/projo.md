@@ -7,6 +7,11 @@ tags:
 - ormas
 - relawan
 entity_type: individu
+relasi:
+  - objek_id: "aktor/budi-arie-setiadi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 ---
 # Projo
 

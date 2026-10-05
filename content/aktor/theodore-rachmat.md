@@ -8,6 +8,15 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
+relasi:
+  - objek_id: "aktor/triputra-group"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/alamtri-resources"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-09-12T15:07:15.308065+00:00'
 ---
 

@@ -7,6 +7,19 @@ category: aktor
 tags:
 - individual
 entity_type: individu
+relasi:
+  - objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/dato-low-tuck-kwong"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "peristiwa/BYAN Membantah Rencana Akuisisi oleh Haji Isam"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 ---
 # Elaine Low
 

@@ -5,6 +5,11 @@ tags:
 - korporasi
 - organisasi
 entity_type: organisasi
+relasi:
+  - objek_id: "aktor/pt-jhonlin-baratama"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-09-18T02:30:30.092262+00:00'
 aliases:
 - /pt-bayan-resources-tbk-(byan)

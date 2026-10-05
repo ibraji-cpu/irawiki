@@ -10,6 +10,16 @@ tags:
 - pengusaha
 - politisi
 entity_type: individu
+relasi:
+  - objek_id: "aktor/gk-hebat"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "(CEO)"
+  - objek_id: "aktor/joko-widodo"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-08-19T09:50:51.329873+00:00'
 ---
 

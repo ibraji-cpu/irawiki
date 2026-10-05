@@ -5,6 +5,23 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
+relasi:
+  - objek_id: "aktor/group-anugerah-langkat-makmur"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-anugerah-sawindo"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-anugerah-kawan-setia"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-kembang-sepatu-alam-abadi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-08-19T19:56:25.448206+00:00'
 ---
 

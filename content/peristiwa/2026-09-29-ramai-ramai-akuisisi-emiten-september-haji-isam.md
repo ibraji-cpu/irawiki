@@ -10,6 +10,19 @@ entity_id: "ramai-ramai-akuisisi-emiten-september-haji-isam"
 sumber:
   - url: "https://www.cnbcindonesia.com/research/20260929111046-128-771714/ramai-ramai-akuisisi-emiten-di-september-haji-isam-yang-terbesar"
     tanggal: "2026-09-29"
+relasi:
+  - subjek_id: "aktor/andi-syamsuddin-arsyad"
+    objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Pengusaha asal Kalimantan yang melalui Jhonlin Group mengakuisisi 30% saham ."
+  - subjek_id: "aktor/pt-jhonlin-baratama"
+    objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Bagian dari Jhonlin Group yang mengakuisisi 30% saham ."
 
 tanggal:
 - "2026-09-29"

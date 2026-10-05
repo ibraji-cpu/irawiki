@@ -9,6 +9,47 @@ entity_id: "akuisisi-byan-jhonlin-tak-bebani-jarr"
 sumber:
   - url: "https://www.cnbcindonesia.com/market/20260927174800-17-771259/akuisisi-byan-oleh-jhonlin-tak-bebani-jarr-ini-faktanya"
     tanggal: "4800-17-77"
+relasi:
+  - subjek_id: "aktor/pt-jhonlin-agro-raya"
+    objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Emiten yang memberikan penjelasan kepada BEI terkait akuisisi  oleh PT Jhonlin Baratama."
+  - objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "PT Jhonlin Baratama — Bagian dari Jhonlin Group yang mengakuisisi 30% saham ."
+  - objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Ultimate Beneficial Owner (UBO) dari JARR dan Jhonlin Baratama."
+  - subjek_id: "aktor/dato-low-tuck-kwong"
+    objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Konglomerat yang melepas 30% saham  kepada PT Jhonlin Baratama."
+  - subjek_id: "aktor/pt-jhonlin-agro-raya"
+    objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "PT Jhonlin Baratama: Hubungan afiliasi karena UBO yang sama, ."
+  - subjek_id: "aktor/pt-bayan-resources-tbk"
+    objek_id: "aktor/dato-low-tuck-kwong"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "PT Jhonlin Baratama — : Akuisisi 30% saham dari ."
+  - subjek_id: "aktor/andi-syamsuddin-arsyad"
+    objek_id: "aktor/pt-jhonlin-agro-raya"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Ultimate Beneficial Owner (UBO)."
 
 tanggal:
 - "2026-09-27"

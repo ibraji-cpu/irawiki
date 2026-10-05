@@ -8,6 +8,11 @@ tags:
 - korporasi
 - organisasi
 entity_type: organisasi
+relasi:
+  - objek_id: "aktor/pt-kcic"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 ---
 # Beijing Yawan HSR Co. Ltd
 

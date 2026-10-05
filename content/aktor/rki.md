@@ -1,6 +1,15 @@
 ---
 title: Republik Korpora Indonesia (RKI) / Republikorp
 entity_type: individu
+relasi:
+  - objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/norman-joesoef"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 aliases:
 - Republik Korpora Indonesia (RKI)
 - Republik Korpora Indonesia

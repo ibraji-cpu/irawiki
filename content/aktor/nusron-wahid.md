@@ -7,6 +7,11 @@ tags:
 - menteri
 - politisi
 entity_type: individu
+relasi:
+  - objek_id: "aktor/kpk"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-09-16T02:24:06.717261+00:00'
 ---
 

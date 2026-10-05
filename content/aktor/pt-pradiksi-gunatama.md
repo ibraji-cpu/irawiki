@@ -1,6 +1,15 @@
 ---
 title: PT Pradiksi Gunatama Tbk (PGUN)
 entity_type: organisasi
+relasi:
+  - objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/liana-saputri"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 aliases:
 - pt-pradiksi-gunatama
 - PT Pradiksi Gunatama Tbk (PGUN)

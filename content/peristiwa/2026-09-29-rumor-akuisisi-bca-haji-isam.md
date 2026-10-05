@@ -14,6 +14,42 @@ sumber:
     tanggal: "2131-17-77"
   - url: "https://www.cnbcindonesia.com/market/20260928150547-17-771498/mirip-seperti-byan-begini-awal-mula-rumor-haji-isam-mau-caplok-bca"
     tanggal: "0547-17-77"
+relasi:
+  - subjek_id: "aktor/andi-syamsuddin-arsyad"
+    objek_id: "aktor/pt-bank-central-asia-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Pengusaha asal Kalimantan yang dikabarkan berencana mengakuisisi . Sebelumnya telah mengakuisisi 30% saham  dari ."
+  - objek_id: "aktor/pt-bank-central-asia-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Bank yang menjadi target rumor akuisisi. Telah menegaskan isu tersebut tidak benar."
+  - subjek_id: "aktor/pt-bayan-resources-tbk"
+    objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Perusahaan batu bara yang telah diakuisisi 30% oleh  dari ."
+  - subjek_id: "aktor/dato-low-tuck-kwong"
+    objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Konglomerat yang melepas 30% saham  kepada ."
+  - subjek_id: "aktor/djarum-group"
+    objek_id: "aktor/pt-bank-central-asia-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Keluarga Hartono yang identik dengan kepemilikan ."
+  - subjek_id: "aktor/andi-syamsuddin-arsyad"
+    objek_id: "aktor/pt-bayan-resources-tbk"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Telah mengakuisisi 30% saham  dari ."
 
 tanggal:
 - "2026-09-29"

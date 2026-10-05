@@ -6,6 +6,13 @@ tags:
 entity_type: analisis
 sumber_status: prosa
 entity_id: "analisis-jokowi-ruu-satu-data"
+relasi:
+  - subjek_id: "aktor/jokowi"
+    objek_id: "aktor/prabowo-subianto"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Hubungan presiden dan wakil presiden."
 
 peristiwa:
 - "[[RUU Satu Data Indonesia]]"

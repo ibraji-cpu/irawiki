@@ -6,6 +6,39 @@ entity_type: peristiwa
 entity_id: "2026-09-24-jokowi-ungkap-riwayat-sekolah-gibran"
 sumber:
   - url: "https://news.detik.com/berita/d-8677899/syarat-pendidikan-gibran-digugat-ke-mk-jokowi-ungkap-riwayat-sekolah"
+relasi:
+  - objek_id: "aktor/jokowi"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Presiden ke-7 RI, merespons gugatan terkait syarat pendidikan putranya"
+  - objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Calon Wakil Presiden yang dicalonkan dalam Pemilu 2024"
+  - objek_id: "aktor/denny-indrayana"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Mantan Wakil Menteri Hukum dan HAM, pemohon gugatan"
+  - objek_id: "aktor/raja-juli-antoni"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Menhut dan Sekjen PSI, menyebut gugatan sebagai manuver politik tak beradab"
+  - subjek_id: "aktor/jokowi"
+    objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Ayah-anak,  membela riwayat pendidikan Gibran."
+  - subjek_id: "aktor/denny-indrayana"
+    objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Pemohon-tergugat dalam perkara PHPU."
 
 tanggal:
 - "2026-09-24"

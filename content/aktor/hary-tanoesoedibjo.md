@@ -8,6 +8,11 @@ tags:
 - pengusaha
 - politisi
 entity_type: individu
+relasi:
+  - objek_id: "aktor/pt-bhakti-coal-resources"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-08-19T09:50:51.318753+00:00'
 ---
 

@@ -6,6 +6,23 @@ tags:
   - pengusaha
   - politisi
 entity_type: individu
+relasi:
+  - objek_id: "aktor/priamanaya-group"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-dizamatra-powerindo"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-priamanaya-djan-internasional"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/pt-priamanaya-energi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: 2026-08-19T19:56:25.160436+00:00
 ---
 

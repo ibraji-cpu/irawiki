@@ -7,6 +7,23 @@ tags:
   - pemilu-2029
   - psikologi-kognitif
 entity_type: analisis
+relasi:
+  - objek_id: "aktor/budi-arie-setiadi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/joko-widodo"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/jokowi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/projo"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: 2026-08-31
 ---# Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu
 

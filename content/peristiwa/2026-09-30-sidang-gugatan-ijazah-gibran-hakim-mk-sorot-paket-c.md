@@ -6,6 +6,34 @@ entity_type: peristiwa
 entity_id: "sidang-gugatan-ijazah-gibran-hakim-mk-sorot-paket-c"
 sumber:
   - url: "https://news.detik.com/berita/d-8686933/sidang-gugatan-ijazah-gibran-hakim-mk-sorot-banyak-calon-lulusan-paket-c"
+relasi:
+  - objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Terdakwa dalam gugatan syarat pendidikan"
+  - objek_id: "aktor/denny-indrayana"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Mantan Wamenkumham, salah satu pemohon gugatan"
+  - objek_id: "aktor/mahkamah-konstitusi"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Lembaga yang memeriksa gugatan"
+  - subjek_id: "aktor/denny-indrayana"
+    objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Pemohon gugatan"
+  - subjek_id: "aktor/mahkamah-konstitusi"
+    objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Memeriksa gugatan syarat pendidikan"
 
 tanggal:
 - "2026-09-30"

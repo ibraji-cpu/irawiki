@@ -11,6 +11,17 @@ tags:
 - politisi
 - relasi dengan loyalis
 entity_type: individu
+relasi:
+  - subjek_id: "aktor/jokowi"
+    objek_id: "aktor/budi-arie-setiadi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - subjek_id: "aktor/jokowi"
+    objek_id: "aktor/jokowi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 ---
 # Joko Widodo
 

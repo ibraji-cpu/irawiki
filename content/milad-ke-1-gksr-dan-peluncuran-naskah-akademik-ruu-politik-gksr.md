@@ -7,6 +7,72 @@ entity_id: "milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr"
 sumber:
   - tanggal: "2026-09-26"
     dokumen: "doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx"
+relasi:
+  - objek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Pengusul utama dan penyelenggara acara; koordinator delapan partai nonparlemen."
+  - objek_id: "aktor/muhammad-said-iqbal"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Ketua Umum GKSR, Presiden Partai Buruh; pemberi pernyataan utama."
+  - objek_id: "aktor/partai-ummat"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Tuan rumah Milad ke-1 GKSR; DPP diwakili Ustaz Sambo dan Dr. Ing. H. Ridho Rahmadi."
+  - objek_id: "aktor/feri-kurnia-rizkiansyah"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Sekretaris Jenderal GKSR / Waketum Partai Perindo; menyampaikan argumen matematis."
+  - objek_id: "aktor/titi-anggraini"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Pembina Perludem & Dosen HTN Universitas Indonesia; pemberi perspektif akademik."
+  - objek_id: "aktor/jamaludin-gafur"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Pakar Hukum Tata Negara UII; pemberi perspektif konstitusional."
+  - objek_id: "aktor/said-salahuddin"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Badan Pekerja GKSR / Wakil Presiden Partai Buruh; menyampaikan posisi teknis stembus accord."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/muhammad-said-iqbal"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Ketua Umum GKSR dan Presiden Partai Buruh (pernyataan resmi siaran pers)."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/partai-ummat"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Partai Ummat merupakan tuan rumah Milad ke-1 GKSR (pernyataan DPP Partai Ummat dalam siaran pers)."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/partai-buruh"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Partai Buruh adalah salah satu dari delapan partai anggota GKSR dan Partai Buruh menempatkan Said Iqbal sebagai Presidennya."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/feri-kurnia-rizkiansyah"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Sekjen GKSR dan Waketum Partai Perindo."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/said-salahuddin"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Badan Pekerja GKSR dan Wakil Presiden Partai Buruh."
 tanggal:
 - "2026-09-26"
 lokasi:

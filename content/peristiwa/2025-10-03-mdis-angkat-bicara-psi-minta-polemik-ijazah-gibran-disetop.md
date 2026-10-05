@@ -9,6 +9,12 @@ entity_id: "mdis-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop"
 sumber:
   - url: "https://news.detik.com/berita/d-8143557/mdis-sudah-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop"
     tanggal: "2025-10-03"
+relasi:
+  - objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Wakil Presiden RI yang ijazahnya dipermasalahkan."
 
 tanggal:
 - "2025-10-03"

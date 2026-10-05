@@ -8,6 +8,54 @@ tags:
 entity_type: peristiwa
 sumber_status: prosa
 entity_id: "milad-1-gksr-dan-ruu-politik"
+relasi:
+  - objek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Wadah koalisi 8 parpol nonparlemen perumus Naskah Akademik dan Draf RUU Politik."
+  - objek_id: "aktor/muhammad-said-iqbal"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Ketua Umum GKSR / Presiden Partai Buruh, menyampaikan tuntutan PT 1% dan ancaman *judicial review*."
+  - objek_id: "aktor/ridho-rahmadi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Perwakilan Tuan Rumah / DPP Partai Ummat, menegaskan tuntutan penyederhanaan verifikasi parpol dan penggabungan suara."
+  - objek_id: "aktor/feri-kurnia-rizkiansyah"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Sekretaris Jenderal GKSR / Waketum Partai Perindo, memaparkan dasar matematis kalkulasi PT 1%."
+  - objek_id: "aktor/titi-anggraini"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Pembina Perludem / Dosen HTN Universitas Indonesia, memaparkan rumus Taagepera dan konsep ambang batas fraksi."
+  - objek_id: "aktor/jamaludin-gafur"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Pakar Hukum Tata Negara UII, menyoroti bahaya kartel politik dan stabilitas sistem presidensial."
+  - objek_id: "aktor/said-salahuddin"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Badan Pekerja GKSR / Wakil Presiden Partai Buruh, menjelaskan syarat transparansi *stembus accord* pra-pemilu."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/partai-ummat"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Partai Ummat bertindak sebagai tuan rumah penyelenggara Milad ke-1 GKSR."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/mahkamah-konstitusi"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "GKSR menggunakan 406 putusan MK sebagai dasar akademik penyusunan RUU."
 
 tanggal:
 - "2026-09-27"

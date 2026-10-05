@@ -12,6 +12,24 @@ entity_type: peristiwa
 sumber:
   - url: "https://rayatimes.id/ekonomi/bca-bantah-isu-haji-isam-bakal-akuisisi-saham-bbca"
   - url: "https://www.bloombergtechnoz.com/detail-news/122777/bca-jawab-kabar-haji-isam-akuisisi-saham-perusahaan"
+relasi:
+  - subjek_id: "aktor/andi-syamsuddin-arsyad"
+    objek_id: "aktor/andi-syamsuddin-arsyad"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "** ()** — Nama yang disebut dalam rumor sebagai calon akuisitor; bos ."
+  - objek_id: "aktor/robert-budi-hartono"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**** — Pemilik Djarum Group & BCA bersama saudaranya."
+  - subjek_id: "aktor/michael-bambang-hartono"
+    objek_id: "aktor/robert-budi-hartono"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "**** — Almarhum, pemilik utama Djarum & BCA bersama  (meninggal 19 Maret 2026)."
 date: 2026-09-26
 ---# BCA Bantah Isu Rumor Akuisisi Saham BBCA oleh Haji Isam
 

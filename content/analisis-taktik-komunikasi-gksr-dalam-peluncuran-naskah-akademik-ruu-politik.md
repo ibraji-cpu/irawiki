@@ -8,6 +8,43 @@ entity_id: "analisis-taktik-komunikasi-gksr-dalam-peluncuran-naskah-akademik-ruu
 sumber:
   - tanggal: "2026-09-26"
     dokumen: "doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx"
+relasi:
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/muhammad-said-iqbal"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Ketua Umum GKSR dan Presiden Partai Buruh; pemberi pernyataan utama siaran pers."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/partai-ummat"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Partai Ummat adalah tuan rumah Milad ke-1 GKSR dan DPP-nya menyampaikan pernyataan tertulis dalam siaran pers."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/feri-kurnia-rizkiansyah"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Sekjen GKSR dan Waketum Partai Perindo; penyampai argumen matematis."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/titi-anggraini"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Narasumber independen (bukan anggota GKSR); pernyataannya disiarkan dalam siaran pers."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/jamaludin-gafur"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Narasumber independen (bukan anggota GKSR); pernyataannya disiarkan dalam siaran pers."
+  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+    objek_id: "aktor/said-salahuddin"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Badan Pekerja GKSR dan Wakil Presiden Partai Buruh."
 peristiwa:
 - "Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR"
 aktor_fokus:

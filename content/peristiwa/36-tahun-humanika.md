@@ -8,6 +8,15 @@ tags:
   - politik
   - sejarah
 entity_type: peristiwa
+relasi:
+  - objek_id: "iraamalia-id"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+  - objek_id: "aktor/prabowo-subianto"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: 2026-09-23
 ---
 

@@ -1,6 +1,11 @@
 ---
 title: "Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026"
 entity_type: analisis
+relasi:
+  - objek_id: "aktor/prabowo-subianto"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 category: analisis
 date: 2026-09-01
 ---

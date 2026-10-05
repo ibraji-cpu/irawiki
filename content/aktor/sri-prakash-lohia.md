@@ -6,6 +6,11 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
+relasi:
+  - objek_id: "aktor/indorama-corporation"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-09-12T15:07:15.282160+00:00'
 ---
 

@@ -8,6 +8,11 @@ tags:
 - media
 - politisi
 entity_type: individu
+relasi:
+  - objek_id: "aktor/dpp-partai-golkar"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-08-19T19:56:25.637904+00:00'
 ---
 

@@ -9,6 +9,18 @@ entity_id: "jokowi-berkumis-tipis-buka-bukaan-sekolah-gibran-singapura"
 sumber:
   - url: "https://www.detik.com/jabar/berita/d-8111040/jokowi-berkumis-tipis-buka-bukaan-soal-sekolah-gibran-di-singapura"
     tanggal: "2025-09-14"
+relasi:
+  - subjek_id: "aktor/joko-widodo"
+    objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Presiden ke-7 RI yang menanggapi gugatan ijazah ."
+  - objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Wakil Presiden RI yang ijazah SMA-nya digugat."
 
 tanggal:
 - "2025-09-14"

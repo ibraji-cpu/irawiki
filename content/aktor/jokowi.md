@@ -6,6 +6,11 @@ tags:
 - politisi
 status: stub
 entity_type: individu
+relasi:
+  - objek_id: "aktor/joko-widodo"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
 date: '2026-08-30T03:44:02.868133+00:00'
 ---
 

@@ -20,6 +20,22 @@ sumber:
   - judul: "RUU Satu Data Indonesia Bahas BSDI Sebagai Orkestrator Data"
   - judul: "Satu Data Indonesia, Jangan Korbankan Keamanan Rakyat"
     tanggal: "2026-09-25"
+relasi:
+  - objek_id: "aktor/daniel-johan"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Anggota Baleg DPR RI Fraksi PKB; juru bicara Baleg untuk RUU ini, vokal soal \"ego sektoral\" antar-kementerian."
+  - objek_id: "aktor/bima-arya-sugiarto"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Wakil Menteri Dalam Negeri; menyatakan arah Satu Data Indonesia adalah basis data terintegrasi dengan kejelasan walidata."
+  - objek_id: "aktor/prabowo-subianto"
+    predikat: "terkait_dengan"
+    confidence: "low"
+    sumber: null
+    keterangan: "Presiden RI; pembentukan BSDI diserahkan kepada presiden."
 
 tanggal:
 - "2026-10-06"

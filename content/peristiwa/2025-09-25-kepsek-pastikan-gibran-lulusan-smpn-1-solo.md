@@ -9,6 +9,12 @@ entity_id: "kepsek-pastikan-gibran-lulusan-smpn-1-solo"
 sumber:
   - url: "https://www.detik.com/jateng/berita/d-8130339/kepsek-pastikan-gibran-lulusan-smpn-1-solo-ada-ijazahnya"
     tanggal: "2025-09-25"
+relasi:
+  - objek_id: "aktor/gibran-rakabuming-raka"
+    predikat: "terkait_dengan"
+    confidence: "medium"
+    sumber: null
+    keterangan: "Wakil Presiden RI yang ijazah SMP-nya dipertanyakan."
 
 tanggal:
 - "2025-09-25"
