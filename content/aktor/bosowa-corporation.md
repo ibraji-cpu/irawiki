@@ -9,6 +9,7 @@ tags:
 - organisasi
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "bosowa-corporation"
 status_data: "stub"
 

@@ -5,6 +5,7 @@ aliases:
 tags:
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "bank-perkreditan-rakyat"
 status_data: "stub"
 

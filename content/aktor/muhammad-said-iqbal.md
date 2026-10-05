@@ -8,6 +8,7 @@ tags:
 - individu
 - politikus
 entity_type: individu
+sumber_status: prosa
 entity_id: "muhammad-said-iqbal"
 status_data: "stub"
 

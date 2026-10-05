@@ -5,6 +5,7 @@ aliases:
 tags:
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "pt-kiani-kertas"
 status_data: "stub"
 

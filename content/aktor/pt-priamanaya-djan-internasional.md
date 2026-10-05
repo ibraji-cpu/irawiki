@@ -5,6 +5,7 @@ aliases:
 tags:
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "pt-priamanaya-djan-internasional"
 status_data: "stub"
 

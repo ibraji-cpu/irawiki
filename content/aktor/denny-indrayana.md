@@ -6,6 +6,7 @@ tags:
 - individu
 - politikus
 entity_type: individu
+sumber_status: prosa
 entity_id: "denny-indrayana"
 status_data: "stub"
 

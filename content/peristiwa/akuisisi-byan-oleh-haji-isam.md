@@ -5,6 +5,7 @@ aliases:
 tags:
 - peristiwa
 entity_type: peristiwa
+sumber_status: prosa
 entity_id: "akuisisi-byan-oleh-haji-isam"
 status_data: "stub"
 

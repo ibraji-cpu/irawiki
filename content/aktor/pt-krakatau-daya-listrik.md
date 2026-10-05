@@ -5,6 +5,7 @@ aliases:
 tags:
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "pt-krakatau-daya-listrik"
 status_data: "stub"
 

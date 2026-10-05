@@ -5,6 +5,7 @@ aliases:
 tags:
 - individu
 entity_type: individu
+sumber_status: prosa
 entity_id: "fajar-surya-wisesa"
 status_data: "stub"
 

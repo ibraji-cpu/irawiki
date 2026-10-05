@@ -5,6 +5,7 @@ aliases:
 tags:
 - individu
 entity_type: individu
+sumber_status: prosa
 entity_id: "agil-langgeng"
 status_data: "stub"
 

@@ -8,6 +8,7 @@ tags:
 - organisasi
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "pt-bukaka-teknik-utama"
 status_data: "stub"
 

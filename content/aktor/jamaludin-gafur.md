@@ -7,6 +7,7 @@ tags:
 - individu
 - politikus
 entity_type: individu
+sumber_status: prosa
 entity_id: "jamaludin-gafur"
 status_data: "stub"
 

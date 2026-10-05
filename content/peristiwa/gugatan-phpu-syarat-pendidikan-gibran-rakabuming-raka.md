@@ -5,6 +5,7 @@ aliases:
 tags:
 - peristiwa
 entity_type: peristiwa
+sumber_status: prosa
 entity_id: "gugatan-phpu-syarat-pendidikan-gibran-rakabuming-raka"
 status_data: "stub"
 

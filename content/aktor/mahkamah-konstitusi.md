@@ -7,6 +7,7 @@ tags:
 - organisasi
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "mahkamah-konstitusi"
 status_data: "stub"
 

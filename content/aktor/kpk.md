@@ -8,6 +8,7 @@ tags:
 - organisasi
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "kpk"
 status_data: "stub"
 

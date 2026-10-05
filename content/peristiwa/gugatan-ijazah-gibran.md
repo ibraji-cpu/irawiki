@@ -5,6 +5,7 @@ aliases:
 tags:
 - peristiwa
 entity_type: peristiwa
+sumber_status: prosa
 entity_id: "gugatan-ijazah-gibran"
 status_data: "stub"
 

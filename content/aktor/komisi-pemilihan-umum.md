@@ -8,6 +8,7 @@ tags:
 - organisasi
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "komisi-pemilihan-umum"
 status_data: "stub"
 

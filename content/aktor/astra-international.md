@@ -7,6 +7,7 @@ tags:
 - organisasi
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "astra-international"
 status_data: "stub"
 

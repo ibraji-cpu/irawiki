@@ -9,6 +9,7 @@ tags:
 - organisasi
 - organisasi
 entity_type: organisasi
+sumber_status: prosa
 entity_id: "pt-dana-brata-luhur-tbk"
 status_data: "stub"
 

@@ -6,6 +6,7 @@ tags:
 - parliamentary-threshold
 - gksr
 entity_type: peristiwa
+sumber_status: prosa
 entity_id: "milad-1-gksr-dan-ruu-politik"
 
 tanggal:
