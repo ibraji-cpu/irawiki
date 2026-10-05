@@ -1,29 +1,34 @@
-import { QuartzComponent, QuartzComponentConstructor } from "./types"
+import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
 interface Options {
   condition?: "index" | "not-index" | "all"
 }
 
-const CoverImage: QuartzComponent = ({ fileData, cfg, displayClass }) => {
-  const fm = fileData.frontmatter as Record<string, any> | undefined
-  const cover = fm?.cover_image || fm?.image_url || fm?.thumbnail
+export default ((opts?: Options) => {
+  const condition = opts?.condition ?? "all"
 
-  if (!cover) return null
+  const CoverImage: QuartzComponent = ({ fileData, displayClass }: QuartzComponentProps) => {
+    const fm = fileData.frontmatter as Record<string, any> | undefined
+    const cover = fm?.cover_image || fm?.image_url || fm?.thumbnail
 
-  // Skip jika di homepage dan condition = not-index
-  const isIndex = fileData.slug === "index" || fileData.slug === "404"
-  if (displayClass === "not-index" && isIndex) return null
-  if ((displayClass as string) === "index" && !isIndex) return null
+    // Default cover global dari static/covers bila frontmatter tidak punya
+    const defaultCover = "/static/covers/ira-amalia-hero.webp"
+    const effectiveCover = cover || defaultCover
 
-  return (
-    <div class={`cover-image ${displayClass ?? ""}`}>
-      <img src={cover} alt="" loading="lazy" />
-    </div>
-  )
-}
+    // Skip berdasarkan kondisi halaman (index atau bukan)
+    const isIndex = fileData.slug === "index" || fileData.slug === "404"
+    if (condition === "not-index" && isIndex) return null
+    if (condition === "index" && !isIndex) return null
 
-CoverImage.displayName = "CoverImage"
-CoverImage.css = `
+    return (
+      <div class={`cover-image ${displayClass ?? ""}`}>
+        <img src={effectiveCover} alt="" loading="lazy" />
+      </div>
+    )
+  }
+
+  CoverImage.displayName = "CoverImage"
+  CoverImage.css = `
 .cover-image {
   margin-bottom: 2rem;
   overflow: hidden;
@@ -38,10 +43,5 @@ CoverImage.css = `
 }
 `
 
-export default ((opts?: Options) => {
-  const condition = opts?.condition ?? "all"
-  if (condition === "not-index") {
-    CoverImage.displayClass = "not-index"
-  }
   return CoverImage
 }) satisfies QuartzComponentConstructor

@@ -7,7 +7,7 @@ configuration:
   analytics:
     provider: plausible
   locale: en-US
-  baseUrl: iraamalia.id
+  baseUrl: wiki.iraamalia.id
   ignorePatterns:
     - private
     - templates
@@ -105,7 +105,7 @@ plugins:
   - source: "@quartz-community/explicit-publish"
     enabled: false
   - source: "@quartz-community/alias-redirects"
-    enabled: false
+    enabled: true
   - source: "@quartz-community/content-index"
     enabled: true
     options:
@@ -265,6 +265,7 @@ layout:
         right: []
     content:
       positions:
+        beforeBody: []
         afterBody:
           - Relations
           - backlinks

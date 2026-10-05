@@ -31,6 +31,7 @@ import Flex from "../../components/Flex"
 import MobileOnly from "../../components/MobileOnly"
 import DesktopOnly from "../../components/DesktopOnly"
 import ConditionalRender from "../../components/ConditionalRender"
+import CoverImageConstructor from "../../components/CoverImage"
 
 const CONFIG_YAML_PATH = path.join(process.cwd(), "quartz.config.yaml")
 const DEFAULT_CONFIG_YAML_PATH = path.join(process.cwd(), "quartz.config.default.yaml")
@@ -490,6 +491,11 @@ export async function loadQuartzConfig(
     return instances
   }
 
+  // Register built-in local components so they can be resolved by name in the layout
+  if (!componentRegistry.get("CoverImage")) {
+    componentRegistry.register("CoverImage", CoverImageConstructor, "builtin")
+  }
+
   // Import built-in plugins
   const builtinPlugins = await import("../index")
   const builtinTransformers: unknown[] = []
@@ -669,16 +675,51 @@ export async function loadQuartzLayout(layoutOverrides?: {
 
       const ptLayout = buildLayoutForEntries(filteredEntries, layoutConfig)
 
-      // Apply position overrides (empty array = clear position)
+      // Apply position overrides (empty array = clear position; string array = prepend named components)
       if (override.positions) {
         for (const [pos, components] of Object.entries(override.positions)) {
-          if (Array.isArray(components) && components.length === 0) {
-            const key = pos as keyof Pick<
-              FullPageLayout,
-              "header" | "left" | "right" | "beforeBody" | "afterBody" | "footer"
-            >
+          const key = pos as keyof Pick<
+            FullPageLayout,
+            "header" | "left" | "right" | "beforeBody" | "afterBody" | "footer"
+          >
+          if (!Array.isArray(components)) continue
+
+          if (components.length === 0) {
+            // Empty array clears the position
             if (key in ptLayout) {
               ;(ptLayout as Record<string, unknown>)[key] = []
+            }
+          } else {
+            // Non-empty array: resolve named components from registry and prepend to position
+            const resolved: QuartzComponent[] = []
+            for (const entry of components) {
+              if (typeof entry !== "string") continue
+              const reg =
+                componentRegistry.get(entry) ??
+                componentRegistry.get(
+                  entry
+                    .split("-")
+                    .map((s) => s.charAt(0).toUpperCase() + s.slice(1))
+                    .join(""),
+                )
+              if (!reg) {
+                console.warn(`⚠ Position override: component "${entry}" not found in registry`)
+                continue
+              }
+              let component: QuartzComponent
+              if (typeof reg.component === "function" && !("displayName" in reg.component)) {
+                component = componentRegistry.instantiate(
+                  reg.component as QuartzComponentConstructor,
+                  undefined,
+                )
+              } else {
+                component = reg.component as QuartzComponent
+              }
+              resolved.push(component)
+            }
+            if (resolved.length > 0 && key in ptLayout) {
+              const existing = ((ptLayout as Record<string, unknown>)[key] as QuartzComponent[]) ?? []
+              ;(ptLayout as Record<string, unknown>)[key] = [...resolved, ...existing]
             }
           }
         }

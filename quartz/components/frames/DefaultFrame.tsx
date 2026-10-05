@@ -40,6 +40,7 @@ export const DefaultFrame: PageFrame = {
                 <BodyComponent {...componentData} />
               ))}
             </div>
+
           </div>
           <Content {...componentData} />
           <hr />
