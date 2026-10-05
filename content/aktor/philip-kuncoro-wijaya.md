@@ -7,6 +7,9 @@ tags:
 - aktor
 entity_type: individu
 entity_id: "philip-kuncoro-wijaya"
+sumber:
+  - judul: "Gaji 26 Wantimpres Tembus Rp2 Miliar Sebulan, Belum Termasuk Fasilitas dan Sekretaris"
+    tanggal: "2026-10-02"
 
 nama_lengkap: "Philip Kuncoro Wijaya"
 nama_alias: []

@@ -6,6 +6,9 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "akuisisi-byan-jhonlin-tak-bebani-jarr"
+sumber:
+  - url: "https://www.cnbcindonesia.com/market/20260927174800-17-771259/akuisisi-byan-oleh-jhonlin-tak-bebani-jarr-ini-faktanya"
+    tanggal: "4800-17-77"
 
 tanggal:
 - "2026-09-27"

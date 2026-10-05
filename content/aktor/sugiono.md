@@ -6,6 +6,9 @@ tags:
 - individu
 entity_type: individu
 entity_id: "sugiono"
+sumber:
+  - judul: "Daftar Lengkap 7 Kali Reshuffle Kabinet Merah Putih Era Prabowo-Gibran"
+    tanggal: "2026-10-01"
 
 nama_lengkap: "Sugiono"
 nama_alias: []

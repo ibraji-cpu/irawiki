@@ -9,6 +9,9 @@ tags:
 - organisasi
 entity_type: organisasi
 entity_id: "gksr-gerakan-kedaulatan-suara-rakyat"
+sumber:
+  - tanggal: "2026-09-26"
+    dokumen: "doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx"
 nama_lengkap: "Gerakan Kedaulatan Suara Rakyat (GKSR)"
 nama_alias:
 - "GKSR"

@@ -9,6 +9,9 @@ tags:
 - TNI
 entity_type: individu
 entity_id: "dudung-abdurachman"
+sumber:
+  - judul: "Daftar Lengkap 7 Kali Reshuffle Kabinet Merah Putih Era Prabowo-Gibran"
+    tanggal: "2026-10-01"
 
 nama_lengkap: "Dudung Abdurachman"
 nama_alias: []

@@ -4,6 +4,8 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "2026-09-24-jokowi-ungkap-riwayat-sekolah-gibran"
+sumber:
+  - url: "https://news.detik.com/berita/d-8677899/syarat-pendidikan-gibran-digugat-ke-mk-jokowi-ungkap-riwayat-sekolah"
 
 tanggal:
 - "2026-09-24"

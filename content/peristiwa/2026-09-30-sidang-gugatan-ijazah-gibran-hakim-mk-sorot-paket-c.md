@@ -4,6 +4,8 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "sidang-gugatan-ijazah-gibran-hakim-mk-sorot-paket-c"
+sumber:
+  - url: "https://news.detik.com/berita/d-8686933/sidang-gugatan-ijazah-gibran-hakim-mk-sorot-banyak-calon-lulusan-paket-c"
 
 tanggal:
 - "2026-09-30"

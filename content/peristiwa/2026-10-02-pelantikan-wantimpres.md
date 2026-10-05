@@ -7,6 +7,10 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "2026-10-02-pelantikan-wantimpres"
+sumber:
+  - url: "https://afu.id/gaji-26-wantimpres-tembus-rp2-miliar-sebulan-belum-termasuk-fasilitas-dan-sekretaris"
+    judul: "Gaji 26 Wantimpres Tembus Rp2 Miliar Sebulan, Belum Termasuk Fasilitas dan Sekretaris"
+    tanggal: "2026-10-02"
 
 tanggal:
 - "2026-10-02"

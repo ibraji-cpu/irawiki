@@ -7,6 +7,10 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "2026-10-01-reshuffle-kabinet-merah-putih"
+sumber:
+  - url: "https://www.cnbcindonesia.com/research/20261001172953-128-772648/daftar-lengkap-7-kali-reshuffle-kabinet-merah-putih-era-prabowo-gibran"
+    judul: "Daftar Lengkap 7 Kali Reshuffle Kabinet Merah Putih Era Prabowo-Gibran"
+    tanggal: "2026-10-01"
 
 tanggal:
 - "2026-10-01"

@@ -6,6 +6,9 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "mdis-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop"
+sumber:
+  - url: "https://news.detik.com/berita/d-8143557/mdis-sudah-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop"
+    tanggal: "2025-10-03"
 
 tanggal:
 - "2025-10-03"

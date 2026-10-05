@@ -7,6 +7,9 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "ramai-ramai-akuisisi-emiten-september-haji-isam"
+sumber:
+  - url: "https://www.cnbcindonesia.com/research/20260929111046-128-771714/ramai-ramai-akuisisi-emiten-di-september-haji-isam-yang-terbesar"
+    tanggal: "2026-09-29"
 
 tanggal:
 - "2026-09-29"

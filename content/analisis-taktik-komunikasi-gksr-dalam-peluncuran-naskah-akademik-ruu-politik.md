@@ -5,6 +5,9 @@ tags:
 - relasi
 entity_type: analisis
 entity_id: "analisis-taktik-komunikasi-gksr-dalam-peluncuran-naskah-akademik-ruu-politik"
+sumber:
+  - tanggal: "2026-09-26"
+    dokumen: "doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx"
 peristiwa:
 - "Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR"
 aktor_fokus:

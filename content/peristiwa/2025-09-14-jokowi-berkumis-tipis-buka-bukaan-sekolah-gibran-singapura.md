@@ -6,6 +6,9 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "jokowi-berkumis-tipis-buka-bukaan-sekolah-gibran-singapura"
+sumber:
+  - url: "https://www.detik.com/jabar/berita/d-8111040/jokowi-berkumis-tipis-buka-bukaan-soal-sekolah-gibran-di-singapura"
+    tanggal: "2025-09-14"
 
 tanggal:
 - "2025-09-14"

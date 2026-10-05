@@ -4,6 +4,11 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "sengketa-ijazah-gibran-2026"
+sumber:
+  - url: "https://video.kompas.com/watch/1957575"
+  - url: "https://www.cnbcindonesia.com/news/20261002104005-4-772792"
+  - url: "https://www.kompas.tv/nasional/693358"
+  - url: "https://www.bbc.com/indonesia/articles/cmly4yeq6r34o"
 
 tanggal:
 - "2026-09-10"

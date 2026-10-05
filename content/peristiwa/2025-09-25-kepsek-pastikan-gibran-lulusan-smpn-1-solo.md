@@ -6,6 +6,9 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "kepsek-pastikan-gibran-lulusan-smpn-1-solo"
+sumber:
+  - url: "https://www.detik.com/jateng/berita/d-8130339/kepsek-pastikan-gibran-lulusan-smpn-1-solo-ada-ijazahnya"
+    tanggal: "2025-09-25"
 
 tanggal:
 - "2025-09-25"

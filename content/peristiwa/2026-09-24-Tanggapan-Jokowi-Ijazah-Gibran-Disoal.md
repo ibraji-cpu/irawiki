@@ -4,6 +4,8 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "2026-09-24-tanggapan-jokowi-ijazah-gibran-disoal"
+sumber:
+  - url: "https://www.detik.com/sumut/berita/d-8677439/tanggapan-jokowi-mengenai-ijazah-gibran-kini-disoal"
 
 tanggal:
 - "2026-09-24"

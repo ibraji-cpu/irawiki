@@ -4,6 +4,9 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr"
+sumber:
+  - tanggal: "2026-09-26"
+    dokumen: "doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx"
 tanggal:
 - "2026-09-26"
 lokasi:

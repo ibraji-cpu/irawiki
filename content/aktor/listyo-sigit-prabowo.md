@@ -9,6 +9,9 @@ tags:
 - Polri
 entity_type: individu
 entity_id: "listyo-sigit-prabowo"
+sumber:
+  - judul: "Daftar Lengkap 7 Kali Reshuffle Kabinet Merah Putih Era Prabowo-Gibran"
+    tanggal: "2026-10-01"
 
 nama_lengkap: "Listyo Sigit Prabowo"
 nama_alias: []

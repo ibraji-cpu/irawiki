@@ -13,6 +13,13 @@ tags:
 - PHPU
 entity_type: analisis
 entity_id: "kpu-mk-syarat-pendidikan-gibran"
+sumber:
+  - judul: "Denny Indrayana Ajukan PHPU 2024 Menyoal Keabsahan Syarat Pendidikan Gibran"
+    tanggal: "2026-09-21"
+  - judul: "Apa MK Berwenang Memeriksa Keabsahan Syarat Pendidikan Cawapres Gibran?"
+    tanggal: "2026-09-23"
+  - judul: "Pakar Hukum Tata Negara Uji Formil Syarat Usia Capres dan Cawapres"
+    tanggal: "2023-11-28"
 
 peristiwa:
 - "Sengketa Syarat Pendidikan Gibran dalam PHPU 2024"

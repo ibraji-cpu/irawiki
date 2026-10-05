@@ -4,6 +4,8 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "2026-09-30-pkpu-hakim-mk-ijazah-gibran"
+sumber:
+  - url: "https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran"
 
 tanggal:
 - "2026-09-30"

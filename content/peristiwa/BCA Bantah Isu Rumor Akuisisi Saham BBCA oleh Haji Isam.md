@@ -9,6 +9,9 @@ tags:
   - bbcA
   - haji-isam
 entity_type: peristiwa
+sumber:
+  - url: "https://rayatimes.id/ekonomi/bca-bantah-isu-haji-isam-bakal-akuisisi-saham-bbca"
+  - url: "https://www.bloombergtechnoz.com/detail-news/122777/bca-jawab-kabar-haji-isam-akuisisi-saham-perusahaan"
 date: 2026-09-26
 ---# BCA Bantah Isu Rumor Akuisisi Saham BBCA oleh Haji Isam
 

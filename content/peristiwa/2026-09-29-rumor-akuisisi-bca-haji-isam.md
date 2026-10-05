@@ -7,6 +7,13 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "rumor-akuisisi-bca-haji-isam"
+sumber:
+  - url: "https://www.cnbcindonesia.com/market/20260929111108-17-771711/di-tengah-rumor-akuisisi-haji-isam-ada-peralihan-218-juta-saham-bbca"
+    tanggal: "1108-17-77"
+  - url: "https://www.cnbcindonesia.com/market/20260928152131-17-771505/haji-isam-harus-siapkan-duit-segini-jika-mau-caplok-bca--bbca-"
+    tanggal: "2131-17-77"
+  - url: "https://www.cnbcindonesia.com/market/20260928150547-17-771498/mirip-seperti-byan-begini-awal-mula-rumor-haji-isam-mau-caplok-bca"
+    tanggal: "0547-17-77"
 
 tanggal:
 - "2026-09-29"

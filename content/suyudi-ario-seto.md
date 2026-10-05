@@ -12,6 +12,8 @@ tags:
 - reformasi_Polri
 entity_type: individu
 entity_id: "suyudi-ario-seto"
+sumber:
+  - tanggal: "2026-01-31"
 
 nama_lengkap: "Suyudi Ario Seto"
 nama_alias: []

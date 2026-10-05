@@ -9,6 +9,12 @@ tags:
   - jhonlin-group
   - haji-isam
 entity_type: peristiwa
+sumber:
+  - url: "https://www.bloombergtechnoz.com/detail-news/122578/haji-isam-masuk-force-majeure-bayan-byan-dicabut"
+  - url: "https://www.bloombergtechnoz.com/detail-news/122101/kerajaan-bisnis-bos-jhonlin-group-usai-kuasai-miliaran-saham-byan"
+  - url: "https://www.bloombergtechnoz.com/detail-news/122336/bahlil-penerbitan-rkab-bayan-byan-tak-terkait-saham-haji-isam"
+  - url: "https://www.bloombergtechnoz.com/detail-news/122098/tujuan-jhonlin-group-kuasai-10-miliar-saham-bayan-resources-byan"
+  - url: "https://github.com/ibraji-cpu/irawiki/blob/main/content/pt-bayan-resources-tbk.md"
 date: 2026-09-26
 ---# Haji Isam Akuisisi Saham Bayan Resources (BYAN)
 

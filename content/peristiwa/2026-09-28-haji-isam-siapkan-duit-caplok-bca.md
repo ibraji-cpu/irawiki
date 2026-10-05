@@ -6,6 +6,9 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "haji-isam-siapkan-duit-caplok-bca"
+sumber:
+  - url: "https://www.cnbcindonesia.com/market/20260928152131-17-771505/haji-isam-harus-siapkan-duit-segini-jika-mau-caplok-bca--bbca-"
+    tanggal: "2131-17-77"
 
 tanggal:
 - "2026-09-28"

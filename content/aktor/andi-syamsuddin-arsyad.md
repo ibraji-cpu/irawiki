@@ -15,6 +15,12 @@ tags:
 - kalimantan-selatan
 - haji-isam
 entity_type: individu
+sumber:
+  - url: "https://www.bloombergtechnoz.com/detail-news/122777/bca-jawab-kabar-haji-isam-akuisisi-saham-perusahaan"
+  - url: "https://rayatimes.id/ekonomi/bca-bantah-isu-haji-isam-bakal-akuisisi-saham-bbca"
+  - url: "https://www.bloombergtechnoz.com/detail-news/122578/haji-isam-masuk-force-majeure-bayan-byan-dicabut"
+  - url: "https://www.bloombergtechnoz.com/detail-news/122101/kerajaan-bisnis-bos-jhonlin-group-usai-kuasai-miliaran-saham-byan"
+  - tanggal: "2026-09-11"
 date: '2026-09-26'
 ---# Andi Syamsuddin Arsyad (Haji Isam)
 

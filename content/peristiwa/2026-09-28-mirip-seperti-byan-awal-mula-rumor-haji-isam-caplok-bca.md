@@ -6,6 +6,9 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "mirip-seperti-byan-awal-mula-rumor-haji-isam-caplok-bca"
+sumber:
+  - url: "https://www.cnbcindonesia.com/market/20260928150547-17-771498/mirip-seperti-byan-begini-awal-mula-rumor-haji-isam-mau-caplok-bca"
+    tanggal: "0547-17-77"
 
 tanggal:
 - "2026-09-28"

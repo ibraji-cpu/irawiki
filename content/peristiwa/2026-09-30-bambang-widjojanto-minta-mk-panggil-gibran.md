@@ -4,6 +4,8 @@ tags:
 - peristiwa
 entity_type: peristiwa
 entity_id: "bambang-widjojanto-minta-mk-panggil-gibran"
+sumber:
+  - url: "https://news.detik.com/berita/d-8686883/bambang-widjojanto-minta-mk-panggil-gibran-di-sidang-pembuktian-besok"
 
 tanggal:
 - "2026-09-30"

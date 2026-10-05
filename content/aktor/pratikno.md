@@ -4,6 +4,9 @@ tags:
 - aktor
 entity_type: individu
 entity_id: "pratikno"
+sumber:
+  - judul: "Gaji 26 Wantimpres Tembus Rp2 Miliar Sebulan, Belum Termasuk Fasilitas dan Sekretaris"
+    tanggal: "2026-10-02"
 
 nama_lengkap: "Pratikno"
 nama_alias:
