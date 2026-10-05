@@ -6,6 +6,13 @@ tags:
 - properti
 entity_type: individu
 entity_id: "adrianto-pitojo-adhi"
+sumber:
+  - judul: "KPK Tangkap Presiden Direktur Summarecon Adrianto Pitojo Adhi dalam OTT BPN"
+    tanggal: "2026-09-15"
+  - judul: "KPK Jerat 8 Tersangka Terkait OTT BPN, Ada Presdir Summarecon dan Anak Buah Nusron Wahid"
+    tanggal: "2026-10-03"
+  - judul: "Bos Summarecon Setor Rp1,5 Miliar ke Orang Kepercayaan Nusron untuk Terbitkan Sertifikat Tanah"
+    tanggal: "2026-09-15"
 nama_lengkap: "Adrianto Pitojo Adhi"
 nama_alias: []
 jabatan_aktif:

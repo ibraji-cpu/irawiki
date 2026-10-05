@@ -9,6 +9,11 @@ tags:
 - militer
 entity_type: individu
 entity_id: "agum-gumelar"
+sumber:
+  - judul: "Agum Gumelar"
+    tanggal: "2026-10-05"
+  - judul: "Momen Kebersamaan Prabowo dengan Purnawirawan TNI Agum Gumelar Cs"
+    tanggal: "2022-06-02"
 nama_lengkap: "Agum Gumelar"
 nama_alias: []
 jabatan_aktif:

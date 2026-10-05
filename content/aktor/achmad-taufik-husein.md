@@ -6,6 +6,11 @@ tags:
 - penegak hukum
 entity_type: individu
 entity_id: "achmad-taufik-husein"
+sumber:
+  - judul: "Bupati Bolmut Sirajudin Terancam Penjara Seumur Hidup"
+    tanggal: "2026-09-22"
+  - judul: "Bos Summarecon Setor Rp1,5 Miliar ke Orang Kepercayaan Nusron untuk Terbitkan Sertifikat Tanah"
+    tanggal: "2026-09-15"
 nama_lengkap: "Achmad Taufik Husein"
 nama_alias: []
 jabatan_aktif:
