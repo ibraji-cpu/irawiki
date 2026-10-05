@@ -5,6 +5,7 @@ tags:
 - Digitalisasi layanan kesehatan (KlikDokter)
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.682143+00:00'
 ---
 

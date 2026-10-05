@@ -1,5 +1,6 @@
 ---
 title: Dari 'Sembilan Naga' to 'Sembilan Haji'
+entity_type: analisis
 category: analisis
 date: 2026-08-19
 ---Ada kabar dari bursa yang pada mulanya tampak seperti urusan angka biasa. Pertengahan Agustus 2026, pasar dikejutkan oleh rumor besar: [[haji-isam|Haji Isam]], lewat [[jhonlin-group|Jhonlin Group]], disebut-sebut bersiap mencaplok 62,25 persen saham [[pt-bayan-resources-tbk|Bayan Resources]] (BYAN). Nilainya tidak main-main: sekitar Rp300 triliun. Jika benar, itu bukan sekadar transaksi saham. Itu seperti bunyi lonceng panjang yang menandai sesuatu sedang bergeser.

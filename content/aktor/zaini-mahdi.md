@@ -4,6 +4,7 @@ category: aktor
 tags:
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.704294+00:00'
 ---
 

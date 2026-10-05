@@ -1,5 +1,6 @@
 ---
 title: PT Pradiksi Gunatama Tbk (PGUN)
+entity_type: organisasi
 aliases:
 - pt-pradiksi-gunatama
 - PT Pradiksi Gunatama Tbk (PGUN)

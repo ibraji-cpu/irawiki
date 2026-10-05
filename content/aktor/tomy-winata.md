@@ -5,6 +5,7 @@ tags:
 - Filantropi mitigasi bencana (Artha Graha Peduli)
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.671283+00:00'
 ---
 

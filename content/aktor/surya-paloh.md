@@ -7,6 +7,7 @@ tags:
 - individu
 - media
 - politisi
+entity_type: individu
 date: '2026-08-19T19:56:25.637904+00:00'
 ---
 

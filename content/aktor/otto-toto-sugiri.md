@@ -5,6 +5,7 @@ tags:
 - Infrastruktur Digital dan Data Center
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-09-12T15:07:15.239649+00:00'
 ---
 

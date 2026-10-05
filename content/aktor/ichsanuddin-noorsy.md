@@ -7,6 +7,7 @@ tags:
 - individu
 - kedaulatan-negara
 - utang-luar-negeri
+entity_type: individu
 ---
 
 # Ichsanuddin Noorsy

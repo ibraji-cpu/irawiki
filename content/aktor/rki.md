@@ -1,5 +1,6 @@
 ---
 title: Republik Korpora Indonesia (RKI) / Republikorp
+entity_type: individu
 aliases:
 - Republik Korpora Indonesia (RKI)
 - Republik Korpora Indonesia

@@ -5,6 +5,7 @@ tags:
 - Konservasi kualitas air kawasan hunian
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.581815+00:00'
 ---
 # Soetjipto Nagaria

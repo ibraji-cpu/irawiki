@@ -5,6 +5,7 @@ tags:
 - Dekarbonisasi tambang batubara
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.113287+00:00'
 ---
 

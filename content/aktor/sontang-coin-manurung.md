@@ -3,6 +3,7 @@ title: Sontang Coin Manurung
 category: aktor
 tags:
 - individu
+entity_type: individu
 date: '2026-09-16T04:00:40.278616+00:00'
 ---
 

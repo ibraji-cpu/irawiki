@@ -7,6 +7,7 @@ tags:
 - individu
 - media
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.089684+00:00'
 ---
 

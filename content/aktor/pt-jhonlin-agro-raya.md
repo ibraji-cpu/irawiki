@@ -9,6 +9,7 @@ category: aktor
 tags:
 - korporasi
 - organisasi
+entity_type: organisasi
 date: '2026-09-18T02:30:29.596680+00:00'
 ---# PT Jhonlin Agro Raya Tbk
 

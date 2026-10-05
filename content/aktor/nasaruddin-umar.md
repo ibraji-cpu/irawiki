@@ -7,6 +7,7 @@ tags:
 - politisi
 - tata-kelola-pemerintahan
 - tokoh-agama
+entity_type: individu
 ---
 
 # Nasaruddin Umar

@@ -4,6 +4,7 @@ category: aktor
 tags:
 - korporasi
 - organisasi
+entity_type: organisasi
 date: '2026-08-30T05:43:28.684856+00:00'
 ---# Colestar Resources
 

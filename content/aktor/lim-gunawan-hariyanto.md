@@ -5,6 +5,7 @@ tags:
 - Kehutanan berkelanjutan
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.354062+00:00'
 ---
 

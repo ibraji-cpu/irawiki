@@ -6,6 +6,7 @@ tags:
 - Pemerataan keadilan ekonomi rakyat
 - individu
 - politisi
+entity_type: individu
 date: '2026-08-19T09:50:51.353755+00:00'
 ---
 

@@ -7,6 +7,7 @@ tags:
 - konsorsium-bumn
 - korporasi
 - organisasi
+entity_type: organisasi
 ---
 # Beijing Yawan HSR Co. Ltd
 

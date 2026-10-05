@@ -6,6 +6,7 @@ tags:
 - individu
 - pengusaha
 - tokoh-agama
+entity_type: individu
 date: '2026-08-19T19:56:25.320644+00:00'
 ---
 

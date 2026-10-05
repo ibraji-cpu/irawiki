@@ -8,6 +8,7 @@ tags:
   - bca
   - bbcA
   - haji-isam
+entity_type: peristiwa
 date: 2026-09-26
 ---# BCA Bantah Isu Rumor Akuisisi Saham BBCA oleh Haji Isam
 

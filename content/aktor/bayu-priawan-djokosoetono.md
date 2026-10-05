@@ -6,6 +6,7 @@ tags:
 - Transisi armada ramah lingkungan
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.136741+00:00'
 ---
 # Bayu Priawan Djokosoetono

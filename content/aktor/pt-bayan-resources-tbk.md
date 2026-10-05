@@ -4,6 +4,7 @@ category: aktor
 tags:
 - korporasi
 - organisasi
+entity_type: organisasi
 date: '2026-09-18T02:30:30.092262+00:00'
 aliases:
 - /pt-bayan-resources-tbk-(byan)

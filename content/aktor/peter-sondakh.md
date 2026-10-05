@@ -5,6 +5,7 @@ tags:
 - Manajemen investasi terdiversifikasi
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.481556+00:00'
 ---
 

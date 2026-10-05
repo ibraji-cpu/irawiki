@@ -7,6 +7,7 @@ tags:
 - dan Pertambangan
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-09-12T15:07:15.308065+00:00'
 ---
 

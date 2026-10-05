@@ -6,6 +6,7 @@ tags:
   - Perbankan
   - individu
   - pengusaha
+entity_type: individu
 date: 2026-09-12T15:07:15.294769+00:00
 ---
 

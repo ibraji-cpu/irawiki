@@ -1,5 +1,6 @@
 ---
 title: Jhonlin Group
+entity_type: organisasi
 aliases:
 - jhonlin-group
 - Jhonlin Group

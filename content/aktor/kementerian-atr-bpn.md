@@ -4,6 +4,7 @@ category: aktor
 tags:
 - lembaga
 - organisasi
+entity_type: organisasi
 date: '2026-09-16T03:17:49.475155+00:00'
 ---
 

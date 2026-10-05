@@ -6,6 +6,7 @@ tags:
 - Penggunaan produk lokal
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.064585+00:00'
 ---
 

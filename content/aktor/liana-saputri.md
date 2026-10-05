@@ -6,6 +6,7 @@ aliases:
 category: aktor
 tags:
 - individual
+entity_type: individu
 ---
 # liana-saputri
 

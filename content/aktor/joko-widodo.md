@@ -10,6 +10,7 @@ tags:
 - manajemen krisis politik
 - politisi
 - relasi dengan loyalis
+entity_type: individu
 ---
 # Joko Widodo
 

@@ -1,5 +1,6 @@
 ---
 title: "Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026"
+entity_type: analisis
 category: analisis
 date: 2026-09-01
 ---

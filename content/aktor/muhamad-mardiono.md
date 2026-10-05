@@ -8,6 +8,7 @@ tags:
 - individu
 - pengusaha
 - politisi
+entity_type: individu
 date: '2026-08-19T09:50:51.365278+00:00'
 ---
 

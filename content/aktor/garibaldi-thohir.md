@@ -4,6 +4,7 @@ category: aktor
 tags:
   - individu
   - pengusaha
+entity_type: individu
 date: 2026-08-19T19:56:25.236008+00:00
 ---
 # Garibaldi Thohir

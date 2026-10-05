@@ -5,6 +5,7 @@ tags:
 - Pupuk dan Polimer
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-09-12T15:07:15.282160+00:00'
 ---
 

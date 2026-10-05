@@ -8,6 +8,7 @@ tags:
   - bayan-resources
   - jhonlin-group
   - haji-isam
+entity_type: peristiwa
 date: 2026-09-26
 ---# Haji Isam Akuisisi Saham Bayan Resources (BYAN)
 

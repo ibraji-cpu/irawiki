@@ -5,6 +5,7 @@ tags:
 - Pengembangan properti megah
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.559860+00:00'
 ---
 

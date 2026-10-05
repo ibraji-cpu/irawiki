@@ -7,6 +7,7 @@ tags:
 - Olahraga Bridge
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.425751+00:00'
 ---
 

@@ -6,6 +6,7 @@ tags:
 - individu
 - menteri
 - politisi
+entity_type: individu
 date: '2026-09-16T02:24:06.717261+00:00'
 ---
 

@@ -7,6 +7,7 @@ tags:
 - lembaga
 - organisasi
 - utang-luar-negeri
+entity_type: organisasi
 ---
 
 # China Development Bank

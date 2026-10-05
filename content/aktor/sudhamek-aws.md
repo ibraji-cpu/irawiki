@@ -5,6 +5,7 @@ tags:
 - Filantropi lintas agama
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.603961+00:00'
 ---
 

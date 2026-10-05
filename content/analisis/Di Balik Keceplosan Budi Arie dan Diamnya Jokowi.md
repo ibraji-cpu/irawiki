@@ -6,6 +6,7 @@ tags:
   - manuver-elit
   - pemilu-2029
   - psikologi-kognitif
+entity_type: analisis
 date: 2026-08-31
 ---# Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu
 

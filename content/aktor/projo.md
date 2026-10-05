@@ -6,6 +6,7 @@ tags:
 - organisasi
 - ormas
 - relawan
+entity_type: individu
 ---
 # Projo
 

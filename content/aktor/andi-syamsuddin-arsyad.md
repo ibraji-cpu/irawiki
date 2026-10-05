@@ -14,6 +14,7 @@ tags:
 - jhonlin-group
 - kalimantan-selatan
 - haji-isam
+entity_type: individu
 date: '2026-09-26'
 ---# Andi Syamsuddin Arsyad (Haji Isam)
 

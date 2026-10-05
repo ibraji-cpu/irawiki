@@ -4,6 +4,7 @@ category: aktor
 tags:
 - korporasi
 - organisasi
+entity_type: individu
 date: '2026-08-30T05:43:28.690266+00:00'
 ---# Castro Enterprises
 

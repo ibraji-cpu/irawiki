@@ -10,6 +10,7 @@ tags:
 - pasar-modal
 - pengusaha
 - pertambangan
+entity_type: individu
 ---# Dato' Low Tuck Kwong
 
 Dato' Low Tuck Kwong adalah pengusaha pendiri dan pemegang saham pengendali [[pt-bayan-resources-tbk|PT Bayan Resources Tbk]] (BYAN) yang menyepakati perjanjian CSPA penjualan 30% saham BYAN kepada kelompok usaha Jhonlin milik [[haji-isam|Haji Isam]].

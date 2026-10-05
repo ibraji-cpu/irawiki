@@ -6,6 +6,7 @@ tags:
 - Pengembangan kawasan superblok
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-08-19T19:56:25.051472+00:00'
 ---
 

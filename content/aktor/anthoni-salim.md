@@ -5,6 +5,7 @@ tags:
 - Industri Makanan & Konsumsi
 - individu
 - pengusaha
+entity_type: individu
 date: '2026-09-12T15:07:15.127376+00:00'
 ---
 

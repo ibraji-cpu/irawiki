@@ -7,6 +7,7 @@ tags:
 - korporasi
 - organisasi
 - utang-infrastruktur
+entity_type: organisasi
 ---
 # PT Kereta Cepat Indonesia China (PT KCIC)
 

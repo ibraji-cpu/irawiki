@@ -8,6 +8,7 @@ tags:
 - pengusaha
 - pertumbuhan ekonomi
 - politisi
+entity_type: individu
 date: '2026-08-19T04:43:49.904836+00:00'
 ---
 

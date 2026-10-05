@@ -1,5 +1,6 @@
 ---
 title: PT Jhonlin Baratama
+entity_type: organisasi
 aliases:
 - pt-jhonlin-baratama
 - PT Jhonlin Baratama

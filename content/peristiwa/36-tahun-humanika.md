@@ -7,6 +7,7 @@ tags:
   - indonesia
   - politik
   - sejarah
+entity_type: peristiwa
 date: 2026-09-23
 ---
 

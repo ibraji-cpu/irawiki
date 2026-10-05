@@ -7,6 +7,7 @@ aliases:
 category: aktor
 tags:
 - organization
+entity_type: individu
 ---
 
 # moodys-ratings

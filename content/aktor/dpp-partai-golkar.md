@@ -4,6 +4,7 @@ category: aktor
 tags:
 - organisasi
 - partai
+entity_type: organisasi
 date: '2026-09-16T03:17:46.745965+00:00'
 ---
 # DPP Partai Golkar

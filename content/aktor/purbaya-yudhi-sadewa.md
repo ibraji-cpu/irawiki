@@ -6,6 +6,7 @@ tags:
 - individu
 - kebijakan-fiskal
 - politisi
+entity_type: individu
 ---
 
 # Purbaya Yudhi Sadewa

@@ -4,6 +4,7 @@ category: aktor
 tags:
 - individu
 - politisi
+entity_type: individu
 date: '2026-09-16T04:00:39.698279+00:00'
 ---
 

@@ -4,6 +4,7 @@ category: aktor
 tags:
   - individu
   - politisi
+entity_type: individu
 ---# Budi Arie Setiadi
 
 Budi Arie Setiadi adalah Ketua Umum [[projo|Projo]] yang menjadi sorotan publik setelah melontarkan wacana spekulatif mengenai percepatan pemilu sebelum 2029 di hadapan relawan. Pada 26 Agustus 2026, ia meminta maaf dan menyatakan bahwa pernyataan tersebut merupakan "analisis dan insting pribadi" yang tidak berkaitan dengan mantan Presiden [[joko-widodo|Joko Widodo]].

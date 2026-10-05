@@ -6,6 +6,7 @@ tags:
 - pejabat
 - politisi
 - ulama
+entity_type: individu
 date: '2026-09-08T00:34:09.470269+00:00'
 ---
 
