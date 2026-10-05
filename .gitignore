@@ -16,3 +16,8 @@ raw/
 *.tmp
 *.bak
 *.log
+
+# SQLite index (turunan — bisa di-rebuild dari Markdown)
+wiki_index.db
+wiki_index.db-wal
+wiki_index.db-shm

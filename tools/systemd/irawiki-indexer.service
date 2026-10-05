@@ -1,0 +1,10 @@
+[Unit]
+Description=Irawiki SQLite indexer (incremental)
+After=network.target
+
+[Service]
+Type=oneshot
+User=ubuntu
+WorkingDirectory=/home/ubuntu/irawiki
+ExecStart=/usr/bin/python3 /home/ubuntu/irawiki/tools/irawiki_indexer.py
+Nice=10

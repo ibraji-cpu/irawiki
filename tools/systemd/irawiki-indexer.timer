@@ -1,0 +1,11 @@
+[Unit]
+Description=Jalankan irawiki indexer tiap 15 menit
+
+[Timer]
+OnBootSec=5min
+OnUnitActiveSec=15min
+AccuracySec=30s
+Unit=irawiki-indexer.service
+
+[Install]
+WantedBy=timers.target
