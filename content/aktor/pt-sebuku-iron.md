@@ -4,6 +4,7 @@ category: aktor
 tags:
 - korporasi
 - organisasi
+status: stub
 entity_type: organisasi
 date: '2026-08-30T05:43:28.701237+00:00'
 ---

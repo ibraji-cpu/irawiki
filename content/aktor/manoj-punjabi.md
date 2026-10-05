@@ -6,6 +6,7 @@ tags:
 - individu
 - media
 - pengusaha
+status: stub
 entity_type: individu
 date: '2026-08-19T19:56:25.388677+00:00'
 ---

@@ -5,6 +5,7 @@ tags:
 - Agribisnis gula dan padi terintegrasi
 - individu
 - pengusaha
+status: stub
 entity_type: individu
 date: '2026-08-19T19:56:25.414074+00:00'
 ---

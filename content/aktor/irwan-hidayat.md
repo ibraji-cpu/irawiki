@@ -5,6 +5,7 @@ tags:
 - Kepedulian lingkungan hidrologis
 - individu
 - pengusaha
+status: stub
 entity_type: individu
 date: '2026-08-19T19:56:25.277166+00:00'
 ---

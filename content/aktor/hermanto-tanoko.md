@@ -5,6 +5,7 @@ tags:
 - Investasi ritel modern
 - individu
 - pengusaha
+status: stub
 entity_type: individu
 date: '2026-08-19T19:56:25.257271+00:00'
 ---

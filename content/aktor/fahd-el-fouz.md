@@ -5,6 +5,7 @@ tags:
 - individu
 - pengusaha
 - politisi
+status: stub
 entity_type: individu
 date: '2026-09-16T04:00:39.891228+00:00'
 ---

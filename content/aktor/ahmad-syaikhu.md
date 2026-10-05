@@ -5,6 +5,7 @@ tags:
 - Keagamaan
 - individu
 - politisi
+status: stub
 entity_type: individu
 date: '2026-08-19T09:50:51.296241+00:00'
 ---

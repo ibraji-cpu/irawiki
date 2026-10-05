@@ -4,6 +4,7 @@ category: aktor
 tags:
 - individu
 - pengusaha
+status: stub
 entity_type: individu
 date: '2026-09-16T04:00:40.194283+00:00'
 ---

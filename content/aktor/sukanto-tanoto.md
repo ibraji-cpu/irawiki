@@ -5,6 +5,7 @@ tags:
 - Hilirisasi produk sawit ramah lingkungan
 - individu
 - pengusaha
+status: stub
 entity_type: individu
 date: '2026-08-19T19:56:25.626565+00:00'
 ---

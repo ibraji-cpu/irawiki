@@ -5,6 +5,7 @@ tags:
 - Ekspansi rumah sakit Siloam
 - individu
 - pengusaha
+status: stub
 entity_type: individu
 date: '2026-08-19T19:56:25.287655+00:00'
 ---
