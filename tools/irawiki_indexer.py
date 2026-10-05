@@ -143,7 +143,7 @@ class Indexer:
         return lookup.get(name.strip().lower())
 
     # -- per-file ----------------------------------------------------------
-    def index_file(self, path: Path, lookup: dict, full: bool):
+    def index_file(self, path: Path, lookup: dict, full: bool, owned_aliases=()):
         rel = self.rel_path(path)
         raw = path.read_text(encoding="utf-8")
         fm, body = parse_frontmatter(raw)
@@ -178,16 +178,12 @@ class Indexer:
             (rel, title, etype))
         self.stats["entities"] += 1
 
-        # aliases: frontmatter aliases + title + nama file + path berfolder
-        # (path berfolder dipakai Quartz untuk resolusi shortest-link)
-        alias_names = set(as_list(fm.get("aliases"))) | {title, path.stem, rel}
-        for a in alias_names:
-            a = clean(a)
-            if not a:
-                continue
+        # aliases: HANYA yang dimiliki halaman ini (kepemilikan ditentukan pass 1,
+        # first-wins deterministik). Alias yang sudah dimiliki halaman lain tidak
+        # boleh direbut — kalau direbut, `resolve` bergantung urutan index.
+        for a in owned_aliases:
             self.conn.execute(
-                "INSERT INTO aliases(alias,page_path) VALUES(?,?) "
-                "ON CONFLICT(alias) DO UPDATE SET page_path=excluded.page_path", (a, rel))
+                "INSERT OR REPLACE INTO aliases(alias,page_path) VALUES(?,?)", (a, rel))
             self.stats["aliases"] += 1
 
         # chunks_fts (stub dilewati dari FTS)
@@ -282,6 +278,8 @@ class Indexer:
         # (deterministik: file pertama menang; duplikat dilaporkan)
         lookup = {}
         self.duplicate_aliases = []
+        owned: dict = {}          # alias asli (case) -> rel pemilik
+        owner_of: dict = {}       # alias lower  -> rel pemilik
         for path in files:
             rel = self.rel_path(path)
             raw = path.read_text(encoding="utf-8")
@@ -292,18 +290,33 @@ class Indexer:
                 if not a:
                     continue
                 k = a.lower()
-                if k in lookup and lookup[k] != rel:
-                    self.duplicate_aliases.append((a, lookup[k], rel))
+                if k in owner_of and owner_of[k] != rel:
+                    self.duplicate_aliases.append((a, owner_of[k], rel))
+                    continue          # first-wins: halaman pertama mempertahankan alias
+                owner_of[k] = rel
+                owned.setdefault(rel, []).append(a)
                 lookup.setdefault(k, rel)
+
+        # force re-index bila kepemilikan alias berbeda dari yang ada di DB
+        db_owner = {}
+        for r in self.conn.execute(
+                "SELECT a.alias, a.page_path FROM aliases a"):
+            db_owner.setdefault(r["alias"].lower(), r["page_path"])
+        force = set()
+        for k, rel in owner_of.items():
+            if db_owner.get(k) != rel:
+                force.add(rel)
+                if db_owner.get(k):
+                    force.add(db_owner[k])
 
         # pass 2: index file yang berubah
         for path in files:
             rel = self.rel_path(path)
             h = sha256_file(path)
-            if not full and known.get(rel) == h:
+            if not full and known.get(rel) == h and rel not in force:
                 self.stats["unchanged"] += 1
                 continue
-            self.index_file(path, lookup, full)
+            self.index_file(path, lookup, full, owned.get(rel, ()))
             self.stats["changed"] += 1
 
         # hapus halaman yang filenya sudah tidak ada
