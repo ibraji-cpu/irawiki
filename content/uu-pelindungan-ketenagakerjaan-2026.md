@@ -2,10 +2,8 @@
 title: "UU Pelindungan Ketenagakerjaan"
 aliases:
 - "UU Pelindungan Ketenagakerjaan"
-- "UU Pelindungan Ketenagakerjaan 2026"
 - "Undang-Undang Pelindungan Ketenagakerjaan"
 - "UU Naker 2026"
-- "uu-pelindungan-ketenagakerjaan-2026"
 tags:
 - peraturan
 - ketenagakerjaan
