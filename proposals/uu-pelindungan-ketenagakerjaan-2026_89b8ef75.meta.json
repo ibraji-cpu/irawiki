@@ -1,0 +1,12 @@
+{
+  "id": "89b8ef75",
+  "entity_id": "uu-pelindungan-ketenagakerjaan-2026",
+  "entity_type": "peraturan",
+  "reason": "Halaman entitas regulasi: UU Pelindungan Ketenagakerjaan (23 bab, 313 pasal). entity_type=peraturan belum didukung /muse/propose.",
+  "source": "hermes",
+  "is_new_page": true,
+  "status": "APPROVED",
+  "created_at": "2026-10-06T05:52:53.462542",
+  "approved_as": "peristiwa",
+  "approved_at": "2026-10-06T05:59:45.915010"
+}
