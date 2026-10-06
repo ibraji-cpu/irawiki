@@ -52,8 +52,8 @@ isu_konsisten:
 catatan_kontroversial: []
 
 member_of:
-- "[[DPR RI]]"
-- "[[Badan Legislasi DPR RI]]"
+- "DPR RI"
+- "Badan Legislasi DPR RI"
 
 leader_of: []
 
