@@ -12,7 +12,6 @@ relasi:
     sumber: null
 date: '2026-09-18T02:30:30.092262+00:00'
 aliases:
-- /pt-bayan-resources-tbk-(byan)
 - PT Bayan Resources Tbk (BYAN)
 - PT Bayan Resources Tbk
 - bayan-resources

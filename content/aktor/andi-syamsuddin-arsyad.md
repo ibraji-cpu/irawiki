@@ -112,7 +112,7 @@ date: '2026-09-26'
 - **[[PT Jhonlin Baratama]]** — Perusahaan terkait [[jhonlin-group|Jhonlin Group]] yang terlibat dalam aksi akuisisi terhadap BYAN.
 - **[[PT Jhonlin Agro Raya Tbk (JARR)]]** — Emiten di bawah [[jhonlin-group|Jhonlin Group]].
 - **[[PT Pradiksi Gunatama Tbk (PGUN)]]** — Emiten di bawah [[jhonlin-group|Jhonlin Group]].
-- **[[PT Dana Brata Luhur Tbk (TEBE) / PT Dua Samudera]]** — Emiten di bawah [[jhonlin-group|Jhonlin Group]].
+- **[[PT Dana Brata Luhur Tbk (TEBE)|PT Dana Brata Luhur Tbk (TEBE) / PT Dua Samudera]]** — Emiten di bawah [[jhonlin-group|Jhonlin Group]].
 
 ## Perusahaan di Bawah Jhonlin Group
 

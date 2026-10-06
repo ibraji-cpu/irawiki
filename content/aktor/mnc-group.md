@@ -1,7 +1,7 @@
 ---
 title: "MNC Group"
 aliases:
-- "MNC Group (Global Mediacom, Media Nusantara Citra, PT MNC Investama Tbk/PT MNC Asia Holding Tbk, HT Investment Development Ltd)"
+- "MNC Group (Global Mediacom, Media Nusantara Citra, PT MNC Investama Tbk, PT MNC Asia Holding Tbk, HT Investment Development Ltd)"
 - "MNC Group"
 tags:
 - organisasi

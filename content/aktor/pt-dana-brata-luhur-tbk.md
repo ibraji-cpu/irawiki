@@ -1,7 +1,7 @@
 ---
 title: "PT Dana Brata Luhur Tbk (TEBE)"
 aliases:
-- "PT Dana Brata Luhur Tbk (TEBE) / PT Dua Samudera"
+- "PT Dana Brata Luhur Tbk (TEBE) dan PT Dua Samudera"
 - "PT Dana Brata Luhur Tbk (TEBE)"
 - "PT Dana Brata Luhur Tbk"
 - "PT Dua Samudera"
