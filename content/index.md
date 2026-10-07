@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
-- [Analisis: Taktik Komunikasi GKSR dalam Peluncuran Naskah Akademik RUU Politik](./analisis-taktik-komunikasi-gksr-dalam-peluncuran-naskah-akademik-ruu-politik)
-- [Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR](./milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr)
-- [Republik Korpora Indonesia (RKI) / Republikorp](./aktor/rki)
-- [Lim Gunawan Hariyanto](./aktor/lim-gunawan-hariyanto)
-- [Ishfah Abidal Aziz](./aktor/ishfah-abidal-aziz)
-- [Haji Bachrullah](./aktor/haji-bachrullah)
-- [Andi Syamsuddin Arsyad (Haji Isam)](./aktor/andi-syamsuddin-arsyad)
-- [Airlangga Hartarto](./aktor/airlangga-hartarto)
-- [Soedomo Mergonoto](./aktor/soedomo-mergonoto)
-- [Abdul Rasyid AS](./aktor/abdul-rasyid-as)
+- [KIM Plus](./aktor/kim-plus)
+- [Partai Gerindra](./aktor/partai-gerindra)
+- [PDI Perjuangan](./aktor/pdi-perjuangan)
+- [Sugiat Santoso](./aktor/sugiat-santoso)
+- [Deddy Sitorus](./aktor/deddy-sitorus)
+- [Suhartoyo](./aktor/suhartoyo)
+- [Arsul Sani](./aktor/arsul-sani)
+- [Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima](./peristiwa/2026-10-06-putusan-mk-phpu-ijazah-gibran)
+- [Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR](./analisis/hak-angket-ijazah-gibran)
+- [Agrinas Palma Nusantara](./agrinas-palma-nusantara)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)
