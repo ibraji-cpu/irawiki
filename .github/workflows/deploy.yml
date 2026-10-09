@@ -22,7 +22,7 @@ jobs:
               -o StrictHostKeyChecking=no \
               -p ${{ secrets.SSH_PORT }} \
               ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} \
-              "cd /home/ubuntu/irawiki && git pull origin main && bash build_wiki.sh"
+              "export PATH=/home/ubuntu/.local/bin:\$PATH && cd /home/ubuntu/irawiki && git pull origin main && bash build_wiki.sh"
 
   deploy-blog:
     runs-on: ubuntu-latest
