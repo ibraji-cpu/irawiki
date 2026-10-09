@@ -267,7 +267,6 @@ layout:
       positions:
         beforeBody:
           - CoverImage
-          - IraBanner
         afterBody:
           - Relations
           - backlinks
