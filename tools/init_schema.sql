@@ -105,3 +105,16 @@ SELECT e.nama, e.type, e.page_path,
        (SELECT COUNT(*) FROM relations r WHERE r.subjek = e.page_path) AS out_deg,
        (SELECT COUNT(*) FROM relations r WHERE r.objek  = e.page_path) AS in_deg
 FROM entities e;
+
+-- Sub-event kronologi dari halaman hub topik
+CREATE TABLE IF NOT EXISTS topic_timeline_events(
+  id            INTEGER PRIMARY KEY AUTOINCREMENT,
+  hub_path      TEXT NOT NULL REFERENCES pages(path) ON DELETE CASCADE,
+  hub_title     TEXT NOT NULL,
+  event_date    TEXT NOT NULL,
+  event_title   TEXT NOT NULL,
+  event_summary TEXT,
+  links         TEXT
+);
+CREATE INDEX IF NOT EXISTS idx_topic_events_hub ON topic_timeline_events(hub_path);
+CREATE INDEX IF NOT EXISTS idx_topic_events_date ON topic_timeline_events(event_date);

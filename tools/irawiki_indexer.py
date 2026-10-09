@@ -19,7 +19,9 @@ Pemakaian:
 from __future__ import annotations
 
 import argparse
+from datetime import date
 import hashlib
+import json
 import os
 import re
 import sqlite3
@@ -47,6 +49,10 @@ RELATION_SECTIONS = re.compile(
     re.I,
 )
 WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
+TOPIC_EVENT_HEADING = re.compile(
+    r"^###\s+(\d{4}-\d{2}-\d{2})\s+[\u2014\u2013\-]\s+(.+)$",
+    re.M,
+)
 
 
 # ---------------------------------------------------------------- frontmatter
@@ -111,6 +117,7 @@ class Indexer:
             "scanned": 0, "changed": 0, "unchanged": 0, "removed": 0,
             "pages": 0, "chunks": 0, "entities": 0, "relations": 0,
             "aliases": 0, "sources": 0, "stubs_skipped_fts": 0,
+            "topic_timeline_events": 0,
         }
 
     # -- schema ------------------------------------------------------------
@@ -170,6 +177,7 @@ class Indexer:
         self.conn.execute("DELETE FROM aliases WHERE page_path=?", (rel,))
         self.conn.execute("DELETE FROM relations WHERE page_path=?", (rel,))
         self.conn.execute("DELETE FROM sources WHERE page_path=?", (rel,))
+        self.conn.execute("DELETE FROM topic_timeline_events WHERE hub_path=?", (rel,))
 
         # entities
         self.conn.execute(
@@ -260,13 +268,53 @@ class Indexer:
                 (rel, "menyebut", canonical, None, "low", "wikilink", rel, None))
             self.stats["relations"] += 1
 
+        # topic_timeline_events: sub-event kronologi bila halaman bertipe topik
+        if etype == "topik":
+            self._index_topic_events(rel, title, body, lookup)
+
+    def _index_topic_events(self, hub_path: str, hub_title: str, body: str, lookup: dict):
+        matches = list(TOPIC_EVENT_HEADING.finditer(body))
+        for m in matches:
+            dt_str = m.group(1)
+            event_title = clean(m.group(2))
+            try:
+                date.fromisoformat(dt_str)
+            except ValueError:
+                continue
+
+            start_pos = m.end()
+            nxt = re.search(r"^#{2,3}\s+", body[start_pos:], flags=re.M)
+            chunk = body[start_pos : start_pos + nxt.start()].strip() if nxt else body[start_pos:].strip()
+            summary = chunk[:500]
+
+            links_list = []
+            for lm in WIKILINK.finditer(chunk):
+                t1 = lm.group(1).strip()
+                t2 = lm.group(2).strip() if lm.group(2) else None
+                for t in (t1, t2):
+                    if not t:
+                        continue
+                    canonical = self.resolve(t, lookup)
+                    if canonical and canonical not in links_list:
+                        links_list.append(canonical)
+                    if t not in links_list:
+                        links_list.append(t)
+
+            links_json = json.dumps(links_list, ensure_ascii=False)
+            self.conn.execute(
+                "INSERT INTO topic_timeline_events(hub_path, hub_title, event_date, event_title, event_summary, links) "
+                "VALUES(?,?,?,?,?,?)",
+                (hub_path, hub_title, dt_str, event_title, summary, links_json),
+            )
+            self.stats["topic_timeline_events"] += 1
+
     # -- run ---------------------------------------------------------------
     def run(self, full: bool = False):
         t0 = time.time()
         self.init_schema()
         if full:
             for t in ("chunks_fts", "names_fts", "relations", "aliases",
-                      "entities", "sources", "pages"):
+                      "entities", "sources", "pages", "topic_timeline_events"):
                 self.conn.execute(f"DELETE FROM {t}")
             self.conn.commit()
 
@@ -327,6 +375,7 @@ class Indexer:
             self.conn.execute("DELETE FROM sources WHERE page_path=?", (rel,))
             self.conn.execute("DELETE FROM aliases WHERE page_path=?", (rel,))
             self.conn.execute("DELETE FROM entities WHERE page_path=?", (rel,))
+            self.conn.execute("DELETE FROM topic_timeline_events WHERE hub_path=?", (rel,))
             self.conn.execute("DELETE FROM pages WHERE path=?", (rel,))
             self.stats["removed"] += 1
 

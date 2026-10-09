@@ -16,6 +16,8 @@ CATATAN SKEMA (Fase 2):
 
 from __future__ import annotations
 
+import json
+import re
 import sqlite3
 from pathlib import Path
 
@@ -306,7 +308,7 @@ def relations_between(a: str, b: str, max_depth: int = 4) -> dict:
 # ---------------------------------------------------------------- timeline
 
 def timeline(entitas: str) -> dict:
-    """Peristiwa (pages.type='peristiwa') yang terhubung ke entitas, urut kronologis."""
+    """Peristiwa dan kronologi hub yang terhubung ke entitas, urut kronologis."""
     res = resolve(entitas)
     if res["status"] == "ambiguous":
         return {"status": "ambiguous", "query": entitas, "candidates": res["candidates"]}
@@ -316,6 +318,7 @@ def timeline(entitas: str) -> dict:
 
     pp = res["page_path"]
     with _connect() as conn:
+        # 1. Query relasional halaman peristiwa
         rows = conn.execute(
             """SELECT DISTINCT p.path, p.title, p.updated_at,
                       (SELECT MIN(s.tanggal) FROM sources s
@@ -326,11 +329,81 @@ def timeline(entitas: str) -> dict:
                WHERE (r.subjek = ? OR r.objek = ?) AND p.type = 'peristiwa'""",
             (pp, pp, pp)).fetchall()
 
-    events = [{"tanggal": r["tanggal"] or r["updated_at"], "title": r["title"],
-               "page_path": r["path"], "predikat": r["predikat"],
-               "confidence": r["confidence"], "origin": r["origin"]} for r in rows]
-    events.sort(key=lambda e: (e["tanggal"] or "9999"))
-    return {"status": "ok", "entitas": res["nama"], "count": len(events), "events": events}
+        # 2. Query sub-event dari topic_timeline_events untuk hub relevan
+        hub_rows = []
+        try:
+            hub_rows = conn.execute(
+                """SELECT t.id, t.hub_path, t.hub_title, t.event_date, t.event_title,
+                          t.event_summary, t.links
+                   FROM topic_timeline_events t
+                   WHERE t.hub_path = ?
+                      OR t.hub_path IN (
+                          SELECT r.subjek FROM relations r WHERE r.objek = ?
+                          UNION
+                          SELECT r.objek FROM relations r WHERE r.subjek = ?
+                      )
+                   ORDER BY t.event_date ASC, t.id ASC""",
+                (pp, pp, pp)).fetchall()
+        except sqlite3.OperationalError:
+            hub_rows = []
+
+    # Map dan deduplikasi relasi ganda ke page peristiwa yang sama
+    page_events = {}
+    for r in rows:
+        path = r["path"]
+        m_dt = re.search(r"(\d{4}-\d{2}-\d{2})", path)
+        dt = m_dt.group(1) if m_dt else (r["tanggal"] or r["updated_at"])
+
+        # Prioritas relasi: frontmatter lebih diutamakan daripada wikilink
+        if path not in page_events or (r["origin"] == "frontmatter" and page_events[path]["origin"] != "frontmatter"):
+            page_events[path] = {
+                "tanggal": dt,
+                "title": r["title"],
+                "page_path": path,
+                "predikat": r["predikat"],
+                "confidence": r["confidence"],
+                "origin": r["origin"],
+                "source": "page",
+            }
+
+    # Deduplikasi sub-event hub terhadap page event
+    merged_events = list(page_events.values())
+    for hr in hub_rows:
+        h_date = hr["event_date"]
+        h_links = []
+        if hr["links"]:
+            try:
+                h_links = json.loads(hr["links"])
+            except Exception:
+                h_links = [hr["links"]]
+
+        is_dup = False
+        for pe in page_events.values():
+            pe_dt = str(pe["tanggal"] or "")
+            dt_match = (h_date == pe_dt or h_date.startswith(pe_dt) or Path(pe["page_path"]).name.startswith(h_date))
+            stem = Path(pe["page_path"]).stem
+            name = Path(pe["page_path"]).name
+            link_match = any(l in (pe["page_path"], pe["title"], stem, name) for l in h_links)
+            if dt_match and link_match:
+                is_dup = True
+                if len(pe_dt) < 10 and len(h_date) == 10:
+                    pe["tanggal"] = h_date
+                break
+
+        if not is_dup:
+            merged_events.append({
+                "tanggal": h_date,
+                "title": hr["event_title"],
+                "summary": hr["event_summary"],
+                "hub_path": hr["hub_path"],
+                "predikat": "kronologi_hub",
+                "confidence": "high",
+                "origin": "hub_body",
+                "source": "hub",
+            })
+
+    merged_events.sort(key=lambda e: (e["tanggal"] or "9999"))
+    return {"status": "ok", "entitas": res["nama"], "count": len(merged_events), "events": merged_events}
 
 
 # ------------------------------------------------------------------ page
