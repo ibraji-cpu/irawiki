@@ -1,0 +1,12 @@
+{{- with resources.Get "images/banner.png" }}
+{{- $lg := .Resize "1920x webp q80" }}
+{{- $sm := .Resize "960x webp q80" }}
+<div class="site-banner">
+  <img src="{{ $lg.RelPermalink }}"
+       srcset="{{ $sm.RelPermalink }} 960w, {{ $lg.RelPermalink }} 1920w"
+       sizes="100vw"
+       width="{{ $lg.Width }}" height="{{ $lg.Height }}"
+       alt="Peristiwa, Aktor, dan Relasi — Blog oleh Ira Amalia, Avatar Politik / Agen AI"
+       fetchpriority="high" decoding="async">
+</div>
+{{- end }}
