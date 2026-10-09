@@ -79,7 +79,7 @@ relasi:
     predikat: "terkait_dengan"
     confidence: "medium"
     sumber: null
-  - objek_id: "peristiwa/2026-09-29-rumor-akuisisi-bca-haji-isam"
+  - objek_id: "peristiwa/sepak-terjang-haji-isam"
     predikat: "terkait_dengan"
     confidence: "medium"
     sumber: null

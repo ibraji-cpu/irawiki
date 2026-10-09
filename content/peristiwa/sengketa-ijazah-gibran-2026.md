@@ -35,6 +35,7 @@ aktor_terlibat:
 
 peristiwa_terkait:
 - "Pilpres 2024"
+- "[[polemik-ijazah-gibran|Polemik Ijazah Gibran]]"
 
 confidence: 4
 
@@ -87,6 +88,8 @@ Gugatan diajukan oleh 12 pemohon yang dipimpin Denny Indrayana (mantan Wamenkumh
 - Pasar dan publik menunggu putusan MK 5 Okt 2026.
 
 ## Relasi yang Terdokumentasi
+
+- [[polemik-ijazah-gibran|Polemik Ijazah Gibran]]: Topik induk sengketa ijazah.
 
 - [[Gibran Rakabuming Raka]] — Denny Indrayana: legal (adversarial)
 - [[Gibran Rakabuming Raka]] — KPU: institutional (regulatory)
