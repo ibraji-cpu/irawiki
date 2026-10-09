@@ -13,7 +13,7 @@ relasi:
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
-  - objek_id: "peristiwa/BYAN Negatif Outlook Setelah Isu Akuisisi oleh Haji Isam"
+  - objek_id: "peristiwa/sepak-terjang-haji-isam"
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
@@ -35,5 +35,5 @@ relasi:
 ## Relasi Terkait
 
 - [[bayan-resources]]
-- [[BYAN Negatif Outlook Setelah Isu Akuisisi oleh Haji Isam]]
+- [[sepak-terjang-haji-isam|Sepak Terjang Haji Isam]]
 - [[pt-bayan-resources-tbk]]

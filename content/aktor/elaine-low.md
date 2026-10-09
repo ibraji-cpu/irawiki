@@ -16,7 +16,7 @@ relasi:
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
-  - objek_id: "peristiwa/BYAN Membantah Rencana Akuisisi oleh Haji Isam"
+  - objek_id: "peristiwa/sepak-terjang-haji-isam"
     predikat: "terkait_dengan"
     confidence: "low"
     sumber: null
@@ -50,6 +50,6 @@ relasi:
 
 - [[bayan-resources]]
 - [[dato-low-tuck-kwong]]
-- [[BYAN Membantah Rencana Akuisisi oleh Haji Isam]]
+- [[sepak-terjang-haji-isam|Sepak Terjang Haji Isam]]
 - [[low-tuck-kwong]]
 - [[pt-bayan-resources-tbk]]

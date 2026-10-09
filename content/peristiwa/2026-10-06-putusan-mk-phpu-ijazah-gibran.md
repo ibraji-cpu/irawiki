@@ -37,7 +37,7 @@ aktor_terlibat:
 
 peristiwa_terkait:
 - "Sengketa Ijazah Wapres Gibran di MK"
-- "Gugatan Ijazah Gibran"
+- "[[polemik-ijazah-gibran|Polemik Ijazah Gibran]]"
 
 confidence: 5
 risiko_editorial: "sedang"
@@ -70,6 +70,8 @@ last_updated: "2026-10-07"
 - Juru Bicara Partai Gerindra [[Sugiat Santoso]] meminta polemik dihentikan dan semua pihak *move on* demi kepastian hukum, dengan alasan risiko terhadap investasi, pasar keuangan, dan kepercayaan internasional.
 
 ## Relasi yang Terdokumentasi
+
+- [[polemik-ijazah-gibran|Polemik Ijazah Gibran]]: Peristiwa milestone dalam topik polemik ijazah.
 
 - [[Mahkamah Konstitusi]] — [[DPR RI]]: putusan MK menutup jalur yudisial dan mengalihkan pertarungan ke jalur politik di DPR.
 - [[Mahkamah Konstitusi]] — [[Gibran Rakabuming Raka]]: lembaga peradilan yang memeriksa perkara mengenai syarat pendidikannya.

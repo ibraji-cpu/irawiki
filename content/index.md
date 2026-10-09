@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
-- [KIM Plus](./aktor/kim-plus)
-- [Partai Gerindra](./aktor/partai-gerindra)
-- [PDI Perjuangan](./aktor/pdi-perjuangan)
-- [Sugiat Santoso](./aktor/sugiat-santoso)
-- [Deddy Sitorus](./aktor/deddy-sitorus)
+- [Polemik Ijazah Gibran](./peristiwa/polemik-ijazah-gibran)
+- [Sepak Terjang Haji Isam](./peristiwa/sepak-terjang-haji-isam)
 - [Suhartoyo](./aktor/suhartoyo)
 - [Arsul Sani](./aktor/arsul-sani)
-- [Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima](./peristiwa/2026-10-06-putusan-mk-phpu-ijazah-gibran)
+- [Partai Gerindra](./aktor/partai-gerindra)
+- [KIM Plus](./aktor/kim-plus)
+- [Sugiat Santoso](./aktor/sugiat-santoso)
+- [PDI Perjuangan](./aktor/pdi-perjuangan)
+- [Deddy Sitorus](./aktor/deddy-sitorus)
 - [Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR](./analisis/hak-angket-ijazah-gibran)
-- [Agrinas Palma Nusantara](./agrinas-palma-nusantara)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)
