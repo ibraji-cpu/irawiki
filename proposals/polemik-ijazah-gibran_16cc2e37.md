@@ -13,19 +13,19 @@ confidence: 5
 risiko_editorial: |
   Konsolidasi 10 halaman peristiwa terkait polemik keabsahan syarat pendidikan dan ijazah Gibran Rakabuming Raka:
   - Halaman yang digabung (10 halaman):
-    1. 2025-09-14-jokowi-berkumis-tipis-buka-bukaan-sekolah-gibran-singapura.md (gugatan perdata Subhan di PN Jakpus & tanggapan Jokowi)
-    2. 2025-09-25-kepsek-pastikan-gibran-lulusan-smpn-1-solo.md (klarifikasi kepsek SMPN 1 Solo atas tudingan dokter Tifa)
-    3. 2025-10-03-mdis-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop.md (klarifikasi resmi MDIS Singapura & respons DPP PSI)
-    4. 2026-09-24-Jokowi-Ungkap-Riwayat-Sekolah-Gibran.md (rincian riwayat sekolah oleh Jokowi pasca gugatan PHPU)
-    5. 2026-09-24-Tanggapan-Jokowi-Ijazah-Gibran-Disoal.md (pernyataan Jokowi menolak pembatalan pencalonan)
-    6. 2026-09-30-bambang-widjojanto-minta-mk-panggil-gibran.md (permohonan pemanggilan Gibran oleh pemohon)
-    7. 2026-09-30-sidang-gugatan-ijazah-gibran-hakim-mk-sorot-paket-c.md (sorotan Hakim MK Enny Nurbaningsih atas Paket C & disparitas aturan)
-    8. 2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran.md (sorotan Hakim Saldi Isra atas Pasal 18 ayat 3 PKPU 19/2023)
-    9. gugatan-ijazah-gibran.md (stub halaman)
-    10. gugatan-phpu-syarat-pendidikan-gibran-rakabuming-raka.md (stub halaman)
+    1. 2025-09-14-jokowi-berkumis-tipis-buka-bukaan-sekolah-gibran-singapura.md (dilipat ke entri 2025-09-08 & 2025-09-12: sidang perdata PN Jakpus & tanggapan santai Jokowi)
+    2. 2025-09-25-kepsek-pastikan-gibran-lulusan-smpn-1-solo.md (dilipat ke entri 2025-09-25: klarifikasi kepsek SMPN 1 Solo atas tudingan dokter Tifa)
+    3. 2025-10-03-mdis-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop.md (dilipat ke entri 2025-10-03: klarifikasi resmi MDIS Singapura & respons DPP PSI)
+    4. 2026-09-24-Jokowi-Ungkap-Riwayat-Sekolah-Gibran.md (dilipat ke entri 2026-09-24: rincian riwayat sekolah oleh Jokowi & pembelaan Raja Juli Antoni)
+    5. 2026-09-24-Tanggapan-Jokowi-Ijazah-Gibran-Disoal.md (dilipat ke entri 2026-09-24: pernyataan Jokowi menolak pembatalan pencalonan)
+    6. 2026-09-30-bambang-widjojanto-minta-mk-panggil-gibran.md (dilipat ke entri 2026-09-28 & 2026-09-30: surat permohonan pemanggilan Gibran oleh Bambang Widjojanto)
+    7. 2026-09-30-sidang-gugatan-ijazah-gibran-hakim-mk-sorot-paket-c.md (dilipat ke entri 2026-09-30: sorotan Hakim MK Enny Nurbaningsih atas Paket C & disparitas pasal UU Pemilu)
+    8. 2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran.md (dilipat ke entri 2026-09-30: pertanyaan Hakim Saldi Isra atas Pasal 18 ayat 3 PKPU 19/2023)
+    9. gugatan-ijazah-gibran.md (stub tanpa tanggal: dilipat ke entri gugatan perdata 2025-09-08 & pendaftaran gugatan PHPU 2026-09-10)
+    10. gugatan-phpu-syarat-pendidikan-gibran-rakabuming-raka.md (stub tanpa tanggal: dilipat ke entri pendaftaran PHPU 2026-09-10 & registrasi perkara 2026-09-17)
   - Halaman yang dipertahankan (2 halaman):
-    1. 2026-10-06-putusan-mk-phpu-ijazah-gibran.md (Milestone kriteria 1: amar putusan resmi MK Perkara 01/PHPU.PRES-XXIV/2026)
-    2. sengketa-ijazah-gibran-2026.md (Halaman analisis sengketa hukum di MK)
+    1. 2026-10-06-putusan-mk-phpu-ijazah-gibran.md (Milestone kriteria §3: amar putusan pengadilan konstitusi tertinggi yang bersifat final dan mengikat pada Perkara Nomor 01/PHPU.PRES-XXIV/2026, ditautkan dua arah di entri 2026-10-06)
+    2. sengketa-ijazah-gibran-2026.md (Halaman analisis mendalam mengenai anatomi sengketa hukum di MK, temuan bukti pemohon, dan risiko konstitusional, ditautkan dua arah pada bagian Analisis Terkait)
 relasi:
   - objek_id: "aktor/gibran-rakabuming-raka"
     predikat: "terkait_dengan"
@@ -137,6 +137,11 @@ Pada persidangan yang sama, Bambang Widjojanto kembali mendesak pemanggilan Gibr
 Mahkamah Konstitusi membacakan putusan akhir perkara Nomor 01/PHPU.PRES-XXIV/2026 dalam sidang pleno yang dipimpin Ketua MK [[suhartoyo|Suhartoyo]]. Mahkamah memutuskan permohonan para pemohon tidak dapat diterima (*niet ontvankelijke verklaard*) dengan alasan prosedural *legal standing* berdasarkan Peraturan MK No. 2/2024, di mana pemohon bukan pasangan calon peserta Pilpres. Meski demikian, pertimbangan faktual yang dibacakan Hakim Konstitusi Arsul Sani mencatat bahwa Mahkamah tidak menemukan bukti fisik kelulusan setara SMA di luar negeri dan penyetaraan yang ada hanya berbasis "penyetaraan pengetahuan" program Grade 12 UTS Insearch Ditjen Dikdasmen.
 
 Putusan resmi ini mengakhiri sengketa di ranah yudisial, namun pertimbangan faktualnya memicu dinamika politik baru terkait wacana Hak Angket di DPR RI. Rincian selengkapnya terdokumentasi dalam halaman milestone [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima]].
+
+### 2026-10-07 — Reaksi Lintas Partai Pasca-Putusan MK dan Wacana Penggunaan Hak Angket DPR
+Menyikapi pertimbangan faktual Mahkamah Konstitusi terkait ketiadaan dokumen fisik ijazah SMA, politisi PDI Perjuangan [[deddy-sitorus|Deddy Sitorus]] menyatakan komitmen fraksinya untuk menggalang pembentukan Panitia Khusus (Pansus) Hak Angket di [[dpr-ri|DPR RI]] guna mengusut tuntas mekanisme verifikasi syarat pencalonan di KPU dan Ditjen Dikdasmen.
+
+Sebaliknya, Juru Bicara Partai Gerindra [[sugiat-santoso|Sugiat Santoso]] bersama koalisi KIM Plus mendesak seluruh pihak menghentikan polemik dan *move on* menghormati putusan MK demi menjaga kepastian hukum, stabilitas pasar keuangan, serta iklim investasi internasional. Wacana pergeseran sengketa dari ranah hukum ke arena parlemen ini dianalisis secara komprehensif dalam [[hak-angket-ijazah-gibran|Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR]].
 
 ## Aktor yang Terlibat
 

@@ -12,21 +12,25 @@ confidence: 5
 risiko_editorial: |
   Konsolidasi 13 halaman peristiwa seputar manuver bisnis, akuisisi saham, dan dinamika pasar modal yang melibatkan konglomerat Kalimantan Selatan Andi Syamsuddin Arsyad (Haji Isam):
   - Halaman yang digabung (13 halaman):
-    1. 2026-09-27-akuisisi-byan-jhonlin-tak-bebani-jarr.md (klarifikasi JARR independen dari transaksi BYAN)
-    2. 2026-09-28-haji-isam-siapkan-duit-caplok-bca.md (estimasi kebutuhan dana rumor akuisisi BBCA)
-    3. 2026-09-28-mirip-seperti-byan-awal-mula-rumor-haji-isam-caplok-bca.md (pola rumor medsos BBCA menyerupai pola BYAN)
-    4. 2026-09-29-ramai-ramai-akuisisi-emiten-september-haji-isam.md (rekapitulasi gelombang akuisisi September 2026, BYAN terbesar)
-    5. 2026-09-29-rumor-akuisisi-bca-haji-isam.md (dinamika pasar dan transaksi negosiasi saham BBCA)
-    6. BCA Bantah Isu Rumor Akuisisi Saham BBCA oleh Haji Isam.md (bantahan resmi manajemen BCA)
-    7. BYAN Membantah Rencana Akuisisi oleh Haji Isam.md (respons awal BYAN per 18 Agustus atas rumor 62,2%)
-    8. BYAN Negatif Outlook Setelah Isu Akuisisi oleh Haji Isam.md (penurunan outlook Moody's terkait force majeure RKAB)
-    9. Haji Isam Akuisisi Saham Bayan Resources (BYAN).md (rangkuman akuisisi saham batu bara BYAN)
-    10. Haji Isam Borong BYAN via Jhonlin Baratama.md (transaksi borong saham via Jhonlin Baratama)
-    11. Haji Isam Selangkah Lagi Jadi Pemegang 10 Miliar Saham BYAN.md (proses CSPA 10 miliar lembar saham)
-    12. akuisisi-byan-oleh-haji-isam.md (artikel umum akuisisi)
-    13. Akuisisi Bayan Resources oleh Haji Isam, Dari Rumor hingga Transaksi Resmi.md (kronologi komprehensif rumor hingga CSPA)
+    1. 2026-09-27-akuisisi-byan-jhonlin-tak-bebani-jarr.md (dilipat ke entri 2026-09-27: klarifikasi sekretaris perusahaan JARR independen dari pembiayaan BYAN)
+    2. 2026-09-28-haji-isam-siapkan-duit-caplok-bca.md (dilipat ke entri 2026-09-28: analisis kapitalisasi pasar BBCA Rp756 T vs kebutuhan likuiditas akuisisi)
+    3. 2026-09-28-mirip-seperti-byan-awal-mula-rumor-haji-isam-caplok-bca.md (dilipat ke entri 2026-09-28: analisis pola viral rumor medsos BBCA yang meniru pola BYAN)
+    4. 2026-09-29-ramai-ramai-akuisisi-emiten-september-haji-isam.md (dilipat ke entri 2026-09-29: komparasi gelombang akuisisi emiten September 2026 di BEI)
+    5. 2026-09-29-rumor-akuisisi-bca-haji-isam.md (dilipat ke entri 2026-09-29: transaksi peralihan 21,8 juta saham BBCA di pasar negosiasi)
+    6. BCA Bantah Isu Rumor Akuisisi Saham BBCA oleh Haji Isam.md (dilipat ke entri 2026-09-28: bantahan resmi EVP Hera F. Haryn dan Presdir Jahja Setiaatmadja)
+    7. BYAN Membantah Rencana Akuisisi oleh Haji Isam.md (dilipat ke entri 2026-08-18: klarifikasi awal Corsec Jenny Quantero atas rumor 62,2% & saham limit-up)
+    8. BYAN Negatif Outlook Setelah Isu Akuisisi oleh Haji Isam.md (dilipat ke entri 2026-09-18: pemangkasan outlook Moody's Ratings akibat force majeure RKAB)
+    9. Haji Isam Akuisisi Saham Bayan Resources (BYAN).md (dilipat ke entri 2026-09-16, 2026-09-18 & 2026-09-26: dinamika RKAB Bahlil, HSC BEI, dan pencabutan force majeure)
+    10. Haji Isam Borong BYAN via Jhonlin Baratama.md (dilipat ke entri 2026-09-16 & 2026-09-17: realisasi pembelian 10 miliar lembar via PT Jhonlin Baratama)
+    11. Haji Isam Selangkah Lagi Jadi Pemegang 10 Miliar Saham BYAN.md (dilipat ke entri 2026-09-16: penandatanganan CSPA 10.000.000.500 saham)
+    12. akuisisi-byan-oleh-haji-isam.md (dilipat ke seluruh entri kronologi Agustus–September: rangkuman umum proses akuisisi)
+    13. Akuisisi Bayan Resources oleh Haji Isam, Dari Rumor hingga Transaksi Resmi.md (dilipat penuh ke kronologi 2026-08-18 hingga 2026-09-17: narasi utuh dari rumor limit-up, tawaran kas US$3 M Bloomberg, hingga penandatanganan CSPA)
   - Halaman yang dipertahankan (1 halaman):
-    1. Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong.md (Milestone kriteria §3: dokumen transaksi final CSPA pengalihan 10 miliar saham / 30% BYAN ditandatangani 16 September 2026)
+    1. Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong.md (Dipertahankan sebagai MILESTONE PERISTIWA INDEPENDEN berdasarkan kriteria §3 kebijakan:
+       a. Dokumen/Aksi Hukum Riil & Definitif: Menandai eksekusi formal CSPA 10.000.000.500 saham antara Low Tuck Kwong, Elaine Low, dan PT Jhonlin Baratama pada 16 September 2026.
+       b. Signifikansi Material Skala Nasional: Nilai pasar kepemilikan mencapai ±Rp115,25 triliun (berdasarkan harga saham saat pengumuman Rp11.525), menjadikannya akuisisi terbesar di BEI sepanjang September 2026.
+       c. Perubahan Struktur Kepemilikan Definitif: Mengubah peta kendali emiten batu bara terbesar kedua di Indonesia secara riil (Haji Isam masuk 30%, keluarga Low mempertahankan 32,25%).
+       d. Keterbukaan Informasi Regulasi Resmi: Diumumkan resmi kepada OJK & BEI dan memicu penetapan status High Shareholding Concentration (HSC); ditautkan dua arah dengan hub).
 relasi:
   - objek_id: "aktor/andi-syamsuddin-arsyad"
     predikat: "terkait_dengan"
