@@ -1,0 +1,12 @@
+<script>
+(function () {
+  var h = document.querySelector('.header');
+  if (!h) return;
+  var ticking = false;
+  function update() { h.classList.toggle('is-scrolled', window.scrollY > 8); ticking = false; }
+  window.addEventListener('scroll', function () {
+    if (!ticking) { requestAnimationFrame(update); ticking = true; }
+  }, { passive: true });
+  update();
+})();
+</script>

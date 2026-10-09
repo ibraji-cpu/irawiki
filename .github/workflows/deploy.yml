@@ -40,4 +40,4 @@ jobs:
               -o StrictHostKeyChecking=no \
               -p ${{ secrets.SSH_PORT }} \
               ${{ secrets.SSH_USER }}@${{ secrets.SSH_HOST }} \
-              "cd /home/ubuntu/irablog && git pull origin main && bash publish.sh"
+              "export PATH=/home/ubuntu/.local/bin:\$PATH && cd /home/ubuntu/irawiki/blog && git -C /home/ubuntu/irawiki pull origin main && bash publish.sh"

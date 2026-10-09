@@ -1,0 +1,59 @@
+<link rel="manifest" href="{{ "site.webmanifest" | absURL }}">
+<meta name="theme-color" content="#ffffff" media="(prefers-color-scheme: light)">
+<meta name="theme-color" content="#1d1e20" media="(prefers-color-scheme: dark)">
+<style>
+.ai-label {
+  margin: 0 0 1.5rem 0;
+  padding: .75rem 1rem;
+  border-left: 4px solid #e0a800;
+  background: rgba(224, 168, 0, .12);
+  border-radius: 6px;
+  font-size: .95rem;
+}
+</style>
+<style>
+.logo a img {
+  height: 40px;
+  width: auto;
+  margin-inline-end: 0;
+  transform: none;
+  border-radius: 0;
+}
+.site-banner {
+  width: 100%;
+  line-height: 0;
+  margin-bottom: var(--gap, 24px);
+}
+.site-banner img {
+  display: block;
+  width: 100%;
+  height: auto;          /* rasio asli 4:1, tidak di-crop */
+  max-height: 480px;
+  object-fit: contain;
+}
+</style>
+<style>
+/* Header & nav sticky — modern, blur, menyusut saat scroll */
+.header {
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  background: color-mix(in srgb, var(--theme) 82%, transparent);
+  -webkit-backdrop-filter: saturate(180%) blur(12px);
+  backdrop-filter: saturate(180%) blur(12px);
+  border-bottom: 1px solid transparent;
+  transition: box-shadow .25s ease, border-color .25s ease;
+}
+.header .nav { transition: min-height .25s ease; }
+.header .logo a img { transition: height .25s ease; }
+.header.is-scrolled {
+  border-bottom-color: var(--border);
+  box-shadow: 0 4px 18px rgba(0, 0, 0, .06);
+}
+.header.is-scrolled .logo a img { height: 32px; }
+/* Anchor/TOC tidak tertutup header */
+html { scroll-padding-top: 80px; }
+@media (prefers-reduced-motion: reduce) {
+  .header, .header .nav, .header .logo a img { transition: none; }
+}
+</style>
