@@ -8,12 +8,13 @@ cd /home/ubuntu/irawiki/blog
 echo "⚙️  Menjalankan build Hugo..."
 hugo --minify --cleanDestinationDir -d /var/www/blog
 
-# 2. Simpan perubahan ke Git
+# 2. Simpan perubahan ke Git (hanya folder blog/, hindari submodule parent)
 echo "📦 Menyimpan jejak perubahan ke Git..."
-git add -A
+cd /home/ubuntu/irawiki
+git add blog/
 
 # Cek apakah ada perubahan sebelum commit
-if ! git diff-index --quiet HEAD; then
+if ! git diff-index --quiet HEAD -- blog/; then
     git commit -m "Auto-publish artikel baru"
     echo "✅ Perubahan berhasil di-commit."
 else
