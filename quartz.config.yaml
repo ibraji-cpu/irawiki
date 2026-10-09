@@ -265,7 +265,9 @@ layout:
         right: []
     content:
       positions:
-        beforeBody: []
+        beforeBody:
+          - CoverImage
+          - IraBanner
         afterBody:
           - Relations
           - backlinks
