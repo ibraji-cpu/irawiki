@@ -32,6 +32,14 @@ SUMMARY_MODEL = os.environ.get("BLOG_SUMMARY_MODEL", "gemini-flash-latest")
 TTS_MODEL = os.environ.get("BLOG_TTS_MODEL", "gemini-2.5-flash-preview-tts")
 VOICE_NAME = "Aoede"
 
+# Fallback LLM via provider trustisgold (OpenAI-compatible)
+FALLBACK_BASE_URL = os.environ.get("BLOG_FALLBACK_BASE_URL", "https://api.trustisgold.web.id/v1")
+FALLBACK_MODEL = os.environ.get("BLOG_FALLBACK_MODEL", "ff/muse-spark-1.2-contributor")
+FALLBACK_KEY_ENV = "TRUSTISGOLD_API_KEY"
+
+# Batas keras durasi audio (user: maksimum 2 menit)
+MAX_AUDIO_SECONDS = float(os.environ.get("BLOG_MAX_AUDIO_SECONDS", "120"))
+
 VOICE_STYLE = (
     "Voice: Native Indonesian speaker, warm vocal smile, casual but highly informative, "
     "mature female, articulate, natural and relatable, positive and supportive energy. "
@@ -89,8 +97,15 @@ def generate_summary(title: str, content: str, api_key: str) -> str:
         f"Judul: {title}\n\nIsi artikel:\n{content[:12000]}"
     )
 
-    # 1) Coba Gemini langsung. thinking_budget=0 WAJIB: tanpa itu budget habis
-    #    untuk token berpikir dan output terpotong di tengah kalimat.
+    # 1) Provider utama: trustisgold (sesuai permintaan user)
+    text = summary_via_trustisgold(prompt)
+    if text:
+        return text
+
+    # 2) Fallback: Gemini API langsung.
+    #    thinking_budget=0 WAJIB: tanpa itu budget habis untuk token berpikir
+    #    dan output terpotong di tengah kalimat (gejala: 16 kata, finish=MAX_TOKENS).
+    print("   ⚠️ trustisgold gagal, coba Gemini API...")
     try:
         client = genai.Client(api_key=api_key)
         resp = client.models.generate_content(
@@ -102,20 +117,64 @@ def generate_summary(title: str, content: str, api_key: str) -> str:
                 thinking_config=types.ThinkingConfig(thinking_budget=0),
             ),
         )
-        text = (resp.text or "").strip()
-        if len(text.split()) >= 80:
+        gem = (resp.text or "").strip()
+        if len(gem.split()) >= 80:
             print("   (sumber: Gemini API)")
-            return text
-        print(f"   ⚠️ Gemini hanya menghasilkan {len(text.split())} kata, coba fallback LLM...")
+            return gem
+        print(f"   ⚠️ Gemini hanya menghasilkan {len(gem.split())} kata")
     except Exception as e:
-        print(f"   ⚠️ Gemini gagal ({str(e)[:120]}), coba fallback LLM...")
+        print(f"   ⚠️ Gemini gagal ({str(e)[:120]})")
 
-    # 2) Fallback: LLM Hermes (provider + fallback_providers dari config.yaml)
+    # 3) Fallback terakhir: LLM Hermes (provider + fallback_providers dari config.yaml)
     return summary_via_hermes_cli(prompt)
 
 
+def summary_via_trustisgold(prompt: str) -> str | None:
+    """Fallback langsung ke provider trustisgold (OpenAI-compatible).
+
+    Model muse-spark kadang mengembalikan content kosong (respons reasoning-only)
+    atau gagal transien -> coba beberapa kali sebelum menyerah.
+    """
+    key = os.environ.get(FALLBACK_KEY_ENV)
+    if not key:
+        print(f"   ⚠️ {FALLBACK_KEY_ENV} tidak diset, lewati fallback trustisgold")
+        return None
+
+    try:
+        from openai import OpenAI
+
+        client = OpenAI(base_url=FALLBACK_BASE_URL, api_key=key)
+    except Exception as e:
+        print(f"   ⚠️ trustisgold client gagal ({str(e)[:120]})")
+        return None
+
+    for attempt in range(1, 4):
+        try:
+            resp = client.chat.completions.create(
+                model=FALLBACK_MODEL,
+                messages=[{"role": "user", "content": prompt}],
+                max_tokens=4000,
+                temperature=0.7,
+            )
+            msg = resp.choices[0].message
+            text = (msg.content or "").strip()
+            # Sebagian model reasoning menaruh teks di reasoning_content
+            if len(text.split()) < 80:
+                extra = (getattr(msg, "reasoning_content", None) or "").strip()
+                if len(extra.split()) > len(text.split()):
+                    text = extra
+            if len(text.split()) >= 80:
+                print(f"   (sumber: trustisgold / {FALLBACK_MODEL})")
+                return text
+            print(f"   ⚠️ trustisgold percobaan {attempt}: hanya {len(text.split())} kata "
+                  f"(finish={resp.choices[0].finish_reason})")
+        except Exception as e:
+            print(f"   ⚠️ trustisgold percobaan {attempt} gagal ({str(e)[:120]})")
+    return None
+
+
 def summary_via_hermes_cli(prompt: str) -> str:
-    """Panggil `hermes -z` (non-interaktif) sebagai fallback pembuat ringkasan."""
+    """Fallback terakhir: `hermes -z` (provider + fallback_providers dari config.yaml)."""
     tmp = Path("/tmp/blog_summary_prompt.txt")
     tmp.write_text(prompt, encoding="utf-8")
     try:
@@ -143,7 +202,85 @@ def summary_via_hermes_cli(prompt: str) -> str:
     return text
 
 
+EDGE_TTS_BIN = os.environ.get(
+    "BLOG_EDGE_TTS_BIN",
+    "/home/ubuntu/.hermes/installs/5f0a1ff4045d044e/environments/53dc588fb4a8495a9f208fe1fd522d26/venv/bin/edge-tts",
+)
+EDGE_VOICE = os.environ.get("BLOG_EDGE_VOICE", "id-ID-GadisNeural")
+
+
+def synthesize_edge(text: str, out_mp3: Path) -> bool:
+    """Fallback TTS via edge-tts (Microsoft, gratis). Suara perempuan Indonesia."""
+    if not Path(EDGE_TTS_BIN).exists():
+        print(f"   ⚠️ edge-tts tidak ada di {EDGE_TTS_BIN}")
+        return False
+    out_mp3.parent.mkdir(parents=True, exist_ok=True)
+    res = subprocess.run(
+        [EDGE_TTS_BIN, "--voice", EDGE_VOICE, "--rate", "-5%",
+         "--text", text, "--write-media", str(out_mp3)],
+        capture_output=True, text=True, timeout=300,
+    )
+    if res.returncode != 0 or not out_mp3.exists() or out_mp3.stat().st_size == 0:
+        print(f"   ⚠️ edge-tts gagal: {(res.stderr or res.stdout)[-200:]}")
+        return False
+    print(f"   (sumber TTS: edge-tts / {EDGE_VOICE})")
+    return True
+
+
+def probe_duration(mp3: Path) -> float:
+    """Durasi detik via ffprobe; 0.0 kalau gagal dibaca."""
+    try:
+        res = subprocess.run(
+            ["ffprobe", "-v", "error", "-show_entries", "format=duration",
+             "-of", "default=nw=1:nk=1", str(mp3)],
+            capture_output=True, text=True, timeout=60,
+        )
+        return float((res.stdout or "0").strip() or 0)
+    except Exception:
+        return 0.0
+
+
+def enforce_max_duration(mp3: Path, max_seconds: float) -> float:
+    """Percepat audio dengan ffmpeg atempo (pitch aman) agar <= max_seconds."""
+    dur = probe_duration(mp3)
+    if dur <= 0 or dur <= max_seconds:
+        return dur
+
+    factor = dur / max_seconds
+    # atempo hanya menerima 0.5-2.0 per filter -> rantai kalau perlu
+    chain, remaining = [], factor
+    while remaining > 2.0:
+        chain.append("atempo=2.0")
+        remaining /= 2.0
+    chain.append(f"atempo={remaining:.4f}")
+
+    tmp = mp3.with_suffix(".speed.mp3")
+    res = subprocess.run(
+        ["ffmpeg", "-y", "-i", str(mp3), "-filter:a", ",".join(chain),
+         "-acodec", "libmp3lame", "-q:a", "2", str(tmp)],
+        capture_output=True, text=True,
+    )
+    if res.returncode != 0:
+        print(f"   ⚠️ gagal mempercepat audio: {res.stderr[-200:]}")
+        return dur
+
+    tmp.replace(mp3)
+    new_dur = probe_duration(mp3)
+    print(f"   ⏩ dipercepat x{factor:.2f} agar ≤{max_seconds:.0f}s ({dur:.0f}s → {new_dur:.0f}s)")
+    return new_dur
+
+
 def synthesize(text: str, out_mp3: Path, api_key: str) -> None:
+    try:
+        _synthesize_gemini(text, out_mp3, api_key)
+    except Exception as e:
+        msg = str(e)
+        print(f"   ⚠️ Gemini TTS gagal ({msg[:120]}), coba edge-tts...")
+        if not synthesize_edge(text, out_mp3):
+            raise RuntimeError(f"Semua jalur TTS gagal. Gemini: {msg[:300]}")
+
+
+def _synthesize_gemini(text: str, out_mp3: Path, api_key: str) -> None:
     client = genai.Client(api_key=api_key)
     resp = client.models.generate_content(
         model=TTS_MODEL,
@@ -254,6 +391,7 @@ def main() -> None:
 
     print(f"🎙️  TTS {TTS_MODEL} / voice {VOICE_NAME}...")
     synthesize(summary, out_mp3, api_key)
+    enforce_max_duration(out_mp3, MAX_AUDIO_SECONDS)
 
     size_kb = out_mp3.stat().st_size / 1024
     print(f"✅ Audio: {out_mp3} ({size_kb:.0f} KB)")
