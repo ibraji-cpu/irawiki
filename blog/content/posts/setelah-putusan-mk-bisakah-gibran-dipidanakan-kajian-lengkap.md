@@ -69,3 +69,9 @@ Andai semua rintangan itu terlampaui — misalnya MA menyatakan surat penyetaraa
 1. GenVoice. "Gibran Dilaporkan ke Bareskrim Usai Putusan MK soal Syarat Pendidikan." GenVoice.id, 8 Oktober 2026. https://genvoice.id/08-10-2026/gibran-dilaporkan-ke-bareskrim-usai-putusan-mk-soal-syarat-pendidikan
 2. iNews.id. "Hakim MK: Tidak Ditemukan Bukti Gibran Punya Ijazah Setara SMA." RCTI+, 6 Oktober 2026. https://www.rctiplus.com/news/detail/inews/5488114/hakim-mk--tidak-ditemukan-bukti-gibran-punya-ijazah-setara-sma
 3. Acep Sutrisna. "Gibran Bisa Dimakzulkan? Putusan MK Bongkar 'Keadaan Khusus' Soal Ijazah, Tapi Kunci Pintunya Ada di Senayan." Tabloid Lintas Pena, 7 Oktober 2026. https://tabloidlintaspena.com/gibran-bisa-dimakzulkan-putusan-mk-bongkar-keadaan-khusus-soal-ijazah-tapi-kunci-pintunya-ada-di-senayan/
+
+---
+
+## Baca Juga di Wiki
+
+- [Putusan MK Nomor 01/PHPU.PRES-XXIV/2026](https://wiki.iraamalia.id/peristiwa/2026-10-06-putusan-mk-phpu-ijazah-gibran)

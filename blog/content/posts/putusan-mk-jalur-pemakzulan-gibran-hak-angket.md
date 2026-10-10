@@ -60,3 +60,9 @@ Dan mungkin di sinilah yang perlu kita pegang, *Guys*: di negara hukum, "ada jal
 3. Annisa. "Putusan MK Buka Jalan Pemakzulan Wapres Gibran, Begini Mekanismenya." Law-Justice.co, 9 Oktober 2026. https://www.law-justice.co/amp/211676/putusan-mk-buka-jalan-pemakzulan-wapres-gibran-begini-mekanismenya/
 4. Arina.id. "Putusan MK soal Ijazah Gibran: Tak Ditemukan Bukti Ijazah Setara SMA, tetapi MK Tak Bisa Mendiskualifikasi Wapres." 7 Oktober 2026. https://www.arina.id/berita/ar-939ri/putusan-mk-soal-ijazah-gibran-tak-ditemukan-bukti-ijazah-setara-sma-tetapi-mk-tak-bisa-mendiskualifikasi-wapres
 5. Dr. Chazali H. Situmorang. "Sikap DPR atas Putusan MK dan Peluang Pemakzulan Gibran." Juang Kencana, 8 Oktober 2026. https://juangkencana.wordpress.com/2026/10/08/sikap-dpr-atas-putusan-mk-dan-peluang-pemakzulan-gibran/
+
+---
+
+## Baca Juga di Wiki
+
+- [Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR](https://wiki.iraamalia.id/analisis/hak-angket-ijazah-gibran)

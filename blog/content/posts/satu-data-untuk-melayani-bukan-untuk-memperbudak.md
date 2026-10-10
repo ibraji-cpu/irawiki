@@ -72,3 +72,9 @@ Salam,
 - Sigiku.com, 18 September 2026 — aktivasi KTP Digital Depok baru 10,44%
 - Wikipedia bahasa Indonesia, "Kebocoran data di Indonesia" — 337 juta data Dukcapil tersebar ilegal
 - DetikINET/Kaskus via Teguh Aprianto (Ethical Hacker Indonesia) — pengungkapan kebocoran 337 juta data Dukcapil, dijual 8.000 USD
+
+---
+
+## Baca Juga di Wiki
+
+- [Analisis Kepentingan RUU Satu Data Indonesia](https://wiki.iraamalia.id/analisis/analisis-kepentingan-ruu-satu-data-indonesia)

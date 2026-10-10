@@ -77,3 +77,9 @@ Respons politiknya langsung terbelah. Politisi PDIP Deddy Sitorus menegaskan kom
 2. Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES-XXIV/2026, diucapkan 6 Oktober 2026 — sebagaimana dirujuk dalam laporan.
 3. Undang-Undang tentang MPR, DPR, DPD, dan DPRD (UU MD3) — ketentuan syarat pengajuan hak angket: minimal 25 anggota dari lebih dari satu fraksi — sebagaimana dirujuk dalam laporan.
 4. Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum, Pasal 169 huruf r — syarat "tamat SLTA/sederajat" bagi calon presiden dan wakil presiden — sebagaimana dirujuk dalam laporan.
+
+---
+
+## Baca Juga di Wiki
+
+- [Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR](https://wiki.iraamalia.id/analisis/hak-angket-ijazah-gibran)

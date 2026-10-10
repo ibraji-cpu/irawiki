@@ -84,3 +84,9 @@ Putusan MK Nomor 90/PUU-XXI/2023 tentang syarat usia capres-cawapres memicu kont
 - Dokumen kajian hukum konstitusi: "Terobosan Hukum Mahkamah Konstitusi dalam Menjaga Moralitas Konstitusi dan Legitimasi Negara" — eksaminasi publik atas Perkara 01/PHPU.PRES-XXIV/2026 (laporan pengguna, disusun via Gemini Notebook, Oktober 2026).
 - [Kabar65News. "MK Nyatakan Gugatan Ijazah Gibran Tidak Dapat Diterima, Ini Kabarnya."](https://kabar65news.com/2026/10/07/mk-nyatakan-gugatan-ijazah-gibran-tidak-dapat-diterima-ini-kabarnya/) Kabar65News, 7 Oktober 2026.
 - [Sekretariat Kabinet RI. "Presiden Prabowo Saksikan Sumpah Adies Kadir Hakim Konstitusi."](https://setkab.go.id/presiden-prabowo-saksikan-sumpah-adies-kadir-mk/) setkab.go.id, 5 Februari 2026.
+
+---
+
+## Baca Juga di Wiki
+
+- [KPU, MK, dan Sengketa Syarat Pendidikan Gibran](https://wiki.iraamalia.id/analisis/kpu-mk-syarat-pendidikan-gibran)
