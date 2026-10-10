@@ -18,11 +18,11 @@ relasi:
 
 tanggal:
 - "2026-09-10"
-- "2026-10-05"
+- "2026-10-06"
 
 lokasi: "Mahkamah Konstitusi, Jakarta"
 
-status_hukum_politik: "berlangsung"
+status_hukum_politik: "selesai (jalur yudisial)"
 
 kategori_isu: "hukum, politik, pemilu"
 
@@ -41,12 +41,12 @@ confidence: 4
 
 risiko_editorial: "tinggi"
 
-last_updated: "2026-10-03"
+last_updated: "2026-10-07"
 ---
 
 # Sengketa Ijazah Wapres Gibran di MK
 
-> **Kronologi Singkat:** Gugatan terhadap syarat pendidikan (ijazah SMA) Wakil Presiden Gibran Rakabuming Raka sebagai calon wakil presiden Pilpres 2024, diajukan ke Mahkamah Konstitusi pada 10 September 2026. Perkara No. 01/PHPU.PRES-XXIV/2026 kini memasuki tahap pembuktian dengan putusan dijadwalkan 5 Oktober 2026.
+> **Kronologi Singkat:** Gugatan terhadap syarat pendidikan (ijazah SMA) Wakil Presiden Gibran Rakabuming Raka sebagai calon wakil presiden Pilpres 2024, diajukan ke Mahkamah Konstitusi pada 10 September 2026. Perkara No. 01/PHPU.PRES-XXIV/2026 telah diputus pada 6 Oktober 2026.
 
 ## Kronologi
 
@@ -58,7 +58,8 @@ last_updated: "2026-10-03"
 - **2026-09-29** — Tahap pembuktian dimulai, pemeriksaan saksi dan keterangan ahli.
 - **2026-10-01** — Lanjutan tahap pembuktian.
 - **2026-10-02** — Rapat Permusyawaratan Hakim (RPH) dimulai.
-- **2026-10-05** — Pembacaan putusan MK.
+- **2026-10-05** — Jadwal awal pembacaan putusan MK (ditunda).
+- **2026-10-06** — Pembacaan putusan MK. [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026]].
 
 ## Aktor yang Terlibat
 
@@ -85,11 +86,12 @@ Gugatan diajukan oleh 12 pemohon yang dipimpin Denny Indrayana (mantan Wamenkumh
 ## Dampak Langsung
 
 - Perkara berlangsung dengan ketegangan politik tinggi.
-- Pasar dan publik menunggu putusan MK 5 Okt 2026.
+- Putusan MK dibacakan pada 6 Oktober 2026, menolak permohonan secara prosedural.
 
 ## Relasi yang Terdokumentasi
 
 - [[polemik-ijazah-gibran|Polemik Ijazah Gibran]]: Topik induk sengketa ijazah.
+- [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026]]: Putusan akhir perkara.
 
 - [[Gibran Rakabuming Raka]] — Denny Indrayana: legal (adversarial)
 - [[Gibran Rakabuming Raka]] — KPU: institutional (regulatory)
