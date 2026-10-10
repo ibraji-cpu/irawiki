@@ -29,7 +29,9 @@ BLOG_ROOT = Path("/home/ubuntu/irawiki/blog")
 
 # gemini-2.5-flash sudah 404 untuk akun baru (Okt 2026) -> pakai alias *-latest
 SUMMARY_MODEL = os.environ.get("BLOG_SUMMARY_MODEL", "gemini-flash-latest")
-TTS_MODEL = os.environ.get("BLOG_TTS_MODEL", "gemini-2.5-flash-preview-tts")
+TTS_MODEL = os.environ.get("BLOG_TTS_MODEL", "gemini-3.8-flash-tts")
+# Rantai model TTS: 2.5-preview kuotanya cepat habis (429) -> jangan langsung jatuh ke edge-tts.
+TTS_MODELS = [TTS_MODEL, "gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-2.5-flash-preview-tts"]
 VOICE_NAME = "Aoede"
 
 # Fallback LLM via provider trustisgold (OpenAI-compatible)
@@ -271,19 +273,24 @@ def enforce_max_duration(mp3: Path, max_seconds: float) -> float:
 
 
 def synthesize(text: str, out_mp3: Path, api_key: str) -> None:
-    try:
-        _synthesize_gemini(text, out_mp3, api_key)
-    except Exception as e:
-        msg = str(e)
-        print(f"   ⚠️ Gemini TTS gagal ({msg[:120]}), coba edge-tts...")
-        if not synthesize_edge(text, out_mp3):
-            raise RuntimeError(f"Semua jalur TTS gagal. Gemini: {msg[:300]}")
+    last_err = ""
+    for model in dict.fromkeys(TTS_MODELS):
+        try:
+            _synthesize_gemini(text, out_mp3, api_key, model)
+            print(f"   (sumber TTS: Gemini / {model} / voice {VOICE_NAME})")
+            return
+        except Exception as e:
+            last_err = str(e)
+            print(f"   ⚠️ Gemini TTS {model} gagal ({last_err[:120]})")
+    print("   ⚠️ semua model Gemini TTS gagal, coba edge-tts...")
+    if not synthesize_edge(text, out_mp3):
+        raise RuntimeError(f"Semua jalur TTS gagal. Gemini: {last_err[:300]}")
 
 
-def _synthesize_gemini(text: str, out_mp3: Path, api_key: str) -> None:
+def _synthesize_gemini(text: str, out_mp3: Path, api_key: str, model: str) -> None:
     client = genai.Client(api_key=api_key)
     resp = client.models.generate_content(
-        model=TTS_MODEL,
+        model=model,
         contents=VOICE_STYLE + text,
         config=types.GenerateContentConfig(
             response_modalities=["AUDIO"],
@@ -389,7 +396,7 @@ def main() -> None:
     words = len(summary.split())
     print(f"📋 Ringkasan: {words} kata (±{words / 150 * 60:.0f} detik)")
 
-    print(f"🎙️  TTS {TTS_MODEL} / voice {VOICE_NAME}...")
+    print(f"🎙️  TTS {' → '.join(dict.fromkeys(TTS_MODELS))} / voice {VOICE_NAME}...")
     synthesize(summary, out_mp3, api_key)
     enforce_max_duration(out_mp3, MAX_AUDIO_SECONDS)
 
