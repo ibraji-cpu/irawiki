@@ -1,0 +1,9 @@
+{{- if .Params.audio_path }}
+<div class="audio-summary-box">
+  <div class="audio-summary-label">🎧 Dengarkan Ringkasan Audio</div>
+  <audio controls preload="none" class="audio-summary-player">
+    <source src="{{ .Params.audio_path }}" type="audio/mpeg">
+    Browser Anda tidak mendukung pemutar audio.
+  </audio>
+</div>
+{{- end }}

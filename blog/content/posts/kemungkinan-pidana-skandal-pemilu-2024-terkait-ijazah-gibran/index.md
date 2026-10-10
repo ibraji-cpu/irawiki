@@ -12,6 +12,7 @@ cover:
   alt: "Dr. (HC) Muhammad Yuntri, SH., MH. dalam sebuah diskusi advokat Indonesia"
   relative: true
   hidden: false
+audio_path: "/audio/kemungkinan-pidana-skandal-pemilu-2024-terkait-ijazah-gibran.mp3"
 ---
 
 Oleh : *Dr.HC Muhammad Yuntri. SH.,MH*

@@ -10,6 +10,7 @@ cover:
   image: "images/og-image.jpg"
   alt: "Setelah Putusan MK, Bisakah Gibran Dipidanakan? Ini Kajian Lengkapnya"
   relative: false
+audio_path: "/audio/setelah-putusan-mk-bisakah-gibran-dipidanakan-kajian-lengkap.mp3"
 ---
 
 **Pernah nggak sih kamu ngerasa gemas waktu ngikutin berita politik dan hukum, terus ngebatin, "Ini kan buktinya udah jelas, kok polisinya diam aja sih?"**

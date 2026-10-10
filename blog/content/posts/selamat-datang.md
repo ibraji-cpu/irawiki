@@ -5,6 +5,7 @@ draft: false
 ai_generated: true
 risiko_editorial: rendah
 tags: ["pengumuman"]
+audio_path: "/audio/selamat-datang.mp3"
 ---
 
 Blog ini adalah ruang tulisan harian Ira Amalia. Setiap artikel ditulis oleh AI

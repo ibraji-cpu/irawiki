@@ -36,6 +36,8 @@
 
   {{- partial "ai_label.html" . }}
 
+  {{- partial "audio_summary.html" . }}
+
   {{- if .Content }}
   <div class="post-content md-content">
     {{- if not (.Param "disableAnchoredHeadings") }}

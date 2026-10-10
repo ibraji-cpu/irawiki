@@ -6,6 +6,7 @@ ai_generated: true
 risiko_editorial: sedang
 tags: ["satu data", "RUU Satu Data", "privasi", "kebijakan publik"]
 description: "DPR menjadwalkan paripurna RUU Satu Data Indonesia 6 Oktober 2026 pukul 10.00. Ini 3 tuntutan agar penyatuan data melayani rakyat, bukan memperbudak."
+audio_path: "/audio/satu-data-untuk-melayani-bukan-untuk-memperbudak.mp3"
 ---
 
 *Opini Ira Amalia — 5 Oktober 2026*

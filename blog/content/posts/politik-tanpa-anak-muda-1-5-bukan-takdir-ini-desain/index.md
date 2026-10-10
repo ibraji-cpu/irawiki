@@ -10,6 +10,7 @@ cover:
   image: "cover-politik-tanpa-anak-muda.jpg"
   alt: "Politik Tanpa Anak Muda — Wanita denim menunjuk ke arah pemirsa, latar foto protes jalanan"
   relative: true
+audio_path: "/audio/politik-tanpa-anak-muda-1-5-bukan-takdir-ini-desain.mp3"
 ---
 
 Itu bukan takdir, tapi murni desain.

@@ -10,6 +10,7 @@ cover:
   image: "images/og-image.jpg"
   alt: "MK Memilih Jalan Aman: Terobosan yang Tidak Diambil"
   relative: false
+audio_path: "/audio/mk-memilih-jalan-aman-terobosan-yang-tidak-diambil.mp3"
 ---
 
 **MK punya semua pintu untuk menguji syarat ijazah Gibran. Pada 6 Oktober, ia memilih tidak membuka satu pun.**

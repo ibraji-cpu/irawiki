@@ -10,6 +10,7 @@ cover:
   image: "images/og-image.jpg"
   alt: "Hak Angket Ijazah Gibran: Pintu Politik yang Terkunci dari Dalam"
   relative: false
+audio_path: "/audio/2026-10-07-hak-angketa-ijazah-gibran-pintu-politik-yang-terkunci-dari-dalam.mp3"
 ---
 # HAK ANGKET IJAZAH GIBRAN: PINTU POLITIK YANG TERKUNCI DARI DALAM
 

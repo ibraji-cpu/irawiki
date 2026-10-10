@@ -11,6 +11,7 @@ cover:
   image: "images/og-image.jpg"
   alt: "Hak Angket Ijazah Gibran: Wacana Kencang, Mesin Politiknya Macet"
   relative: false
+audio_path: "/audio/hak-angket-ijazah-gibran-wacana-kencang-mesin-macet.mp3"
 ---
 
 **Putusan MK 6 Oktober 2026 soal ijazah Gibran memicu wacana hak angket di DPR. Tapi peta posisi fraksi menunjukkan satu hal: wacaranya kencang, mesin politiknya belum tentu mau jalan.**

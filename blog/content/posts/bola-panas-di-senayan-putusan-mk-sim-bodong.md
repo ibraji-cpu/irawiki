@@ -10,6 +10,7 @@ cover:
   image: "images/og-image-andrianto-bola-panas.jpg"
   alt: "Bola Panas di Senayan: Putusan MK, SIM Bodong, dan Beban Etika Ketatanegaraan Kita"
   relative: false
+audio_path: "/audio/bola-panas-di-senayan-putusan-mk-sim-bodong.mp3"
 ---
 
 *Oleh: Andrianto*
