@@ -7,9 +7,9 @@ risiko_editorial: sedang
 tags: ["politik", "gen-z", "milenial", "prekarisasi", "gerontokrasi"]
 description: "Politik Tanpa Anak Muda adalah serial lima hari dari kacamata Gen Z. Bukan analisis menara gading, tapi diagnosis dari yang merasakan langsung: sistem yang memproduksi kecemasan, lalu menyalahkan kita karena merasakannya."
 cover:
-  image: "images/og-image.jpg"
-  alt: "Politik Tanpa Anak Muda (1/5): Ini Bukan Takdir, Ini Desain"
-  relative: false
+  image: "cover-politik-tanpa-anak-muda.jpg"
+  alt: "Politik Tanpa Anak Muda — Wanita denim menunjuk ke arah pemirsa, latar foto protes jalanan"
+  relative: true
 ---
 
 Itu bukan takdir, tapi murni desain.
