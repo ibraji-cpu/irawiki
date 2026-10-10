@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
+- [Pencalonan Kapolri 2026](./peristiwa/pencalonan-kapolri-2026)
+- [Kepala Kantah Kabupaten Bogor Menjadi Tersangka](./peristiwa/Kepala Kantah Kabupaten Bogor Menjadi Tersangka)
+- [Arrmanatha Nasir](./aktor/arrmanatha-nasir)
+- [Nusron Wahid](./aktor/nusron-wahid)
 - [Polemik Ijazah Gibran](./peristiwa/polemik-ijazah-gibran)
 - [Sepak Terjang Haji Isam](./peristiwa/sepak-terjang-haji-isam)
 - [Andi Syamsuddin Arsyad (Haji Isam)](./aktor/andi-syamsuddin-arsyad)
 - [Moody\u2019s Ratings](./aktor/moodys-ratings)
 - [Elaine Low](./aktor/elaine-low)
 - [KPU, MK, dan Sengketa Syarat Pendidikan Gibran: Membaca Ujian Integritas Institusi melalui Siklus Berpikir Ichsanuddin Noorsy](./analisis/kpu-mk-syarat-pendidikan-gibran)
-- [Sengketa Ijazah Wapres Gibran di MK](./peristiwa/sengketa-ijazah-gibran-2026)
-- [Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima](./peristiwa/2026-10-06-putusan-mk-phpu-ijazah-gibran)
-- [Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong](./peristiwa/Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong)
-- [Suhartoyo](./aktor/suhartoyo)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)
