@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
+- [Soeharto](./aktor/soeharto)
+- [Soeharto Pahlawan Nasional](./peristiwa/soeharto-pahlawan-nasional)
+- [Ahmad Sahroni](./aktor/ahmad-sahroni)
+- [Mardani Ali Sera](./aktor/mardani-ali-sera)
+- [Sengketa Ijazah Wapres Gibran di MK](./peristiwa/sengketa-ijazah-gibran-2026)
 - [Pencalonan Kapolri 2026](./peristiwa/pencalonan-kapolri-2026)
 - [Kepala Kantah Kabupaten Bogor Menjadi Tersangka](./peristiwa/Kepala Kantah Kabupaten Bogor Menjadi Tersangka)
 - [Arrmanatha Nasir](./aktor/arrmanatha-nasir)
 - [Nusron Wahid](./aktor/nusron-wahid)
 - [Polemik Ijazah Gibran](./peristiwa/polemik-ijazah-gibran)
-- [Sepak Terjang Haji Isam](./peristiwa/sepak-terjang-haji-isam)
-- [Andi Syamsuddin Arsyad (Haji Isam)](./aktor/andi-syamsuddin-arsyad)
-- [Moody\u2019s Ratings](./aktor/moodys-ratings)
-- [Elaine Low](./aktor/elaine-low)
-- [KPU, MK, dan Sengketa Syarat Pendidikan Gibran: Membaca Ujian Integritas Institusi melalui Siklus Berpikir Ichsanuddin Noorsy](./analisis/kpu-mk-syarat-pendidikan-gibran)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)

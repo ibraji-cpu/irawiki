@@ -52,7 +52,7 @@ kategori_analisis:
 
 confidence: 5
 risiko_editorial: "tinggi"
-last_updated: "2026-10-07"
+last_updated: "2026-10-10"
 ---
 
 # Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR
@@ -114,12 +114,33 @@ last_updated: "2026-10-07"
 ### 2026-10-06
 
 - Putusan MK Nomor 01/PHPU.PRES-XXIV/2026 dibacakan: permohonan tidak dapat diterima karena alasan prosedural, sementara pertimbangan faktualnya menyatakan tidak ditemukan dokumen fisik kelulusan setara SMA.
-- Lihat [[Putusan MK 6 Oktober 2026]].
+- Lihat [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK 6 Oktober 2026]].
 
 ### 2026-10-07
 
 - Respons politik terbelah: PDIP melalui Deddy Sitorus mendorong Pansus Hak Angket, sementara Gerindra melalui Sugiat Santoso meminta polemik dihentikan.
 - Wacana hak angket diperdebatkan dengan sorotan pada syarat lintas fraksi UU MD3 dan komposisi 110 berbanding 470 kursi.
+
+### 2026-10-08 ~ 10 — Peta Posisi Fraksi DPR
+
+Data dikumpulkan dari pemberitaan media nasional (Detik, VIVA, Tempo, Sindonews, KompasTV, KoranKota, Infonasional, GarudaTV).
+
+**Kubu pendorong (kondisional):**
+
+- **PDIP** — [[deddy-sitorus|Deddy Sitorus]] (Komisi II): vokal dorong pansus dan/atau hak angket, kaitkan Pasal 7A/7B UUD. Catatan: pernyataan pribadi, bukan sikap resmi fraksi.
+- **PKB** — Eka Widodo (Komisi II): usul pansus dulu, bukan angket. Alur konstitusional: pansus → jika terbukti → MK → MPR.
+- **PKS** — [[mardani-ali-sera|Mardani Ali Sera]] (Bappilu): tidak menolak, tidak mendorong. Komunikasi antar-fraksi masih berjalan.
+
+**Kubu penolak:**
+
+- **Gerindra** — [[sugiat-santoso|Sugiat Santoso]] (Jubir): putusan MK final & binding, minta hentikan polemik. Fraksi penentu karena partainya presiden.
+- **Golkar** — Ahmad Doli Kurnia (Waketum): cukup Komisi II, tidak perlu pansus/angket. Catatan: Golkar partai masih kaji via Ahmad Irawan.
+
+**Kubu diam/belum sikap:**
+
+- **NasDem** — [[ahmad-sahroni|Ahmad Sahroni]] (Bendum): bantah surat pemakzulan Tonny Tesar, tunggu arahan Surya Paloh.
+- **Demokrat** — Herman Khaeron (Sekjen) & Dede Yusuf (Waketum Komisi II): belum ada pembicaraan, tunggu arahan pimpinan.
+- **PAN** — tidak ada pernyataan resmi.
 
 ## Perspektif / Interpretasi
 
