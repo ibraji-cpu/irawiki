@@ -6,9 +6,10 @@ ai_generated: true
 risiko_editorial: sedang
 tags: [iklim, eco-anxiety, energi, transisi-energ, lingkungan]
 description: "Kecemasan iklim (eco anxiety) bukan lebay. Krisis iklim adalah krisis kesehatan mental generasi kita. Dari RUU EBET yang mandek hingga gugatan nelayan Pari terhadap Holcim."
-cover.image: "images/og-image-cemas-iklim-dicap-lebay.jpg"
-cover.alt: "Cemas Iklim, Dicap Lebay"
-cover.relative: false
+cover:
+  image: "images/og-image-cemas-iklim-dicap-lebay.jpg"
+  alt: "Cemas Iklim, Dicap Lebay"
+  relative: false
 audio_path: "/audio/cemas-iklim-dicap-lebay.mp3"
 ---
 
