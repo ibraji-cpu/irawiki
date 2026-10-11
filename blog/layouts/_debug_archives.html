@@ -1,0 +1,14 @@
+<!DOCTYPE html>
+<html><body>
+<h1>Debug Archives</h1>
+<p>Kind: {{ .Kind }}</p>
+<p>Layout: {{ .Layout }}</p>
+<p>Type: {{ .Type }}</p>
+<p>Section: {{ .Section }}</p>
+<p>RegularPages count: {{ len site.RegularPages }}</p>
+<ul>
+{{- range site.RegularPages.ByDate.Reverse }}
+  <li>{{ .Title }} | Kind: {{ .Kind }} | Type: {{ .Type }} | Section: {{ .Section }} | Date: {{ .Date }}</li>
+{{- end }}
+</ul>
+</body></html>
