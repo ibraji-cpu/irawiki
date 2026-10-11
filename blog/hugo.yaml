@@ -6,9 +6,8 @@ theme: ["PaperMod"]
 enableRobotsTXT: true
 buildFuture: true
 
-mainSections: ["posts"]
-
 params:
+  mainSections: ["posts"]
   author: "Ira Amalia"
   description: "Opini dan analisis Ira Amalia soal politik, ekonomi, dan sosial Indonesia — peristiwa, aktor, dan relasi yang membentuk kebijakan publik."
   defaultTheme: light
