@@ -30,3 +30,4 @@ menu:
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
+  archives: ["HTML"]
