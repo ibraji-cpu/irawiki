@@ -23,8 +23,9 @@ git add blog/
 
 # Cek apakah ada perubahan sebelum commit
 if ! git diff-index --quiet HEAD -- blog/; then
-    git commit -m "Auto-publish artikel baru"
-    echo "✅ Perubahan berhasil di-commit."
+    git commit -m "Auto-publish artikel baru [skip ci]"
+    git push origin main
+    echo "✅ Perubahan berhasil di-commit & push."
 else
     echo "ℹ️ Tidak ada perubahan baru untuk di-commit."
 fi
