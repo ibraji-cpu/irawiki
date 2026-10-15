@@ -34,8 +34,12 @@ sumber:
     tanggal: "2026-10-13"
   - url: "https://www.infonasional.com/kpk-amankan-14-orang-ott-bnpb"
     tanggal: "2026-10-13"
-  - url: "https://www.politikindonesia.id/adik-dan-ta-kepala-bnpb-suharyanto-dikabarkan-jadi-tersangka"
-    tanggal: "2026-10-14"
+  - url: "https://www.cna.id/indonesia/korupsi-dana-bencana-bnpb-kpk-tersangka-51936"
+    tanggal: "2026-10-15"
+  - url: "https://www.infonasional.com/kpk-tetapkan-tersangka-korupsi-dana-bnpb"
+    tanggal: "2026-10-15"
+  - url: "https://langit7.id/read/62903/1/kpk-tetapkan-5-tersangka-kasus-bnpb-dan-ralat-sita-uang-rp33-m-bukan-rp14-m-1792023045"
+    tanggal: "2026-10-15"
 last_updated: "2026-10-15"
 ---
 
@@ -63,11 +67,11 @@ Majelis hakim Pengadilan Tipikor Jakarta memvonis mantan Menteri Sosial Juliari 
 
 KPK melakukan operasi tangkap tangan terkait dugaan suap pengurusan Hak Guna Bangunan (HGB) Summarecon di Kabupaten Bogor dan menetapkan 8 tersangka, termasuk Kepala Kantor Pertanahan Kabupaten Bogor. Lihat [[kepala-kantah-kabupaten-bogor-menjadi-tersangka|Kepala Kantah Kabupaten Bogor Menjadi Tersangka]].
 
-### 2026-10-13 — OTT KPK di BNPB, 14 orang diamankan
+### 2026-10-13 — OTT KPK di BNPB, 5 tersangka ditetapkan (14/10)
 
-KPK melakukan operasi tangkap tangan di lingkungan Badan Nasional Penanggulangan Bencana (BNPB) wilayah Jabodetabek dan mengamankan 14 orang, termasuk Sekretaris Utama BNPB Rustian, pejabat pembuat komitmen (PPK), dan pihak swasta. Barang bukti awal: uang tunai sekitar Rp1,4 miliar (hitungan awal) dan logam mulia (emas batangan serta tabungan emas, masih didata). Dugaan perkara: korupsi pengadaan barang/jasa BNPB, termasuk yang menggunakan Dana Siap Pakai (DSP) untuk kebencanaan. BNPB menyatakan kooperatif dan menjunjung praduga tak bersalah.
+KPK melakukan operasi tangkap tangan di lingkungan Badan Nasional Penanggulangan Bencana (BNPB) wilayah Jabodetabek dan mengamankan 14 orang, termasuk Sekretaris Utama BNPB Rustian, pejabat pembuat komitmen (PPK), dan pihak swasta. Barang bukti: uang tunai Rp3,3 miliar (ralat KPK dari hitungan awal Rp1,4 miliar) dan logam mulia (emas batangan serta tabungan emas, masih didata). Dugaan perkara: korupsi pengadaan barang/jasa BNPB yang menggunakan Dana Siap Pakai (DSP) untuk kebencanaan, dengan modus penunjukan langsung proyek darurat yang diduga berjalan 3–4 tahun. BNPB menyatakan kooperatif dan menjunjung praduga tak bersalah.
 
-Satu media (politikindonesia.id, 14 Oktober 2026) melaporkan KPK telah menetapkan 5 tersangka — disebut nama Bima S, Richard, dan Sigit — dengan konferensi pers resmi dijadwalkan Jumat 16 Oktober 2026. Laporan ini belum dikonfirmasi pernyataan resmi KPK; diperlakukan sebagai klaim satu sumber, bukan fakta final.
+Pada 14/10, usai ekspose, KPK menaikkan perkara ke penyidikan dan menetapkan 5 tersangka yang langsung ditahan: Gabriel Purwaka Sigit (Kasubdit Pengelolaan Bantuan dan Kedaruratan/PPK), Bima Setiawan (Tenaga Ahli Kepala BNPB; Ketua KPK membenarkan informasi bahwa ia adik kandung Kepala BNPB Suharyanto), Richard Erlangga (Tenaga Ahli Kepala BNPB), serta Gery Prasetiawan dan Syifa Nrika Ghifarian (pihak swasta). Sestama Rustian berstatus saksi dan dipulangkan pada 14/10; menurut Ketua KPK, ekspose belum menemukan perbuatan melawan hukum yang dilakukannya.
 
 ## Pola Umum
 
