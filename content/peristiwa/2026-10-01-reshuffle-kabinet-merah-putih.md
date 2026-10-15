@@ -93,6 +93,8 @@ last_updated: "2026-10-02"
 
 > **Kronologi Singkat:** Pada 1 Oktober 2026, Presiden Prabowo Subianto melantik sejumlah menteri, wakil menteri, dan pejabat tinggi negara di Istana Negara, Jakarta. Perubahan paling menonjol adalah pergeseran Listyo Sigit Prabowo menjadi Kepala Staf Kepresidenan, sementara jabatan Kapolri ditempati Suyudi Ario Seto.
 
+Bagian dari: [[Reshuffle Kabinet Merah Putih]]
+
 ## Kronologi
 
 - **2026-10-01** — Pelantikan menteri, wakil menteri, dan pejabat tinggi negara Kabinet Merah Putih sisa masa jabatan periode 2024–2029 di Istana Negara, Jakarta.
@@ -131,6 +133,7 @@ Sumber juga mencatat penggantian pejabat setingkat menteri di luar tanggal-tangg
 
 ## Perkembangan Terakhir
 
+- **2026-10-15** — Pelantikan lanjutan sembilan pejabat di Istana Kepresidenan (4 wakil menteri, Kepala BNPB, Kepala/Wakil Kepala BPGMN, serta mutasi Wakil Panglima TNI dan KSAD). Lihat [[Pelantikan Pejabat 15 Oktober 2026]] dan hub [[Reshuffle Kabinet Merah Putih]].
 - **2026-10-01** — Pelantikan resmi di Istana Negara menandai mulai berjalannya jabatan baru bagi para pejabat yang disebutkan.
 - [[Pencalonan Kapolri 2026]]
 
