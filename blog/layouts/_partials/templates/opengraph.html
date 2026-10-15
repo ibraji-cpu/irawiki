@@ -43,8 +43,8 @@
   {{- else }}
     <meta property="og:image" content="{{ (path.Join .RelPermalink .Params.cover.image ) | absURL }}">
   {{- end }}
-    <meta property="og:image:width" content="1200">
-    <meta property="og:image:height" content="630">
+    <meta property="og:image:width" content="{{ .Params.og_width | default 1200 }}">
+    <meta property="og:image:height" content="{{ .Params.og_height | default 630 }}">
     <meta property="og:image:alt" {{ printf "content=%q" $alt | safeHTMLAttr }}>
 {{- else }}
   {{- with partial "_funcs/get-page-images" . }}
