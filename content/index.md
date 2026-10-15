@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
+- [Korupsi di Indonesia](./peristiwa/korupsi-di-indonesia)
+- [Dudy Purwagandhi](./aktor/dudy-purwagandhi)
+- [Soeharto Pahlawan Nasional](./peristiwa/soeharto-pahlawan-nasional)
 - [Ahmad Sahroni](./aktor/ahmad-sahroni)
 - [Mardani Ali Sera](./aktor/mardani-ali-sera)
 - [Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR](./analisis/hak-angket-ijazah-gibran)
 - [Soeharto](./aktor/soeharto)
-- [Soeharto Pahlawan Nasional](./peristiwa/soeharto-pahlawan-nasional)
 - [Sengketa Ijazah Wapres Gibran di MK](./peristiwa/sengketa-ijazah-gibran-2026)
 - [Pencalonan Kapolri 2026](./peristiwa/pencalonan-kapolri-2026)
 - [Kepala Kantah Kabupaten Bogor Menjadi Tersangka](./peristiwa/Kepala Kantah Kabupaten Bogor Menjadi Tersangka)
-- [Arrmanatha Nasir](./aktor/arrmanatha-nasir)
-- [Nusron Wahid](./aktor/nusron-wahid)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)
