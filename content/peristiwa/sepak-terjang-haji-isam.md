@@ -36,35 +36,6 @@ risiko_editorial: |
        saham >1% RANS (dugaan nominee/SPV). Data KSEI per 31 Agustus 2026 — tersedia
        SEBELUM artikel terbit — mencantumkan Haji Isam 1,40%. Narasi anomali tidak
        didukung data terkini.
-       relasi:
-  - objek_id: "aktor/andi-syamsuddin-arsyad"
-    predikat: "terkait_dengan"
-    confidence: "high"
-  - objek_id: "aktor/pt-bayan-resources-tbk"
-    predikat: "terkait_dengan"
-    confidence: "high"
-  - objek_id: "aktor/pt-jhonlin-baratama"
-    predikat: "terkait_dengan"
-    confidence: "high"
-  - objek_id: "aktor/dato-low-tuck-kwong"
-    predikat: "terkait_dengan"
-    confidence: "high"
-  - objek_id: "aktor/elaine-low"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-  - objek_id: "aktor/pt-bank-central-asia-tbk"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-  - objek_id: "peristiwa/Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong"
-    predikat: "terkait_dengan"
-    confidence: "high"
-  - objek_id: "aktor/raffi-ahmad"
-    predikat: "terkait_dengan"
-    confidence: "high"
-    sumber:
-      - url: "https://www.investor.id/market/454715/para-konglomerat-di-pusaran-bisnis-raffi-ahmad"
-        tanggal: "2026-09"
-    keterangan: "Raffi Ahmad menyebut Haji Isam 'mentor' bisnis; saham RANS Haji Isam 1,40% tercatat data KSEI 31 Agustus 2026"
 sumber:
   - url: "https://www.cnbcindonesia.com/market/20260927174800-17-771259/akuisisi-byan-oleh-jhonlin-tak-bebani-jarr-ini-faktanya"
     tanggal: "2026-09-27"
@@ -94,7 +65,39 @@ sumber:
     tanggal: "2026-10"
 last_updated: "2026-10-16"
 last_verified: "2026-10-16"
-relasi: []
+relasi:
+  - tipe: terlibat_dalam
+    target: aktor/andi-syamsuddin-arsyad
+    sumber: "hub sepak-terjang-haji-isam (konsolidasi 13 halaman peristiwa)"
+    catatan: "confidence: high (skema lama)"
+  - tipe: terlibat_dalam
+    target: aktor/pt-bayan-resources-tbk
+    sumber: "hub sepak-terjang-haji-isam (konsolidasi 13 halaman peristiwa)"
+    catatan: "confidence: high (skema lama)"
+  - tipe: terlibat_dalam
+    target: aktor/pt-jhonlin-baratama
+    sumber: "hub sepak-terjang-haji-isam (konsolidasi 13 halaman peristiwa)"
+    catatan: "confidence: high (skema lama)"
+  - tipe: terlibat_dalam
+    target: aktor/dato-low-tuck-kwong
+    sumber: "hub sepak-terjang-haji-isam (konsolidasi 13 halaman peristiwa)"
+    catatan: "confidence: high (skema lama)"
+  - tipe: terlibat_dalam
+    target: aktor/elaine-low
+    sumber: "hub sepak-terjang-haji-isam (konsolidasi 13 halaman peristiwa)"
+    catatan: "confidence: medium (skema lama)"
+  - tipe: terlibat_dalam
+    target: aktor/pt-bank-central-asia-tbk
+    sumber: "hub sepak-terjang-haji-isam (konsolidasi 13 halaman peristiwa)"
+    catatan: "confidence: medium (skema lama)"
+  - tipe: terlibat_dalam
+    target: peristiwa/haji-isam-sepakat-beli-30-saham-byan-dari-low-tuck-kwong
+    sumber: "hub sepak-terjang-haji-isam (konsolidasi 13 halaman peristiwa)"
+    catatan: "confidence: high (skema lama)"
+  - tipe: terlibat_dalam
+    target: aktor/raffi-ahmad
+    sumber: "investor.id, Sep 2026: para konglomerat di pusaran bisnis Raffi Ahmad"
+    catatan: "Raffi Ahmad menyebut Haji Isam 'mentor' bisnis; saham RANS Haji Isam 1,40% tercatat data KSEI 31 Agustus 2026"
 ---
 
 # Sepak Terjang Haji Isam
