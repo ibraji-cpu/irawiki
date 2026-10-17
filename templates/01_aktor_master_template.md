@@ -60,6 +60,17 @@ status_hukum: "[bersih/bermasalah/tidak diketahui]"
 risiko_editorial: "[rendah/sedang/tinggi]"
 confidence: 5
 last_updated: "[YYYY-MM-DD]"
+last_verified: "[YYYY-MM-DD]"
+
+relasi:
+  - tipe: memimpin                    # vocabulary: mengangkat, memecat, menggantikan, memimpin, berkoalisi_dengan, berkonflik_dengan, mendukung, mengkritik, terlibat_dalam, memicu, bagian_dari
+    target: aktor/[slug-target]       # format: entity_type/entity_id
+    tanggal: "[YYYY-MM-DD]"           # opsional
+    sumber: "[Sumber wajib, mis. Kompas, 21 Okt 2024]"
+    catatan: "[opsional]"
+  - tipe: berkonflik_dengan
+    target: aktor/[slug-target-2]
+    sumber: "[Sumber wajib]"
 ---
 
 # [Nama Aktor]
@@ -88,10 +99,14 @@ last_updated: "[YYYY-MM-DD]"
 - [Perubahan atau perkembangan terbaru]
 - [[Peristiwa terkait]]
 
+## Relasi Terstruktur
+
+- [tipe] → [target]: [sumber] ([tanggal]) — [catatan]
+- [Contoh: memimpin → aktor/budi-gunawan: "Kompas, 21 Okt 2024" — Menetapkan sebagai ketua pelaksana.]
+
 ## Catatan
 
 - [Informasi tambahan yang relevan dan bersumber]
 
 ## Sumber
-
 - [Sumber]

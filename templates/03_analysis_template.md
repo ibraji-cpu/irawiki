@@ -27,6 +27,17 @@ kategori_analisis:
 confidence: 5
 risiko_editorial: "[rendah/sedang/tinggi]"
 last_updated: "[YYYY-MM-DD]"
+last_verified: "[YYYY-MM-DD]"
+
+relasi:
+  - tipe: berkoalisi_dengan
+    target: aktor/[slug-target]
+    tanggal: "[YYYY-MM-DD]"
+    sumber: "[Sumber wajib, mis. Kompas, 21 Okt 2024]"
+    catatan: "[opsional]"
+  - tipe: mendukung
+    target: aktor/[slug-target-2]
+    sumber: "[Sumber wajib]"
 ---
 
 # Analisis Relasi: [Aktor/Relasi] dalam [Peristiwa]
@@ -41,10 +52,10 @@ last_updated: "[YYYY-MM-DD]"
 - [Fakta 2 + sumber]
 - [Fakta 3 + sumber]
 
-## Relasi yang Terdokumentasi
+## Relasi Terstruktur
 
-- [[Aktor A]] — [[Aktor B]]: [hubungan yang secara eksplisit disebutkan/didukung sumber.]
-- [[Aktor A]] — [[Perusahaan/Organisasi]]: [hubungan yang secara eksplisit disebutkan/didukung sumber.]
+- [tipe] → [target]: [sumber] ([tanggal]) — [catatan]
+- [Contoh: berkoalisi_dengan → aktor/budi-gunawan: "Kompas, 21 Okt 2024" — Koalisi di DPR.]
 
 ## Kepentingan yang Terlihat
 
@@ -63,7 +74,6 @@ last_updated: "[YYYY-MM-DD]"
 [Interpretasi analitis. Pisahkan dengan jelas dari fakta. Jika merupakan pandangan sumber tertentu, atribusikan kepada sumber tersebut.]
 
 ## Sumber
-
 - [Sumber 1]
 - [Sumber 2]
 - [Sumber 3]

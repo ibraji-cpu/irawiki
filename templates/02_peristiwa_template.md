@@ -26,6 +26,17 @@ peristiwa_terkait:
 confidence: 5
 risiko_editorial: "[rendah/sedang/tinggi]"
 last_updated: "[YYYY-MM-DD]"
+last_verified: "[YYYY-MM-DD]"
+
+relasi:
+  - tipe: terlibat_dalam
+    target: aktor/[slug-aktor]
+    tanggal: "[YYYY-MM-DD]"
+    sumber: "[Sumber wajib, mis. Kompas, 21 Okt 2024]"
+    catatan: "[opsional]"
+  - tipe: memicu
+    target: peristiwa/[slug-peristiwa-lanjutan]
+    sumber: "[Sumber wajib]"
 ---
 
 # [Nama/Judul Peristiwa]
@@ -34,7 +45,6 @@ last_updated: "[YYYY-MM-DD]"
 
 ## Kronologi
 
-- **[YYYY-MM-DD]** — [Kejadian faktual.]
 - **[YYYY-MM-DD]** — [Kejadian faktual.]
 - **[YYYY-MM-DD]** — [Kejadian faktual.]
 
@@ -57,9 +67,10 @@ last_updated: "[YYYY-MM-DD]"
 - [Dampak yang telah terjadi atau dilaporkan.]
 - [Respons atau perubahan yang telah terjadi.]
 
-## Relasi yang Terdokumentasi
+## Relasi Terstruktur
 
-- [[Aktor 1]] — [[Aktor 2]]: [hubungan yang secara eksplisit didukung sumber, jika ada.]
+- [tipe] → [target]: [sumber] ([tanggal]) — [catatan]
+- [Contoh: terlibat_dalam → aktor/arrmanatha-nasir: "Kompas, 21 Okt 2024" — Menandatangani nota kesepahaman.]
 
 ## Sumber
 
