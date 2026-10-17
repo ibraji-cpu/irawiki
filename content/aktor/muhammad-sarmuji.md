@@ -51,6 +51,8 @@ status_hukum: "tidak diketahui"
 risiko_editorial: "sedang"
 confidence: 3
 last_updated: "2026-10-02"
+last_verified: "2026-10-01"
+relasi: []
 ---
 
 # Muhammad Sarmuji

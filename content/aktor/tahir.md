@@ -7,16 +7,9 @@ tags:
   - individu
   - pengusaha
 entity_type: individu
-relasi:
-  - objek_id: "aktor/mayapada-group"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/bank-mayapada"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: 2026-09-12T15:07:15.294769+00:00
+last_verified: "2026-10-09"
 ---
 
 # Dato' Sri Tahir

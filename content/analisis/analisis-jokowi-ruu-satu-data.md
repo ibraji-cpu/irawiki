@@ -6,13 +6,7 @@ tags:
 entity_type: analisis
 sumber_status: prosa
 entity_id: "analisis-jokowi-ruu-satu-data"
-relasi:
-  - subjek_id: "aktor/joko-widodo"
-    objek_id: "aktor/prabowo-subianto"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "Hubungan presiden dan wakil presiden."
+relasi: []
 
 peristiwa:
 - "[[RUU Satu Data Indonesia]]"
@@ -32,6 +26,7 @@ kategori_analisis:
 confidence: 4
 risiko_editorial: "rendah"
 last_updated: "2026-10-05"
+last_verified: "2026-10-05"
 ---
 
 # Analisis Relasi: Jokowi dalam RUU Satu Data Indonesia

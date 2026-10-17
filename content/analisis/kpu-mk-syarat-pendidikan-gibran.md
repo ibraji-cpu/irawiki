@@ -20,43 +20,7 @@ sumber:
     tanggal: "2026-09-23"
   - judul: "Pakar Hukum Tata Negara Uji Formil Syarat Usia Capres dan Cawapres"
     tanggal: "2023-11-28"
-relasi:
-  - objek_id: "aktor/gibran-rakabuming-raka"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/komisi-pemilihan-umum"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/mahkamah-konstitusi"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/denny-indrayana"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/partai-ummat"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/ichsanuddin-noorsy"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/joko-widodo"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "peristiwa/polemik-ijazah-gibran"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "peristiwa/polemik-ijazah-gibran"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 
 peristiwa:
 - "Sengketa Syarat Pendidikan Gibran dalam PHPU 2024"
@@ -86,6 +50,7 @@ kategori_analisis:
 confidence: 5
 risiko_editorial: "tinggi"
 last_updated: "2026-10-01"
+last_verified: "2026-10-01"
 ---
 
 # KPU, MK, dan Sengketa Syarat Pendidikan Gibran: Membaca Ujian Integritas Institusi melalui Siklus Berpikir Ichsanuddin Noorsy

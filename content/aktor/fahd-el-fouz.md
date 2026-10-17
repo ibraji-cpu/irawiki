@@ -8,6 +8,8 @@ tags:
 status: stub
 entity_type: individu
 date: '2026-09-16T04:00:39.891228+00:00'
+last_verified: "2026-10-09"
+relasi: []
 ---
 # Fahd El Fouz / Fahd A. Rafiq
 

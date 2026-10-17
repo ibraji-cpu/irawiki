@@ -11,53 +11,7 @@ sumber:
   - url: "https://www.cnbcindonesia.com/research/20261001172953-128-772648/daftar-lengkap-7-kali-reshuffle-kabinet-merah-putih-era-prabowo-gibran"
     judul: "Daftar Lengkap 7 Kali Reshuffle Kabinet Merah Putih Era Prabowo-Gibran"
     tanggal: "2026-10-01"
-relasi:
-  - objek_id: "aktor/prabowo-subianto"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Presiden yang melakukan pelantikan."
-  - objek_id: "aktor/listyo-sigit-prabowo"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Dilantik menjadi Kepala Staf Kepresidenan, menggantikan Dudung Abdurachman."
-  - objek_id: "aktor/dudung-abdurachman"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Dilantik menjadi Menteri Koordinator Bidang Politik dan Keamanan."
-  - objek_id: "suyudi-ario-seto"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Menempati jabatan Kapolri."
-  - objek_id: "aktor/bahlil-lahadalia"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Dilantik menjadi Menteri Koordinator Bidang Hilirisasi dan Energi (sebelumnya Menteri ESDM)."
-  - objek_id: "aktor/sugiono"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Dilantik menjadi Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan."
-  - objek_id: "aktor/arrmanatha-nasir"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Dilantik menjadi Menteri Luar Negeri."
-  - objek_id: "aktor/muhammad-sarmuji"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Dilantik menjadi Menteri Perindustrian."
-  - subjek_id: "aktor/listyo-sigit-prabowo"
-    objek_id: "aktor/dudung-abdurachman"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "serah terima jabatan Kepala Staf Kepresidenan (disebut eksplisit oleh sumber)."
+relasi: []
 
 tanggal:
 - "2026-10-01"
@@ -87,6 +41,7 @@ peristiwa_terkait:
 confidence: 5
 risiko_editorial: "sedang"
 last_updated: "2026-10-02"
+last_verified: "2026-10-15"
 ---
 
 # Reshuffle Kabinet Merah Putih 1 Oktober 2026

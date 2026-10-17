@@ -63,6 +63,8 @@ status_hukum: "bersih"
 risiko_editorial: "rendah"
 confidence: 5
 last_updated: "2026-10-05"
+last_verified: "2026-10-02"
+relasi: []
 ---
 
 # Daniel Johan

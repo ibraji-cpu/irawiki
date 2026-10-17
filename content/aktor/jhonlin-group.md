@@ -1,16 +1,13 @@
 ---
 title: Jhonlin Group
 entity_type: organisasi
-relasi:
-  - objek_id: "aktor/andi-syamsuddin-arsyad"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 aliases:
 - jhonlin-group
 - Jhonlin Group
 - jhonlin
 category: aktor
+last_verified: "2026-10-09"
 ---
 # Jhonlin Group
 

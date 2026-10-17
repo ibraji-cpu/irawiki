@@ -8,6 +8,8 @@ tags:
 - kedaulatan-negara
 - utang-luar-negeri
 entity_type: individu
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Ichsanuddin Noorsy

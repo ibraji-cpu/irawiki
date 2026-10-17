@@ -65,6 +65,8 @@ status_hukum: "tidak diketahui"
 risiko_editorial: "tinggi"
 confidence: 4
 last_updated: "2026-10-13"
+last_verified: "2026-10-02"
+relasi: []
 ---
 
 # Anwar Usman

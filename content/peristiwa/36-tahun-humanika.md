@@ -8,16 +8,9 @@ tags:
   - politik
   - sejarah
 entity_type: peristiwa
-relasi:
-  - objek_id: "iraamalia-id"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/prabowo-subianto"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: 2026-09-23
+last_verified: "2026-10-09"
 ---
 
 36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting Bagi Masa Depan Indonesia?

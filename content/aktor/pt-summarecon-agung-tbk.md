@@ -8,12 +8,9 @@ tags:
 - korporasi
 - organisasi
 entity_type: organisasi
-relasi:
-  - objek_id: "aktor/adrianto-pitojo-adhi"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-09-16T03:17:51.709734+00:00'
+last_verified: "2026-10-09"
 ---
 # PT Summarecon Agung Tbk
 

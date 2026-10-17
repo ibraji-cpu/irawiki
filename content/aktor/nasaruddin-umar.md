@@ -8,6 +8,8 @@ tags:
 - tata-kelola-pemerintahan
 - tokoh-agama
 entity_type: individu
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Nasaruddin Umar

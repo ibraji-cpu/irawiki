@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
+- [Deddy Sitorus](./aktor/deddy-sitorus)
+- [Bambang Soesatyo](./aktor/bambang-soesatyo)
 - [Korupsi di Indonesia](./peristiwa/korupsi-di-indonesia)
-- [Dudy Purwagandhi](./aktor/dudy-purwagandhi)
-- [Soeharto Pahlawan Nasional](./peristiwa/soeharto-pahlawan-nasional)
-- [Ahmad Sahroni](./aktor/ahmad-sahroni)
-- [Mardani Ali Sera](./aktor/mardani-ali-sera)
-- [Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR](./analisis/hak-angket-ijazah-gibran)
-- [Soeharto](./aktor/soeharto)
-- [Sengketa Ijazah Wapres Gibran di MK](./peristiwa/sengketa-ijazah-gibran-2026)
-- [Pencalonan Kapolri 2026](./peristiwa/pencalonan-kapolri-2026)
-- [Kepala Kantah Kabupaten Bogor Menjadi Tersangka](./peristiwa/Kepala Kantah Kabupaten Bogor Menjadi Tersangka)
+- [Ahmad Syaikhu](./aktor/ahmad-syaikhu)
+- [Budi Gunawan](./aktor/budi-gunawan)
+- [Joko Widodo](./aktor/joko-widodo)
+- [Perang Ultra Modern dan Geopolitik](./perang-ultra-modern-dan-geopolitik)
+- [Raffi Ahmad](./aktor/raffi-ahmad)
+- [Analisis: Putusan PTUN 50/G Gugatan Gelar Pahlawan Soeharto dan Posisi Hukum Ahli Waris](./analisis/analisis-putusan-ptun-gelar-pahlawan-soeharto)
+- [Reshuffle Kabinet Merah Putih](./reshuffle-kabinet-merah-putih)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)

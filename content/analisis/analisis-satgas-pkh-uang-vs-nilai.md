@@ -14,6 +14,8 @@ fokus: "Membedakan kas nyata vs valuasi aset, dan komposisi revenue recovery vs 
 confidence: 7
 risiko_editorial: "sedang"
 last_updated: "2026-10-06"
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Analisis: Membaca Angka Satgas PKH — Rp52 T Kas vs Rp400 T Valuasi

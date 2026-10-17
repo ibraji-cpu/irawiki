@@ -9,6 +9,8 @@ tags:
 - tokoh-agama
 entity_type: individu
 date: '2026-08-19T19:56:25.692825+00:00'
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Yahya Cholil Staquf

@@ -6,41 +6,9 @@ tags:
 - pengusaha
 - politisi
 entity_type: individu
-relasi:
-  - objek_id: "aktor/kalla-group"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/pt-bukaka-teknik-utama"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "(Komisaris Utama, 1988-2001)"
-  - objek_id: "aktor/pt-bumi-sarana-utama"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "(Direktur Utama, 1988-2001)"
-  - objek_id: "aktor/pt-bukaka-singtel-international"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "(Komisaris Utama, 1995-2001)"
-  - objek_id: "aktor/pt-kalla-inti-karsa"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "(Direktur Utama, 1993-2001)"
-  - objek_id: "aktor/pt-bumi-karsa"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "(Direktur Utama, 1969-2001)"
-  - objek_id: "aktor/aksa-mahmud"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-08-19T19:56:25.330765+00:00'
+last_verified: "2026-10-09"
 ---
 # Muhammad Jusuf Kalla
 

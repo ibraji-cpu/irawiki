@@ -42,6 +42,8 @@ peristiwa_terkait:
 confidence: 5
 risiko_editorial: "sedang"
 last_updated: "2026-10-07"
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima

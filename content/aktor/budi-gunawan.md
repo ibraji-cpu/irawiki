@@ -82,6 +82,8 @@ status_hukum: "bersih"
 risiko_editorial: "sedang"
 confidence: 7
 last_updated: "2026-10-17"
+last_verified: "2026-10-04"
+relasi: []
 ---
 
 # Budi Gunawan

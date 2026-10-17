@@ -15,6 +15,8 @@ status_hukum: "tidak ada masalah hukum"
 risiko_editorial: "rendah"
 confidence: 3
 last_updated: "2026-10-10"
+last_verified: "2026-10-08"
+relasi: []
 ---
 
 # Ahmad Sahroni

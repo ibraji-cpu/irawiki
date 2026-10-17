@@ -7,6 +7,8 @@ tags:
 - pengusaha
 entity_type: individu
 date: '2026-08-19T19:56:25.603961+00:00'
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Sudhamek

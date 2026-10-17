@@ -9,12 +9,7 @@ sumber:
   - url: "https://www.cnbcindonesia.com/news/20261002104005-4-772792"
   - url: "https://www.kompas.tv/nasional/693358"
   - url: "https://www.bbc.com/indonesia/articles/cmly4yeq6r34o"
-relasi:
-  - objek_id: "aktor/gibran-rakabuming-raka"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Tergugat, Wapres RI 2024–"
+relasi: []
 
 tanggal:
 - "2026-09-10"
@@ -42,6 +37,7 @@ confidence: 4
 risiko_editorial: "tinggi"
 
 last_updated: "2026-10-07"
+last_verified: "2026-09-29"
 ---
 
 # Sengketa Ijazah Wapres Gibran di MK

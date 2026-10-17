@@ -25,6 +25,8 @@ status_hukum: "tidak diketahui"
 risiko_editorial: "sedang"
 confidence: 1
 last_updated: "2026-10-01"
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # PT Citra Borneo Indah (CBI Group)

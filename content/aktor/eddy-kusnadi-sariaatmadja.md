@@ -9,6 +9,8 @@ tags:
 status: stub
 entity_type: individu
 date: '2026-08-19T19:56:25.189286+00:00'
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Eddy Kusnadi Sariaatmadja

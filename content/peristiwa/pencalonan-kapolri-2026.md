@@ -62,6 +62,8 @@ sumber:
 confidence: 4
 risiko_editorial: "rendah"
 last_updated: "2026-10-10"
+last_verified: "2026-10-06"
+relasi: []
 ---
 
 # Pencalonan Kapolri 2026

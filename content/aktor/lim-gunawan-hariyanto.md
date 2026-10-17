@@ -6,48 +6,9 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
-relasi:
-  - objek_id: "aktor/harita-group"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/bumitama-agri"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/pt-harita-jayaraya"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/pt-cita-mineral-investindo-tbk"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/pt-tirta-mahakam-resources-tbk"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/pt-trimegah-bangun-persada"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/harita-kencana-securitas"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/pt-bumitama-gunajaya-agro"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/lim-hariyanto"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/lim-hariyanto"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-08-19T19:56:25.354062+00:00'
+last_verified: "2026-10-09"
 ---
 
 # Lim Gunawan Hariyanto

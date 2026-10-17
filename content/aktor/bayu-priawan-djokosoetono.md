@@ -7,12 +7,9 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
-relasi:
-  - objek_id: "aktor/dpp-partai-golkar"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-08-19T19:56:25.136741+00:00'
+last_verified: "2026-10-09"
 ---
 # Bayu Priawan Djokosoetono
 

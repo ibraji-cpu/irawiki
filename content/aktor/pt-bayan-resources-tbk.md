@@ -5,17 +5,14 @@ tags:
 - korporasi
 - organisasi
 entity_type: organisasi
-relasi:
-  - objek_id: "aktor/pt-jhonlin-baratama"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-09-18T02:30:30.092262+00:00'
 aliases:
 - PT Bayan Resources Tbk (BYAN)
 - PT Bayan Resources Tbk
 - bayan-resources
 - Bayan Resources
+last_verified: "2026-10-09"
 ---
 
 # PT Bayan Resources Tbk

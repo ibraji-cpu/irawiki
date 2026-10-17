@@ -10,15 +10,7 @@ tags:
 - korporasi
 - organisasi
 entity_type: organisasi
-relasi:
-  - objek_id: "aktor/andi-syamsuddin-arsyad"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/pt-jhonlin-baratama"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-09-18T02:30:29.596680+00:00'
 ---# PT Jhonlin Agro Raya Tbk
 

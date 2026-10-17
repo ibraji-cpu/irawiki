@@ -7,6 +7,8 @@ tags:
 status: stub
 entity_type: organisasi
 date: '2026-09-16T03:17:49.475155+00:00'
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Kementerian Agraria dan Tata Ruang / Badan Pertanahan Nasional

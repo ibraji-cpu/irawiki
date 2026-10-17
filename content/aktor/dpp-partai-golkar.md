@@ -5,12 +5,9 @@ tags:
 - organisasi
 - partai
 entity_type: organisasi
-relasi:
-  - objek_id: "aktor/fahd-el-fouz"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-09-16T03:17:46.745965+00:00'
+last_verified: "2026-10-09"
 ---
 # DPP Partai Golkar
 

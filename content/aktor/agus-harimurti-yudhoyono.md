@@ -10,6 +10,8 @@ tags:
 - politisi
 entity_type: individu
 date: '2026-08-19T09:50:51.243389+00:00'
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Agus Harimurti Yudhoyono

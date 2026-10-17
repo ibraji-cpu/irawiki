@@ -6,11 +6,7 @@ tags:
 - organisasi
 status: stub
 entity_type: organisasi
-relasi:
-  - objek_id: "aktor/jhonlin-group"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-08-30T05:43:28.684856+00:00'
 ---# Colestar Resources
 

@@ -10,12 +10,7 @@ sumber:
   - url: "https://news.detik.com/berita/d-8708512/daftar-lengkap-pejabat-yang-dilantik-prabowo-hari-ini"
     judul: "Daftar Lengkap Pejabat yang Dilantik Prabowo Hari Ini"
     tanggal: "2026-10-15"
-relasi:
-  - objek_id: "reshuffle-kabinet-merah-putih"
-    predikat: "bagian_dari"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Halaman hub untuk seluruh perombakan Kabinet Merah Putih."
+relasi: []
 tanggal:
 - "2026-10-15"
 lokasi:
@@ -41,6 +36,7 @@ peristiwa_terkait:
 confidence: 5
 risiko_editorial: "sedang"
 last_updated: "2026-10-15"
+last_verified: "2026-10-15"
 ---
 
 # Pelantikan Pejabat 15 Oktober 2026

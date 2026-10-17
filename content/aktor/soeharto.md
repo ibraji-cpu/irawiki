@@ -39,14 +39,9 @@ status_hukum: "bermasalah (pernah tersangka; penuntutan dihentikan via SKP3 2006
 
 risiko_editorial: "tinggi"
 confidence: 5
-relasi:
-  - objek_id: "peristiwa/soeharto-pahlawan-nasional"
-    predikat: "terkait_dengan"
-    confidence: "high"
-  - objek_id: "aktor/prabowo-subianto"
-    predikat: "terkait_dengan"
-    confidence: "high"
+relasi: []
 last_updated: "2026-10-12"
+last_verified: "2026-02-09"
 ---
 
 # Soeharto

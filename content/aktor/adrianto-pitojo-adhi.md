@@ -19,6 +19,8 @@ jabatan_aktif:
 - "Presiden Direktur PT Summarecon Agung Tbk (status perlu verifikasi pasca-penahanan)"
 afiliasi_bisnis:
 - "[[PT Summarecon Agung Tbk]]"
+last_verified: "2026-09-15"
+relasi: []
 ---
 
 # Adrianto Pitojo Adhi

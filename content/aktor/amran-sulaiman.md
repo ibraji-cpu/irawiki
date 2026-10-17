@@ -71,6 +71,8 @@ status_hukum: "tidak diketahui"
 risiko_editorial: "sedang"
 confidence: 4
 last_updated: "2026-10-13"
+last_verified: "2025-10-09"
+relasi: []
 ---
 
 # Andi Amran Sulaiman

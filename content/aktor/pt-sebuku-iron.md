@@ -6,12 +6,9 @@ tags:
 - organisasi
 status: stub
 entity_type: organisasi
-relasi:
-  - objek_id: "aktor/sahbirin-noor"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-08-30T05:43:28.701237+00:00'
+last_verified: "2026-10-09"
 ---
 # PT Sebuku Iron Lateritic Ores
 

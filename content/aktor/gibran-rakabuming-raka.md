@@ -64,6 +64,8 @@ status_hukum: "bermasalah (gugatan MK berlangsung)"
 risiko_editorial: "tinggi"
 confidence: 4
 last_updated: "2026-10-03"
+last_verified: "2026-10-03"
+relasi: []
 ---
 
 # Gibran Rakabuming Raka

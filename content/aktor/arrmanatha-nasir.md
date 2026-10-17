@@ -61,6 +61,8 @@ status_hukum: "tidak diketahui"
 risiko_editorial: "rendah"
 confidence: 4
 last_updated: "2026-10-07"
+last_verified: "2026-10-01"
+relasi: []
 ---
 
 # Arrmanatha Nasir

@@ -8,15 +8,8 @@ category: aktor
 tags:
 - organization
 entity_type: individu
-relasi:
-  - objek_id: "aktor/pt-bayan-resources-tbk"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "peristiwa/sepak-terjang-haji-isam"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
+last_verified: "2026-10-09"
 ---
 
 # moodys-ratings

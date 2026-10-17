@@ -6,16 +6,9 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
-relasi:
-  - objek_id: "aktor/salim-group"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/pt-indofood-sukses-makmur-tbk"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-09-12T15:07:15.127376+00:00'
+last_verified: "2026-10-09"
 ---
 
 # Anthoni Salim

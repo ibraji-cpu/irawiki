@@ -41,6 +41,8 @@ risiko_editorial: "rendah"
 confidence: 4
 status: stub
 last_updated: "2026-10-06"
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # R. Abdullah

@@ -56,22 +56,8 @@ confidence: 4
 risiko_editorial: "sedang"
 last_updated: "2026-10-10"
 
-relasi:
-- objek_id: "aktor/sontang-coin-manurung"
-  predikat: "terkait_dengan"
-  confidence: "high"
-  sumber: "KPK"
-  keterangan: "Kepala Kantor Pertanahan Kabupaten Bogor I; ditetapkan sebagai tersangka oleh KPK."
-- objek_id: "aktor/adrianto-pitojo-adhi"
-  predikat: "terkait_dengan"
-  confidence: "high"
-  sumber: "KPK"
-  keterangan: "Presiden Direktur PT Summarecon Agung Tbk; ditetapkan sebagai tersangka."
-- objek_id: "aktor/nusron-wahid"
-  predikat: "terkait_dengan"
-  confidence: "medium"
-  sumber: "KPK"
-  keterangan: "Menteri ATR/BPN; dipanggil KPK sebagai saksi pada 7 Oktober 2026; sejumlah tersangka disebut sebagai orang kepercayaannya."
+relasi: []
+last_verified: "2026-10-09"
 ---
 
 # Kepala Kantah Kabupaten Bogor Menjadi Tersangka

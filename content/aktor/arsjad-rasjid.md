@@ -7,6 +7,8 @@ tags:
 - pengusaha
 entity_type: individu
 date: '2026-08-19T19:56:25.113287+00:00'
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Arsjad Rasjid

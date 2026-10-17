@@ -26,6 +26,8 @@ jabatan_historis:
 - "Gubernur Lemhannas (1998–1999)"
 - "Danjen Kopassus (Jul 1993–Agu 1994)"
 partai: "Golkar"
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Agum Gumelar

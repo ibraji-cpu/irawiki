@@ -8,11 +8,8 @@ tags:
 - organisasi
 - utang-infrastruktur
 entity_type: organisasi
-relasi:
-  - objek_id: "aktor/beijing-yawan-hsr-co-ltd"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
+last_verified: "2026-10-09"
 ---
 # PT Kereta Cepat Indonesia China (PT KCIC)
 

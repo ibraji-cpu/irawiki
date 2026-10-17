@@ -15,6 +15,8 @@ nama_lengkap: "Achmad Taufik Husein"
 nama_alias: []
 jabatan_aktif:
 - "Plt. Direktur Penyidikan KPK"
+last_verified: "2026-09-22"
+relasi: []
 ---
 
 # Achmad Taufik Husein

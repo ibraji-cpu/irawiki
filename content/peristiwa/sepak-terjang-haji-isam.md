@@ -30,8 +30,13 @@ risiko_editorial: |
        a. Dokumen/Aksi Hukum Riil & Definitif: Menandai eksekusi formal CSPA 10.000.000.500 saham antara Low Tuck Kwong, Elaine Low, dan PT Jhonlin Baratama pada 16 September 2026.
        b. Signifikansi Material Skala Nasional: Nilai pasar kepemilikan mencapai ±Rp115,25 triliun (berdasarkan harga saham saat pengumuman Rp11.525), menjadikannya akuisisi terbesar di BEI sepanjang September 2026.
        c. Perubahan Struktur Kepemilikan Definitif: Mengubah peta kendali emiten batu bara terbesar kedua di Indonesia secara riil (Haji Isam masuk 30%, keluarga Low mempertahankan 32,25%).
-       d. Keterbukaan Informasi Regulasi Resmi: Diumumkan resmi kepada OJK & BEI dan memicu penetapan status High Shareholding Concentration (HSC); ditautkan dua arah dengan hub).
-relasi:
+       d. Keterbukaan Informasi Regulasi Resmi: Diumumkan resmi kepada OJK & BEI dan memicu penetapan status High Shareholding Concentration (HSC); ditautkan dua arah dengan hub.
+       Koreksi tesis MoneyTalk.id (16 Okt 2026) "Antara Andara dan Tambang Kalimantan":
+       artikel membangun narasi "teka-teki" bahwa nama Haji Isam absen dari daftar pemegang
+       saham >1% RANS (dugaan nominee/SPV). Data KSEI per 31 Agustus 2026 — tersedia
+       SEBELUM artikel terbit — mencantumkan Haji Isam 1,40%. Narasi anomali tidak
+       didukung data terkini.
+       relasi:
   - objek_id: "aktor/andi-syamsuddin-arsyad"
     predikat: "terkait_dengan"
     confidence: "high"
@@ -53,6 +58,13 @@ relasi:
   - objek_id: "peristiwa/Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong"
     predikat: "terkait_dengan"
     confidence: "high"
+  - objek_id: "aktor/raffi-ahmad"
+    predikat: "terkait_dengan"
+    confidence: "high"
+    sumber:
+      - url: "https://www.investor.id/market/454715/para-konglomerat-di-pusaran-bisnis-raffi-ahmad"
+        tanggal: "2026-09"
+    keterangan: "Raffi Ahmad menyebut Haji Isam 'mentor' bisnis; saham RANS Haji Isam 1,40% tercatat data KSEI 31 Agustus 2026"
 sumber:
   - url: "https://www.cnbcindonesia.com/market/20260927174800-17-771259/akuisisi-byan-oleh-jhonlin-tak-bebani-jarr-ini-faktanya"
     tanggal: "2026-09-27"
@@ -68,7 +80,21 @@ sumber:
     tanggal: "2026-09-26"
   - url: "https://www.bloombergtechnoz.com/detail-news/122336/bahlil-penerbitan-rkab-bayan-byan-tak-terkait-saham-haji-isam"
     tanggal: "2026-09-18"
-last_updated: "2026-10-09"
+  - url: "https://www.investor.id/market/457516/nasib-bayan-resources-byan-kini"
+    tanggal: "2026-10"
+  - url: "https://www.investor.id/market/454715/para-konglomerat-di-pusaran-bisnis-raffi-ahmad"
+    tanggal: "2026-09"
+  - url: "https://moneytalk.id/2026/10/16/antara-andara-dan-tambang-kalimantan-mengurai-teka-teki-keterlibatan-modal-ekstraktif-di-balik-imperium-rans-entertainment/"
+    tanggal: "2026-10-16"
+  - url: "https://stockwatch.id/rans-resmi-ipo-di-bei-raffi-ahmad-dan-nagita-kunci-komitmen-kendali-perseroan/"
+    tanggal: "2026-07-10"
+  - url: "https://www.receh.in/2026/08/jejaring-bisnis-raffi-ahmad-di-bursa.html"
+    tanggal: "2026-08"
+  - url: "https://www.idnfinancials.com/id/news/69988/rans-milik-raffi-ahmad-ditinggal-21-ribu-investor-harga-ambles-13-3"
+    tanggal: "2026-10"
+last_updated: "2026-10-16"
+last_verified: "2026-10-16"
+relasi: []
 ---
 
 # Sepak Terjang Haji Isam
@@ -86,6 +112,10 @@ Kendati manajemen menepis isu tersebut, pemegang saham pengendali ([[dato-low-tu
 Laporan investigasi Bloomberg mengungkapkan bahwa kendati dibantah secara resmi oleh manajemen perseroan, pembicaraan negosiasi nyata antara pengendali utama [[dato-low-tuck-kwong|Low Tuck Kwong]] dengan konsorsium yang dipimpin [[andi-syamsuddin-arsyad|Haji Isam]] sedang berlangsung intensif di balik layar.
 
 Laporan ini memicu perubahan persepsi di kalangan pelaku pasar modal bahwa manuver akuisisi bukan sekadar kabar burung melainkan proses penjajakan transaksi riil.
+
+### 2026-08-31 — Data KSEI Catat Haji Isam Pegang 1,40% Saham RANS
+
+- Data KSEI per 31 Agustus 2026 mencatat [[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad (Haji Isam)]] memegang 176.470.500 saham (1,40%) PT RANS Entertainment Indonesia Tbk — mengkonfirmasi klaim publik [[raffi-ahmad|Raffi Ahmad]] bahwa Haji Isam memegang di atas 1% saham RANS.
 
 ### 2026-09-02 — Saham Emiten Afiliasi Jhonlin Menguat Signifikan
 Memasuki awal September, euforia pasar menyebar ke emiten-emiten yang terafiliasi dengan jaringan bisnis [[andi-syamsuddin-arsyad|Haji Isam]]. Saham PT Primanugraha Permata (PGUN) melonjak hingga 75% dalam tempo sepekan akibat spekulasi pasar terkait restrukturisasi dan konsolidasi aset konglomerasi Jhonlin Group.
@@ -127,9 +157,15 @@ Di tengah bantahan resmi manajemen BCA, data perdagangan bursa mencatat adanya t
 
 Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saham BYAN oleh PT Jhonlin Baratama (Haji Isam) resmi tercatat sebagai aksi korporasi pengambilalihan emiten terbesar di pasar modal Indonesia sepanjang September 2026, melampaui sejumlah aksi korporasi lain seperti akuisisi rumah sakit oleh Siloam Hospitals (SILO Rp3,47 T) dan ekspansi migas Oxala Energy (PIPA).
 
+### 2026-10-07 — Rampungnya Akuisisi 30,25% BYAN oleh PT Jhonlin Baratama
+
+- PT Jhonlin Baratama merampungkan pembelian 10.084.088.370 saham (30,25%) PT Bayan Resources Tbk di pasar negosiasi @Rp2.588/saham, total ~Rp26,09 triliun. Penjual: [[dato-low-tuck-kwong|Low Tuck Kwong]] (10.067.421.703 saham) dan [[elaine-low|Elaine Low]] (16.666.667 saham). Low Tuck Kwong tetap menjadi pengendali BYAN; tidak ada perubahan pengendalian.
+
 ## Aktor yang Terlibat
 
 - [[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad (Haji Isam)]] — Pengusaha nasional asal Batulicin, Kalimantan Selatan; pengendali utama Jhonlin Group dan UBO dari PT Jhonlin Baratama serta PT Jhonlin Agro Raya Tbk.
+- [[raffi-ahmad|Raffi Ahmad]] — Pengusaha entertainment; menyebut Haji Isam "mentor" bisnis | Pemegang saham pengendali RANS 62,93%; Haji Isam tercatat 1,40% RANS (data KSEI per 31 Agustus 2026).
+- PT RANS Entertainment Indonesia Tbk (RANS) — Emiten hiburan | IPO BEI 10 Juli 2026; Haji Isam tercatat pemegang 1,40% (176.470.500 saham, data KSEI per 31 Agustus 2026).
 - [[pt-bayan-resources-tbk|PT Bayan Resources Tbk (BYAN)]] — Salah satu emiten produsen batubara terbesar di Indonesia; target aksi akuisisi 30% saham oleh PT Jhonlin Baratama.
 - [[pt-jhonlin-baratama|PT Jhonlin Baratama]] — Entitas kontraktor dan pertambangan batubara Jhonlin Group; pihak pembeli resmi 10.000.000.500 saham BYAN.
 - [[dato-low-tuck-kwong|Dato' Low Tuck Kwong]] — Pendiri dan pemegang saham pengendali utama BYAN yang melepas porsi kepemilikan kepada Jhonlin Baratama.

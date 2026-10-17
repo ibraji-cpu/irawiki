@@ -25,6 +25,8 @@ partai: "PDI Perjuangan"
 confidence: 3
 risiko_editorial: "sedang"
 last_updated: "2026-10-07"
+last_verified: "2026-10-06"
+relasi: []
 ---
 
 # PDI Perjuangan

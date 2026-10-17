@@ -18,10 +18,7 @@ risiko_editorial: |
   tunggal dari dokumen ringkasan kasus dan ditandai sebagai dilaporkan (reported),
   belum terverifikasi dari sumber independen. Nama penggugat ditulis sebagaimana
   tercantum dalam dokumen sumber; alamat pribadi tidak dicantumkan.
-relasi:
-  - objek_id: "aktor/prabowo-subianto"
-    predikat: "terkait_dengan"
-    confidence: "high"
+relasi: []
 sumber:
   - url: "https://summarizeyou.com/video-39330-full-prabowo-anugerahkan-10-nama-pahlawan-nasional-2025-ada-gus-dur-hingga-soeharto-beritasatu"
     tanggal: "2025-11-10"
@@ -32,6 +29,7 @@ sumber:
   - url: "https://drive.google.com/file/d/1JnadHSNQiTInxWopfehkZ4WHQXAYSKCc/view?usp=drive_link"
     tanggal: "2026-10-14"
 last_updated: "2026-10-14"
+last_verified: "2026-10-14"
 ---
 
 # Soeharto Pahlawan Nasional

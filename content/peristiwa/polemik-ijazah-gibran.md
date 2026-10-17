@@ -26,25 +26,7 @@ risiko_editorial: |
   - Halaman yang dipertahankan (2 halaman):
     1. 2026-10-06-putusan-mk-phpu-ijazah-gibran.md (Milestone kriteria §3: amar putusan pengadilan konstitusi tertinggi yang bersifat final dan mengikat pada Perkara Nomor 01/PHPU.PRES-XXIV/2026, ditautkan dua arah di entri 2026-10-06)
     2. sengketa-ijazah-gibran-2026.md (Halaman analisis mendalam mengenai anatomi sengketa hukum di MK, temuan bukti pemohon, dan risiko konstitusional, ditautkan dua arah pada bagian Analisis Terkait)
-relasi:
-  - objek_id: "aktor/gibran-rakabuming-raka"
-    predikat: "terkait_dengan"
-    confidence: "high"
-  - objek_id: "aktor/joko-widodo"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-  - objek_id: "aktor/denny-indrayana"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-  - objek_id: "aktor/bambang-widjojanto"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-  - objek_id: "aktor/mahkamah-konstitusi"
-    predikat: "terkait_dengan"
-    confidence: "high"
-  - objek_id: "peristiwa/2026-10-06-putusan-mk-phpu-ijazah-gibran"
-    predikat: "terkait_dengan"
-    confidence: "high"
+relasi: []
 sumber:
   - url: "https://www.detik.com/jabar/berita/d-8111040/jokowi-berkumis-tipis-buka-bukaan-soal-sekolah-gibran-di-singapura"
     tanggal: "2025-09-14"
@@ -63,6 +45,7 @@ sumber:
   - url: "https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran"
     tanggal: "2026-09-30"
 last_updated: "2026-10-09"
+last_verified: "2026-10-09"
 ---
 
 # Polemik Ijazah Gibran

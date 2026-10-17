@@ -56,6 +56,8 @@ status_hukum: "tidak diketahui"
 risiko_editorial: "sedang"
 confidence: 4
 last_updated: "2026-10-02"
+last_verified: "2026-10-01"
+relasi: []
 ---
 
 # Dudung Abdurachman

@@ -31,57 +31,7 @@ sumber:
   - url: "https://akurat.co/nasional/896052/kawal-ruu-pelindungan-ketenagakerjaan-buruh-optimistis-regulasi-baru-lebih-baik-dari-uu-cipta-kerja"
     judul: "Kawal RUU Pelindungan Ketenagakerjaan, Buruh Optimistis Regulasi Baru Lebih Baik dari UU Cipta Kerja"
     tanggal: "2026-10-04"
-relasi:
-  - objek_id: "aktor/puan-maharani"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Ketua DPR RI yang memimpin dan mengajukan pertanyaan persetujuan dalam Rapat Paripurna pengesahan (Bloomberg Technoz, 6 Okt 2026)."
-  - objek_id: "aktor/putih-sari"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Ketua Panja RUU Pelindungan Ketenagakerjaan; menyampaikan jumlah 23 bab dan 313 pasal dalam paripurna (Bloomberg Technoz, 6 Okt 2026)."
-  - objek_id: "aktor/sufmi-dasco-ahmad"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Wakil Ketua DPR RI yang memimpin rapat kerja tingkat I Komisi IX, 5 Okt 2026 (Infonasional)."
-  - objek_id: "aktor/yassierli"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Menteri Ketenagakerjaan; menyatakan pemerintah berpandangan RUU memperkuat perlindungan ketenagakerjaan (Bisnis.com, 6 Okt 2026)."
-  - objek_id: "aktor/felly-estelita-runtuwene"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Ketua Komisi IX DPR RI yang hadir dalam rapat kerja tingkat I, 5 Okt 2026 (Infonasional)."
-  - objek_id: "organisasi/dpr-ri"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Institusi yang mengesahkan RUU menjadi UU dalam Rapat Paripurna (Bloomberg Technoz, 6 Okt 2026)."
-  - objek_id: "organisasi/komisi-ix-dpr"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Komisi pengusul inisiatif; menyepakati RUU dibawa ke paripurna pada rapat kerja tingkat I, 5 Okt 2026 (Infonasional)."
-  - objek_id: "organisasi/apindo"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Asosiasi Pengusaha Indonesia; menyampaikan keberatan atas pengetatan PKWT dan alih daya menjelang pengesahan (Bloomberg Technoz, 6 Okt 2026)."
-  - objek_id: "organisasi/fsp-kep-spsi"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Federasi serikat pekerja yang mengawal proses pengesahan dan menilai RUU lebih baik dari UU Cipta Kerja (Akurat.co; Todaynews.id, 4-5 Okt 2026)."
-  - objek_id: "uu-pelindungan-ketenagakerjaan-2026"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "UU yang dihasilkan dari peristiwa ini."
+relasi: []
 
 tanggal:
 - "2026-10-06"
@@ -108,6 +58,7 @@ peristiwa_terkait: []
 confidence: 6
 risiko_editorial: "rendah"
 last_updated: "2026-10-06"
+last_verified: "2026-10-06"
 ---
 
 # Pengesahan UU Pelindungan Ketenagakerjaan 2026

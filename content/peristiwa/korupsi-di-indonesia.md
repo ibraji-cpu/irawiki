@@ -14,13 +14,7 @@ risiko_editorial: |
   hukum setiap pihak mengikuti pernyataan resmi aparat penegak hukum
   (tersangka bukan vonis; terdakwa bukan terpidana). Klaim yang hanya
   bersumber tunggal ditandai eksplisit dan tidak dijadikan fakta final.
-relasi:
-  - objek_id: "aktor/kpk"
-    predikat: "terkait_dengan"
-    confidence: "high"
-  - objek_id: "peristiwa/kepala-kantah-kabupaten-bogor-menjadi-tersangka"
-    predikat: "terkait_dengan"
-    confidence: "high"
+relasi: []
 sumber:
   - url: "https://id.wikipedia.org/wiki/Komisi_Pemberantasan_Korupsi_Republik_Indonesia"
     tanggal: "2026-10-15"
@@ -41,6 +35,7 @@ sumber:
   - url: "https://langit7.id/read/62903/1/kpk-tetapkan-5-tersangka-kasus-bnpb-dan-ralat-sita-uang-rp33-m-bukan-rp14-m-1792023045"
     tanggal: "2026-10-15"
 last_updated: "2026-10-15"
+last_verified: "2026-10-17"
 ---
 
 # Korupsi di Indonesia

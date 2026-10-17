@@ -5,20 +5,9 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
-relasi:
-  - objek_id: "aktor/pt-batu-gunung-mulia"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/pt-binuang-mitra-bersama"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/muhammad-hatta"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-08-19T19:56:25.704294+00:00'
+last_verified: "2026-10-09"
 ---
 
 # Zaini Mahdi

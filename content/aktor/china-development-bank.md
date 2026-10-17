@@ -8,6 +8,8 @@ tags:
 - organisasi
 - utang-luar-negeri
 entity_type: organisasi
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # China Development Bank

@@ -7,6 +7,8 @@ tags:
 - kebijakan-fiskal
 - politisi
 entity_type: individu
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Purbaya Yudhi Sadewa

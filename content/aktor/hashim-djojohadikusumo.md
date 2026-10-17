@@ -8,12 +8,9 @@ tags:
 - pengusaha
 - politisi
 entity_type: individu
-relasi:
-  - objek_id: "aktor/prabowo-subianto"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-08-19T19:56:25.246808+00:00'
+last_verified: "2026-10-09"
 ---
 
 # Hashim Djojohadikusumo

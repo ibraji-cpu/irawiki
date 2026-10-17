@@ -53,6 +53,8 @@ kategori_analisis:
 confidence: 5
 risiko_editorial: "tinggi"
 last_updated: "2026-10-10"
+last_verified: "2026-10-08"
+relasi: []
 ---
 
 # Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR

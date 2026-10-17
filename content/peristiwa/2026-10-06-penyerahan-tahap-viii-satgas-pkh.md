@@ -26,6 +26,8 @@ peristiwa_terkait:
 confidence: 8
 risiko_editorial: "rendah"
 last_updated: "2026-10-06"
+last_verified: "2026-10-06"
+relasi: []
 ---
 
 # Penyerahan Tahap VIII Satgas PKH ke Negara

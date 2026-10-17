@@ -9,16 +9,9 @@ tags:
 - pertumbuhan ekonomi
 - politisi
 entity_type: individu
-relasi:
-  - objek_id: "aktor/fajar-surya-wisesa"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/persada-capital-investama"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-08-19T04:43:49.904836+00:00'
+last_verified: "2026-10-09"
 ---
 
 # Airlangga Hartarto

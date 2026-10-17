@@ -7,16 +7,9 @@ tags:
 - politisi
 - ulama
 entity_type: individu
-relasi:
-  - objek_id: "aktor/pt-krakatau-daya-listrik"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/kpk"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-09-08T00:34:09.470269+00:00'
+last_verified: "2026-10-09"
 ---
 
 # Ishfah Abidal Aziz

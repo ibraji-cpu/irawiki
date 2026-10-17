@@ -11,25 +11,7 @@ sumber:
   - url: "https://afu.id/gaji-26-wantimpres-tembus-rp2-miliar-sebulan-belum-termasuk-fasilitas-dan-sekretaris"
     judul: "Gaji 26 Wantimpres Tembus Rp2 Miliar Sebulan, Belum Termasuk Fasilitas dan Sekretaris"
     tanggal: "2026-10-02"
-relasi:
-  - subjek_id: "aktor/prabowo-subianto"
-    objek_id: "aktor/pratikno"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Presiden melantik Pratikno sebagai Ketua Wantimpres."
-  - subjek_id: "aktor/prabowo-subianto"
-    objek_id: "aktor/hatta-rajasa"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Presiden melantik Hatta Rajasa sebagai Wakil Ketua Wantimpres."
-  - subjek_id: "aktor/prabowo-subianto"
-    objek_id: "aktor/rocky-gerung"
-    predikat: "terkait_dengan"
-    confidence: "medium"
-    sumber: null
-    keterangan: "Presiden melantik Rocky Gerung sebagai anggota Wantimpres."
+relasi: []
 
 tanggal:
 - "2026-10-02"
@@ -77,6 +59,7 @@ peristiwa_terkait: []
 confidence: 5
 risiko_editorial: "sedang"
 last_updated: "2026-10-04"
+last_verified: "2026-10-02"
 ---
 
 # Pelantikan 26 Anggota Wantimpres 2 Oktober 2026

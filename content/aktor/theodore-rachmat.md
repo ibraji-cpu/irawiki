@@ -8,16 +8,9 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
-relasi:
-  - objek_id: "aktor/triputra-group"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/alamtri-resources"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-09-12T15:07:15.308065+00:00'
+last_verified: "2026-10-09"
 ---
 
 # Theodore Permadi Rachmat

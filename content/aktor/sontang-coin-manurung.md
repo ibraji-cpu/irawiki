@@ -6,6 +6,8 @@ tags:
 status: stub
 entity_type: individu
 date: '2026-09-16T04:00:40.278616+00:00'
+last_verified: "2026-10-09"
+relasi: []
 ---
 
 # Sontang Coin Manurung

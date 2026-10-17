@@ -80,6 +80,8 @@ status_hukum: "bersih"
 risiko_editorial: "rendah"
 confidence: 7
 last_updated: "2026-10-17"
+last_verified: "2025-06-04"
+relasi: []
 ---
 
 # Ahmad Syaikhu

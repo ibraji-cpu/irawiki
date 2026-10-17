@@ -6,16 +6,9 @@ tags:
 - individu
 - pengusaha
 entity_type: individu
-relasi:
-  - objek_id: "aktor/pt-kapal-api-global"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/agil-langgeng"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-08-19T19:56:25.571582+00:00'
+last_verified: "2026-10-09"
 ---
 
 # Soedomo Mergonoto

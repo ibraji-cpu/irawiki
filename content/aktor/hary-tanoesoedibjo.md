@@ -8,12 +8,9 @@ tags:
 - pengusaha
 - politisi
 entity_type: individu
-relasi:
-  - objek_id: "aktor/pt-bhakti-coal-resources"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
+relasi: []
 date: '2026-08-19T09:50:51.318753+00:00'
+last_verified: "2026-10-09"
 ---
 
 # Hary Tanoesoedibjo
