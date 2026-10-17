@@ -23,7 +23,10 @@ sumber:
   - tanggal: "2026-09-11"
 relasi: []
 date: '2026-09-26'
----# Andi Syamsuddin Arsyad (Haji Isam)
+last_verified: 2026-10-18
+
+---
+# Andi Syamsuddin Arsyad (Haji Isam)
 
 ## Identitas
 

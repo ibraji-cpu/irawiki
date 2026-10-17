@@ -8,7 +8,10 @@ status: stub
 entity_type: individu
 relasi: []
 date: '2026-08-30T05:43:28.695566+00:00'
----# Alphington Universal
+last_verified: 2026-10-18
+
+---
+# Alphington Universal
 
 ## Catatan
 Disebut dalam skema transfer pricing ekspor batubara [[jhonlin-group|Jhonlin Group]]

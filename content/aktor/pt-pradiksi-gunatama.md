@@ -8,7 +8,10 @@ aliases:
 - PT Pradiksi Gunatama
 - PGUN
 category: aktor
----# pt-pradiksi-gunatama
+last_verified: 2026-10-18
+
+---
+# pt-pradiksi-gunatama
 
 ## Atribut Data
 

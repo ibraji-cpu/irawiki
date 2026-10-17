@@ -10,7 +10,11 @@ tags:
 - politisi
 entity_type: individu
 date: '2026-08-19T09:50:51.389023+00:00'
----# Zulkifli Hasan
+relasi: []
+last_verified: 2026-10-18
+
+---
+# Zulkifli Hasan
 
 ## Jabatan Aktif
 - Menteri Koordinator Bidang Pangan Kabinet Merah Putih (2024–sekarang)

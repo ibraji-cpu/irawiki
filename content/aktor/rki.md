@@ -6,7 +6,10 @@ aliases:
 - Republik Korpora Indonesia (RKI)
 - Republik Korpora Indonesia
 category: aktor
----# Republik Korpora Indonesia (RKI)
+last_verified: 2026-10-18
+
+---
+# Republik Korpora Indonesia (RKI)
 
 Republik Korpora Indonesia (RKI) atau Republikorp adalah perusahaan infrastruktur dan rantai pasok maritim yang dimiliki oleh [[Norman Joesoef]]. Perusahaan ini memainkan peran penting dalam konsolidasi industri pertambangan nasional melalui kemitraannya dengan [[Jhonlin Group]] dan [[PT Bayan Resources Tbk (BYAN)]].
 

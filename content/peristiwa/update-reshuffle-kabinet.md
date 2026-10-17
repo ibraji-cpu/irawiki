@@ -11,3 +11,9 @@ peristiwa_terkait:
 - "[[Satgas PKH]]"
 
 catatan_update: "Tambah koneksi ke penyerahan tahap VIII [[satgas-pkh|Satgas PKH]] (6 Okt 2026) sebagai bagian dari rangkaian penataan posisi strategis pemerintahan."
+relasi: []
+last_verified: 2026-10-18
+
+---
+
+*Catatan kerja: halaman ini adalah catatan update untuk hub reshuffle kabinet.*
