@@ -8,7 +8,10 @@ status: stub
 entity_type: organisasi
 relasi: []
 date: '2026-08-30T05:43:28.684856+00:00'
----# Colestar Resources
+last_verified: 2026-10-18
+
+---
+# Colestar Resources
 
 ## Catatan
 Entitas offshore yang diduga digunakan untuk mengalirkan ekspor batubara [[jhonlin-group|Jhonlin Group]]
