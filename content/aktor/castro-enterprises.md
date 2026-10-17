@@ -8,7 +8,10 @@ status: stub
 entity_type: individu
 relasi: []
 date: '2026-08-30T05:43:28.690266+00:00'
----# Castro Enterprises
+last_verified: 2026-10-18
+
+---
+# Castro Enterprises
 
 ## Catatan
 Disebut dalam skema transfer pricing ekspor batubara [[jhonlin-group|Jhonlin Group]]
