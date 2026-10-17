@@ -6,7 +6,10 @@ aliases:
 - pt-jhonlin-baratama
 - PT Jhonlin Baratama
 category: aktor
----# pt-jhonlin-baratama
+last_verified: 2026-10-18
+
+---
+# pt-jhonlin-baratama
 
 ## Atribut Data
 
