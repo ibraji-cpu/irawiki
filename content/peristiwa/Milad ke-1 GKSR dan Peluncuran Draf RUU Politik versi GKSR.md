@@ -2,7 +2,7 @@
 title: "Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR"
 description: Delapan partai nonparlemen GKSR meluncurkan Naskah Akademik dan Draf RUU Pemilu/Politik versi mereka pada Milad ke-1 di DPP Partai Ummat.
 date: 2026-10-01
-updated: '2026-10-17'
+updated: '2026-10-20'
 tags:
 - peristiwa
 - pemilu
@@ -41,18 +41,35 @@ peristiwa_terkait: []
 
 confidence: 5
 risiko_editorial: "rendah"
-last_updated: "2026-09-27"
+last_updated: "2026-10-20"
 last_verified: "2026-10-09"
 ---
 
 # Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR
 
-> **Kronologi Singkat:** Delapan partai politik nonparlemen yang tergabung dalam Gerakan Kedaulatan Suara Rakyat (GKSR) meluncurkan Naskah Akademik dan Draf RUU Pemilu/Politik versi GKSR pada peringatan Milad ke-1 GKSR di DPP Partai Ummat, Jakarta. GKSR menuntut ambang batas parlemen (*parliamentary threshold*) diturunkan menjadi maksimal 1% dan pemberlakuan mekanisme *stembus accord* pra-pemilu.
+## Ringkasan
+
+> **Ringkasan Topik:** Delapan partai politik nonparlemen yang tergabung dalam Gerakan Kedaulatan Suara Rakyat (GKSR) meluncurkan Naskah Akademik dan Draf RUU Pemilu/Politik versi GKSR pada peringatan Milad ke-1 GKSR di DPP Partai Ummat, Jakarta. GKSR menuntut ambang batas parlemen (*parliamentary threshold*) diturunkan menjadi maksimal 1% dan pemberlakuan mekanisme *stembus accord* pra-pemilu.
+
+## Kenapa penting buat Gen Z
+
+Perubahan ambang batas parlemen menentukan apakah suara pemilih muda untuk partai kecil berubah menjadi kursi. GKSR, koalisi delapan partai nonparlemen, memperingati Milad ke-1 dan meluncurkan draf RUU Politik versi mereka pada 27 September 2026. Tuntutannya: ambang batas parlemen turun dari 4 persen menjadi 1 persen, dengan dasar Putusan MK Nomor 116/PUU-XXI/2023.
+
+## Fakta kunci
+
+- **Tanggal:** 27 September 2026, markas GKSR.
+- **Peserta:** 8 partai politik nonparlemen.
+- **Tuntutan:** ambang batas parlemen 1 persen, dari 4 persen.
+- **Dasar hukum:** Putusan MK Nomor 116/PUU-XXI/2023.
+- **Dokumen:** Naskah Akademik dan Draf RUU Politik versi GKSR, 200+ halaman, diluncurkan 27 September 2026.
 
 ## Kronologi
 
-- **2026-09-27** — GKSR menggelar peringatan ulang tahun (Milad) ke-1 bertempat di markas DPP Partai Ummat, Jakarta, sekaligus meluncurkan Naskah Akademik dan Draf RUU Politik versi GKSR setebal 200+ halaman.
-- **2026-09-27** — Rangkaian diskusi publik bertajuk *"Kedaulatan Rakyat versus Parliamentary Threshold"* digelar dengan menghadirkan pimpinan GKSR serta akademisi hukum tata negara.
+### 2026-09-27 — Milad ke-1 dan Peluncuran Draf RUU Politik 200+ Halaman
+GKSR menggelar peringatan Milad ke-1 di markas DPP Partai Ummat, Jakarta, sekaligus meluncurkan Naskah Akademik dan Draf RUU Politik versi GKSR setebal 200+ halaman.
+
+### 2026-09-27 — Diskusi Publik "Kedaulatan Rakyat versus Parliamentary Threshold"
+Rangkaian diskusi publik digelar dengan menghadapkan pimpinan GKSR dan akademisi hukum tata negara pada soal ambang batas parlemen.
 
 ## Aktor yang Terlibat
 
@@ -83,3 +100,11 @@ GKSR mengkaji 406 Putusan MK terkait empat undang-undang politik (UU Pemilu, UU 
 ## Sumber
 
 - Siaran Pers Resmi GKSR: *Partai Nonparlemen Minta Ambang Batas Parlemen Menjadi 1%, Partai Ummat Menjadi Tuan Rumah Milad 1 GKSR* (Jakarta, 2026).
+
+## Catatan presisi
+
+- **Terverifikasi:** tanggal 27 September 2026 dan tuntutan ambang batas 1 persen tercatat di halaman ini.
+- **Halaman ganda:** peristiwa yang sama tercatat di `content/milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr.md` dengan tanggal 26 September 2026 dan `entity_id` berbeda; selisih tanggal belum dijelaskan sumber.
+- **Sumber internal:** bagian Sumber memakai siaran pers GKSR.
+- **Celah data:** jumlah hadirin dan daftar lengkap delapan partai belum dirinci.
+- **Batas interpretasi:** halaman ini tidak menilai peluang draf dibahas DPR.

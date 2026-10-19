@@ -2,7 +2,7 @@
 title: "Analisis: Taktik Komunikasi GKSR dalam Peluncuran Naskah Akademik RUU Politik"
 description: Analisis taktik komunikasi di balik peluncuran Naskah Akademik dan Draf RUU Politik versi GKSR pada Milad ke-1, 26 September 2026.
 date: 2026-10-01
-updated: '2026-10-05'
+updated: '2026-10-20'
 tags:
 - analisis
 - relasi
@@ -66,7 +66,7 @@ kategori_analisis:
 - "kepentingan politik"
 confidence: 4
 risiko_editorial: "sedang"
-last_updated: "2026-09-27"
+last_updated: "2026-10-20"
 ---
 
 # Analisis: Taktik Komunikasi GKSR dalam Peluncuran Naskah Akademik RUU Politik
@@ -74,6 +74,18 @@ last_updated: "2026-09-27"
 ## Ringkasan
 
 Peluncuran Naskah Akademik dan Draf RUU Politik versi GKSR pada Milad ke-1 (2026-09-26) tidak hanya bersifat pernyataan posisi, tetapi mengandung elemen-elemen taktik komunikasi yang dapat diamati dari dokumen siaran pers. Analisis ini memisahkan fakta yang terdokumentasi dari interpretasi taktik yang bersumber dari bahan siaran pers dan kerangka umum taktik M&A/lobbying yang relevan.
+
+## Kenapa penting buat Gen Z
+
+Peluncuran Naskah Akademik pada 26 September 2026 menunjukkan cara koalisi nonparlemen masuk ke agenda legislasi tanpa kursi di DPR. GKSR memakai momen Milad ke-1 untuk menyampaikan tuntutan ambang batas parlemen 1 persen, turun dari 4 persen yang berlaku. Delapan partai nonparlemen menandatangani posisi bersama, sehingga pesannya tampil sebagai blok, bukan suara tunggal.
+
+## Fakta kunci
+
+- **Tanggal peluncuran:** 26 September 2026, bersamaan Milad ke-1 GKSR.
+- **Tuntutan angka:** ambang batas parlemen maksimal 1 persen, dari 4 persen.
+- **Dasar hukum:** Putusan MK Nomor 116/PUU-XXI/2023.
+- **Jumlah partai:** 8 partai politik nonparlemen.
+- **Dokumen:** Naskah Akademik dan Draf RUU Politik versi GKSR, diluncurkan 26 September 2026.
 
 ## Fakta yang Relevan
 
@@ -103,10 +115,9 @@ Peluncuran Naskah Akademik dan Draf RUU Politik versi GKSR pada Milad ke-1 (2026
 - **Memposisikan diri sebagai gerakan/ koalisi yang serius dan terorganisir** — bukan sekadar protes spontan — dengan dirumuskannya Naskah Akademik dan Draf RUU 200+ halaman yang merujuk ke empat UU sekaligus.
 - **Mengondisikan diskusi publik dan media** agar parliamentary threshold 1% menjadi kerangka perdebatan dominan, bukan opsi 4% yang masih berlaku.
 
-## Perkembangan Terbaru
+## Kronologi
 
 ### 2026-09-26
-
 - Peluncuran Naskah Akademik dan Draf RUU Politik versi GKSR.
 - Tuntutan 1% (Partai Buruh/Said Iqbal) dan 0% (Partai Ummat) diperkenalkan dalam satu paket koalisi.
 - Ancaman judicial review dan perlawanan publik di depan gedung DPR diulang secara eksplisit.
@@ -127,6 +138,20 @@ Peluncuran Naskah Akademik dan Draf RUU pada momen Milad ke-1 GKSR memiliki ciri
 
 > **Interpretasi dari sumber**: Dr. Jamaludin Gafur, sebagaimana disiarkan dalam siaran pers GKSR, menyatakan bahwa "parliamentary threshold tinggi sebenarnya berfungsi sebagai instrumen kartel politik oleh partai-partai besar untuk menjegal pendatang baru" — ini merupakan pernyataan perspektif yang dapat dicatat sebagai pandangan narasumber tersebut, bukan fakta objektif yang diverifikasi.
 
+## Aktor yang Terlibat
+
+- [[gksr-gerakan-kedaulatan-suara-rakyat|GKSR]] — penyusun Naskah Akademik dan penyelenggara peluncuran.
+- [[muhammad-said-iqbal|Ir. H. Muhammad Said Iqbal, M.E.]] — Ketua GKSR.
+- Delapan partai nonparlemen — penandatangan posisi bersama soal ambang batas.
+
 ## Sumber
 
 - `doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx` (siaran pers GKSR, Diserahkan GKSR / Media Center GKSR, 2026-09-26)
+
+## Catatan presisi
+
+- **Terverifikasi:** tanggal 26 September 2026, angka ambang batas 1 persen dan 4 persen, serta Putusan MK Nomor 116/PUU-XXI/2023 tercatat di halaman ini.
+- **Sifat halaman:** ini halaman analisis, jadi bagian Perspektif memuat penilaian penulis yang dipisahkan dari fakta.
+- **Sumber internal:** bagian Sumber memakai siaran pers GKSR, bukan pemberitaan independen.
+- **Bagian dilebur:** Perkembangan Terbaru berisi satu peristiwa yang sama dengan Kronologi.
+- **Batas interpretasi:** klaim soal niat taktis GKSR adalah tafsiran, bukan pernyataan resmi organisasi.
