@@ -26,3 +26,6 @@ raw/
 wiki_index.db
 wiki_index.db-wal
 wiki_index.db-shm
+
+__pycache__/
+*.pyc

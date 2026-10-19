@@ -13,16 +13,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
-- [Polemik Ijazah Gibran](./peristiwa/polemik-ijazah-gibran)
-- [Soeharto Pahlawan Nasional](./peristiwa/soeharto-pahlawan-nasional)
-- [Analisis: Membaca Angka Satgas PKH — Rp52 T Kas vs Rp400 T Valuasi](./analisis/analisis-satgas-pkh-uang-vs-nilai)
-- [Perang Ultra Modern dan Geopolitik](./perang-ultra-modern-dan-geopolitik)
-- [Sepak Terjang Haji Isam](./peristiwa/sepak-terjang-haji-isam)
-- [Sjafrie Sjamsoeddin](./sjafrie-sjamsoeddin)
-- [Agrinas Palma Nusantara](./agrinas-palma-nusantara)
-- [GKSR - Gerakan Kedaulatan Suara Rakyat](./gksr-gerakan-kedaulatan-suara-rakyat)
+- [Suyudi Ario Seto](./suyudi-ario-seto)
+- [Analisis Relasi: Jokowi dalam RUU Satu Data Indonesia](./analisis/analisis-jokowi-ruu-satu-data)
+- [Analisis: Putusan PTUN 50/G Gugatan Gelar Pahlawan Soeharto dan Posisi Hukum Ahli Waris](./analisis/analisis-putusan-ptun-gelar-pahlawan-soeharto)
+- [Analisis Relasi: Kepentingan di Balik RUU Satu Data Indonesia](./analisis/analisis-kepentingan-ruu-satu-data-indonesia)
+- [Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026](./analisis/Krisis Makna Subsidi Silang Pertamina Kelas Menangah)
+- [Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu](./analisis/Di Balik Keceplosan Budi Arie dan Diamnya Jokowi)
+- [Dari 'Sembilan Naga' to 'Sembilan Haji](./analisis/Dari 'Sembilan Naga' to 'Sembilan Haji')
 - [Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR](./milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr)
-- [Kejaksaan Agung](./kejaksaan-agung)
+- [GKSR - Gerakan Kedaulatan Suara Rakyat](./gksr-gerakan-kedaulatan-suara-rakyat)
+- [Update: Raja Juli Antoni](./update-raja-juli-antoni)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)
