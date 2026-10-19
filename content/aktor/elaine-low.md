@@ -5,7 +5,7 @@ aliases:
 - Elaine Low
 category: aktor
 tags:
-- individual
+- individu
 entity_type: individu
 relasi: []
 last_verified: "2026-10-09"

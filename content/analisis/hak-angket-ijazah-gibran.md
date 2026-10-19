@@ -9,8 +9,8 @@ tags:
 - kepentingan
 - hak angket
 - Gibran Rakabuming Raka
-- DPR
-- Mahkamah Konstitusi
+- dpr-ri
+- mahkamah-konstitusi
 - ijazah
 entity_type: analisis
 entity_id: "hak-angket-ijazah-gibran"

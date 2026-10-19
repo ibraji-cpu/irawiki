@@ -6,7 +6,7 @@ aliases:
 tags:
 - individu
 - politisi
-- Polri
+- polri
 - Kepala BIN
 - Menko Polkam
 - Wantimpres

@@ -9,7 +9,7 @@ tags:
 - politisi
 - Golkar
 - MPR RI
-- DPR RI
+- dpr-ri
 - Wantimpres
 - IMI
 entity_type: individu

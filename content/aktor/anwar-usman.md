@@ -4,7 +4,7 @@ tags:
 - individu
 - politisi
 - hakim
-- Mahkamah Konstitusi
+- mahkamah-konstitusi
 - Wantimpres
 entity_type: individu
 entity_id: "anwar-usman"

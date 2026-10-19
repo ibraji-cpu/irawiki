@@ -4,7 +4,7 @@ category: aktor
 tags:
 - Agribisnis
 - Manufaktur
-- dan Pertambangan
+- pertambangan
 - individu
 - pengusaha
 entity_type: individu

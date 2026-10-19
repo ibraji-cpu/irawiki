@@ -2,14 +2,13 @@
 title: "Suyudi Ario Seto"
 tags:
 - individu
-- polisi
-- Polri
-- penegak_hukum
-- Kepala_BNN
+- polri
+- penegak-hukum
+- kepala-bnn
 - Kapolri
 - reserse
 - narkotika
-- reformasi_Polri
+- reformasi-polri
 entity_type: individu
 entity_id: "suyudi-ario-seto"
 sumber:

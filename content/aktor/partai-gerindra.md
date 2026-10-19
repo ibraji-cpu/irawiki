@@ -6,8 +6,8 @@ aliases:
 - "Partai Gerakan Indonesia Raya"
 tags:
 - "organisasi"
-- "partai politik"
-- "DPR"
+- partai-politik
+- dpr-ri
 entity_type: organisasi
 entity_id: "partai-gerindra"
 status_data: "stub"

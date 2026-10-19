@@ -7,7 +7,7 @@ tags:
 - individu
 - politisi
 - Presiden RI
-- PDIP
+- pdi-perjuangan
 - PSI
 - pasca-kepresidenan
 - kasus ijazah

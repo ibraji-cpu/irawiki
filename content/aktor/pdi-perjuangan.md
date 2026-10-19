@@ -6,8 +6,8 @@ aliases:
 - "Partai Demokrasi Indonesia Perjuangan"
 tags:
 - "organisasi"
-- "partai politik"
-- "DPR"
+- partai-politik
+- dpr-ri
 entity_type: organisasi
 entity_id: "pdi-perjuangan"
 status_data: "stub"

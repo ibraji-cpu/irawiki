@@ -4,7 +4,7 @@ category: aktor
 tags:
 - individu
 - industri manufaktur
-- investasi asing
+- investasi-asing
 - pengusaha
 - pertumbuhan ekonomi
 - politisi

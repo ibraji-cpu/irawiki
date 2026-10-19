@@ -9,7 +9,7 @@ tags:
 - PKS
 - Presiden PKS
 - Wakil Wali Kota Bekasi
-- DPR RI
+- dpr-ri
 - Pilgub Jabar 2024
 entity_type: individu
 entity_id: "ahmad-syaikhu"

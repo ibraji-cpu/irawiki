@@ -6,7 +6,7 @@ aliases:
 - Moodys Ratings
 category: aktor
 tags:
-- organization
+- organisasi
 entity_type: individu
 relasi: []
 last_verified: "2026-10-09"

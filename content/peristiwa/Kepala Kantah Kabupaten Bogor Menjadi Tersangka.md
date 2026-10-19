@@ -6,7 +6,7 @@ aliases:
 tags:
 - peristiwa
 - korupsi
-- kpk
+- KPK
 - atr-bpn
 - pertanahan
 entity_type: peristiwa

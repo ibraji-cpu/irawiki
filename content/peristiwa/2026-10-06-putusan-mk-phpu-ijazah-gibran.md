@@ -6,7 +6,7 @@ aliases:
 - "Putusan MK Ijazah Gibran"
 tags:
 - peristiwa
-- Mahkamah Konstitusi
+- mahkamah-konstitusi
 - Gibran Rakabuming Raka
 - ijazah
 - PHPU

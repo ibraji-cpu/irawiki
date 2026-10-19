@@ -5,7 +5,7 @@ aliases:
 tags:
 - "individu"
 - "hakim"
-- "Mahkamah Konstitusi"
+- mahkamah-konstitusi
 entity_type: individu
 entity_id: "arsul-sani"
 status_data: "stub"

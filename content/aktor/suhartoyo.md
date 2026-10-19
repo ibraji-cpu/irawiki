@@ -5,7 +5,7 @@ aliases:
 tags:
 - "individu"
 - "hakim"
-- "Mahkamah Konstitusi"
+- mahkamah-konstitusi
 entity_type: individu
 entity_id: "suhartoyo"
 status_data: "stub"

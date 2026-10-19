@@ -3,7 +3,7 @@ title: "Achmad Taufik Husein"
 tags:
 - individu
 - KPK
-- penegak hukum
+- penegak-hukum
 entity_type: individu
 entity_id: "achmad-taufik-husein"
 sumber:

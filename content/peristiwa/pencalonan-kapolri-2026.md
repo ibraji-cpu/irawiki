@@ -6,8 +6,8 @@ aliases:
 - "Pengangkatan Suyudi Ario Seto sebagai Kapolri"
 tags:
 - peristiwa
-- kepolisian
-- dpr
+- polri
+- dpr-ri
 - pemerintahan
 entity_type: peristiwa
 entity_id: "pencalonan-kapolri-2026"

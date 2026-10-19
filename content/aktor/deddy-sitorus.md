@@ -6,8 +6,8 @@ aliases:
 tags:
 - individu
 - politisi
-- PDI Perjuangan
-- DPR RI
+- pdi-perjuangan
+- dpr-ri
 entity_type: individu
 entity_id: "deddy-sitorus"
 

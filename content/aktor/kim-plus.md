@@ -6,7 +6,7 @@ aliases:
 tags:
 - "organisasi"
 - "koalisi politik"
-- "DPR"
+- dpr-ri
 entity_type: organisasi
 entity_id: "kim-plus"
 status_data: "stub"

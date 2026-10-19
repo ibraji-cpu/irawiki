@@ -5,8 +5,7 @@ aliases:
 - "Jenderal Polisi Listyo Sigit Prabowo"
 tags:
 - individu
-- polisi
-- Polri
+- polri
 entity_type: individu
 entity_id: "listyo-sigit-prabowo"
 sumber:

@@ -6,7 +6,7 @@ tags:
 - analisis
 - relasi
 - KPU
-- MK
+- mahkamah-konstitusi
 - Gibran Rakabuming Raka
 - syarat pendidikan
 - Pemilu 2024
