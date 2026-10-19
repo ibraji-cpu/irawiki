@@ -13,16 +13,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
-- [Suyudi Ario Seto](./suyudi-ario-seto)
-- [Bambang Soesatyo](./aktor/bambang-soesatyo)
-- [Listyo Sigit Prabowo](./aktor/listyo-sigit-prabowo)
-- [Deddy Sitorus](./aktor/deddy-sitorus)
-- [KIM Plus](./aktor/kim-plus)
-- [Theodore Permadi Rachmat](./aktor/theodore-rachmat)
-- [Airlangga Hartarto](./aktor/airlangga-hartarto)
-- [Arsul Sani](./aktor/arsul-sani)
-- [PDI Perjuangan](./aktor/pdi-perjuangan)
-- [Norman Joesoef](./aktor/norman-joesoef)
+- [Polemik Ijazah Gibran](./peristiwa/polemik-ijazah-gibran)
+- [Soeharto Pahlawan Nasional](./peristiwa/soeharto-pahlawan-nasional)
+- [Analisis: Membaca Angka Satgas PKH — Rp52 T Kas vs Rp400 T Valuasi](./analisis/analisis-satgas-pkh-uang-vs-nilai)
+- [Perang Ultra Modern dan Geopolitik](./perang-ultra-modern-dan-geopolitik)
+- [Sepak Terjang Haji Isam](./peristiwa/sepak-terjang-haji-isam)
+- [Sjafrie Sjamsoeddin](./sjafrie-sjamsoeddin)
+- [Agrinas Palma Nusantara](./agrinas-palma-nusantara)
+- [GKSR - Gerakan Kedaulatan Suara Rakyat](./gksr-gerakan-kedaulatan-suara-rakyat)
+- [Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR](./milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr)
+- [Kejaksaan Agung](./kejaksaan-agung)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)
