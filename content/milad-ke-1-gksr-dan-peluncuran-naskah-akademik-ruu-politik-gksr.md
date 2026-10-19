@@ -147,11 +147,6 @@ Diskusi publik digelar dengan menghadirkan pimpinan GKSR serta akademisi hukum t
 
 Langkah ini diambil sebagai bentuk pengawalan nyata terhadap Putusan MK Nomor 116/PUU-XXI/2023 yang memerintahkan pembentuk undang-undang untuk mengubah ketentuan ambang batas parlemen (parliamentary threshold) 4 persen sebelum Pemilu 2029, guna menjamin proporsionalitas hasil pemilu dan mencegah terbuangnya jutaan suara sah rakyat.
 
-## Kronologi
-
-- **2026-09-26** — Peluncuran Naskah Akademik dan Draf RUU Politik GKSR yang mencakup revisi empat undang-undang sekaligus: UU Pemilu, UU MD3, UU Pilkada, dan UU Parpol.
-- **2026-09-26** — Tuntutan kepada DPR untuk melibatkan parpol nonparlemen dalam proses revisi UU Pemilu.
-
 ## Dampak Langsung
 
 - Delapan partai nonparlemen resmi menyatakan posisi bersama terkait ambang batas parlemen dan verifikasi parpol.
