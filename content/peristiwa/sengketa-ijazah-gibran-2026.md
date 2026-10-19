@@ -2,7 +2,7 @@
 title: "Sengketa Ijazah Wapres Gibran di MK"
 description: Kronologi gugatan syarat ijazah Gibran ke MK sejak 10 September 2026 hingga putusan Perkara 01/PHPU.PRES-XXIV/2026 pada 6 Oktober 2026.
 date: 2026-10-04
-updated: '2026-10-17'
+updated: '2026-10-20'
 tags:
 - peristiwa
 entity_type: peristiwa
@@ -39,26 +39,64 @@ confidence: 4
 
 risiko_editorial: "tinggi"
 
-last_updated: "2026-10-07"
+last_updated: "2026-10-20"
 last_verified: "2026-09-29"
 ---
 
 # Sengketa Ijazah Wapres Gibran di MK
 
-> **Kronologi Singkat:** Gugatan terhadap syarat pendidikan (ijazah SMA) Wakil Presiden Gibran Rakabuming Raka sebagai calon wakil presiden Pilpres 2024, diajukan ke Mahkamah Konstitusi pada 10 September 2026. Perkara No. 01/PHPU.PRES-XXIV/2026 telah diputus pada 6 Oktober 2026.
+## Ringkasan
+
+> **Ringkasan Topik:** Gugatan terhadap syarat pendidikan (ijazah SMA) Wakil Presiden Gibran Rakabuming Raka sebagai calon wakil presiden Pilpres 2024, diajukan ke Mahkamah Konstitusi pada 10 September 2026. Perkara No. 01/PHPU.PRES-XXIV/2026 telah diputus pada 6 Oktober 2026.
+
+## Kenapa penting buat Gen Z
+
+Perkara ini menguji apakah syarat pendidikan calon wakil presiden bisa dipertanyakan setelah pemilu selesai, dan jawabannya menentukan seberapa ketat aturan pencalonan di masa depan. Sebanyak 12 pemohon yang dipimpin Denny Indrayana mendaftarkan gugatan pada 10 September 2026, dengan sidang pembuktian pada 29 September sampai 1 Oktober 2026. Mahkamah Konstitusi membacakan putusan pada 6 Oktober 2026, setelah jadwal 5 Oktober ditunda.
+
+## Fakta kunci
+
+- **Jumlah pemohon:** 12 orang, dipimpin Denny Indrayana.
+- **Tanggal pendaftaran:** 10 September 2026, terdaftar 17 September 2026.
+- **Sidang pembuktian:** 29 September sampai 1 Oktober 2026.
+- **Putusan:** 6 Oktober 2026, setelah jadwal 5 Oktober ditunda.
+- **Nomor perkara:** 01/PHPU.PRES-XXIV/2026.
+- **Pihak yang digugat:** Gibran Rakabuming Raka, Wapres RI 2024-2029.
+
+## Latar Belakang
+
+Gugatan diajukan oleh 12 pemohon yang dipimpin Denny Indrayana (mantan Wamenkumham) terkait syarat pendidikan calon wakil presiden. Pemohon menuduh Gibran tidak memenuhi syarat pendidikan SMA yang diwajibkan UU. Perkara ini baru diketahui setelah pelantikan.
 
 ## Kronologi
 
-- **2026-09-10** — Gugatan diajukan ke MK oleh 12 pemohon yang dipimpin Denny Indrayana.
-- **2026-09-17** — Perkara terdaftar, salinan permohonan dikirim ke KPU dan Bawaslu.
-- **2026-09-21** — Sidang pendahuluan pertama, mendengarkan pokok permohonan pemohon.
-- **2026-09-23** — Sidang lanjutan, mendengarkan jawaban KPU dan Bawaslu.
-- **2026-09-28** — MK membacakan putusan sela terkait kelanjutan perkara.
-- **2026-09-29** — Tahap pembuktian dimulai, pemeriksaan saksi dan keterangan ahli.
-- **2026-10-01** — Lanjutan tahap pembuktian.
-- **2026-10-02** — Rapat Permusyawaratan Hakim (RPH) dimulai.
-- **2026-10-05** — Jadwal awal pembacaan putusan MK (ditunda).
-- **2026-10-06** — Pembacaan putusan MK. [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026]].
+### 2026-09-10 — Gugatan diajukan ke MK oleh 12 pemohon yang dipimpin Denny Indrayana
+Gugatan diajukan ke MK oleh 12 pemohon yang dipimpin Denny Indrayana.
+
+### 2026-09-17 — Perkara terdaftar, salinan permohonan dikirim ke KPU dan Bawaslu
+Perkara terdaftar, salinan permohonan dikirim ke KPU dan Bawaslu.
+
+### 2026-09-21 — Sidang pendahuluan pertama, mendengarkan pokok permohonan pemohon
+Sidang pendahuluan pertama, mendengarkan pokok permohonan pemohon.
+
+### 2026-09-23 — Sidang lanjutan, mendengarkan jawaban KPU dan Bawaslu
+Sidang lanjutan, mendengarkan jawaban KPU dan Bawaslu.
+
+### 2026-09-28 — MK membacakan putusan sela terkait kelanjutan perkara
+MK membacakan putusan sela terkait kelanjutan perkara.
+
+### 2026-09-29 — Tahap pembuktian dimulai, pemeriksaan saksi dan keterangan ahli
+Tahap pembuktian dimulai, pemeriksaan saksi dan keterangan ahli.
+
+### 2026-10-01 — Lanjutan tahap pembuktian
+Lanjutan tahap pembuktian.
+
+### 2026-10-02 — Rapat Permusyawaratan Hakim (RPH) dimulai
+Rapat Permusyawaratan Hakim (RPH) dimulai.
+
+### 2026-10-05 — Jadwal awal pembacaan putusan MK (ditunda)
+Jadwal awal pembacaan putusan MK (ditunda).
+
+### 2026-10-06 — Pembacaan putusan MK.
+Pembacaan putusan MK. [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026]].
 
 ## Aktor yang Terlibat
 
@@ -67,20 +105,6 @@ last_verified: "2026-09-29"
 - KPU — Tergugat, penyelenggara pemilu
 - Bawaslu — Tergugat, pengawas pemilu
 - Mahkamah Konstitusi — Peradilan yang memeriksa perkara
-
-## Latar Belakang
-
-Gugatan diajukan oleh 12 pemohon yang dipimpin Denny Indrayana (mantan Wamenkumham) terkait syarat pendidikan calon wakil presiden. Pemohon menuduh Gibran tidak memenuhi syarat pendidikan SMA yang diwajibkan UU. Perkara ini baru diketahui setelah pelantikan.
-
-## Perkembangan Terakhir
-
-### 2026-09-29
-
-- Denny Indrayana menyampaikan 3 temuan dalam konferensi pers:
-  1. Tidak ditemukan dokumen dasar penerbitan surat keterangan Gibran oleh Kemendikbud.
-  2. KPU tidak melampirkan bukti syarat pendidikan.
-  3. Persoalan bukan pendidikan, tapi manipulasi.
-- [[Sengketa Ijazah Wapres Gibran di MK]]
 
 ## Dampak Langsung
 
@@ -103,3 +127,11 @@ Gugatan diajukan oleh 12 pemohon yang dipimpin Denny Indrayana (mantan Wamenkumh
 - CNBC Indonesia: https://www.cnbcindonesia.com/news/20261002104005-4-772792
 - Kompas TV: https://www.kompas.tv/nasional/693358
 - BBC Indonesia: https://www.bbc.com/indonesia/articles/cmly4yeq6r34o
+
+## Catatan presisi
+
+- **Terverifikasi:** tanggal pendaftaran 10 September 2026, jumlah 12 pemohon, dan nama Denny Indrayana tercatat di Kronologi dan Latar Belakang halaman ini.
+- **Tanggal putusan:** 6 Oktober 2026, dengan jadwal awal 5 Oktober ditunda; rincian penundaan tidak dijelaskan sumber.
+- **Bagian dilebur:** Perkembangan Terakhir berisi temuan konferensi pers 29 September 2026 yang sejajar dengan tahap pembuktian; isinya tetap ada di Kronologi, bukan dihapus.
+- **Celah data:** salinan permohonan dan risalah sidang belum ditautkan.
+- **Batas interpretasi:** halaman ini tidak menyimpulkan valid atau tidaknya dokumen pendidikan yang dipersoalkan.

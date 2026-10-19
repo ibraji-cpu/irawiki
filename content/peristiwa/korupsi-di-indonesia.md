@@ -2,7 +2,7 @@
 title: "Korupsi di Indonesia"
 description: 'Ringkasan sistemik korupsi di Indonesia pasca-reformasi 1998: kelahiran KPK, pasang surut pemberantasan, dan pola perkara besar.'
 date: 2026-10-15
-updated: '2026-10-17'
+updated: '2026-10-20'
 aliases:
   - Korupsi Indonesia
   - Tindak Pidana Korupsi di Indonesia
@@ -37,7 +37,7 @@ sumber:
     tanggal: "2026-10-15"
   - url: "https://langit7.id/read/62903/1/kpk-tetapkan-5-tersangka-kasus-bnpb-dan-ralat-sita-uang-rp33-m-bukan-rp14-m-1792023045"
     tanggal: "2026-10-15"
-last_updated: "2026-10-15"
+last_updated: "2026-10-20"
 last_verified: "2026-10-17"
 ---
 
@@ -46,6 +46,18 @@ last_verified: "2026-10-17"
 ## Ringkasan
 
 > **Ringkasan Topik:** Korupsi — penyalahgunaan wewenang untuk keuntungan pribadi atau kelompok — adalah persoalan sistemik di Indonesia. Pasca-reformasi 1998, pemberantasan korupsi dilembagakan melalui Komisi Pemberantasan Korupsi ([[kpk|KPK]]) yang dibentuk berdasarkan UU No. 30 Tahun 2002. Pola yang berulang dalam kasus-kasus besar: korupsi pengadaan barang/jasa, suap perizinan, dan penyelewengan dana bantuan sosial maupun dana kebencanaan.
+
+## Kenapa penting buat Gen Z
+
+Korupsi pengadaan dan perizinan memindahkan uang publik ke kantong pribadi, sehingga anggaran yang seharusnya membiayai sekolah, jalan, dan layanan kesehatan berkurang. Halaman ini mencatat kasus besar dari vonis Setya Novanto 15 tahun pada 24 April 2018 sampai operasi tangkap tangan KPK di BNPB pada 13 Oktober 2026. Dua OTT terakhir terjadi berjarak kurang dari sebulan: di ATR/BPN Bogor pada 15 September 2026 dengan 8 tersangka, lalu di BNPB pada 13 Oktober 2026 dengan 5 tersangka.
+
+## Fakta kunci
+
+- **Dasar lembaga:** UU Nomor 30 Tahun 2002, disahkan 27 Desember 2002, membentuk KPK.
+- **Vonis e-KTP:** Setya Novanto, 15 tahun penjara, 24 April 2018.
+- **Vonis bansos Covid-19:** Juliari Batubara, 12 tahun penjara, 23 Agustus 2021.
+- **OTT ATR/BPN Bogor:** 15 September 2026, 8 tersangka.
+- **OTT BNPB:** 13 Oktober 2026, 5 tersangka ditetapkan 14 Oktober 2026.
 
 ## Kronologi
 
@@ -75,7 +87,7 @@ Pada 14/10, usai ekspose, KPK menaikkan perkara ke penyidikan dan menetapkan 5 t
 
 Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/jasa dengan melibatkan pejabat pembuat komitmen dan pihak swasta rekanan; (2) suap perizinan di sektor agraria/pertanahan; (3) penyelewengan dana bantuan — baik bansos maupun dana kebencanaan — yang mestinya untuk masyarakat terdampak.
 
-## Aktor & Lembaga Terkait
+## Aktor yang Terlibat
 
 - [[kpk|Komisi Pemberantasan Korupsi (KPK)]] — lembaga penegak utama pemberantasan korupsi sejak 2002/2003
 
@@ -87,7 +99,14 @@ Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/j
 
 - [[analisis-satgas-pkh-uang-vs-nilai|Analisis Satgas PKH: Uang vs Nilai]] — analisis terkait pemulihan aset negara
 
-## Catatan
+## Sumber
+
+- Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi (27 Desember 2002).
+- Putusan Pengadilan Tipikor Jakarta, kasus e-KTP: vonis Setya Novanto, 24 April 2018.
+- Putusan Pengadilan Tipikor Jakarta, kasus bansos Covid-19: vonis Juliari Batubara, 23 Agustus 2021.
+- Siaran pers KPK atas OTT ATR/BPN Bogor (15 September 2026) dan OTT BNPB (13-14 Oktober 2026); tautan belum tersedia di halaman ini.
+
+## Catatan presisi
 
 - Status hukum mengikuti pernyataan resmi: yang "diamankan" dalam OTT belum tentu menjadi tersangka; yang menjadi tersangka belum tentu divonis bersalah.
 - Entri kronologi dapat ditambah seiring munculnya kasus baru yang terverifikasi; setiap penambahan wajib mencantumkan sumber.
