@@ -2,7 +2,7 @@
 title: "Penyerahan Tahap VIII Satgas PKH ke Negara"
 description: Penyerahan Rp13,24 triliun hasil Satgas PKH tahap VIII dari Jaksa Agung ST Burhanuddin kepada Menteri Keuangan Suahasil Nazara, 6 Oktober 2026.
 date: 2026-10-06
-updated: '2026-10-17'
+updated: '2026-10-20'
 tags:
 - peristiwa
 - pemerintahan
@@ -18,7 +18,7 @@ kategori_isu: "Kehutanan, Tata Kelola, Penerimaan Negara"
 aktor_terlibat:
 - "[[Prabowo Subianto]]"
 - "[[ST Burhanuddin]]"
-- "[[Suahasil Nazara]]"
+- "Suahasil Nazara"
 - "[[Sjafrie Sjamsoeddin]]"
 - "[[Raja Juli Antoni]]"
 
@@ -28,35 +28,45 @@ peristiwa_terkait:
 
 confidence: 8
 risiko_editorial: "rendah"
-last_updated: "2026-10-06"
+last_updated: "2026-10-20"
 last_verified: "2026-10-06"
 relasi: []
 ---
 
 # Penyerahan Tahap VIII Satgas PKH ke Negara
 
-> **Kronologi Singkat:** Pada 6 Oktober 2026, di Gedung Bundar Kejaksaan Agung, Jakarta, Presiden Prabowo Subianto menyaksikan penyerahan Rp13,24 triliun hasil kerja Satgas PKH tahap VIII dari Jaksa Agung ST Burhanuddin kepada Menteri Keuangan Suahasil Nazara.
+## Ringkasan
 
-## Kronologi
+> **Ringkasan Topik:** Pada 6 Oktober 2026, di Gedung Bundar Kejaksaan Agung, Jakarta, Presiden Prabowo Subianto menyaksikan penyerahan Rp13,24 triliun hasil kerja Satgas PKH tahap VIII dari Jaksa Agung ST Burhanuddin kepada Menteri Keuangan Suahasil Nazara.
 
-- **2026-10-06** — Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan Presiden Prabowo Subianto
+## Kenapa penting buat Gen Z
 
-## Aktor yang Terlibat
+Uang Rp13,24 triliun yang diserahkan pada 6 Oktober 2026 masuk ke kas negara sebagai denda administratif, PNBP, dan pajak, sehingga jumlahnya berpengaruh pada anggaran layanan publik. Selain uang, negara menerima kembali 259.230,73 hektare lahan dari sektor perkebunan, tambang, dan kawasan lindung. Penyerahan berlangsung di Gedung Bundar Kejaksaan Agung, Jakarta, dan disaksikan Presiden Prabowo Subianto.
 
-- [[Prabowo Subianto]] — Presiden, menyaksikan penyerahan
-- [[ST Burhanuddin]] — Jaksa Agung, Wakil Ketua I Pengarah Satgas PKH, menyerahkan ke Menkeu
-- [[Suahasil Nazara]] — Menteri Keuangan, penerima penyerahan
-- [[Sjafrie Sjamsoeddin]] — Menteri Pertahanan, Ketua Pengarah Satgas PKH
-- [[Raja Juli Antoni]] — Menteri Kehutanan
+## Fakta kunci
+
+- **Tanggal:** 6 Oktober 2026, Gedung Bundar Kejaksaan Agung, Jakarta.
+- **Nilai tunai:** Rp13,24 triliun dari denda administratif, PNBP, dan pajak.
+- **Lahan:** 259.230,73 hektare yang dikuasai kembali negara.
+- **Urutan:** tahap ke-8 dari rangkaian penyerahan Satgas PKH sejak Januari 2025.
+- **Pihak:** Presiden Prabowo Subianto menyaksikan; Jaksa Agung ST Burhanuddin hadir sebagai Wakil Ketua I Pengarah, 6 Oktober 2026.
 
 ## Latar Belakang
 
 [[Satgas PKH]] adalah satgas lintas 12 kementerian/lembaga yang dibentuk pemerintahan Prabowo untuk menertibkan penguasaan kawasan hutan serta memulihkan penerimaan negara dari sektor kehutanan. Dasar pembentukan: Perpres Nomor 5 Tahun 2025.
 
-## Perkembangan Terakhir
+## Kronologi
 
-- **2026-10-06** — Penyerahan tahap VIII: Rp13,24 triliun tunai + 259.230,73 ha lahan
-- Kejagung menyatakan Satgas PKH akan mengejar aliran dana hasil kejahatan hutan yang disembunyikan ke luar negeri
+### 2026-10-06 — Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan
+Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan Presiden Prabowo Subianto.
+
+## Aktor yang Terlibat
+
+- [[Prabowo Subianto]] — Presiden, menyaksikan penyerahan
+- [[ST Burhanuddin]] — Jaksa Agung, Wakil Ketua I Pengarah Satgas PKH, menyerahkan ke Menkeu
+- Suahasil Nazara — Menteri Keuangan, penerima penyerahan
+- [[Sjafrie Sjamsoeddin]] — Menteri Pertahanan, Ketua Pengarah Satgas PKH
+- [[Raja Juli Antoni]] — Menteri Kehutanan
 
 ## Dampak Langsung
 
@@ -78,3 +88,12 @@ relasi: []
 - Investor.id. "Satgas PKH Serahkan Rp13,24 T ke Negara Disaksikan Presiden Prabowo". 6 Oktober 2026.
 - NTV News. "Satgas PKH Selamatkan 6,2 Juta Hektare Lahan, Prabowo Sebut Nilainya Hampir Rp400 Triliun". 6 Oktober 2026.
 - Viv.co.id. "Satgas PKH Fokus Usut Aliran Dana Kejahatan Hutan Hingga Luar Negeri". 6 Oktober 2026.
+
+## Catatan presisi
+
+- **Terverifikasi:** tanggal, lokasi, nilai Rp13,24 triliun, dan luas 259.230,73 ha bersumber NTV News di bagian Sumber.
+- **Rincian komposisi:** pembagian denda administratif, PNBP, dan pajak mengikuti bagian Dampak Langsung; nominal per komponen tidak tersedia.
+- **Duplikasi dihapus:** bagian Perkembangan Terakhir yang mengulang angka tahap VIII dilebur ke Kronologi.
+- **Tautan diperbaiki:** Suahasil Nazara belum punya halaman di wiki, jadi ditulis sebagai teks biasa di badan dan daftar aktor.
+- **Celah data:** berita acara penyerahan dan rincian per sektor lahan belum ditautkan.
+- **Batas interpretasi:** halaman ini tidak menilai keabsahan penguasaan lahan sebelum penertiban.
