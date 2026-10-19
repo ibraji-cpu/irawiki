@@ -2,7 +2,7 @@
 title: "Soeharto Pahlawan Nasional"
 description: Penganugerahan gelar Pahlawan Nasional kepada Soeharto lewat Keppres 116/TK/2025, polemik publik, dan gugatan PTUN atasnya.
 date: 2026-10-12
-updated: '2026-10-17'
+updated: '2026-10-20'
 aliases:
   - Gelar Pahlawan Nasional Soeharto
   - Penganugerahan Gelar Pahlawan Nasional kepada Soeharto
@@ -31,19 +31,32 @@ sumber:
     tanggal: "2026-02-26"
   - url: "https://drive.google.com/file/d/1JnadHSNQiTInxWopfehkZ4WHQXAYSKCc/view?usp=drive_link"
     tanggal: "2026-10-14"
-last_updated: "2026-10-14"
+last_updated: "2026-10-20"
 last_verified: "2026-10-14"
 ---
 
 # Soeharto Pahlawan Nasional
 
-## Ringkasan Soeharto Pahlawan Nasional
+## Ringkasan
 
 > **Ringkasan Topik:** Penganugerahan gelar Pahlawan Nasional kepada Almarhum Jenderal Besar TNI H.M. Soeharto oleh Presiden [[prabowo-subianto|Prabowo Subianto]] — diumumkan 10 November 2025 bertepatan dengan Hari Pahlawan, berdasarkan Keppres No. 116/TK/2025 — beserta polemik publik dan gugatan hukum yang menyertainya. Sengketa atas Keputusan Presiden (Keppres) Nomor 116/TK/Tahun 2025 tentang Penganugerahan Gelar Pahlawan Nasional kepada Presiden ke-2 RI, Almarhum Jenderal Besar TNI H.M. Soeharto, diuji di Pengadilan Tata Usaha Negara (PTUN) Jakarta. Perkara **50/G/2026/PTUN.JKT** sudah diputus: gugatan dinyatakan Tidak Diterima (diputus 2 September 2026, diucapkan 8 September 2026 — terverifikasi dari salinan resmi putusan). Perkara kedua, 151/G/2026/PTUN.JKT, masih berjalan (lihat "Status 151/G" di bawah — hanya status sidang, tanpa detail baru).
 
+## Kenapa penting buat Gen Z
+
+Gelar pahlawan nasional diberikan lewat keputusan presiden, dan keputusan semacam itu bisa diuji di pengadilan tata usaha negara. Perkara 50/G/2026/PTUN.JKT membuktikan hal itu: seorang warga menggugat, lalu gugatannya dinyatakan tidak diterima karena dinilai tidak memiliki kedudukan hukum. Syarat pemberian gelar diatur UU No. 20 Tahun 2009, yang mensyaratkan integritas moral dan rekam jejak hukum bagi calon penerima. Perkara ini memperlihatkan batas uji hukum atas keputusan simbolik: pengadilan menilai kedudukan hukum penggugat lebih dulu, belum sampai menilai isi penilaian sejarahnya.
+
+## Fakta kunci
+
+- **Keppres 116/TK/2025:** diterbitkan 6 November 2025; Soeharto tercantum pada nomor urut 2, dari Provinsi Jawa Tengah.
+- **10 November 2025:** gelar dianugerahkan Prabowo Subianto kepada 10 tokoh pada upacara Hari Pahlawan, termasuk K.H. Abdurrahman Wahid.
+- **Perkara 50/G/2026/PTUN.JKT:** terdaftar 9 Februari 2026; diputus 2 September 2026 dan diucapkan 8 September 2026 — gugatan Tidak Diterima, biaya perkara Rp489.000.
+- **Perkara 151/G/2026/PTUN.JKT:** terdaftar 30 April 2026; sidang pembuktian ahli 12 Oktober 2026 (Richo Andi Wibowo, Bivitri Susanti), belum ada putusan.
+- **Dasar hukum:** UU No. 20 Tahun 2009 tentang Gelar, Tanda Jasa, dan Tanda Kehormatan.
+- **Rekam jejak hukum:** Soeharto ditetapkan tersangka dugaan korupsi dana tujuh yayasan pada 3 Agustus 2000; penuntutan dihentikan lewat SKP3 11 Mei 2006 karena alasan medis, bukan vonis bebas.
+
 ## Latar Belakang
 
-Soeharto adalah Presiden ke-2 Republik Indonesia pada masa Orde Baru dan wafat pada 27 January 2008. Penganugerahan gelar Pahlawan Nasional kepadanya telah lama menjadi isu kontestatif: selon dokumen ringkasan kasus, usulan gelar untuk Soeharto disebut pernah dua kali diajukan dan ditolak oleh Tim Peneliti dan Pengkajian Gelar Pusat (TP2GP) Kementerian Sosial — pada 2010 dan 2016 — avec pertimbangan kontroversi rekam jejak serta amanat TAP MPR No. XI/MPR/1998 tentang penyelenggaraan negara yang bersih dari KKN. (Klaim penolakan TP2GP ini bersumber tunggal dari dokumen sumber; belum terverifikasi independen.)
+Soeharto adalah Presiden ke-2 Republik Indonesia pada masa Orde Baru dan wafat pada 27 Januari 2008. Penganugerahan gelar Pahlawan Nasional kepadanya telah lama menjadi isu kontestatif: menurut dokumen ringkasan kasus, usulan gelar untuk Soeharto disebut pernah dua kali diajukan dan ditolak oleh Tim Peneliti dan Pengkajian Gelar Pusat (TP2GP) Kementerian Sosial — pada 2010 dan 2016 — dengan pertimbangan kontroversi rekam jejak serta amanat TAP MPR No. XI/MPR/1998 tentang penyelenggaraan negara yang bersih dari KKN. (Klaim penolakan TP2GP ini bersumber tunggal dari dokumen sumber; belum terverifikasi independen.)
 
 Dua rangkaian fakta historis menjadi fondasi sengketa:
 
@@ -63,10 +76,10 @@ Dasar hukum penganugerahan adalah UU No. 20 Tahun 2009 tentang Gelar, Tanda Jasa
 Keppres Nomor 116/TK/Tahun 2025 tentang Penganugerahan Gelar Pahlawan Nasional diterbitkan (Gelar Pahlawan Nasional Nomor Urut 2 kepada Almarhum Jenderal Besar TNI H.M. Soeharto dari Provinsi Jawa Tengah).
 
 ### 2025-11-10 — Soeharto Dianugerahi Gelar Pahlawan Nasional
-Presiden [[prabowo-subianto|Prabowo Subianto]] menganugerahkan gelar Pahlawan Nasional kepada 10 tokoh dalam upacara Hari Pahlawan, termasuk Almarhum Jenderal Besar TNI H.M. Soeharto dan K.H. Abdurrahman Wahid (Gus Dur). Menurut dokumen sumber, ponganugerahan didasarkan pada Keppres No. 116/TK/2025 tertanggal 6 November 2025, avec Soeharto tercantum pada nomor urut 2. Keputusan ini memicu polemik publik: penolakan dari kalangan pegiat HAM dan korban Orde Baru berhadapan dengan penilaian atas jasa-jasa pembangunan masa pemerintahannya.
+Presiden [[prabowo-subianto|Prabowo Subianto]] menganugerahkan gelar Pahlawan Nasional kepada 10 tokoh dalam upacara Hari Pahlawan, termasuk Almarhum Jenderal Besar TNI H.M. Soeharto dan K.H. Abdurrahman Wahid (Gus Dur). Menurut dokumen sumber, penganugerahan didasarkan pada Keppres No. 116/TK/2025 tertanggal 6 November 2025, dengan Soeharto tercantum pada nomor urut 2. Keputusan ini memicu polemik publik: penolakan dari kalangan pegiat HAM dan korban Orde Baru berhadapan dengan penilaian atas jasa-jasa pembangunan masa pemerintahannya.
 
 ### 2026-02-09 — Gugatan Pembatalan Terdaftar di PTUN Jakarta (50/G/2026/PTUN-JKT)
-Perkara gugatan terhadap Keppres 116/TK/2025 terdaftar di PTUN Jakarta avec nomor 50/G/2026/PTUN-JKT pada 9 Februari 2026 (tercatat dalam Laporan Perkara PTUN Jakarta). Menurut dokumen ringkasan kasus: penggugat adalah seorang warga negara — disebut "Bejo", petani yang mengaku korban penggusuran paksa proyek Waduk Kedung Ombo; tergugat adalah Presiden RI (diwakili Jaksa Pengacara Negara/Kejaksaan Agung RI berdasarkan surat kuasa khusus); Siti Hardiyanti Hastuti Rukmana (ahli waris Soeharto) masuk sebagai Tergugat II Intervensi untuk mempertahankan keabsahan Keppres.
+Perkara gugatan terhadap Keppres 116/TK/2025 terdaftar di PTUN Jakarta dengan nomor 50/G/2026/PTUN-JKT pada 9 Februari 2026 (tercatat dalam Laporan Perkara PTUN Jakarta). Menurut dokumen ringkasan kasus: penggugat adalah seorang warga negara — disebut "Bejo", petani yang mengaku korban penggusuran paksa proyek Waduk Kedung Ombo; tergugat adalah Presiden RI (diwakili Jaksa Pengacara Negara/Kejaksaan Agung RI berdasarkan surat kuasa khusus); Siti Hardiyanti Hastuti Rukmana (ahli waris Soeharto) masuk sebagai Tergugat II Intervensi untuk mempertahankan keabsahan Keppres.
 
 ### 2026-04-30 — Perkara 151/G/2026/PTUN.JKT Didaftarkan
 Perkara **151/G/2026/PTUN.JKT** didaftarkan di PTUN Jakarta (penggugat dilaporkan sebagai koalisi GEMAS — komposisi dilaporkan, belum final; objek sama: Keppres 116/TK/2025).
@@ -94,7 +107,7 @@ Seluruh substansi di bawah ini bersumber tunggal dari dokumen ringkasan kasus (d
 
 - **Diputus** dalam musyawarah Rabu 2 September 2026; **diucapkan** dalam sidang terbuka untuk umum secara elektronik Selasa 8 September 2026, dihadiri secara elektronik oleh Penggugat, Tergugat, dan Tergugat II Intervensi.
 - **Amar (parafrase):** permohonan penundaan Penggugat ditolak; eksepsi Tergugat dan Tergugat II Intervensi tentang Penggugat tidak mempunyai kepentingan dikabulkan; gugatan dinyatakan Tidak Diterima; Penggugat dihukum membayar biaya perkara Rp489.000.
-- **Pertimbangan inti (parafrase, bukan kutipan):** objek sengketa (penganugerahan gelar) tidak menimbulkan hubungan hukum administratif between Tergugat dan Penggugat; Penggugat tidak memiliki hubungan hukum langsung dengan objek sengketa, tidak memiliki hak yang dilanggar, dan tidak mengalami kerugian hukum yang nyata dan aktual akibat terbitnya objek sengketa — sehingga tidak memenuhi syarat kedudukan hukum untuk menggugat (Pasal 53 ayat (1) UU Peratun jo Pasal 87 UU Administrasi Pemerintahan, menurut pertimbangan). Kerugian terkait pembangunan Waduk Kedung Ombo dinilai sebagai peristiwa masa lalu yang permasalahannya telah diselesaikan lewat gugatan di PN Semarang sampai tingkat Peninjauan Kembali oleh ayah Penggugat. Eksepsi lain tidak dipertimbangkan lagi; pokok perkara tidak dipertimbangkan lagi.
+- **Pertimbangan inti (parafrase, bukan kutipan):** objek sengketa (penganugerahan gelar) tidak menimbulkan hubungan hukum administratif antara Tergugat dan Penggugat; Penggugat tidak memiliki hubungan hukum langsung dengan objek sengketa, tidak memiliki hak yang dilanggar, dan tidak mengalami kerugian hukum yang nyata dan aktual akibat terbitnya objek sengketa — sehingga tidak memenuhi syarat kedudukan hukum untuk menggugat (Pasal 53 ayat (1) UU Peratun jo Pasal 87 UU Administrasi Pemerintahan, menurut pertimbangan). Kerugian terkait pembangunan Waduk Kedung Ombo dinilai sebagai peristiwa masa lalu yang permasalahannya telah diselesaikan lewat gugatan di PN Semarang sampai tingkat Peninjauan Kembali oleh ayah Penggugat. Eksepsi lain tidak dipertimbangkan lagi; pokok perkara tidak dipertimbangkan lagi.
 - **Implikasi pencatatan:** eksepsi pemerintah yang lain (mis. kewenangan PTUN, gugatan kabur) tercatat pernah diajukan menurut pemberitaan, tetapi putusan hanya memutuskan eksepsi kepentingan — jangan tulis ketiganya sebagai "ditolak/dikabulkan" oleh putusan.
 
 ## Aktor yang Terlibat
@@ -136,3 +149,14 @@ Seluruh substansi di bawah ini bersumber tunggal dari dokumen ringkasan kasus (d
 
 ### Dokumen Sumber (tunggal, belum terverifikasi independen)
 - "Ringkasan Kasus: Sengketa Hukum Penganugerahan Gelar Pahlawan Nasional (Perkara PTUN No. 50/G/2026/PTUN.JKT)" — dokumen Google Docs, diakses 12 Oktober 2026. Sumber bagi: nomor dan tanggal Keppres, identitas para pihak, dalil penggugat, eksepsi dan jawaban tergugat, riwayat litigasi Kedung Ombo, status tersangka 2000 dan SKP3 2006, serta riwayat penolakan TP2GP 2010 dan 2016.
+
+## Catatan presisi
+
+- **Terverifikasi:** penganugerahan 10 November 2025 dan dasar Keppres 116/TK/2025 tercatat di beberapa sumber; amar, tanggal, dan majelis perkara 50/G/2026/PTUN.JKT dibaca dari salinan resmi putusan (117 hlm), 14 Oktober 2026.
+- **Dilaporkan, belum independen:** identitas para pihak, dalil penggugat, dan eksepsi tergugat bersumber tunggal dari dokumen ringkasan kasus — bukan dari salinan berkas perkara.
+- **Dilaporkan, belum independen:** klaim bahwa TP2GP menolak usulan gelar pada 2010 dan 2016 bersumber dokumen yang sama.
+- **Masih berjalan:** 151/G/2026/PTUN.JKT belum diputus. Halaman ini tidak memuat amar, hasil, atau prediksi untuk perkara tersebut.
+- **Batas interpretasi:** halaman tidak menilai tepat atau tidaknya penganugerahan secara hukum maupun etis. Yang dicatat adalah dalil para pihak dan pertimbangan pengadilan.
+- **Celah data:** status upaya hukum lanjutan (banding) atas 50/G belum diketahui; tanggal penyerahan surat-surat di 151/G belum terkonfirmasi.
+- **Identitas:** nama penggugat ditulis sebagaimana tercantum di dokumen sumber; alamat pribadi tidak dicantumkan.
+
