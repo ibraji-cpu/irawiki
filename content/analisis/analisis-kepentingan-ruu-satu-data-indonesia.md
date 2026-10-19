@@ -2,7 +2,7 @@
 title: "Analisis Relasi: Kepentingan di Balik RUU Satu Data Indonesia"
 description: 'Peta kepentingan aktor di balik RUU Satu Data Indonesia: DPR/Baleg sebagai inisiator, pemerintah sebagai penyelenggara, dan pemegang data.'
 date: 2026-10-05
-updated: '2026-10-17'
+updated: '2026-10-20'
 tags:
 - analisis
 - relasi
@@ -46,7 +46,7 @@ kategori_analisis:
 
 confidence: 4
 risiko_editorial: "sedang"
-last_updated: "2026-10-05"
+last_updated: "2026-10-20"
 last_verified: "2026-10-05"
 ---
 
@@ -55,6 +55,18 @@ last_verified: "2026-10-05"
 ## Ringkasan
 
 RUU Satu Data Indonesia (17 bab, 138 pasal; target disahkan 6 Oktober 2026) menempatkan sejumlah aktor pada posisi kepentingan yang terdokumentasi: DPR/Baleg sebagai inisiator legislasi, pemerintah (Presiden, Bappenas, Kemendagri) sebagai penyelenggara, dan publik sebagai penerima akses data terbuka. Pola yang muncul dari pernyataan para aktor: pembenaran utama adalah "ego sektoral" birokrasi, sementara kritik yang muncul menuntut pengawas independen atas risiko kebocoran data.
+
+## Kenapa penting buat Gen Z
+
+Satu Data Indonesia menentukan apakah data penerima bantuan, pajak, dan kependudukan bisa dicocokkan antarlembaga, sehingga berpengaruh pada ketepatan bantuan yang diterima keluarga. RUU ini berisi 17 bab dan 138 pasal, dengan target disahkan 6 Oktober 2026 setelah disetujui sebagai usul inisiatif DPR pada Juli 2026. Halaman ini memetakan kepentingan tiap pihak, dari DPR sampai kementerian yang selama ini memegang datanya sendiri.
+
+## Fakta kunci
+
+- **Bentuk RUU:** 17 bab dan 138 pasal.
+- **Target pengesahan:** paripurna 6 Oktober 2026.
+- **Tahap sebelumnya:** paripurna Juli 2026, delapan fraksi setuju.
+- **Payung hukum lama:** Peraturan Presiden, dinaikkan menjadi undang-undang.
+- **Lembaga baru:** Badan Satu Data Indonesia sebagai orkestrator, bukan pemilik data.
 
 ## Fakta yang Relevan
 
@@ -81,7 +93,7 @@ RUU Satu Data Indonesia (17 bab, 138 pasal; target disahkan 6 Oktober 2026) mene
 - Publik: kepentingan akses — data terbuka pemerintah, dengan pengecualian pertahanan/keamanan (desain RUU).
 - Catatan: kepentingan di atas adalah yang *dinyatakan* para aktor/sumber, bukan kesimpulan wiki.
 
-## Perkembangan Terakhir
+## Kronologi
 
 ### 2026-10-05
 
@@ -91,6 +103,12 @@ RUU Satu Data Indonesia (17 bab, 138 pasal; target disahkan 6 Oktober 2026) mene
 ## Perspektif / Interpretasi
 
 Pola yang terdokumentasi menunjukkan RUU ini dibingkai para pendukungnya sebagai solusi teknokratis ("ego sektoral"), bukan sebagai proyek perebutan kewenangan data — desain "interoperabilitas tanpa sentralisasi" secara eksplisit menahan BSDI agar tidak menjadi pemilik data. Namun kritik yang muncul menggeser bingkai ke risiko: siapa mengawasi, siapa bertanggung jawab bila bocor. Kedua bingkai ini didukung sumber masing-masing; wiki tidak memutuskan mana yang benar. Jika paripurna 6 Oktober mengesahkan RUU, pertanyaan berikutnya yang terdokumentasi adalah siapa yang ditunjuk memimpin BSDI dan bagaimana mekanisme pengawasannya dirumuskan di aturan turunan.
+
+## Aktor yang Terlibat
+
+- [[daniel-johan|Daniel Johan]] — anggota Baleg DPR Fraksi PKB, juru bicara RUU.
+- DPR RI dan Badan Legislasi — pembahas dan penyetuju RUU.
+- Kementerian/lembaga pemilik data sektoral — pihak yang kepentingannya berubah bila data disatukan.
 
 ## Sumber
 
@@ -102,3 +120,11 @@ Pola yang terdokumentasi menunjukkan RUU ini dibingkai para pendukungnya sebagai
 - Newest Indonesia, 4 Oktober 2026. "Atasi Ego Sektoral, DPR Targetkan Pengesahan RUU Satu Data Indonesia Pekan Depan".
 - Mimbar Bangsa, September 2026. "RUU Satu Data Indonesia Bahas BSDI Sebagai Orkestrator Data".
 - Misterius.co.id, 25 September 2026. "Satu Data Indonesia, Jangan Korbankan Keamanan Rakyat" (opini — dikutip sebagai kritik).
+
+
+## Catatan presisi
+- **Sifat halaman:** analisis kepentingan; bagian Kepentingan yang Terlihat adalah tafsiran penulis.
+- **Terverifikasi:** 17 bab, 138 pasal, dan target 6 Oktober 2026 tercatat di halaman ini dan halaman RUU.
+- **Sumber tunggal:** bagian Sumber memakai satu artikel Seantero News, 4 Oktober 2026.
+- **Status:** saat entri ditulis pengesahan masih berstatus target, belum terjadi.
+- **Batas interpretasi:** halaman ini tidak menyimpulkan adanya konflik kepentingan yang melanggar aturan.

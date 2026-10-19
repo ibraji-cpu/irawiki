@@ -2,7 +2,7 @@
 title: "Analisis: Putusan PTUN 50/G Gugatan Gelar Pahlawan Soeharto dan Posisi Hukum Ahli Waris"
 description: Analisis putusan PTUN Jakarta 50/G/2026/PTUN.JKT yang menyatakan gugatan pembatalan Keppres 116/TK/2025 tidak diterima, dan posisi hukum ahli waris.
 date: 2026-10-17
-updated: '2026-10-17'
+updated: '2026-10-20'
 aliases:
   - Analisis Putusan PTUN Soeharto
   - Gugatan Gelar Pahlawan Soeharto PTUN
@@ -17,7 +17,7 @@ risiko_editorial: |
   bukan vonis benar-salahnya sejarah. Substansi gugatan bersumber tunggal dari ringkasan kasus
   dan ditandai reported (belum terverifikasi independen).
 relasi: []
-last_updated: "2026-10-16"
+last_updated: "2026-10-20"
 last_verified: "2026-10-12"
 ---
 
@@ -26,6 +26,18 @@ last_verified: "2026-10-12"
 ## Ringkasan
 
 Putusan PTUN Jakarta perkara 50/G/2026/PTUN.JKT menyatakan gugatan pembatalan Keppres Nomor 116/TK/2025 tentang penganugerahan gelar Pahlawan Nasional kepada Jenderal Besar TNI H.M. Soeharto **Tidak Diterima**. Putusan ini mengabulkan eksepsi Tergugat dan Tergugat II Intervensi — Siti Hardiyanti Hastuti Rukmana (Mbak Tutut) selaku ahli waris Soeharto — bahwa penggugat tidak mempunyai kepentingan hukum untuk menggugat Keppres ini. Perkara kedua, 151/G/2026/PTUN.JKT (koalisi GEMAS), masih berjalan.
+
+## Kenapa penting buat Gen Z
+
+Gelar pahlawan nasional menentukan bagaimana negara menulis sejarah, termasuk peristiwa 1965 yang masih diperdebatkan. Putusan PTUN Jakarta perkara 50/G/2026/PTUN.JKT pada 2 September 2026 menyatakan gugatan pembatalan Keppres Nomor 116/TK/2025 tidak dapat diterima, sehingga gelar Soeharto tetap berlaku. Halaman ini memisahkan amar putusan dari pertanyaan substantif soal dasar pemberian gelar.
+
+## Fakta kunci
+
+- **Perkara:** 50/G/2026/PTUN.JKT, diputus 2 September 2026.
+- **Objek gugatan:** Keppres Nomor 116/TK/2025 tentang gelar pahlawan nasional Soeharto.
+- **Amar:** gugatan tidak dapat diterima, sehingga Keppres tetap berlaku.
+- **Panjang putusan:** 117 halaman, dibaca 14 Oktober 2026.
+- **Perkara lain:** 151/G/2026/PTUN.JKT, sidang pembuktian ahli 12 Oktober 2026.
 
 ## Fakta yang Relevan
 
@@ -49,7 +61,7 @@ Putusan PTUN Jakarta perkara 50/G/2026/PTUN.JKT menyatakan gugatan pembatalan Ke
 - **Penggugat (Bejo):** Membatalkan Keppres karena penganugerahan dianggap membalikkan fakta sejarah kerugian Waduk Kedung Ombo dan melanggar syarat UU No. 20/2009 tentang integritas moral.
 - **Koalisi GEMAS:** Menggugat perkara 151/G dengan objek yang sama — menunjukkan ada upaya hukum lanjutan meski 50/G kandas di eksepsi.
 
-## Perkembangan Terakhir
+## Kronologi
 
 ### 2026-10-12
 
@@ -62,9 +74,23 @@ Putusan PTUN Jakarta perkara 50/G/2026/PTUN.JKT menyatakan gugatan pembatalan Ke
 - Putusan ini adalah **validasi telak** bagi ahli waris: sejak awal mereka berargumen gelar pahlawan tidak menimbulkan akibat hukum bagi pihak ketiga — dan pengadilan mengamini logika itu.
 - **Bagi publik:** ruang sidang PTUN menguji prosedur dan kedudukan hukum, bukan mengadili benar-salahnya sejarah. Selama 151/G belum diputus, kisah ini belum selesai.
 
+## Aktor yang Terlibat
+
+- [[soeharto|Soeharto]] — penerima gelar pahlawan nasional yang dipersoalkan.
+- Ahli waris Soeharto — pihak yang mempertahankan keabsahan Keppres 116/TK/2025.
+- Richo Andi Wibowo dan Bivitri Susanti — ahli yang dihadirkan pada sidang 151/G/2026/PTUN.JKT.
+
 ## Sumber
 
 - Salinan resmi Putusan 50/G/2026/PTUN.JKT (117 hlm, dibaca 14 Oktober 2026) — sumber amar, tanggal, majelis, dan pertimbangan inti.
 - [Laporan Perkara Aktif PTUN Jakarta, Februari 2026](https://ptun-jakarta.go.id/download_file/ZHVMYUxTMHVVQzVnbmhOc2psTUNDUT09) — konfirmasi pendaftaran 50/G.
 - Ira Amalia, "Soeharto Pahlawan Nasional," Wiki Ira Amalia — kronologi dan sumber latar belakang.
 - Ira Amalia, "Soeharto," Wiki Ira Amalia — profil aktor.
+
+
+## Catatan presisi
+- **Sifat halaman:** analisis hukum; bagian Perspektif memuat penilaian penulis.
+- **Terverifikasi:** nomor perkara 50/G/2026/PTUN.JKT, Keppres 116/TK/2025, dan tanggal 2 September 2026 tercatat di halaman ini.
+- **Sumber utama:** salinan resmi putusan 117 halaman yang dibaca 14 Oktober 2026.
+- **Perkara terpisah:** 151/G/2026/PTUN.JKT masih berjalan; hasilnya belum tercatat.
+- **Batas interpretasi:** halaman ini tidak menilai apakah gelar pahlawan bagi Soeharto layak diberikan.
