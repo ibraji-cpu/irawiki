@@ -36,7 +36,7 @@ VOICE_NAME = "Aoede"
 
 # Fallback LLM via provider trustisgold (OpenAI-compatible)
 FALLBACK_BASE_URL = os.environ.get("BLOG_FALLBACK_BASE_URL", "https://api.trustisgold.web.id/v1")
-FALLBACK_MODEL = os.environ.get("BLOG_FALLBACK_MODEL", "ff/muse-spark-1.2-contributor")
+FALLBACK_MODEL = os.environ.get("BLOG_FALLBACK_MODEL", "tig/deepseek-v4-1-flash-UNRESTRICTED")
 FALLBACK_KEY_ENV = "TRUSTISGOLD_API_KEY"
 
 # Batas keras durasi audio (user: maksimum 2 menit)
@@ -134,7 +134,7 @@ def generate_summary(title: str, content: str, api_key: str) -> str:
 def summary_via_trustisgold(prompt: str) -> str | None:
     """Fallback langsung ke provider trustisgold (OpenAI-compatible).
 
-    Model muse-spark kadang mengembalikan content kosong (respons reasoning-only)
+    Model deepseek-v4-1-flash (reasoning) kadang mengembalikan content kosong (respons reasoning-only)
     atau gagal transien -> coba beberapa kali sebelum menyerah.
     """
     key = os.environ.get(FALLBACK_KEY_ENV)
