@@ -150,7 +150,6 @@ Hak angket adalah jalur terakhir untuk memeriksa syarat pendidikan wakil preside
 - Wacana hak angket diperdebatkan dengan sorotan pada syarat lintas fraksi UU MD3 dan komposisi 110 berbanding 470 kursi.
 
 ### 2026-10-08 — Peta Posisi Fraksi DPR Dikumpulkan
-data:
 
 Data dikumpulkan dari pemberitaan media nasional (Detik, VIVA, Tempo, Sindonews, KompasTV, KoranKota, Infonasional, GarudaTV).
 

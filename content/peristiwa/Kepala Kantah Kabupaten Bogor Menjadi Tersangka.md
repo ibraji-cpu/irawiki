@@ -57,7 +57,7 @@ sumber:
 
 confidence: 4
 risiko_editorial: "sedang"
-last_updated: "2026-10-10"
+last_updated: "2026-10-20"
 
 relasi: []
 last_verified: "2026-10-09"
@@ -65,23 +65,61 @@ last_verified: "2026-10-09"
 
 # Kepala Kantah Kabupaten Bogor Menjadi Tersangka
 
-> **Kronologi Singkat:** KPK menggelar operasi tangkap tangan (OTT) di Jabodetabek pada 14 September 2026 terkait dugaan suap pengurusan Hak Guna Bangunan (HGB) PT Summarecon Agung Tbk di Kabupaten Bogor. Sehari kemudian KPK menetapkan delapan tersangka, termasuk Kepala Kantor Pertanahan Kabupaten Bogor I Sontang Coin Manurung. KPK menyita uang tunai sekitar Rp106,3 miliar sebagai barang bukti.
+## Ringkasan
+
+> **Ringkasan Topik:** KPK menggelar operasi tangkap tangan (OTT) di Jabodetabek pada 14 September 2026 terkait dugaan suap pengurusan Hak Guna Bangunan (HGB) PT Summarecon Agung Tbk di Kabupaten Bogor. Sehari kemudian KPK menetapkan delapan tersangka, termasuk Kepala Kantor Pertanahan Kabupaten Bogor I Sontang Coin Manurung. KPK menyita uang tunai sekitar Rp106,3 miliar sebagai barang bukti.
+
+## Kenapa penting buat Gen Z
+
+Perkara ini menyangkut penerbitan dan pembukaan blokir sertifikat tanah, yaitu dokumen yang menentukan sah atau tidaknya sebuah lahan diperjualbelikan dan dibangun. Kantor Pertanahan Kabupaten Bogor adalah pintu administratif bagi proyek perumahan di kawasan yang menjadi tujuan banyak pekerja muda. Dugaan fee Rp2 miliar untuk membuka blokir HGB menunjukkan titik di mana biaya administrasi bisa berubah menjadi biaya tidak resmi. KPK menyita uang tunai sekitar Rp106,3 miliar, angka yang jauh di atas nilai fee yang diduga disepakati.
+
+## Fakta kunci
+
+- **OTT:** digelar 14 September 2026 di wilayah Jabodetabek; belasan orang diamankan, pemberitaan menyebut 17-19 orang.
+- **Tersangka:** 8 orang ditetapkan 15 September 2026 dan ditahan untuk 20 hari pertama hingga 4 Oktober 2026.
+- **Barang bukti:** uang tunai rupiah dan valuta asing sekitar Rp106,3 miliar disita dari sejumlah lokasi.
+- **Dugaan fee:** kode "dua" untuk Rp2 miliar, disanggupi Rp1,5 miliar; Rp200 juta diserahkan di kafe Jakarta Selatan.
+- **Pejabat tersangka:** 2 pejabat ATR/BPN, yaitu Dirjen PPTR Lampri dan Kepala Kantah Kabupaten Bogor I Sontang Coin Manurung.
+- **Saksi:** Menteri ATR/BPN Nusron Wahid dipanggil 7 Oktober 2026 dan tidak hadir.
+
+## Latar Belakang
+
+Perkara ini berkaitan dengan pengurusan administrasi pertanahan — pembukaan blokir dan pemecahan Hak Guna Bangunan (HGB) menjadi Sertifikat Hak Milik (SHM) — atas lahan PT Summarecon Agung Tbk di Kabupaten Bogor. Sertifikat tersebut sebelumnya diblokir di Kantor Pertanahan Bogor setelah ahli waris pemilik tanah melayangkan gugatan ke pengadilan (PTUN Bandung). Selain dugaan suap pengurusan HGB, KPK juga mendalami dugaan penerimaan lain di lingkungan Kementerian ATR/BPN serta dugaan korupsi dalam proses mutasi dan promosi jabatan di internal kementerian tersebut.
 
 ## Kronologi
 
-- **2026-09-14** — KPK menggelar operasi tangkap tangan (OTT) di wilayah Jabodetabek terkait dugaan suap pengurusan HGB PT Summarecon Agung Tbk di Kabupaten Bogor, Jawa Barat. Belasan orang diamankan (pemberitaan menyebut 17–19 orang).
-- **2026-09-15** — KPK mengumumkan delapan orang sebagai tersangka dan langsung menahan mereka untuk 20 hari pertama hingga 4 Oktober 2026. Kedelapan tersangka:
-  1. Lampri — Direktur Jenderal Pengendalian dan Penertiban Tanah dan Ruang (PPTR) Kementerian ATR/BPN.
-  2. Sontang Coin Manurung — Kepala Kantor Pertanahan Kabupaten Bogor I.
-  3. Adrianto Pitojo Adhi — Presiden Direktur PT Summarecon Agung Tbk.
-  4. Arif Sugiyanto — pihak swasta.
-  5. Fahd El Fouz alias Fahd A Rafiq — politikus Partai Golkar / pihak swasta.
-  6. Rizal Pahlevi — pihak swasta.
-  7. Erwin — pihak swasta.
-  8. Muhammad Fakhry — pihak swasta.
-- **Konstruksi perkara** (menurut Plt Direktur Penyidikan KPK Achmad Taufik Husein): perkara diawali sengketa tanah antara Summarecon dan ahli waris pemilik SHM di PTUN Bandung; pihak Summarecon kemudian meminta bantuan perantara untuk membuka blokir HGB di Kantah Bogor. Sontang Coin melalui Erwin meminta fee dengan kode "dua" yang diduga sejumlah Rp2 miliar, namun pihak Summarecon hanya menyanggupi Rp1,5 miliar. Erwin kemudian menyerahkan Rp200 juta kepada Coin di sebuah kafe di Jakarta Selatan sebagai fee pembukaan blokir dan pemecahan HGB atas nama Summarecon.
-- Dalam OTT tersebut KPK menyita uang tunai dalam rupiah dan sejumlah mata uang asing dengan total diperkirakan sekitar Rp106,3 miliar dari sejumlah lokasi, termasuk dari kediaman Arif Sugiyanto; KPK juga menggeledah kantor Summarecon dan kantor wilayah BPN di beberapa daerah.
-- KPK menyebut empat tersangka dari unsur swasta — Arif Sugiyanto, Fahd El Fouz, Erwin, dan Muhammad Fakhry — diduga memiliki kedekatan dengan Menteri ATR/BPN Nusron Wahid.
+### 2026-09-14 — KPK Menggelar Operasi Tangkap Tangan di Jabodetabek
+KPK menggelar operasi tangkap tangan (OTT) di wilayah Jabodetabek terkait dugaan suap pengurusan HGB PT Summarecon Agung Tbk di Kabupaten Bogor, Jawa Barat. Belasan orang diamankan; pemberitaan menyebut 17-19 orang.
+
+### 2026-09-15 — Delapan Orang Ditetapkan sebagai Tersangka
+KPK mengumumkan delapan orang sebagai tersangka dan langsung menahan mereka untuk 20 hari pertama hingga 4 Oktober 2026. Kedelapan tersangka:
+
+1. Lampri — Direktur Jenderal Pengendalian dan Penertiban Tanah dan Ruang (PPTR) Kementerian ATR/BPN.
+2. Sontang Coin Manurung — Kepala Kantor Pertanahan Kabupaten Bogor I.
+3. Adrianto Pitojo Adhi — Presiden Direktur PT Summarecon Agung Tbk.
+4. Arif Sugiyanto — pihak swasta.
+5. Fahd El Fouz alias Fahd A Rafiq — politikus Partai Golkar / pihak swasta.
+6. Rizal Pahlevi — pihak swasta.
+7. Erwin — pihak swasta.
+8. Muhammad Fakhry — pihak swasta.
+
+### 2026-09-15 — Konstruksi Perkara Menurut Penyidik
+Menurut Plt Direktur Penyidikan KPK Achmad Taufik Husein, perkara diawali sengketa tanah antara Summarecon dan ahli waris pemilik SHM di PTUN Bandung; pihak Summarecon kemudian meminta bantuan perantara untuk membuka blokir HGB di Kantah Bogor. Sontang Coin melalui Erwin meminta fee dengan kode "dua" yang diduga sejumlah Rp2 miliar, namun pihak Summarecon hanya menyanggupi Rp1,5 miliar. Erwin kemudian menyerahkan Rp200 juta kepada Coin di sebuah kafe di Jakarta Selatan sebagai fee pembukaan blokir dan pemecahan HGB atas nama Summarecon.
+
+### 2026-09-15 — Penyitaan dan Penggeledahan
+KPK menyita uang tunai dalam rupiah dan sejumlah mata uang asing dengan total diperkirakan sekitar Rp106,3 miliar dari sejumlah lokasi, termasuk dari kediaman Arif Sugiyanto. KPK juga menggeledah kantor Summarecon dan kantor wilayah BPN di beberapa daerah. KPK menyebut empat tersangka dari unsur swasta — Arif Sugiyanto, Fahd El Fouz, Erwin, dan Muhammad Fakhry — diduga memiliki kedekatan dengan Menteri ATR/BPN Nusron Wahid.
+
+### 2026-09-25 — GBC Mendesak KPK Mengusut Tuntas
+Gerakan Berantas Korupsi (GBC) mendesak KPK mengusut tuntas dugaan suap HGB Summarecon serta meminta KPK memanggil dan memeriksa sejumlah pihak, termasuk Menteri ATR/BPN Nusron Wahid.
+
+### 2026-10-07 — KPK Memanggil Nusron Wahid sebagai Saksi
+KPK memanggil Menteri ATR/BPN Nusron Wahid sebagai saksi dalam penyidikan kasus ini. Nusron tidak hadir dengan alasan agenda internal di Kementerian ATR/BPN; KPK menyatakan akan menjadwalkan ulang pemeriksaan.
+
+### 2026-10-08 — Ketua KPK Mempersoalkan Ketidakhadiran
+Ketua KPK Setyo Budiyanto mempertanyakan alasan ketidakhadiran Nusron, menilai surat panggilan telah dikirim sejak pekan sebelumnya sehingga agenda kementerian seharusnya bisa diatur. Ia menegaskan KPK berharap Nusron memegang komitmennya untuk menghormati proses hukum.
+
+### 2026-10-09 — Penyidikan Dikembangkan dan Dugaan Pungli Diungkap
+Pemberitaan mencatat KPK masih mengembangkan penyidikan untuk mendalami kemungkinan keterlibatan pihak lain serta menelusuri aliran dana. KPK juga mengungkap dugaan praktik pungli di Kantor Pertanahan Kabupaten Bogor dalam pendalaman perkara ini.
 
 ## Aktor yang Terlibat
 
@@ -90,29 +128,7 @@ last_verified: "2026-10-09"
 - [[lampri|Lampri]] — Direktur Jenderal PPTR Kementerian ATR/BPN; ditetapkan sebagai tersangka.
 - [[nusron-wahid|Nusron Wahid]] — Menteri ATR/BPN; dipanggil KPK sebagai saksi; sejumlah tersangka disebut sebagai orang-orang kepercayaannya (klaim KPK, belum diuji di pengadilan).
 - [[achmad-taufik-husein|Achmad Taufik Husein]] — Plt Direktur Penyidikan KPK; menyampaikan konstruksi perkara kepada media.
-- [[setyo-budiyanto|Setyo Budiyanto]] — Ketua KPK; mempertanyakan ketidakhadiran Nusron Wahid pada pemanggilan 7 Oktober 2026.
-
-## Latar Belakang
-
-Perkara ini berkaitan dengan pengurusan administrasi pertanahan — pembukaan blokir dan pemecahan Hak Guna Bangunan (HGB) menjadi Sertifikat Hak Milik (SHM) — atas lahan PT Summarecon Agung Tbk di Kabupaten Bogor. Sertifikat tersebut sebelumnya diblokir di Kantor Pertanahan Bogor setelah ahli waris pemilik tanah melayangkan gugatan ke pengadilan (PTUN Bandung). Selain dugaan suap pengurusan HGB, KPK juga mendalami dugaan penerimaan lain di lingkungan Kementerian ATR/BPN serta dugaan korupsi dalam proses mutasi dan promosi jabatan di internal kementerian tersebut.
-
-## Perkembangan Terakhir
-
-### 2026-09-25
-
-- Gerakan Berantas Korupsi (GBC) mendesak KPK mengusut tuntas dugaan suap HGB Summarecon serta meminta KPK memanggil dan memeriksa sejumlah pihak, termasuk Menteri ATR/BPN Nusron Wahid.
-
-### 2026-10-07
-
-- KPK memanggil Menteri ATR/BPN Nusron Wahid sebagai saksi dalam penyidikan kasus ini. Nusron tidak hadir dengan alasan agenda internal di Kementerian ATR/BPN; KPK menyatakan akan menjadwalkan ulang pemeriksaan.
-
-### 2026-10-08
-
-- Ketua KPK Setyo Budiyanto mempertanyakan alasan ketidakhadiran Nusron, menilai surat panggilan telah dikirim sejak pekan sebelumnya sehingga agenda kementerian seharusnya bisa diatur; ia menegaskan KPK berharap Nusron memegang komitmennya untuk menghormati proses hukum.
-
-### 2026-10-09
-
-- Pemberitaan mencatat KPK masih mengembangkan penyidikan untuk mendalami kemungkinan keterlibatan pihak lain serta menelusuri aliran dana; KPK juga mengungkap dugaan praktik pungli di Kantor Pertanahan Kabupaten Bogor dalam pendalaman perkara ini.
+- Setyo Budiyanto — Ketua KPK; mempertanyakan ketidakhadiran Nusron Wahid pada pemanggilan 7 Oktober 2026.
 
 ## Dampak Langsung
 
@@ -134,9 +150,16 @@ Perkara ini berkaitan dengan pengurusan administrasi pertanahan — pembukaan bl
 - Fenesia, "Ketua KPK Sindir Nusron Wahid yang Mangkir Pemeriksaan Kasus Suap ATR/BPN", 8 Oktober 2026. https://fenesia.com/ketua-kpk-sindir-nusron-wahid-yang-mangkir-pemeriksaan-kasus-suap-atr-bpn/
 - Presisi, "GBC Desak KPK Usut Dugaan Suap HGB Summarecon", 25 September 2026. https://presisi.co/index.php/read/2026/09/25/20671/gbc-desak-kpk-usut-dugaan-suap-hgb-summarecon
 
-## Catatan
+## Catatan presisi
 
 - Status "tersangka" bukan vonis; seluruh pihak yang disebut berhak atas asas praduga tak bersalah hingga ada putusan pengadilan yang berkekuatan hukum tetap.
 - Jumlah orang yang diamankan dalam OTT berbeda antar sumber (17 vs 19 orang); halaman ini mencatat rentang tersebut apa adanya.
 - Jabatan Arif Sugiyanto dilaporkan berbeda antar media ("mantan Bupati Kebumen" vs "Wakil Bupati Kebumen"); halaman ini mengikuti kategorisasi KPK sebagai pihak swasta hingga ada klarifikasi resmi.
 - Klaim KPK bahwa sejumlah tersangka adalah "orang kepercayaan" Menteri ATR/BPN adalah pernyataan penyidik dalam konferensi pers, belum diuji di pengadilan.
+- **Terverifikasi:** jumlah dan identitas delapan tersangka, tanggal penahanan, serta nilai barang bukti bersumber pemberitaan yang dirujuk di bagian Sumber.
+- **Dilaporkan:** nilai fee Rp2 miliar dan penyerahan Rp200 juta berasal dari keterangan penyidik dalam konferensi pers, bukan dokumen dakwaan.
+- **Angka berbeda:** jumlah orang yang diamankan dalam OTT tercatat 17 dan 19 orang antar sumber; halaman ini menyebut rentang tanpa memilih salah satu.
+- **Jabatan berbeda:** Arif Sugiyanto dilaporkan sebagai "mantan Bupati Kebumen" dan "Wakil Bupati Kebumen"; halaman ini mengikuti kategorisasi KPK sebagai pihak swasta.
+- **Klaim belum diuji:** pernyataan KPK bahwa sejumlah tersangka adalah orang kepercayaan Menteri ATR/BPN belum diuji di pengadilan.
+- **Celah data:** tidak ada nomor surat perintah penyidikan atau berkas perkara yang ditautkan; status hukum masih penyidikan.
+- **Batas interpretasi:** halaman ini tidak menyimpulkan kesalahan Menteri ATR/BPN maupun pihak mana pun.
