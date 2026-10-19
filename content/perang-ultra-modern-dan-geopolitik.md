@@ -2,7 +2,7 @@
 title: "Perang Ultra Modern dan Geopolitik"
 description: Tipologi perang ultra modern — narasi, ekonomi, sumber daya — plus kronologi tekanan terhadap ekonomi Indonesia 2026 (MSCI, IHSG, DHE, DSI).
 date: 2026-10-17
-updated: '2026-10-17'
+updated: '2026-10-20'
 entity_type: topik
 entity_id: "perang-ultra-modern-dan-geopolitik"
 aliases:
@@ -17,12 +17,27 @@ tags:
   - asean
 confidence: 7
 risiko_editorial: "sedang"
-last_updated: "2026-10-17"
+last_updated: "2026-10-20"
 ---
 
 # Perang Ultra Modern dan Geopolitik
 
+## Ringkasan
+
 > **Ringkasan:** Halaman ini mengulas contoh-contoh perang ultra modern dan dinamika geopolitik berbagai kawasan. Edisi kali ini dimulai dengan kawasan ASEAN — gelombang narasi dan tekanan terhadap perekonomian Indonesia sepanjang 2026 — sebagai studi kasus. Halaman ini disusun sebagai bahan pembelajaran untuk memahami tipologi perang ultra modern: peperangan yang tidak lagi terutama ditempuh lewat kekuatan militer konvensional, melainkan lewat narasi, persepsi pasar, instrumen keuangan, dan kebijakan penguasaan sumber daya. Kejadian baru dicatat sebagai entri bertanggal di Kronologi; kawasan atau studi kasus baru ditambahkan sebagai bagian tersendiri.
+
+## Kenapa penting buat Gen Z
+
+Tiga tekanan datang bersamaan sepanjang 2026: IHSG anjlok, rupiah menembus Rp18.000 per dolar AS, dan MSCI membuka konsultasi penurunan klasifikasi pasar Indonesia. Kurs dipakai untuk menghitung harga barang impor, sehingga pelemahan rupiah menyentuh biaya hidup harian. Bagi pemilik reksa dana atau saham, penurunan IHSG 11,57% pada 16 Oktober 2026 langsung mengurangi nilai portofolio. Kebijakan Devisa Hasil Ekspor dan kanal tunggal ekspor menentukan siapa yang memegang devisa hasil ekspor, dan itu bagian dari cara negara menahan tekanan tersebut.
+
+## Fakta kunci
+
+- **IHSG 16 Oktober 2026:** turun 11,57% (−678,67 poin) ke 5.185,11 — penurunan harian terdalam sejak krisis 1998; perdagangan dihentikan 30 menit.
+- **Konsultasi MSCI:** dibuka 15 Oktober 2026 untuk menurunkan Indonesia dari *Emerging Market* ke *Standalone Market*; konsultasi berjalan sampai 30 April 2027, keputusan paling lambat 30 Juni 2027.
+- **Rupiah:** ditutup Rp18.033 per dolar AS pada 4 Juni 2026, rekor penutupan terendah sepanjang sejarah saat itu.
+- **PP 21/2026 (DHE SDA):** berlaku 1 Juni 2026; eksportir nonmigas wajib menempatkan 100% devisa di rekening dalam negeri minimal 12 bulan, konversi ke rupiah maksimal 50%.
+- **PP 26/2026 (kanal tunggal):** ekspor batubara, CPO, dan ferroalloy dialihkan ke PT Danantara Sumberdaya Indonesia; penuh berlaku Januari 2027.
+- **Net sell asing 16 Oktober 2026:** BBCA Rp2,3 triliun, BBRI Rp1,15 triliun, BMRI Rp868 miliar.
 
 ## Tipologi Perang Ultra Modern (kerangka pembelajaran)
 
@@ -73,3 +88,13 @@ Tipologi di bawah dirumuskan dari kajian Agus M. Maksum ("Serangan Susulan dari 
 - **DSI:** Indonesia at Melbourne (Universitas Melbourne). "Indonesia's economic centralisation under Prabowo." https://indonesiaatmelbourne.unimelb.edu.au/indonesias-economic-centralisation-under-prabowo/
 - **Konten 1M65:** "Indonesia is Collapsing!!!!" (YouTube Short, bertag #1M65). https://www.youtube.com/shorts/cxHtfLTjUmI
 - **Liputan The Economist:** Lowy Institute. "What The Economist missed about Indonesia." https://www.lowyinstitute.org/the-interpreter/what-the-economist-missed-about-indonesia
+
+## Catatan presisi
+
+- **Terverifikasi:** angka IHSG 16 Oktober 2026 (−11,57% ke 5.185,11; *trading halt* 30 menit) dan konsultasi MSCI 15 Oktober 2026 dirujuk ke Reuters, Securities.io, dan Bulatan Times di bagian Sumber.
+- **Kerangka, bukan fakta:** tipologi tiga jenis perang ultra modern adalah rumusan Agus M. Maksum (naskah 17 Oktober 2026), bukan kategori akademik baku. Ia dipakai sebagai alat baca, bukan kesimpulan.
+- **Belum terverifikasi:** identitas narator video "Indonesia is Collapsing!!!!" bertag #1M65. Keterkaitan resmi konten itu dengan gerakan 1M65 tidak dikonfirmasi.
+- **Batas korelasi:** halaman ini tidak menyimpulkan bahwa penurunan IHSG disebabkan konten media sosial. Urutan waktu bukan bukti sebab-akibat.
+- **Angka ambigu:** kapitalisasi BEI "terpangkas ~38,8%" (5 Juni 2026) dihitung dari Rp16.014 triliun ke Rp9.807 triliun "dalam sepekan berjalan" — rentang waktu perhitungannya tidak tegas di sumber.
+- **Celah data:** realisasi penempatan DHE dan dampak kanal tunggal DSI belum tersedia; halaman belum memuat angka penempatan devisa aktual.
+
