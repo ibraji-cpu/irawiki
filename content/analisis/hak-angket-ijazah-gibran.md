@@ -55,7 +55,7 @@ kategori_analisis:
 
 confidence: 5
 risiko_editorial: "tinggi"
-last_updated: "2026-10-10"
+last_updated: "2026-10-20"
 last_verified: "2026-10-08"
 relasi: []
 ---
@@ -65,6 +65,29 @@ relasi: []
 ## Ringkasan
 
 [[Mahkamah Konstitusi]] menolak permohonan Perkara Nomor 01/PHPU.PRES-XXIV/2026 pada 6 Oktober 2026 karena alasan prosedural, sehingga materi syarat pendidikan [[Gibran Rakabuming Raka]] tidak diuji. Namun pertimbangan faktual yang dibacakan dalam putusan tersebut membuka wacana politik baru: dorongan penggunaan hak angket di [[DPR RI]]. Analisis ini memetakan fakta yang terdokumentasi mengenai peluang dan hambatan usulan tersebut, dengan fokus pada hitungan kursi dan syarat lintas fraksi yang diatur UU MD3.
+
+## Kenapa penting buat Gen Z
+
+Hak angket adalah jalur terakhir untuk memeriksa syarat pendidikan wakil presiden setelah Mahkamah Konstitusi menutup perkaranya secara prosedural pada 6 Oktober 2026. Jalur itu tidak ditentukan oleh kuatnya bukti, melainkan oleh jumlah kursi: PDI Perjuangan memegang 110 kursi dari 580, koalisi pemerintah 470 kursi. UU MD3 mewajibkan usulan diajukan minimal 25 anggota dari lebih dari satu fraksi, dan syarat lintas fraksi itulah yang tidak terpenuhi bila PDI Perjuangan sendirian di luar koalisi. Bagi pemilih muda, kasus ini menunjukkan bahwa pertanyaan hukum yang belum dijawab tidak otomatis mendapat forum untuk dijawab.
+
+## Fakta kunci
+
+- **Putusan MK:** Nomor 01/PHPU.PRES-XXIV/2026 diucapkan 6 Oktober 2026, amar permohonan tidak dapat diterima karena alasan prosedural.
+- **Syarat hak angket:** minimal 25 anggota DPR dan berasal dari lebih dari satu fraksi menurut UU MD3.
+- **Kursi PDI Perjuangan:** 110 kursi (18,97 persen dari 580), satu-satunya fraksi di luar koalisi pemerintah.
+- **Kursi koalisi:** KIM Plus disebut menguasai 470 kursi (81,03 persen) dari 7 fraksi.
+- **Pertimbangan faktual:** Mahkamah tidak menemukan dokumen fisik kelulusan setara SMA; penyetaraan yang dipakai berbasis program Grade 12 UTS Insearch.
+- **Tahapan lanjutan:** lima tahap menurut laporan yang dirujuk, dari usulan, pansus, hak menyatakan pendapat, pengujian ke MK, hingga sidang di MPR berdasarkan Pasal 7A dan 7B UUD 1945.
+
+## Kronologi
+
+### 2026-10-06 — MK Menyatakan Permohonan Tidak Dapat Diterima
+- Putusan MK Nomor 01/PHPU.PRES-XXIV/2026 dibacakan: permohonan tidak dapat diterima karena alasan prosedural, sementara pertimbangan faktualnya menyatakan tidak ditemukan dokumen fisik kelulusan setara SMA.
+- Lihat [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK 6 Oktober 2026]].
+
+### 2026-10-07 — Respons Politik Terbelah
+- Respons politik terbelah: PDIP melalui Deddy Sitorus mendorong Pansus Hak Angket, sementara Gerindra melalui Sugiat Santoso meminta polemik dihentikan.
+- Wacana hak angket diperdebatkan dengan sorotan pada syarat lintas fraksi UU MD3 dan komposisi 110 berbanding 470 kursi.
 
 ## Fakta yang Relevan
 
@@ -114,19 +137,20 @@ relasi: []
 - Kepentingan KIM Plus dan pemerintah: kepastian hukum, stabilitas politik, dan iklim investasi — sebagaimana dinyatakan Sugiat Santoso yang meminta polemik dihentikan.
 - Kepentingan para pemohon dan kelompok masyarakat sipil: pemeriksaan terbuka mengenai kebenaran yuridis pemenuhan syarat pendidikan Gibran ketika ditetapkan sebagai calon wakil presiden.
 
-## Perkembangan Terakhir
+## Kronologi
 
-### 2026-10-06
+### 2026-10-06 — MK Menyatakan Permohonan Tidak Dapat Diterima
 
 - Putusan MK Nomor 01/PHPU.PRES-XXIV/2026 dibacakan: permohonan tidak dapat diterima karena alasan prosedural, sementara pertimbangan faktualnya menyatakan tidak ditemukan dokumen fisik kelulusan setara SMA.
 - Lihat [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK 6 Oktober 2026]].
 
-### 2026-10-07
+### 2026-10-07 — Respons Politik Terbelah
 
 - Respons politik terbelah: PDIP melalui Deddy Sitorus mendorong Pansus Hak Angket, sementara Gerindra melalui Sugiat Santoso meminta polemik dihentikan.
 - Wacana hak angket diperdebatkan dengan sorotan pada syarat lintas fraksi UU MD3 dan komposisi 110 berbanding 470 kursi.
 
-### 2026-10-08 ~ 10 — Peta Posisi Fraksi DPR
+### 2026-10-08 — Peta Posisi Fraksi DPR Dikumpulkan
+data:
 
 Data dikumpulkan dari pemberitaan media nasional (Detik, VIVA, Tempo, Sindonews, KompasTV, KoranKota, Infonasional, GarudaTV).
 
@@ -147,6 +171,21 @@ Data dikumpulkan dari pemberitaan media nasional (Detik, VIVA, Tempo, Sindonews,
 - **Demokrat** — Herman Khaeron (Sekjen) & Dede Yusuf (Waketum Komisi II): belum ada pembicaraan, tunggu arahan pimpinan.
 - **PAN** — tidak ada pernyataan resmi.
 
+## Aktor yang Terlibat
+
+- [[PDI Perjuangan]] — fraksi pendorong hak angket, memegang 110 kursi dan berada sendirian di luar koalisi pemerintah.
+- [[Deddy Sitorus]] — politisi PDIP yang menyatakan komitmen mendorong pembentukan Pansus Hak Angket.
+- [[KIM Plus]] — koalisi 7 fraksi pendukung pemerintah dengan 470 kursi yang menolak usulan.
+- [[Sugiat Santoso]] — Juru Bicara Partai Gerindra dan Wakil Ketua Komisi XIII DPR yang meminta polemik dihentikan.
+- [[Partai Gerindra]] — fraksi penentu karena partainya presiden, menolak usulan hak angket.
+- [[Mardani Ali Sera]] — politisi PKS yang tidak menolak dan tidak mendorong usulan.
+- [[Ahmad Sahroni]] — Bendahara Umum NasDem yang menyatakan menunggu arahan Surya Paloh.
+- [[Denny Indrayana]] — pemohon yang mendukung dorongan akuntabilitas lewat parlemen.
+- [[Mahkamah Konstitusi]] — lembaga yang memutus perkara secara prosedural dan menutup jalur yudisial.
+- [[DPR RI]] — lembaga tempat usulan hak angket harus lolos ambang 25 anggota dan syarat lintas fraksi.
+- [[Suhartoyo]] — Ketua MK yang memimpin sidang pembacaan putusan.
+- Arsul Sani — Hakim Konstitusi yang membacakan pertimbangan faktual soal dokumen fisik kelulusan.
+
 ## Perspektif / Interpretasi
 
 > Bagian ini adalah penilaian analitis, bukan fakta yang terdokumentasi.
@@ -156,15 +195,6 @@ Data dikumpulkan dari pemberitaan media nasional (Detik, VIVA, Tempo, Sindonews,
 - Pertanyaan substantif mengenai keabsahan pemenuhan syarat pendidikan tetap berdiri sendiri: jika syarat "tamat SLTA/sederajat" bersifat imperatif menurut UU Pemilu, laporan yang dirujuk memetakan dugaan celah pada aturan teknis PKPU yang tidak mewajibkan bukti fisik kelulusan, penerbitan surat penyetaraan, dan verifikasi KPU. Namun pertanyaan yang sah belum tentu memiliki jalur penyelesaian yang tersedia.
 - Artikel opini Ira Amalia, "Hak Angket Ijazah Gibran: Pintu Politik yang Terkunci dari Dalam" (7 Oktober 2026), menilai kasus ini menunjukkan bahwa akuntabilitas hukum pada akhirnya disaring melalui hitungan politik, dan bahwa mekanisme pengawasan menjadi tidak efektif ketika mayoritas kursi dipegang kubu yang berkepentingan menjaga status quo. Penilaian tersebut adalah interpretasi penulis, bukan temuan hukum.
 - Laporan yang dirujuk juga menempatkan disiplin koalisi sebagai variabel penentu: tanpa intervensi langsung, soliditas 7 fraksi koalisi disebut cukup untuk menetralkan tekanan masyarakat sipil.
-
-## Sumber
-
-- "Laporan Analisis Politik dan Hukum: Peluang dan Hambatan DPR RI dalam Penggunaan Hak Angket Kasus Ijazah Wakil Presiden Gibran Rakabuming Raka." Dokumen analisis, Oktober 2026.
-- Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES-XXIV/2026, diucapkan 6 Oktober 2026.
-- Undang-Undang tentang MPR, DPR, DPD, dan DPRD (UU MD3) — ketentuan syarat pengajuan hak angket: minimal 25 anggota dari lebih dari satu fraksi.
-- Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum, Pasal 169 huruf r.
-- Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2024.
-- Ira Amalia, "Hak Angket Ijazah Gibran: Pintu Politik yang Terkunci dari Dalam", 7 Oktober 2026.
 
 ## Relasi Terkait
 
@@ -183,3 +213,23 @@ Data dikumpulkan dari pemberitaan media nasional (Detik, VIVA, Tempo, Sindonews,
 - [[Putusan MK 6 Oktober 2026]]
 - [[Sengketa Ijazah Wapres Gibran di MK]]
 - [[KPU, MK, dan Sengketa Syarat Pendidikan Gibran]]
+
+## Sumber
+
+- "Laporan Analisis Politik dan Hukum: Peluang dan Hambatan DPR RI dalam Penggunaan Hak Angket Kasus Ijazah Wakil Presiden Gibran Rakabuming Raka." Dokumen analisis, Oktober 2026.
+- Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES-XXIV/2026, diucapkan 6 Oktober 2026.
+- Undang-Undang tentang MPR, DPR, DPD, dan DPRD (UU MD3) — ketentuan syarat pengajuan hak angket: minimal 25 anggota dari lebih dari satu fraksi.
+- Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum, Pasal 169 huruf r.
+- Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2024.
+- Ira Amalia, "Hak Angket Ijazah Gibran: Pintu Politik yang Terkunci dari Dalam", 7 Oktober 2026.
+
+## Catatan presisi
+
+- **Terverifikasi:** amar dan tanggal putusan, syarat UU MD3, serta rujukan Pasal 169 huruf r UU Pemilu bersumber pada dokumen yang tercantum di bagian Sumber.
+- **Sumber tunggal:** komposisi 110 kursi PDIP dan 470 kursi KIM Plus bersumber satu laporan analisis; belum dikonfirmasi ke data resmi DPR.
+- **Bukan sikap resmi:** pernyataan Deddy Sitorus dan Sugiat Santoso adalah pernyataan pribadi, bukan sikap fraksi.
+- **Peta posisi 8-10 Oktober:** disusun dari pemberitaan nasional (Detik, VIVA, Tempo, Sindonews, KompasTV, KoranKota, Infonasional, GarudaTV), bukan wawancara langsung.
+- **Penilaian, bukan temuan:** bagian Perspektif merupakan interpretasi penulis dan laporan yang dirujuk.
+- **Celah data:** tidak ada catatan resmi jumlah anggota yang menandatangani usulan; tidak ada tanggal pembahasan di Badan Musyawarah.
+- **Batas interpretasi:** halaman ini tidak menyimpulkan bahwa syarat pendidikan Gibran tidak dipenuhi, dan tidak menyimpulkan adanya tekanan politik terhadap MK atau DPR.
+

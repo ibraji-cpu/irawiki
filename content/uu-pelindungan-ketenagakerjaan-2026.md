@@ -2,7 +2,7 @@
 title: "UU Pelindungan Ketenagakerjaan"
 description: UU Pelindungan Ketenagakerjaan (23 bab, 313 pasal) disahkan DPR 6 Oktober 2026 sebagai tindak lanjut Putusan MK No. 168/PUU-XXI/2023.
 date: 2026-10-06
-updated: '2026-10-06'
+updated: '2026-10-20'
 aliases:
 - "UU Pelindungan Ketenagakerjaan"
 - "Undang-Undang Pelindungan Ketenagakerjaan"
@@ -81,12 +81,27 @@ status: "Disahkan, belum diundangkan"
 catatan_verifikasi: "Substansi pasal-pasal belum diverifikasi ke teks resmi UU; rujukan masih ke draf RUU dan pemberitaan."
 risiko_editorial: "rendah"
 confidence: 6
-last_updated: "2026-10-06"
+last_updated: "2026-10-20"
 ---
 
 # UU Pelindungan Ketenagakerjaan
 
-> **Ringkas:** Undang-undang yang mengatur pelindungan ketenagakerjaan secara terkonsolidasi, disahkan DPR RI pada 6 Oktober 2026 dalam Rapat Paripurna. Terdiri atas 23 bab dan 313 pasal, disusun sebagai tindak lanjut Putusan MK No. 168/PUU-XXI/2023.
+## Ringkasan
+
+> **Ringkasan Topik:** Undang-undang yang mengatur pelindungan ketenagakerjaan secara terkonsolidasi, disahkan DPR RI pada 6 Oktober 2026 dalam Rapat Paripurna. Terdiri atas 23 bab dan 313 pasal, disusun sebagai tindak lanjut Putusan MK No. 168/PUU-XXI/2023. Status: disahkan, belum diundangkan.
+
+## Kenapa penting buat Gen Z
+
+UU ini menentukan isi kontrak kerja, batas waktu perjanjian kerja waktu tertentu (PKWT), dan pesangon, yaitu tiga hal yang langsung terasa pada tahun-tahun pertama bekerja. Batas PKWT dalam draf disebut paling lama dua tahun dan diperpanjang dua kali paling lama satu tahun, lebih ketat dari PP No. 35 Tahun 2021. Sekitar 95-96 persen aspirasi serikat pekerja disebut telah diakomodasi, sementara Apindo menyatakan keberatan pada ketentuan PKWT dan alih daya. Sebagian substansi masih dibaca dari draf dan pemberitaan, bukan teks resmi, sehingga rincian hak belum bisa dipastikan. Ketentuan tenaga kerja platform digital ditunda ke undang-undang tersendiri paling lambat dua tahun sejak UU diundangkan.
+
+## Fakta kunci
+
+- **Pengesahan:** 6 Oktober 2026 dalam Rapat Paripurna DPR RI.
+- **Struktur:** 23 bab dan 313 pasal, menurut Ketua Panja Putih Sari.
+- **Dasar pembentukan:** Putusan Mahkamah Konstitusi No. 168/PUU-XXI/2023.
+- **Status:** disahkan, belum diundangkan; nomor tahun belum tersedia.
+- **Batas aturan platform digital:** undang-undang tersendiri paling lambat 2 tahun sejak diundangkan (Pasal 51).
+- **Angka bersaing:** anggota Komisi IX Obon Tabroni menyebut "sekitar 1.290-an" pasal; halaman ini memakai 313 pasal.
 
 ## Identitas
 
@@ -118,6 +133,36 @@ Disampaikan oleh Ketua Panja Putih Sari dan Menaker Yassierli (Infonasional; Bis
 - Mengantisipasi perubahan dunia kerja dan transformasi digital.
 - Memperkuat pengawasan dan penegakan hukum ketenagakerjaan.
 - Menciptakan keseimbangan antara pelindungan pekerja, keberlanjutan usaha, pertumbuhan ekonomi, dan daya saing nasional.
+
+## Kronologi
+
+### 2026-06-22 — Hukumonline Merinci 5 Materi Pokok dan 19 Poin RUU
+Pemberitaan Hukumonline mencatat lima materi pokok RUU ketenagakerjaan teranyar. Pada tahap ini substansi masih berupa draf yang dibahas panitia kerja.
+
+### 2026-08-27 — Baleg Sepakati 16 Poin Perubahan, RUU Menjadi Usul Inisiatif DPR
+Badan Legislasi DPR menyepakati 16 poin perubahan sebelum RUU dibawa ke paripurna, dan RUU disetujui sebagai usul inisiatif DPR. Poin perubahan mencakup Pasal 43 ayat (3), Pasal 46, Pasal 51, Pasal 76 ayat (1) huruf b, Pasal 82 ayat (1), Pasal 111, Pasal 116, Pasal 184, Pasal 233, Pasal 258, Pasal 258A, dan Pasal 261A.
+
+### 2026-10-05 — Komisi IX DPR Sepakati RUU Dibawa ke Paripurna
+Komisi IX DPR menyepakati hasil pembahasan bersama pemerintah agar RUU dibawa ke Rapat Paripurna. Menaker Yassierli menyatakan persetujuan pemerintah atas rancangan tersebut.
+
+### 2026-10-06 — DPR RI Mengesahkan UU Pelindungan Ketenagakerjaan
+Rapat Paripurna DPR RI mengesahkan RUU Pelindungan Ketenagakerjaan menjadi undang-undang. UU dinyatakan terdiri atas 23 bab dan 313 pasal, dan belum diundangkan pada saat pemberitaan.
+
+## Aktor yang Terlibat
+
+- [[dpr-ri|DPR RI]] — lembaga pembentuk UU; rancangan disetujui sebagai usul inisiatif pada paripurna 27 Agustus 2026 dan disahkan 6 Oktober 2026.
+- [[komisi-ix-dpr|Komisi IX DPR]] — komisi yang mengusulkan inisiatif RUU dan membahasnya bersama pemerintah.
+- [[putih-sari|Putih Sari]] — Ketua Panitia Kerja yang menyampaikan struktur 23 bab dan 313 pasal serta tujuan UU.
+- [[kementerian-ketenagakerjaan|Kementerian Ketenagakerjaan]] — wakil pemerintah dalam pembahasan.
+- [[yassierli|Yassierli]] — Menteri Ketenagakerjaan yang menyatakan persetujuan pemerintah.
+- [[apindo|Apindo]] — asosiasi pengusaha yang menyatakan keberatan atas ketentuan PKWT dan alih daya.
+- Bob Azzam — Ketua Bidang Ketenagakerjaan Apindo yang menyoroti pengetatan PKWT.
+- [[fsp-kep-spsi|FSP KEP SPSI]] — federasi serikat pekerja yang menyatakan dukungan dengan catatan.
+- R. Abdullah — Ketua Umum PP FSP KEP SPSI yang menyebut 95-96 persen aspirasi pekerja telah diakomodasi.
+- Bayu Dwi Anggono — Kepala Badan Keahlian DPR yang memaparkan riwayat uji materiil UU No. 13/2003.
+- Obon Tabroni — anggota Komisi IX DPR yang menyebut jumlah pasal sekitar 1.290-an.
+- Zainul Munasichin — anggota Panja dari F-PKB yang menilai pengaturan pekerja platform digital masih umum.
+- [[mahkamah-konstitusi|Mahkamah Konstitusi (MK)]] — lembaga yang melalui Putusan No. 168/PUU-XXI/2023 memerintahkan pemisahan pengaturan ketenagakerjaan dari UU Cipta Kerja.
 
 ## Perubahan pada Tahap Panja Harmonisasi (16 Poin, 26–27 Agustus 2026)
 
@@ -162,3 +207,14 @@ Badan Legislasi DPR menyepakati 16 poin perubahan penting sebelum RUU dibawa ke 
 - Antara. "RUU Ketenagakerjaan respons perubahan ekosistem kerja digital". 24 September 2026. https://jogja.antaranews.com/berita/856020/ruu-ketenagakerjaan-respons-perubahan-ekosistem-kerja-digital
 - Akurat.co. "Kawal RUU Pelindungan Ketenagakerjaan, Buruh Optimistis Regulasi Baru Lebih Baik dari UU Cipta Kerja". 4 Oktober 2026. https://akurat.co/nasional/896052/kawal-ruu-pelindungan-ketenagakerjaan-buruh-optimistis-regulasi-baru-lebih-baik-dari-uu-cipta-kerja
 - Todaynews.id. "RUU Pelindungan Ketenagakerjaan Bakal Disahkan Besok, Buruh Diminta Kawal hingga Pengesahan". Penulis: Akbar Budi Prasetia. 5 Oktober 2026. https://todaynews.id/ruu-pelindungan-ketenagakerjaan-bakal-disahkan-besok-buruh-diminta-kawal-hingga-pengesahan/
+
+## Catatan presisi
+
+- **Terverifikasi:** tanggal pengesahan, struktur 23 bab/313 pasal, dan dasar pembentukan bersumber pada pemberitaan yang dirujuk di bagian Sumber.
+- **Belum diverifikasi:** seluruh rincian pasal masih merujuk draf RUU dan pemberitaan; teks resmi UU yang diundangkan belum tersedia saat halaman ini diperbarui.
+- **Angka berbeda:** 313 pasal (Ketua Panja) versus "sekitar 1.290-an" pasal (Obon Tabroni). Halaman ini memakai 313 dan tidak menyelesaikan perbedaan tersebut.
+- **Sumber sekunder:** kutipan Pasal 71 ayat (2) soal PKWT berasal dari unggahan media sosial yang mengutip draf, bukan dari dokumen resmi.
+- **Bukan UU pertama:** pembatasan alih daya pada enam bidang jasa penunjang sudah berlaku lewat Permenaker No. 7 Tahun 2026.
+- **Celah data:** nomor dan tahun UU, tanggal pengundangan, serta lampiran teks resmi belum ada.
+- **Batas interpretasi:** halaman ini tidak menyimpulkan bahwa UU melanggar hak pekerja atau merugikan pengusaha.
+
