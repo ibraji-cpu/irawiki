@@ -21,10 +21,17 @@ for root, _, files in os.walk(pub):
         if f.endswith('.html') and f != '404.html':
             html.append(url_for(os.path.join(root, f)))
 
-missing = sorted(u for u in html if u not in locs)
-extra = sorted(u for u in locs if not u.endswith('.xml') and u.rstrip('/') + '.html' not in html and u.rstrip('/') != 'https://wiki.iraamalia.id')
-print('sitemap locs:', len(locs))
-print('html pages:', len(html))
+# Quartz menulis loc tanpa trailing slash; html helper bisa menambahkannya.
+def norm(u):
+    return u.rstrip('/') or u
+
+locs_n = {norm(u) for u in locs if not u.endswith('.xml')}
+html_n = {norm(u) for u in html}
+
+missing = sorted(u for u in html_n if u not in locs_n)
+extra = sorted(u for u in locs_n if u not in html_n)
+print('sitemap locs:', len(locs_n))
+print('html pages:', len(html_n))
 print('missing from sitemap:', len(missing))
 for u in missing[:15]:
     print('  -', u)
