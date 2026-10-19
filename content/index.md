@@ -10,16 +10,16 @@ Tujuan besarnya satu: ikut mencerdaskan bangsa, sesuai amanat UUD 45. Wiki ini a
 
 # Start Here
 
-- [Deddy Sitorus](./aktor/deddy-sitorus)
-- [Bambang Soesatyo](./aktor/bambang-soesatyo)
-- [Korupsi di Indonesia](./peristiwa/korupsi-di-indonesia)
-- [Ahmad Syaikhu](./aktor/ahmad-syaikhu)
-- [Budi Gunawan](./aktor/budi-gunawan)
-- [Joko Widodo](./aktor/joko-widodo)
-- [Perang Ultra Modern dan Geopolitik](./perang-ultra-modern-dan-geopolitik)
-- [Raffi Ahmad](./aktor/raffi-ahmad)
-- [Analisis: Putusan PTUN 50/G Gugatan Gelar Pahlawan Soeharto dan Posisi Hukum Ahli Waris](./analisis/analisis-putusan-ptun-gelar-pahlawan-soeharto)
-- [Reshuffle Kabinet Merah Putih](./reshuffle-kabinet-merah-putih)
+- [PT Pradiksi Gunatama Tbk (PGUN)](./aktor/pt-pradiksi-gunatama)
+- [Alphington Universal](./aktor/alphington-universal)
+- [Dato' Low Tuck Kwong](./aktor/dato-low-tuck-kwong)
+- [Republik Korpora Indonesia (RKI) / Republikorp](./aktor/rki)
+- [Castro Enterprises](./aktor/castro-enterprises)
+- [Andi Syamsuddin Arsyad (Haji Isam)](./aktor/andi-syamsuddin-arsyad)
+- [Zulkifli Hasan](./aktor/zulkifli-hasan)
+- [Colestar Resources](./aktor/colestar-resources)
+- [Budi Arie Setiadi](./aktor/budi-arie-setiadi)
+- [PT Jhonlin Baratama](./aktor/pt-jhonlin-baratama)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./all)

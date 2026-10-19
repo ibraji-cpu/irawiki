@@ -63,8 +63,8 @@ sumber:
     tanggal: "2026-08"
   - url: "https://www.idnfinancials.com/id/news/69988/rans-milik-raffi-ahmad-ditinggal-21-ribu-investor-harga-ambles-13-3"
     tanggal: "2026-10"
-last_updated: "2026-10-16"
-last_verified: "2026-10-16"
+last_updated: "2026-10-19"
+last_verified: "2026-10-19"
 relasi:
   - tipe: terlibat_dalam
     target: aktor/andi-syamsuddin-arsyad
@@ -164,6 +164,14 @@ Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saha
 
 - PT Jhonlin Baratama merampungkan pembelian 10.084.088.370 saham (30,25%) PT Bayan Resources Tbk di pasar negosiasi @Rp2.588/saham, total ~Rp26,09 triliun. Penjual: [[dato-low-tuck-kwong|Low Tuck Kwong]] (10.067.421.703 saham) dan [[elaine-low|Elaine Low]] (16.666.667 saham). Low Tuck Kwong tetap menjadi pengendali BYAN; tidak ada perubahan pengendalian.
 
+### 2026-10-19 — BBCA Tertekan 6,86%, Rumor Akuisisi Haji Isam Kembali Disorot
+
+- Saham [[pt-bank-central-asia-tbk|BBCA]] ditutup/berada di Rp4.820 per saham pada perdagangan Senin, 19 Oktober 2026 pukul 10.13 WIB — turun Rp355 atau 6,86% dari penutupan sebelumnya Rp5.175. Rentang hari itu: terendah Rp4.820, tertinggi Rp4.910.
+- Tekanan terjadi bersamaan dengan pelemahan IHSG 223,23 poin (-4,31%) ke 4.961,88 dan LQ45 -5,52% ke 480,50, di tengah gejolak pasar modal akibat isu status pasar MSCI.
+- Rumor akuisisi BCA oleh [[andi-syamsuddin-arsyad|Haji Isam]] kembali menjadi perhatian setelah OJK memberi penjelasan tertulis (Kamis, 15 Oktober 2026) mengenai pengawasan perubahan kepemilikan dan pengendalian bank.
+- Kepala Eksekutif Pengawas Perbankan OJK Dian Ediana Rae: "Dalam hal terdapat transaksi yang berpotensi mengakibatkan perubahan pemegang saham pengendali bank, OJK akan melakukan penilaian sesuai dengan ketentuan peraturan perundang-undangan." Penilaian mencakup prinsip kehati-hatian, GCG, profil risiko bank, konsentrasi eksposur, transaksi pihak terkait, kualitas tata kelola, dan hubungan bank dengan kelompok usaha pemegang saham.
+- Catatan verifikasi: korelasi harga–rumor tidak terbukti. Penurunan BBCA terjadi di tengah tekanan pasar luas (IHSG/LQ45), dan tidak ada pengumuman resmi BEI/OJK/BCA yang mengonfirmasi transaksi akuisisi. Status: **rumor, belum terverifikasi**.
+
 ## Aktor yang Terlibat
 
 - [[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad (Haji Isam)]] — Pengusaha nasional asal Batulicin, Kalimantan Selatan; pengendali utama Jhonlin Group dan UBO dari PT Jhonlin Baratama serta PT Jhonlin Agro Raya Tbk.
@@ -192,6 +200,9 @@ Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saha
 ### Sumber Peristiwa Agustus 2026
 - Keterbukaan Informasi Bursa Efek Indonesia: Klarifikasi atas Pemberitaan Media Terkait Transaksi Saham PT Bayan Resources Tbk, 18 Agustus 2026.
 - Bloomberg Markets: Low Tuck Kwong in Talks with Consortium Led by Haji Isam for Bayan Stake, 26 Agustus 2026.
+
+### Sumber Peristiwa Oktober 2026
+- [BBCA Tertekan, Rumor Haji Isam Akuisisi BCA Kembali Jadi Sorotan](https://www.viva.co.id/bisnis/1936917-bbca-tertekan-rumor-haji-isam-akuisisi-bca-kembali-jadi-sorotan) — VIVA (Nadiyas Utami Pratiwi, sumber data Stockbit Sekuritas), 19 Oktober 2026.
 
 ### Sumber Peristiwa September 2026
 - [Akuisisi BYAN oleh Jhonlin Tak Bebani JARR, Ini Faktanya](https://www.cnbcindonesia.com/market/20260927174800-17-771259/akuisisi-byan-oleh-jhonlin-tak-bebani-jarr-ini-faktanya) — CNBC Indonesia, 27 September 2026.

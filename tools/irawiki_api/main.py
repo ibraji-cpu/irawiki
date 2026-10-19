@@ -61,6 +61,23 @@ CONTENT_ROOT = Path("/home/ubuntu/irawiki/content")
 PROPOSALS_ROOT = Path("/home/ubuntu/irawiki/proposals")
 PROPOSALS_ROOT.mkdir(parents=True, exist_ok=True)
 
+
+def _atomic_write_text(path: Path, text: str) -> None:
+    """Write text durably: temp -> fsync -> atomic rename -> fsync dir."""
+    tmp = path.with_name(path.name + ".tmp")
+    fd = os.open(str(tmp), os.O_WRONLY | os.O_CREAT | os.O_TRUNC, 0o644)
+    try:
+        os.write(fd, text.encode("utf-8"))
+        os.fsync(fd)
+    finally:
+        os.close(fd)
+    os.rename(str(tmp), str(path))
+    dir_fd = os.open(str(path.parent), os.O_RDONLY)
+    try:
+        os.fsync(dir_fd)
+    finally:
+        os.close(dir_fd)
+
 # ============================================================
 # TEMPLATE CONFIGURATION
 # ============================================================
@@ -389,7 +406,7 @@ async def muse_propose(request: MuseProposeRequest, auth: str = Depends(verify_m
     # Save the proposed markdown
     md_filename = f"{request.entity_id}_{proposal_id}.md"
     md_path = PROPOSALS_ROOT / md_filename
-    md_path.write_text(request.proposed_markdown, encoding="utf-8")
+    _atomic_write_text(md_path, request.proposed_markdown)
     
     # Save metadata
     meta_filename = f"{request.entity_id}_{proposal_id}.meta.json"
@@ -404,7 +421,7 @@ async def muse_propose(request: MuseProposeRequest, auth: str = Depends(verify_m
         "status": "PENDING",
         "created_at": now
     }
-    meta_path.write_text(json.dumps(meta_content, indent=2), encoding="utf-8")
+    _atomic_write_text(meta_path, json.dumps(meta_content, indent=2))
     
     message = "New page proposal submitted for human review." if is_new_page else "Enrichment proposal submitted for human review."
     
