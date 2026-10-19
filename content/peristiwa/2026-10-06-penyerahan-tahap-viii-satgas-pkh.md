@@ -57,7 +57,7 @@ Uang Rp13,24 triliun yang diserahkan pada 6 Oktober 2026 masuk ke kas negara seb
 
 ## Kronologi
 
-### 2026-10-06 — Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan
+### 2026-10-06 — Penyerahan Tahap VIII ke Negara
 Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan Presiden Prabowo Subianto.
 
 ## Aktor yang Terlibat
