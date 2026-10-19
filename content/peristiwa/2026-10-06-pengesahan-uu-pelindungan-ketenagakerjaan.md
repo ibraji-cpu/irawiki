@@ -1,5 +1,8 @@
 ---
 title: "Pengesahan UU Pelindungan Ketenagakerjaan 2026"
+description: 'DPR mengesahkan RUU Pelindungan Ketenagakerjaan menjadi UU dalam paripurna 6 Oktober 2026: 23 bab, 313 pasal, lanjutan Putusan MK 168/PUU-XXI/2023.'
+date: 2026-10-06
+updated: '2026-10-17'
 aliases:
 - "Pengesahan UU Pelindungan Ketenagakerjaan 2026"
 - "Pengesahan UU Pelindungan Ketenagakerjaan"

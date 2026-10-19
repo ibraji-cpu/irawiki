@@ -1,5 +1,7 @@
 ---
 title: Rizal Pahlevi
+description: 'Rizal Pahlevi: Onboarding otomatis dari artikel pipeline'
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

@@ -1,5 +1,8 @@
 ---
 title: "Group Anugerah Langkat Makmur (ALAM Group)"
+description: 'Profil Group Anugerah Langkat Makmur (ALAM Group): afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Group Anugerah Langkat Makmur (ALAM Group)"
 tags:

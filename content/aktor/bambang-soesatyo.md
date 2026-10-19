@@ -1,5 +1,8 @@
 ---
 title: "Bambang Soesatyo"
+description: H. Bambang Soesatyo, S.E., M.B.A.
+date: 2026-10-04
+updated: '2026-10-20'
 aliases:
 - "Bambang Soesatyo"
 - "Bamsoet"

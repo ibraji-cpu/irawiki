@@ -1,5 +1,7 @@
 ---
 title: Colestar Resources
+description: Entitas offshore yang diduga digunakan untuk mengalirkan ekspor batubara Jhonlin Group
+updated: '2026-10-18'
 category: aktor
 tags:
 - korporasi

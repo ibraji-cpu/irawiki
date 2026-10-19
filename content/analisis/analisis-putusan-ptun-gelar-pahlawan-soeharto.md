@@ -1,5 +1,8 @@
 ---
 title: "Analisis: Putusan PTUN 50/G Gugatan Gelar Pahlawan Soeharto dan Posisi Hukum Ahli Waris"
+description: Analisis putusan PTUN Jakarta 50/G/2026/PTUN.JKT yang menyatakan gugatan pembatalan Keppres 116/TK/2025 tidak diterima, dan posisi hukum ahli waris.
+date: 2026-10-17
+updated: '2026-10-17'
 aliases:
   - Analisis Putusan PTUN Soeharto
   - Gugatan Gelar Pahlawan Soeharto PTUN

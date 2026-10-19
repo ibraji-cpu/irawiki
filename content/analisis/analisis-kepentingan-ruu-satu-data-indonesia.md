@@ -1,5 +1,8 @@
 ---
 title: "Analisis Relasi: Kepentingan di Balik RUU Satu Data Indonesia"
+description: 'Peta kepentingan aktor di balik RUU Satu Data Indonesia: DPR/Baleg sebagai inisiator, pemerintah sebagai penyelenggara, dan pemegang data.'
+date: 2026-10-05
+updated: '2026-10-17'
 tags:
 - analisis
 - relasi

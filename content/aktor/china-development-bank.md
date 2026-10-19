@@ -1,5 +1,8 @@
 ---
 title: China Development Bank
+description: Bank kebijakan di bawah Pemerintah Tiongkok yang berperan sebagai kreditor dalam proyek Kereta Cepat Jakarta-Bandung (Whoosh).
+date: 2026-09-27
+updated: '2026-10-17'
 category: aktor
 tags:
 - diplomasi-ekonomi

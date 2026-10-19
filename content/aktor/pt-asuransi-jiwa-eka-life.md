@@ -1,5 +1,8 @@
 ---
 title: "PT Asuransi Jiwa Eka Life"
+description: 'Profil PT Asuransi Jiwa Eka Life: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Asuransi Jiwa Eka Life"
 tags:

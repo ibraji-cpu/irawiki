@@ -1,5 +1,7 @@
 ---
 title: Edwin Soeryadjaya
+description: Presiden Komisaris PT Saratoga Investama Sedaya Tbk · Komisaris PT Merdeka Copper Gold Tbk
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

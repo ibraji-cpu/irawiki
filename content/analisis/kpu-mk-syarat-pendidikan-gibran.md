@@ -1,5 +1,8 @@
 ---
 title: "KPU, MK, dan Sengketa Syarat Pendidikan Gibran: Membaca Ujian Integritas Institusi melalui Siklus Berpikir Ichsanuddin Noorsy"
+description: Membaca ujian integritas KPU dan MK dalam sengketa syarat pendidikan Gibran lewat siklus berpikir Ichsanuddin Noorsy.
+date: 2026-10-01
+updated: '2026-10-20'
 aliases:
 - "KPU, MK, dan Sengketa Syarat Pendidikan Gibran"
 tags:

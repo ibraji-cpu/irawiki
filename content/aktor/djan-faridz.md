@@ -1,5 +1,7 @@
 ---
 title: Djan Faridz
+description: Anggota Dewan Pertimbangan Presiden RI (2023-2024) · Anggota Majelis Kehormatan PPP (2020-2025) · Menteri Perumahan Rakyat Indonesia (2011-2014) · Anggota
+updated: '2026-10-17'
 category: aktor
 tags:
   - individu

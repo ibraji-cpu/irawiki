@@ -1,5 +1,8 @@
 ---
 title: "Polemik Ijazah Gibran"
+description: 'Hub polemik ijazah Gibran: gugatan perdata di PN Jakarta Pusat, sengketa syarat pendidikan di MK, dan putusan 01/PHPU.PRES-XXIV/2026.'
+date: 2026-10-09
+updated: '2026-10-17'
 aliases:
   - Ijazah Gibran
   - Polemik Ijazah Gibran Rakabuming Raka

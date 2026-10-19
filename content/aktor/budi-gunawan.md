@@ -1,5 +1,8 @@
 ---
 title: "Budi Gunawan"
+description: Jenderal Polisi (Purn.) Budi Gunawan (lahir 11 Desember 1959 di Surakarta, Jawa Tengah) adalah purnawirawan Polri yang pernah menjabat Kepala BIN
+date: 2026-10-04
+updated: '2026-10-20'
 aliases:
 - "Budi Gunawan"
 - "Jenderal Pol. Purn. Budi Gunawan"

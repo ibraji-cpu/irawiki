@@ -25,6 +25,26 @@ export default (() => {
     const date = fileData.frontmatter?.date || ""
     const baseUrl = `https://${cfg.baseUrl}`
     const pageUrl = `${baseUrl}/${fileData.slug}`
+
+    const toIso = (value: unknown): string | undefined => {
+      if (!value) return undefined
+      const d = new Date(String(value))
+      return isNaN(d.getTime()) ? undefined : d.toISOString()
+    }
+    const publishedIso =
+      toIso(fileData.frontmatter?.date) ?? toIso(fileData.dates?.created)
+    const modifiedIso =
+      toIso(fileData.frontmatter?.updated) ??
+      toIso(fileData.frontmatter?.modified) ??
+      toIso(fileData.dates?.modified)
+
+    const slugStr = (fileData.slug ?? "") as string
+    const isArticle =
+      slugStr !== "" &&
+      slugStr !== "index" &&
+      slugStr !== "404" &&
+      !slugStr.startsWith("tags/") &&
+      !slugStr.endsWith("/index")
     
     const personTags = ['tokoh', 'aktor', 'politikus', 'pengusaha', 'menteri', 'presiden', 'gubernur']
     const orgTags = ['partai', 'organisasi', 'perusahaan', 'bumn', 'yayasan']
@@ -61,7 +81,9 @@ export default (() => {
         "@type": "NewsArticle",
         "headline": title,
         "url": pageUrl,
-        "datePublished": date,
+        "description": description,
+        "datePublished": publishedIso ?? date,
+        "dateModified": modifiedIso ?? date,
         "author": {
           "@type": "Person",
           "name": "Ira Amalia"
@@ -75,6 +97,15 @@ export default (() => {
           }
         }
       }
+    }
+
+    const webPageSchema = {
+      "@context": "https://schema.org",
+      "@type": "WebPage",
+      "url": pageUrl,
+      "name": title,
+      "datePublished": publishedIso ?? date,
+      "dateModified": modifiedIso ?? date,
     }
     
     const breadcrumbSchema = {
@@ -96,7 +127,11 @@ export default (() => {
       ]
     }
     
-    const jsonLdSchemas = JSON.stringify([mainSchema, breadcrumbSchema])
+    const schemaList: Record<string, any>[] = [mainSchema, breadcrumbSchema]
+    if (isPerson || isOrg) {
+      schemaList.push(webPageSchema)
+    }
+    const jsonLdSchemas = JSON.stringify(schemaList)
 
     const { css, js, additionalHead } = externalResources
 
@@ -140,7 +175,14 @@ export default (() => {
 
         <meta name="og:site_name" content={cfg.pageTitle}></meta>
         <meta property="og:title" content={title} />
-        <meta property="og:type" content="website" />
+        <meta property="og:type" content={isArticle ? "article" : "website"} />
+        {isArticle && publishedIso && (
+          <meta property="article:published_time" content={publishedIso} />
+        )}
+        {isArticle && modifiedIso && (
+          <meta property="article:modified_time" content={modifiedIso} />
+        )}
+        {isArticle && <meta property="article:author" content="Ira Amalia" />}
         <meta name="twitter:card" content="summary_large_image" />
         <meta name="twitter:title" content={title} />
         <meta name="twitter:description" content={description} />
@@ -211,6 +253,15 @@ export default (() => {
               /* Reduce site title by 30% */
               header h1, .site-title, #title {
                 font-size: 70% !important;
+              }
+              /* Publication / update dates */
+              .ira-dates {
+                margin: 0.4rem 0 0.2rem;
+                font-size: 0.8rem;
+                color: var(--gray);
+              }
+              .ira-dates time {
+                color: var(--darkgray);
               }
             `,
           }}

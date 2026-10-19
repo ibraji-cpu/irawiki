@@ -1,5 +1,8 @@
 ---
 title: "Bank Mayapada"
+description: 'Profil Bank Mayapada: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Bank Mayapada"
 - "Mayapada Hospital"

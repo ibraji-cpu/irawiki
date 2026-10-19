@@ -1,5 +1,8 @@
 ---
 title: "PT Indofood Sukses Makmur Tbk"
+description: 'Profil PT Indofood Sukses Makmur Tbk: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Indofood Sukses Makmur Tbk"
 - "Indofood"

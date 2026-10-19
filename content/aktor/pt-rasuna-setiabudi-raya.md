@@ -1,5 +1,8 @@
 ---
 title: "PT Rasuna Setiabudi Raya"
+description: 'Profil PT Rasuna Setiabudi Raya: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Rasuna Setiabudi Raya"
 tags:

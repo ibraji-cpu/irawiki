@@ -1,5 +1,7 @@
 ---
 title: Hashim Djojohadikusumo
+description: CEO Arsari Group · Utusan Khusus Presiden Bidang Lingkungan Hidup dan Energi (2024-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Ketahanan energi nasional non-fosil

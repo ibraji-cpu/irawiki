@@ -1,5 +1,8 @@
 ---
 title: "Hatta Rajasa"
+description: Wakil Ketua Dewan Pertimbangan Presiden (dilantik 2 Oktober 2026)
+date: 2026-10-04
+updated: '2026-10-17'
 tags:
 - aktor
 entity_type: individu

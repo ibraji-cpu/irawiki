@@ -1,5 +1,7 @@
 ---
 title: Robert Nitiyudo Wachjo
+description: Presiden Direktur PT Nusa Halmahera Minerals (PTNHM) (2020-sekarang) · Pemilik Indotan Group (2003-sekarang) · Pemegang Saham Pengendali PT Petrosea Tbk
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

@@ -1,5 +1,8 @@
 ---
 title: PT Pradiksi Gunatama Tbk (PGUN)
+description: 'Profil PT Pradiksi Gunatama Tbk (PGUN): afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-09-27
+updated: '2026-10-18'
 entity_type: organisasi
 relasi: []
 aliases:

@@ -1,5 +1,7 @@
 ---
 title: Suharso Monoarfa
+description: Menteri Perencanaan Pembangunan Nasional/Kepala Bappenas (2019-2024) · Ketua Umum DPP Partai Persatuan Pembangunan (2019-2022) · Anggota Dewan Pertimbangan
+updated: '2026-10-17'
 category: aktor
 tags:
 - Pembangunan infrastruktur terpadu

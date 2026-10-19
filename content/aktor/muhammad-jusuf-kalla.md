@@ -1,5 +1,7 @@
 ---
 title: Muhammad Jusuf Kalla
+description: Ketua Umum Palang Merah Indonesia (PMI) (2009-sekarang) · Ketua Umum Pengurus Pusat Dewan Masjid Indonesia (DMI) (2012-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

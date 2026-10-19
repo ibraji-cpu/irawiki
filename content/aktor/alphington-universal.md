@@ -1,5 +1,7 @@
 ---
 title: Alphington Universal
+description: Disebut dalam skema transfer pricing ekspor batubara Jhonlin Group
+updated: '2026-10-18'
 category: aktor
 tags:
 - korporasi

@@ -1,5 +1,7 @@
 ---
 title: "Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong"
+description: Low Tuck Kwong dan Elaine Low menjual 10.000.000.500 saham BYAN ke PT Jhonlin Baratama lewat CSPA 16 September 2026; Jhonlin akan memegang ~30% BYAN.
+updated: '2026-10-17'
 category: peristiwa
 tags:
   - 30-persen

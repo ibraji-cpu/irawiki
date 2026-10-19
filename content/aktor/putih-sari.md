@@ -1,5 +1,8 @@
 ---
 title: "Putih Sari"
+description: Wakil Ketua Komisi IX DPR RI · Ketua Panitia Kerja (Panja) RUU Pelindungan Ketenagakerjaan
+date: 2026-10-06
+updated: '2026-10-17'
 aliases:
 - "Putih Sari"
 - "putih-sari"

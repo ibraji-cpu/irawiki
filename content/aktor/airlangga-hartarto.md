@@ -1,5 +1,7 @@
 ---
 title: Airlangga Hartarto
+description: Menko Perekonomian 2019-2024 · Menteri Perindustrian 2016-2019
+updated: '2026-10-20'
 category: aktor
 tags:
 - individu

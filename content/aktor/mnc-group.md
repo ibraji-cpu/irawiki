@@ -1,5 +1,8 @@
 ---
 title: "MNC Group"
+description: 'Profil MNC Group: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "MNC Group (Global Mediacom, Media Nusantara Citra, PT MNC Investama Tbk, PT MNC Asia Holding Tbk, HT Investment Development Ltd)"
 - "MNC Group"

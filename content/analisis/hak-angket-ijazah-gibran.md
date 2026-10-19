@@ -1,5 +1,8 @@
 ---
 title: "Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR"
+description: Peluang dan hambatan hak angket ijazah Gibran di DPR setelah MK menolak permohonan 01/PHPU.PRES-XXIV/2026 secara prosedural.
+date: 2026-10-07
+updated: '2026-10-20'
 aliases:
 - "Hak Angket Ijazah Gibran"
 - "Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR"

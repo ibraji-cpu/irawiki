@@ -1,5 +1,7 @@
 ---
 title: James Riady
+description: CEO Lippo Group · Duta Besar Keliling Republik Indonesia (era Habibie)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Ekspansi rumah sakit Siloam

@@ -1,5 +1,7 @@
 ---
 title: Megawati Soekarnoputri
+description: Ketua Umum PDI Perjuangan (1999–sekarang) · Ketua Dewan Pengarah Badan Pembinaan Ideologi Pancasila (BPIP) (2017–sekarang) · Ketua Dewan Pengarah Badan
+updated: '2026-10-17'
 category: aktor
 tags:
 - Keberpihakan pada wong cilik

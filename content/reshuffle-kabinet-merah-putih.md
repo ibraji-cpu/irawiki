@@ -1,5 +1,8 @@
 ---
 title: "Reshuffle Kabinet Merah Putih"
+description: Hub living document seluruh reshuffle Kabinet Merah Putih era Prabowo Subianto, berisi entri bertanggal dan halaman milestone pelantikan.
+date: 2026-10-15
+updated: '2026-10-15'
 entity_type: topik
 aliases:
 - "Reshuffle Kabinet Prabowo"

@@ -1,5 +1,8 @@
 ---
 title: Republik Korpora Indonesia (RKI) / Republikorp
+description: Republik Korpora Indonesia (RKI) atau Republikorp adalah perusahaan infrastruktur dan rantai pasok maritim yang dimiliki oleh Norman Joesoef.
+date: 2026-09-27
+updated: '2026-10-18'
 entity_type: individu
 relasi: []
 aliases:

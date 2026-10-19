@@ -1,5 +1,8 @@
 ---
 title: "Yassierli"
+description: 'Yassierli: Menteri Ketenagakerjaan Republik Indonesia'
+date: 2026-10-06
+updated: '2026-10-17'
 aliases:
 - "Yassierli"
 - "yassierli"

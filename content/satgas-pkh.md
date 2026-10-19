@@ -1,5 +1,8 @@
 ---
 title: "Satgas PKH"
+description: Satgas PKH adalah satgas lintas 12 kementerian/lembaga untuk menertibkan penguasaan kawasan hutan dan memulihkan penerimaan negara.
+date: 2026-10-06
+updated: '2026-10-06'
 tags:
 - organisasi
 - lembaga

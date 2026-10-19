@@ -1,5 +1,8 @@
 ---
 title: "Ahmad Sahroni"
+description: Bendum (Bendahara Umum) Partai NasDem. · Wakil Ketua Komisi III DPR RI.
+date: 2026-10-11
+updated: '2026-10-17'
 aliases:
 - "Ahmad Sahroni"
 - "Sahroni"

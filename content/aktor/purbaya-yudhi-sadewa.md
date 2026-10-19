@@ -1,5 +1,8 @@
 ---
 title: Purbaya Yudhi Sadewa
+description: Purbaya Yudhi Sadewa adalah seorang pejabat publik yang pergeseran posisinya menjadi sorotan pemberitaan media terkait dengan isu kebijakan fiskal dan dinamika elite politik.
+date: 2026-09-27
+updated: '2026-10-17'
 category: aktor
 tags:
 - daya-beli-masyarakat

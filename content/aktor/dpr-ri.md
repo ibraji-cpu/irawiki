@@ -1,5 +1,8 @@
 ---
 title: "DPR RI"
+description: DPR RI, lembaga legislatif yang membahas pengesahan UU Pelindungan Ketenagakerjaan, RUU Satu Data, dan uji kelayakan calon Kapolri.
+date: 2026-10-06
+updated: '2026-10-17'
 aliases:
 - "DPR RI"
 - "Dewan Perwakilan Rakyat"

@@ -1,5 +1,8 @@
 ---
 title: "Pelantikan 26 Anggota Wantimpres 2 Oktober 2026"
+description: Kronologi pelantikan 26 anggota Wantimpres pada 2 Oktober 2026, dengan anggaran gaji sekitar Rp1,989 miliar per bulan menurut pemberitaan AFU.ID.
+date: 2026-10-04
+updated: '2026-10-17'
 aliases:
 - "Pelantikan 26 Anggota Wantimpres 2 Oktober 2026"
 - "Peristiwa Pelantikan 26 Anggota Wantimpres 2 Oktober 2026"

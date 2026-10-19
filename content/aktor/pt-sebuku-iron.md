@@ -1,5 +1,7 @@
 ---
 title: PT Sebuku Iron Lateritic Ores
+description: Perusahaan tambang yang izinnya diduga dicabut atas intervensi Sahbirin Noor
+updated: '2026-10-17'
 category: aktor
 tags:
 - korporasi

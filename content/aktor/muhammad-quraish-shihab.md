@@ -1,5 +1,8 @@
 ---
 title: "Muhammad Quraish Shihab"
+description: Anggota Dewan Pertimbangan Presiden (dilantik 2 Oktober 2026)
+date: 2026-10-04
+updated: '2026-10-17'
 aliases:
 - "Muhammad Quraish Shihab"
 - "Prof. Dr. Muhammad Quraish Shihab"

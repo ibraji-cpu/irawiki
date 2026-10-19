@@ -1,5 +1,7 @@
 ---
 title: Bayu Priawan Djokosoetono
+description: Bendahara Umum Himpunan Pengusaha Muda Indonesia (HIPMI) · Ketua Departemen Perhubungan DPP Partai Golkar
+updated: '2026-10-17'
 category: aktor
 tags:
 - Modernisasi sistem transportasi perkotaan

@@ -1,5 +1,8 @@
 ---
 title: "Agum Gumelar"
+description: Agum Gumelar adalah purnawirawan jenderal TNI dan politikus Indonesia. Ia menempati berbagai posisi strategis di pemerintahan, termasuk dua periode sebagai Menteri Perhubungan.
+date: 2026-10-04
+updated: '2026-10-17'
 aliases:
 - "Agum Gumelar"
 - "Jenderal TNI Purn. Agum Gumelar"

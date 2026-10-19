@@ -1,5 +1,8 @@
 ---
 title: "Update: [[2026-10-01-reshuffle-kabinet-merah-putih|Reshuffle Kabinet Merah Putih 1 Oktober 2026]]"
+description: Catatan update untuk hub reshuffle Kabinet Merah Putih; menampung entri perubahan susunan kabinet terbaru.
+date: 2026-10-06
+updated: '2026-10-18'
 tags:
 - peristiwa
 - pemerintahan

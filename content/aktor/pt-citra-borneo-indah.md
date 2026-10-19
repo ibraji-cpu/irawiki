@@ -1,5 +1,8 @@
 ---
 title: "PT Citra Borneo Indah (CBI Group)"
+description: 'Profil PT Citra Borneo Indah (CBI Group): afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Citra Borneo Indah (CBI Group)"
 - "PT Citra Borneo Indah"

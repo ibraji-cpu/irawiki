@@ -1,5 +1,7 @@
 ---
 title: Garibaldi Thohir
+description: Presiden Direktur PT Adaro Energy Indonesia Tbk
+updated: '2026-10-17'
 category: aktor
 tags:
   - individu

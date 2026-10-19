@@ -1,5 +1,8 @@
 ---
 title: "Reshuffle Kabinet Merah Putih 1 Oktober 2026"
+description: 'Kronologi reshuffle 1 Oktober 2026 di Istana Negara: pelantikan menteri dan pejabat, termasuk pergeseran Listyo Sigit Prabowo ke Kepala Staf Kepresidenan.'
+date: 2026-10-03
+updated: '2026-10-17'
 aliases:
 - "Reshuffle Kabinet Merah Putih 1 Oktober 2026"
 - "Peristiwa Reshuffle Kabinet Merah Putih 1 Oktober 2026"

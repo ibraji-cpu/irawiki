@@ -1,5 +1,8 @@
 ---
 title: "PT Bank Central Asia Tbk (BBCA)"
+description: 'Profil PT Bank Central Asia Tbk (BBCA): afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Bank Central Asia Tbk (BBCA)"
 - "PT Bank Central Asia Tbk (BCA)"

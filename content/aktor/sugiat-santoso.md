@@ -1,5 +1,8 @@
 ---
 title: "Sugiat Santoso"
+description: Juru Bicara Partai Gerindra" · "Wakil Ketua Komisi XIII DPR
+date: 2026-10-07
+updated: '2026-10-17'
 aliases:
 - "Sugiat Santoso"
 tags:

@@ -1,5 +1,8 @@
 ---
 title: "Analisis: Taktik Komunikasi GKSR dalam Peluncuran Naskah Akademik RUU Politik"
+description: Analisis taktik komunikasi di balik peluncuran Naskah Akademik dan Draf RUU Politik versi GKSR pada Milad ke-1, 26 September 2026.
+date: 2026-10-01
+updated: '2026-10-05'
 tags:
 - analisis
 - relasi

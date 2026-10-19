@@ -1,5 +1,7 @@
 ---
 title: Anindya Bakrie
+description: Direktur Utama PT Bakrie & Brothers Tbk · Ketua Umum Kadin Indonesia (2024-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Digitalisasi media penyiaran

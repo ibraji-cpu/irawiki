@@ -1,5 +1,7 @@
 ---
 title: Zulkifli Hasan
+description: Menteri Koordinator Bidang Pangan Kabinet Merah Putih (2024–sekarang) · Ketua Umum Partai Amanat Nasional (PAN) (2015–sekarang)
+updated: '2026-10-18'
 category: aktor
 tags:
 - Pangan nasional

@@ -1,5 +1,7 @@
 ---
 title: Aksa Mahmud
+description: Dewan Penasihat / Senior Partai Golkar (sekarang) · Pendiri dan Pemimpin Bosowa Corporation (1968-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

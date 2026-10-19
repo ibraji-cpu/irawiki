@@ -1,5 +1,7 @@
 ---
 title: Dari 'Sembilan Naga' to 'Sembilan Haji'
+description: Analisis rumor akuisisi 62,25% saham Bayan Resources oleh Jhonlin Group dan pergeseran kekuatan bisnis dari 'Sembilan Naga' ke 'Sembilan Haji'.
+updated: '2026-10-18'
 entity_type: analisis
 relasi: []
 category: analisis

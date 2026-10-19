@@ -1,5 +1,7 @@
 ---
 title: Lim Gunawan Hariyanto
+description: CEO Harita Group · Executive Director Bumitama Agri Ltd
+updated: '2026-10-17'
 category: aktor
 tags:
 - Kehutanan berkelanjutan

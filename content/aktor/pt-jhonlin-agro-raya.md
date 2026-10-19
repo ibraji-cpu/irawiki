@@ -1,5 +1,7 @@
 ---
 title: PT Jhonlin Agro Raya Tbk
+description: Sempat dikaitkan dalam pemberitaan sebagai kendaraan akuisisi saham BYAN oleh Haji Isam, sebelum struktur resmi mengonfirmasi transaksi dilakukan melalui PT Jhonlin Baratama.
+updated: '2026-10-18'
 aliases:
 - PT Jhonlin Agro Raya Tbk (JARR)
 - PT Jhonlin Agro Raya (JARR)

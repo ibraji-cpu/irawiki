@@ -1,5 +1,7 @@
 ---
 title: Peter Sondakh
+description: Pendiri Rajawali Group (1984) · Pemilik awal saham PT Excelcomindo Pratama (XL)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Manajemen investasi terdiversifikasi

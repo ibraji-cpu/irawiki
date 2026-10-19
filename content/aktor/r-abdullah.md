@@ -1,5 +1,8 @@
 ---
 title: "R. Abdullah"
+description: Ketua Umum Pimpinan Pusat Federasi Serikat Pekerja Kimia, Energi dan Pertambangan Serikat Pekerja Seluruh Indonesia (PP FSP KEP SPSI)
+date: 2026-10-06
+updated: '2026-10-17'
 aliases:
 - "R. Abdullah"
 - "Abdullah"

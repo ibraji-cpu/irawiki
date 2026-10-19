@@ -1,5 +1,7 @@
 ---
 title: Siti Hartati Murdaya
+description: Presiden Direktur PT Central Cipta Murdaya (CCM)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Pengembangan properti megah

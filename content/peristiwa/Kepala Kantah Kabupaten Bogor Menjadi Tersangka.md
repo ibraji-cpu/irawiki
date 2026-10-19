@@ -1,5 +1,8 @@
 ---
 title: "Kepala Kantah Kabupaten Bogor Menjadi Tersangka"
+description: Kronologi OTT KPK 14 September 2026 terkait dugaan suap HGB PT Summarecon Agung di Bogor dan penetapan delapan tersangka.
+date: 2026-09-27
+updated: '2026-10-20'
 aliases:
 - "Kasus Dugaan Suap HGB Summarecon Bogor"
 - "OTT KPK ATR BPN September 2026"

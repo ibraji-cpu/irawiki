@@ -1,5 +1,8 @@
 ---
 title: "Sepak Terjang Haji Isam"
+description: 'Living document manuver korporasi Haji Isam/Jhonlin Group: aksi mega-akuisisi, transaksi pasar modal, dan ekspansi konglomerasi.'
+date: 2026-10-09
+updated: '2026-10-19'
 aliases:
   - Sepak Terjang Haji Isam
   - Aksi Korporasi Haji Isam

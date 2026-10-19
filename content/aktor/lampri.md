@@ -1,5 +1,7 @@
 ---
 title: Lampri
+description: Dirjen Pengendalian dan Penertiban Tanah dan Ruang Kementerian ATR/BPN
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

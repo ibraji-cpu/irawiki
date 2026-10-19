@@ -1,5 +1,8 @@
 ---
 title: "GKSR - Gerakan Kedaulatan Suara Rakyat"
+description: GKSR adalah koalisi delapan partai nonparlemen — Buruh, Ummat, Hanura, Perindo, PPP, PBB, PKN, Berkarya — yang menuntut perubahan sistem pemilu.
+date: 2026-10-01
+updated: '2026-10-05'
 aliases:
 - GKSR - Gerakan Kedaulatan Suara Rakyat
 - Gerakan Kedaulatan Suara Rakyat

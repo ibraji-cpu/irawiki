@@ -1,5 +1,7 @@
 ---
 title: "Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026"
+description: Analisis kenaikan BBM nonsubsidi September 2026, kompensasi eksekutif BUMN, dan beban subsidi silang yang ditanggung kelas menengah.
+updated: '2026-10-17'
 entity_type: analisis
 relasi: []
 category: analisis

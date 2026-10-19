@@ -1,5 +1,8 @@
 ---
 title: "UU Pelindungan Ketenagakerjaan"
+description: UU Pelindungan Ketenagakerjaan (23 bab, 313 pasal) disahkan DPR 6 Oktober 2026 sebagai tindak lanjut Putusan MK No. 168/PUU-XXI/2023.
+date: 2026-10-06
+updated: '2026-10-06'
 aliases:
 - "UU Pelindungan Ketenagakerjaan"
 - "Undang-Undang Pelindungan Ketenagakerjaan"

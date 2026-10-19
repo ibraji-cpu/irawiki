@@ -1,5 +1,8 @@
 ---
 title: "Penyerahan Tahap VIII Satgas PKH ke Negara"
+description: Penyerahan Rp13,24 triliun hasil Satgas PKH tahap VIII dari Jaksa Agung ST Burhanuddin kepada Menteri Keuangan Suahasil Nazara, 6 Oktober 2026.
+date: 2026-10-06
+updated: '2026-10-17'
 tags:
 - peristiwa
 - pemerintahan

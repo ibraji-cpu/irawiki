@@ -1,5 +1,8 @@
 ---
 title: "Ir. H. Muhammad Said Iqbal, M.E."
+description: 'Profil Ir. H. Muhammad Said Iqbal, M.E.: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Ir. H. Muhammad Said Iqbal, M.E."
 - "Muhammad Said Iqbal"

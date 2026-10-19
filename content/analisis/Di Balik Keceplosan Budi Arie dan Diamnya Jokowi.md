@@ -1,5 +1,7 @@
 ---
 title: "Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu"
+description: 'Analisis psikologis wacana percepatan pemilu: membaca ''keceplosan'' Budi Arie dan sikap diam Jokowi sebagai sinyal politik.'
+updated: '2026-10-18'
 category: analisis
 tags:
   - komunikasi-politik

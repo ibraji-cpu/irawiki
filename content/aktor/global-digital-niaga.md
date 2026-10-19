@@ -1,5 +1,8 @@
 ---
 title: "Global Digital Niaga (Blibli.com)"
+description: 'Profil Global Digital Niaga (Blibli.com): afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Global Digital Niaga (Blibli.com)"
 - "Global Digital Niaga"

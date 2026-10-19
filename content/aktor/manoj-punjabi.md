@@ -1,5 +1,7 @@
 ---
 title: Manoj Punjabi
+description: Pendiri MD Pictures (2002) · Komisaris Multivision Plus (awal karir)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Dominasi OTT streaming

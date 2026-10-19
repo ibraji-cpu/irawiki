@@ -1,5 +1,8 @@
 ---
 title: "Said Salahuddin, M.H."
+description: 'Profil Said Salahuddin, M.H.: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Said Salahuddin, M.H."
 - "Said Salahuddin"

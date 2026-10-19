@@ -1,5 +1,7 @@
 ---
 title: Kuncoro Wibowo
+description: Presiden Komisaris PT Ace Hardware Indonesia Tbk (Kawan Lama Group)
+updated: '2026-10-17'
 category: aktor
 tags:
   - individu

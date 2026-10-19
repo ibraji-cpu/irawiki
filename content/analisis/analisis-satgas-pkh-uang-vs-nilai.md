@@ -1,5 +1,8 @@
 ---
 title: "Analisis: Membaca Angka Satgas PKH — Rp52 T Kas vs Rp400 T Valuasi"
+description: 'Membaca angka Satgas PKH: ~Rp52 triliun kas dari delapan penyerahan versus klaim valuasi lahan hampir Rp400 triliun.'
+date: 2026-10-06
+updated: '2026-10-17'
 tags:
 - analisis
 - kehutanan

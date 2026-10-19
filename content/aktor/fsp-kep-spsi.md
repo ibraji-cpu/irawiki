@@ -1,5 +1,8 @@
 ---
 title: "FSP KEP SPSI"
+description: Federasi Serikat Pekerja Kimia, Energi dan Pertambangan Serikat Pekerja Seluruh Indonesia
+date: 2026-10-06
+updated: '2026-10-17'
 aliases:
 - "FSP KEP SPSI"
 - "Federasi Serikat Pekerja Kimia Energi dan Pertambangan SPSI"

@@ -1,5 +1,7 @@
 ---
 title: Sri Prakash Lohia
+description: Orang terkaya 6 RI versi Forbes (Sept 2026) dengan kekayaan Rp 152,31 triliun (8,7 miliar USD).
+updated: '2026-10-17'
 category: aktor
 tags:
 - Pupuk dan Polimer

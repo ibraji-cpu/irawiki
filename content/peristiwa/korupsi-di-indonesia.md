@@ -1,5 +1,8 @@
 ---
 title: "Korupsi di Indonesia"
+description: 'Ringkasan sistemik korupsi di Indonesia pasca-reformasi 1998: kelahiran KPK, pasang surut pemberantasan, dan pola perkara besar.'
+date: 2026-10-15
+updated: '2026-10-17'
 aliases:
   - Korupsi Indonesia
   - Tindak Pidana Korupsi di Indonesia

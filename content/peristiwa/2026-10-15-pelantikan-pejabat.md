@@ -1,5 +1,8 @@
 ---
 title: "Pelantikan Pejabat 15 Oktober 2026"
+description: 'Pelantikan sembilan pejabat oleh Presiden Prabowo pada 15 Oktober 2026: empat wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala BPGMN, serta dua pejabat lain.'
+date: 2026-10-15
+updated: '2026-10-17'
 entity_type: peristiwa
 entity_id: "2026-10-15-pelantikan-pejabat"
 aliases:

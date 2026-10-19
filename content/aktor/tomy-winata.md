@@ -1,5 +1,7 @@
 ---
 title: Tomy Winata
+description: 'Tomy Winata: Pendiri Artha Graha Peduli (Yayasan Sosial)'
+updated: '2026-10-17'
 category: aktor
 tags:
 - Filantropi mitigasi bencana (Artha Graha Peduli)

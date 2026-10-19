@@ -1,5 +1,7 @@
 ---
 title: Theodore Permadi Rachmat
+description: 'Theodore Permadi Rachmat: Direktur Utama PT Astra International Tbk'
+updated: '2026-10-20'
 category: aktor
 tags:
 - Agribisnis

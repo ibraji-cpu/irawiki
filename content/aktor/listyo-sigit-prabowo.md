@@ -1,5 +1,8 @@
 ---
 title: "Listyo Sigit Prabowo"
+description: Kepala Staf Kepresidenan (dilantik 1 Oktober 2026)
+date: 2026-10-03
+updated: '2026-10-20'
 aliases:
 - "Listyo Sigit Prabowo"
 - "Jenderal Polisi Listyo Sigit Prabowo"

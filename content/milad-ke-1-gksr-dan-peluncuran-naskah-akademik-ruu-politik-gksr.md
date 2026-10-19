@@ -1,5 +1,8 @@
 ---
 title: "Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR"
+description: Kronologi Milad ke-1 GKSR dan peluncuran Naskah Akademik serta Draf RUU Politik versi delapan partai nonparlemen, September 2026.
+date: 2026-10-01
+updated: '2026-10-05'
 tags:
 - peristiwa
 entity_type: peristiwa

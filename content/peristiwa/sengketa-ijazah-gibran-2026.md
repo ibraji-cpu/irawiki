@@ -1,5 +1,8 @@
 ---
 title: "Sengketa Ijazah Wapres Gibran di MK"
+description: Kronologi gugatan syarat ijazah Gibran ke MK sejak 10 September 2026 hingga putusan Perkara 01/PHPU.PRES-XXIV/2026 pada 6 Oktober 2026.
+date: 2026-10-04
+updated: '2026-10-17'
 tags:
 - peristiwa
 entity_type: peristiwa

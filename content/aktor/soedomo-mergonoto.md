@@ -1,5 +1,7 @@
 ---
 title: Soedomo Mergonoto
+description: Chairman & CEO PT Santos Jaya Abadi (Kapal Api Group)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Kampanye pemasaran kreatif

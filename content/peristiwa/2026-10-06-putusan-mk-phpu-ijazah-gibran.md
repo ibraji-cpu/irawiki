@@ -1,5 +1,8 @@
 ---
 title: "Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima"
+description: 'Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: permohonan sengketa ijazah Gibran tidak dapat diterima karena alasan prosedural.'
+date: 2026-10-07
+updated: '2026-10-20'
 aliases:
 - "Putusan MK 6 Oktober 2026"
 - "Putusan MK Nomor 01/PHPU.PRES-XXIV/2026"

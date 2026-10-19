@@ -1,5 +1,7 @@
 ---
 title: Putera Sampoerna
+description: Presiden Direktur PT HM Sampoerna Tbk (hingga 2005)
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

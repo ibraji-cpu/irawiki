@@ -1,5 +1,7 @@
 ---
 title: Musannif
+description: Pendiri & Pemilik Group Anugerah Langkat Makmur (ALAM) (1982-2021) · Dewan Pembina Yayasan Haji Anif (2005-2021)
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

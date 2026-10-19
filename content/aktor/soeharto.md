@@ -1,5 +1,8 @@
 ---
 title: "Soeharto"
+description: 'Haji Muhammad Soeharto (dikenal sebagai Soeharto; ejaan internasional: Suharto) adalah Presiden ke-2 Republik Indonesia yang memerintah pada masa Orde Baru'
+date: 2026-10-12
+updated: '2026-10-17'
 aliases:
   - Soeharto
   - H.M. Soeharto

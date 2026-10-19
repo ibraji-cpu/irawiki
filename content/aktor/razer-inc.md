@@ -1,5 +1,8 @@
 ---
 title: "Razer Inc"
+description: 'Profil Razer Inc: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Razer Inc"
 tags:

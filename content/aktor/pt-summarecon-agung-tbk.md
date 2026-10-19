@@ -1,5 +1,7 @@
 ---
 title: PT Summarecon Agung Tbk
+description: Perusahaan yang diduga memberikan suap senilai Rp 1,5 miliar untuk mempercepat dan meloloskan izin HGB di Bogor, Presdir Adrianto Pitojo Adhi menjadi tersangka
+updated: '2026-10-17'
 aliases:
 - PT Summarecon Agung Tbk
 - Summarecon

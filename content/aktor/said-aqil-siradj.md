@@ -1,5 +1,8 @@
 ---
 title: "Said Aqil Siradj"
+description: Anggota Dewan Pertimbangan Presiden (dilantik 2 Oktober 2026)
+date: 2026-10-04
+updated: '2026-10-17'
 aliases:
 - "Said Aqil Siradj"
 - "K.H. Said Aqil Siradj"

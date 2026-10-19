@@ -1,5 +1,8 @@
 ---
 title: "Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR"
+description: Delapan partai nonparlemen GKSR meluncurkan Naskah Akademik dan Draf RUU Pemilu/Politik versi mereka pada Milad ke-1 di DPP Partai Ummat.
+date: 2026-10-01
+updated: '2026-10-17'
 tags:
 - peristiwa
 - pemilu

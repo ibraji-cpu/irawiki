@@ -1,5 +1,8 @@
 ---
 title: "Sjafrie Sjamsoeddin"
+description: Sjafrie Sjamsoeddin, Menteri Pertahanan RI 2024–sekarang dan Ketua Pengarah Satgas PKH.
+date: 2026-10-06
+updated: '2026-10-06'
 tags:
 - individu
 - militer

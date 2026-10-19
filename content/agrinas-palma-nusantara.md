@@ -1,5 +1,8 @@
 ---
 title: "Agrinas Palma Nusantara"
+description: Agrinas Palma Nusantara mengelola 140.762,04 hektare kebun hasil penertiban Satgas PKH; status kepemilikan BUMN atau swasta belum terverifikasi.
+date: 2026-10-06
+updated: '2026-10-06'
 tags:
 - organisasi
 - perusahaan

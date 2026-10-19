@@ -1,5 +1,7 @@
 ---
 title: Bursa Efek Indonesia
+description: Mencatatkan BYAN dalam daftar High Shareholding Concentration (HSC) pada 14 Juli 2026.
+updated: '2026-10-17'
 aliases:
 - Bursa Efek Indonesia
 - BEI

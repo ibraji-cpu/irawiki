@@ -1,5 +1,7 @@
 ---
 title: Kaesang Pangarep
+description: Ketua Umum Partai Solidaritas Indonesia (PSI) (2023–sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Pemasaran kreatif dan digital

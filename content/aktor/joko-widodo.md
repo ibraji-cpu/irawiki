@@ -1,5 +1,8 @@
 ---
 title: "Joko Widodo"
+description: Joko Widodo (Jokowi), Presiden RI ke-7 2014–2024; mantan Wali Kota Surakarta dan Gubernur DKI, kini aktor berpengaruh pasca-kepresidenan.
+date: 2026-09-27
+updated: '2026-10-20'
 aliases:
 - "Joko Widodo"
 - "Jokowi"

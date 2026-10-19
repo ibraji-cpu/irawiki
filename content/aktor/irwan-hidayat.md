@@ -1,5 +1,7 @@
 ---
 title: Irwan Hidayat
+description: Direktur PT Industri Jamu dan Farmasi Sido Muncul Tbk
+updated: '2026-10-17'
 category: aktor
 tags:
 - Kepedulian lingkungan hidrologis

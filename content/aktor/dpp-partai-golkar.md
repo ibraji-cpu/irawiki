@@ -1,5 +1,7 @@
 ---
 title: DPP Partai Golkar
+description: Disebutkan dalam artikel sebagai afiliasi organisasi dari tersangka Fahd El Fouz / Fahd A. Rafiq yang menjabat sebagai Ketua DPP Partai Golkar.
+updated: '2026-10-20'
 category: aktor
 tags:
 - organisasi

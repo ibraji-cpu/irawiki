@@ -1,5 +1,7 @@
 ---
 title: Nurhayati Subakat
+description: Komisaris Utama PT Paragon Technology and Innovation
+updated: '2026-10-17'
 category: aktor
 tags:
 - CSR di bidang pendidikan

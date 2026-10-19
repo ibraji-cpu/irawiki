@@ -1,5 +1,8 @@
 ---
 title: "Partai Gerindra"
+description: Bagian dari koalisi KIM Plus; juru bicaranya, Sugiat Santoso, meminta polemik ijazah dihentikan dan semua pihak move on demi kepastian hukum.
+date: 2026-10-07
+updated: '2026-10-20'
 aliases:
 - "Partai Gerindra"
 - "Gerindra"

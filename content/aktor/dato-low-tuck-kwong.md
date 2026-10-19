@@ -1,5 +1,8 @@
 ---
 title: Dato' Low Tuck Kwong
+description: Dato' Low Tuck Kwong, pendiri dan pemegang saham pengendali PT Bayan Resources Tbk (BYAN) yang menjual 30% saham ke Jhonlin.
+date: 2026-09-27
+updated: '2026-10-18'
 aliases:
 - Dato' Low Tuck Kwong
 - Low Tuck Kwong

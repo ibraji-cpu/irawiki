@@ -1,5 +1,8 @@
 ---
 title: "Adrianto Pitojo Adhi"
+description: 'Adrianto Pitojo Adhi: Presiden Direktur PT Summarecon Agung Tbk'
+date: 2026-09-27
+updated: '2026-10-17'
 tags:
 - individu
 - pengusaha

@@ -1,5 +1,7 @@
 ---
 title: Hermanto Tanoko
+description: CEO Tancorp Group (Avian Brands, Cleo, Depo Bangunan, dsb)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Investasi ritel modern

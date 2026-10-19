@@ -1,5 +1,8 @@
 ---
 title: "ST Burhanuddin"
+description: ST Burhanuddin, Jaksa Agung RI 2026–sekarang dan Wakil Ketua I Pengarah Satgas PKH.
+date: 2026-10-06
+updated: '2026-10-06'
 tags:
 - individu
 - hukum

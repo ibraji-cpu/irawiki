@@ -1,5 +1,8 @@
 ---
 title: "Analisis Relasi: Jokowi dalam RUU Satu Data Indonesia"
+description: Analisis relasi peran Jokowi dalam pengesahan RUU Satu Data Indonesia beserta posisi aktor yang terlibat.
+date: 2026-10-05
+updated: '2026-10-17'
 tags:
 - analisis
 - relasi

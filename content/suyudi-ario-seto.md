@@ -1,5 +1,8 @@
 ---
 title: "Suyudi Ario Seto"
+description: Suyudi Ario Seto, perwira tinggi Polri berlatar reserse; pernah Wakapolda Metro Jaya, Kapolda Banten, dan Kepala BNN; diusulkan sebagai calon tunggal Kapolri September 2026.
+date: 2026-10-01
+updated: '2026-10-20'
 tags:
 - individu
 - polri

@@ -1,5 +1,7 @@
 ---
 title: "36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting Bagi Masa Depan Indonesia?"
+description: 'Catatan 36 tahun Humanika: perjumpaan para mantan demonstran dan maknanya bagi arah politik Indonesia.'
+updated: '2026-10-17'
 category: peristiwa
 tags:
   - aktivis

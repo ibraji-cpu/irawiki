@@ -1,5 +1,7 @@
 ---
 title: Sudhamek
+description: Chairman PT Garudafood Putra Putri Jaya Tbk · Anggota Dewan Pengarah BRIN (2021-sekarang) · Anggota Dewan Pengarah BPIP (2017-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Filantropi lintas agama

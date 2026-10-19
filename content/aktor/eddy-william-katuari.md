@@ -1,5 +1,7 @@
 ---
 title: Eddy William Katuari
+description: Presiden Direktur Wings Group · Direktur Operasional PT Wings Surya
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

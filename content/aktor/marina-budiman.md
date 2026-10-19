@@ -1,5 +1,7 @@
 ---
 title: Marina Budiman
+description: 'Marina Budiman: President Commissioner PT DCI Indonesia Tbk'
+updated: '2026-10-17'
 category: aktor
 tags:
 - Teknologi dan Pusat Data

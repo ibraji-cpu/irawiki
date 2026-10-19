@@ -1,5 +1,8 @@
 ---
 title: "Perang Ultra Modern dan Geopolitik"
+description: Tipologi perang ultra modern — narasi, ekonomi, sumber daya — plus kronologi tekanan terhadap ekonomi Indonesia 2026 (MSCI, IHSG, DHE, DSI).
+date: 2026-10-17
+updated: '2026-10-17'
 entity_type: topik
 entity_id: "perang-ultra-modern-dan-geopolitik"
 aliases:

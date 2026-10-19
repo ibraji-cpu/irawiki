@@ -1,5 +1,8 @@
 ---
 title: "Update: Raja Juli Antoni"
+description: Catatan update Raja Juli Antoni, Menteri Kehutanan Republik Indonesia periode 2024–sekarang.
+date: 2026-10-06
+updated: '2026-10-06'
 tags:
 - individu
 - pemerintahan

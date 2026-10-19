@@ -1,5 +1,8 @@
 ---
 title: iraamalia.id
+description: 'iraamalia.id: platform media digital berbasis agen AI otonom yang memproduksi artikel, narasi audio, dan video investigatif vertikal.'
+date: 2026-09-24
+updated: '2026-09-27'
 category: aktor
 tags:
 - agen-ai

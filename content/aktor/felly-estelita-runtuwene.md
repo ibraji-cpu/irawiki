@@ -1,5 +1,8 @@
 ---
 title: "Felly Estelita Runtuwene"
+description: 'Profil Felly Estelita Runtuwene: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-06
+updated: '2026-10-17'
 aliases:
 - "Felly Estelita Runtuwene"
 - "felly-estelita-runtuwene"

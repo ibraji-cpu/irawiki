@@ -1,5 +1,8 @@
 ---
 title: PT Kereta Cepat Indonesia China (PT KCIC)
+description: Perusahaan patungan (joint venture) yang mengelola proyek Kereta Cepat Jakarta-Bandung (Whoosh). Perusahaan ini memiliki struktur kepemilikan di mana konsorsium Tiongkok (Beijing Yawan HSR Co.
+date: 2026-09-27
+updated: '2026-10-17'
 category: aktor
 tags:
 - joint-venture

@@ -1,5 +1,8 @@
 ---
 title: Ichsanuddin Noorsy
+description: Pakar ekonomi politik yang mengajukan gagasan kritis bahwa utang luar negeri telah bertransformasi menjadi instrumen "perang asimetris" atau "jebakan utang"
+date: 2026-09-27
+updated: '2026-10-17'
 category: aktor
 tags:
 - akademisi

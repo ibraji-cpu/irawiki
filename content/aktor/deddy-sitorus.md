@@ -1,5 +1,8 @@
 ---
 title: "Deddy Sitorus"
+description: Deddy Yevri Hanteru Sitorus (lahir 17 November 1970, Pematangsiantar, Sumatera Utara) adalah politikus PDI Perjuangan yang saat ini menjabat Anggota DPR RI
+date: 2026-10-07
+updated: '2026-10-20'
 aliases:
 - "Deddy Sitorus"
 - "Deddy Yevry Hanteru Sitorus"

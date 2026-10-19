@@ -1,5 +1,8 @@
 ---
 title: Elaine Low
+description: Elaine Low, putri Dato' Low Tuck Kwong dan pemegang 22,002% saham BYAN per 31 Juli 2026; keluarga Low total 62,253%.
+date: 2026-09-27
+updated: '2026-10-20'
 aliases:
 - elaine-low
 - Elaine Low

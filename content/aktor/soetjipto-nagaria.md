@@ -1,5 +1,7 @@
 ---
 title: Soetjipto Nagaria
+description: Presiden Direktur PT Summarecon Agung Tbk (1975-2001)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Konservasi kualitas air kawasan hunian

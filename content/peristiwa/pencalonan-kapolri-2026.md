@@ -1,5 +1,8 @@
 ---
 title: "Pencalonan Kapolri 2026"
+description: 'Kronologi pencalonan Kapolri 2026: Surpres 30 September 2026 untuk memberhentikan Listyo Sigit Prabowo dan mengangkat Komjen Pol Suyudi Ario Seto.'
+date: 2026-10-01
+updated: '2026-10-20'
 aliases:
 - "Pencalonan Kapolri 2026"
 - "Pergantian Kapolri 2026"

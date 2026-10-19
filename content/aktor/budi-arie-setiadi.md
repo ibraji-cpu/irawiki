@@ -1,5 +1,8 @@
 ---
 title: Budi Arie Setiadi
+description: Budi Arie Setiadi adalah Ketua Umum Projo yang menjadi sorotan publik setelah melontarkan wacana spekulatif mengenai percepatan pemilu sebelum 2029 di hadapan relawan.
+date: 2026-09-27
+updated: '2026-10-18'
 category: aktor
 tags:
   - individu

@@ -1,5 +1,7 @@
 ---
 title: Bahlil Lahadalia
+description: Menteri Energi dan Sumber Daya Mineral (ESDM) RI (2024–sekarang) · Ketua Umum Partai Golkar (2024–sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Hilirisasi tambang nikel

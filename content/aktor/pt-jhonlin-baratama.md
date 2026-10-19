@@ -1,5 +1,8 @@
 ---
 title: PT Jhonlin Baratama
+description: PT Jhonlin Baratama, kendaraan investasi Jhonlin Group yang membeli 30% saham BYAN lewat CSPA 16 September 2026.
+date: 2026-09-27
+updated: '2026-10-18'
 entity_type: organisasi
 relasi: []
 aliases:

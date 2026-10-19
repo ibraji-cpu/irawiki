@@ -1,5 +1,8 @@
 ---
 title: Jhonlin Group
+description: 'Jhonlin Group: konglomerasi pertambangan dan infrastruktur milik Haji Isam, kuota produksi batubara sekitar 60 juta ton per tahun.'
+date: 2026-09-27
+updated: '2026-10-17'
 entity_type: organisasi
 relasi: []
 aliases:

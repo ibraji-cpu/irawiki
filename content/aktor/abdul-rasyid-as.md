@@ -1,5 +1,7 @@
 ---
 title: Abdul Rasyid AS
+description: Pemilik & Chairman PT Citra Borneo Indah (CBI) Group (1999-sekarang) · Pendiri & Dewan Pembina Abdul Rasyid Foundation (2015-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

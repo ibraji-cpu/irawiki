@@ -1,5 +1,8 @@
 ---
 title: "Daniel Johan"
+description: Anggota DPR RI (menjabat sejak 1 Oktober 2014; periode 2024–2029, Dapil Kalimantan Barat I) · Anggota Badan Legislasi (Baleg) DPR RI Fraksi PKB · Wakil Ketua Komisi IV DPR RI · Ketua DPP PKB
+date: 2026-10-05
+updated: '2026-10-17'
 tags:
 - individu
 entity_type: individu

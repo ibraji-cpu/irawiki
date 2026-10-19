@@ -1,5 +1,8 @@
 ---
 title: "Komisi IX DPR"
+description: Komisi IX Dewan Perwakilan Rakyat RI (lingkup kesehatan, ketenagakerjaan, dan kependudukan)
+date: 2026-10-06
+updated: '2026-10-17'
 aliases:
 - "Komisi IX DPR"
 - "Komisi IX"

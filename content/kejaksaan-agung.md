@@ -1,5 +1,8 @@
 ---
 title: "Kejaksaan Agung"
+description: Kejaksaan Agung RI di bawah Jaksa Agung ST Burhanuddin; lokasi penyerahan tahap VIII Satgas PKH dan posisi Wakil Ketua I Pengarah.
+date: 2026-10-06
+updated: '2026-10-06'
 tags:
 - organisasi
 - lembaga

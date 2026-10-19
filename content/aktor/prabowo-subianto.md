@@ -1,5 +1,7 @@
 ---
 title: Prabowo Subianto
+description: Prabowo Subianto, Presiden Republik Indonesia 2024–sekarang; pusat jaringan kekuasaan pada reshuffle kabinet dan Satgas PKH.
+updated: '2026-10-17'
 aliases:
 - Prabowo Subianto
 category: aktor

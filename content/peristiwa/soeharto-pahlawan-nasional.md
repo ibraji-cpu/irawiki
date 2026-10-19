@@ -1,5 +1,8 @@
 ---
 title: "Soeharto Pahlawan Nasional"
+description: Penganugerahan gelar Pahlawan Nasional kepada Soeharto lewat Keppres 116/TK/2025, polemik publik, dan gugatan PTUN atasnya.
+date: 2026-10-12
+updated: '2026-10-17'
 aliases:
   - Gelar Pahlawan Nasional Soeharto
   - Penganugerahan Gelar Pahlawan Nasional kepada Soeharto

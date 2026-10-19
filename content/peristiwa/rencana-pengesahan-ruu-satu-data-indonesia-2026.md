@@ -1,5 +1,8 @@
 ---
 title: "Rencana Pengesahan RUU Satu Data Indonesia"
+description: RUU Satu Data Indonesia (17 bab, 138 pasal) ditargetkan disahkan 6 Oktober 2026; mengatur Badan Satu Data Indonesia sebagai orkestrator tata kelola data.
+date: 2026-10-05
+updated: '2026-10-17'
 tags:
 - peristiwa
 entity_type: peristiwa

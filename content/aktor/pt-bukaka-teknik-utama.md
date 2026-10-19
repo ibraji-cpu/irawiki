@@ -1,5 +1,8 @@
 ---
 title: "PT Bukaka Teknik Utama Tbk (Gobel Group)"
+description: 'Profil PT Bukaka Teknik Utama Tbk (Gobel Group): afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Bukaka Teknik Utama (Gobel Group)"
 - "PT Bukaka Teknik Utama Tbk"
