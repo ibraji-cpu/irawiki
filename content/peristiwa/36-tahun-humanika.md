@@ -31,7 +31,7 @@ Topik ini tidak menyentuh harga, upah, atau syarat administrasi yang dihadapi pe
 - **Perayaan:** reuni ke-36 di sebuah restoran kawasan Cilandak, Jakarta, September 2026.
 - **Afiliasi:** bagian dari Kelompok Cipayung bersama 5 organisasi kampus: HMI, GMNI, PMKRI, PMII, dan GMKI.
 - **Pernyataan politik:** dalam reuni ke-36, Bursah Zarnubi menyerukan dukungan agar pemerintahan Prabowo Subianto bertahan dua periode.
-- **Tokoh yang disebut hadir:** Jumhur Hidayat, Agus Jabo Priyono, Muhammad Qodari, Trimedya Panjaitan, Andi Arief, Hamid Basyaib, dan Hariman Siregar.
+- **Tokoh yang disebut hadir (7 orang):** Jumhur Hidayat, Agus Jabo Priyono, Muhammad Qodari, Trimedya Panjaitan, Andi Arief, Hamid Basyaib, dan Hariman Siregar.
 - **Jejak karier:** Sri Meliyana (Melly Zarnubi) menjadi anggota DPR RI selama 3 periode.
 
 ## Kronologi

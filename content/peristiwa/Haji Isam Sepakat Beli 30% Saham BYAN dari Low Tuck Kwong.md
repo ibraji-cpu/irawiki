@@ -36,7 +36,7 @@ Batu bara masih menjadi sumber energi utama pembangkit listrik Indonesia, sehing
 - **Tanggal kesepakatan:** 16 September 2026.
 - **Porsi saham:** 30 persen saham BYAN.
 - **Pembeli:** Haji Isam, pengusaha asal Kalimantan Selatan (Andi Syamsuddin Arsyad), tercatat pada 2026.
-- **Penjual:** Low Tuck Kwong, pendiri BYAN.
+- **Penjual:** Low Tuck Kwong, pendiri BYAN, melepas 30 persen saham pada 16 September 2026.
 - **Objek transaksi:** PT Bayan Resources Tbk (kode BYAN), emiten batu bara; 30 persen sahamnya berpindah pada 16 September 2026.
 
 ## Kronologi

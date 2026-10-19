@@ -103,7 +103,7 @@ Kapolri menentukan bagaimana laporan warga ditangani, termasuk laporan yang vira
 - **Jabatan sebelumnya:** Kapolres Metro Jakarta Pusat, 2017-2019.
 - **Pelantikan:** Kapolri pada 1 Oktober 2026 pukul 14.45 WIB.
 - **Program:** 100 hari kerja, dibagi menjadi 3 tahap (hari 1-30, 31-60, 61-100).
-- **Visi:** "Polisi Bersama Masyarakat".
+- **Visi:** "Polisi Bersama Masyarakat", dipakai sejak pelantikan 1 Oktober 2026.
 - **Pendahulu:** Listyo Sigit Prabowo, lulusan Akpol 1991.
 
 ## Identitas
