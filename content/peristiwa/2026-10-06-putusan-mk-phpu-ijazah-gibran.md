@@ -55,9 +55,13 @@ relasi: []
 
 > **Ringkasan Topik:** Mahkamah Konstitusi mengucapkan putusan Perkara Nomor 01/PHPU.PRES-XXIV/2026 pada 6 Oktober 2026 dengan amar permohonan tidak dapat diterima. Alasan utama bersifat prosedural: menurut Peraturan MK Nomor 2 Tahun 2024, hanya pasangan calon peserta Pilpres yang boleh menggugat hasil Pilpres. Dalam pertimbangan faktual, hakim menyatakan tidak menemukan dokumen fisik berupa ijazah, sertifikat, atau diploma yang membuktikan Gibran Rakabuming Raka menyelesaikan pendidikan setara SMA di luar negeri.
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-Putusan ini menutup jalur hukum atas syarat pendidikan seorang wakil presiden, tetapi tidak menjawab pertanyaan soal dokumennya. Mahkamah menolak permohonan karena alasan prosedural, lalu mencatat bahwa tidak ada ijazah, sertifikat, atau diploma fisik yang ditemukan. Dasar penolakan adalah Peraturan MK Nomor 2 Tahun 2024, yang membatasi pihak yang boleh menggugat hasil Pilpres pada pasangan calon peserta. Karena amar bersifat prosedural, materi ijazah tidak diuji, dan perdebatan berpindah ke DPR melalui dorongan hak angket.
+Yang paling terpapar di sini bukan calon, melainkan pemilih muda dan warga yang ingin mempersoalkan syarat seorang calon. Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2024 — aturan yang berlaku dan menjadi dasar putusan — membatasi pihak yang boleh menggugat hasil Pilpres pada pasangan calon peserta. Karena para pemohon bukan peserta, amar putusan yang diucapkan 6 Oktober 2026 menyatakan permohonan tidak dapat diterima. Akibatnya prosedural: materi ijazah tidak diuji, sehingga tidak ada putusan substantif tentang standar pembuktian syarat pendidikan calon — padahal standar itulah yang menentukan siapa yang layak tercantum di surat suara.
+
+Pertimbangan faktualnya justru lebih konkret bagi pembaca yang memakai jalur pendidikan luar negeri. Dalam pertimbangan yang dibacakan Hakim Arsul Sani, Mahkamah menyatakan tidak menemukan dokumen fisik berupa ijazah, sertifikat, atau diploma yang membuktikan penyelesaian pendidikan setara SMA di luar negeri. Penyetaraan yang dipakai saat pendaftaran disebut hanya berstatus "penyetaraan pengetahuan" program Grade 12 UTS Insearch dari Ditjen Dikdasmen, bukan penyetaraan kelulusan. Perbedaan dua jenis surat itu menjelaskan bagaimana sebuah dokumen bisa ada tanpa dianggap membuktikan kelulusan. Batasnya: halaman hanya mencatat apa yang berlaku dalam perkara ini, dan tidak mencatat akibat apa pun bagi siswa atau mahasiswa lain yang memegang surat serupa.
+
+Yang tidak bisa disimpulkan dari halaman ini sama pentingnya. Catatan presisi menyatakan temuan dokumen itu rangkuman pertimbangan hakim, bukan kutipan verbatim, dan halaman tidak menyimpulkan ada atau tidaknya pelanggaran hukum dalam penerbitan dokumen pendidikan; salinan putusan serta risalah sidang belum ditautkan, dan nama hakim belum dicek ke salinan. Dorongan hak angket di DPR yang disebut pada bagian Dampak Langsung masih berupa pernyataan politisi — klaim pihak, bukan keputusan DPR — sehingga tidak ada dasar menyebut kapan atau apakah penyelidikan itu berjalan.
 
 ## Fakta kunci
 

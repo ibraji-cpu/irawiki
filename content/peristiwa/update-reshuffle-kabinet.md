@@ -25,9 +25,11 @@ last_verified: 2026-10-18
 
 > **Ringkasan Topik:** Halaman ini semula catatan kerja untuk menampung update hub reshuffle Kabinet Merah Putih. Isinya kini diringkas menjadi penunjuk ke dua halaman yang memuat kronologi lengkap: hub [[reshuffle-kabinet-merah-putih|Reshuffle Kabinet Merah Putih]] untuk seluruh perombakan sejak Februari 2025, dan [[2026-10-01-reshuffle-kabinet-merah-putih|Reshuffle Kabinet Merah Putih 1 Oktober 2026]] untuk pelantikan 1 Oktober 2026.
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-Halaman ini tidak memuat berita baru. Fungsinya menjaga agar pembaca yang membuka tautan "update reshuffle" tidak menemukan halaman kosong, melainkan diarahkan ke kronologi yang sudah bertanggal. Dua peristiwa yang menandai rentang catatan ini adalah pelantikan 1 Oktober 2026, ketika 7 jabatan utama berganti, dan penyerahan tahap VIII Satgas PKH pada 6 Oktober 2026.
+Halaman ini tidak memuat isi kebijakan, layanan, atau kelompok yang bisa dihubungkan dengan kehidupan anak muda. Statusnya dicatat sendiri sebagai catatan kerja yang diringkas pada 20 Oktober 2026, bukan halaman peristiwa mandiri, dan Catatan presisi menyatakan tidak ada isi mandiri di luar dua tautan tujuan. Yang tercatat hanya dua penanda waktu — pelantikan 1 Oktober 2026 ketika 7 jabatan utama berganti, dan penyerahan tahap VIII Satgas PKH pada 6 Oktober 2026 — tanpa rincian jabatan selain Kapolri dan Kepala Staf Kepresidenan, tanpa isi program, dan tanpa data dampak.
+
+Karena itu bagian ini tidak membuat klaim dampak. Pembaca yang mencari isi perombakan kabinet atau Satgas PKH perlu membuka halaman hub reshuffle dan halaman 1 Oktober 2026 yang ditautkan; halaman ini tidak menilai keduanya. Satu catatan teknis yang berguna diketahui: `entity_id` halaman ini sama dengan halaman 1 Oktober 2026, dan pengelola wiki belum memutuskan perbaikannya.
 
 ## Fakta kunci
 

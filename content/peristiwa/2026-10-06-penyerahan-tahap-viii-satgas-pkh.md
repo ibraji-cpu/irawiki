@@ -39,9 +39,13 @@ relasi: []
 
 > **Ringkasan Topik:** Pada 6 Oktober 2026, di Gedung Bundar Kejaksaan Agung, Jakarta, Presiden Prabowo Subianto menyaksikan penyerahan Rp13,24 triliun hasil kerja Satgas PKH tahap VIII dari Jaksa Agung ST Burhanuddin kepada Menteri Keuangan Suahasil Nazara.
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-Uang Rp13,24 triliun yang diserahkan pada 6 Oktober 2026 masuk ke kas negara sebagai denda administratif, PNBP, dan pajak, sehingga jumlahnya berpengaruh pada anggaran layanan publik. Selain uang, negara menerima kembali 259.230,73 hektare lahan dari sektor perkebunan, tambang, dan kawasan lindung. Penyerahan berlangsung di Gedung Bundar Kejaksaan Agung, Jakarta, dan disaksikan Presiden Prabowo Subianto.
+Rp13,24 triliun yang diserahkan di Gedung Bundar Kejaksaan Agung pada 6 Oktober 2026 adalah uang yang benar-benar masuk kas negara — denda administratif, PNBP, dan pajak. Itu arus kas, bukan nilai aset. Halaman juga mengutip klaim Presiden Prabowo bahwa 6,2 juta hektare lahan yang diselamatkan "nilainya hampir Rp400 triliun"; angka itu valuasi kumulatif seluruh rangkaian, bukan angka tahap VIII dan bukan kas, sehingga tidak bisa dijumlahkan dengan Rp13,24 triliun. Penyerahan ini sendiri adalah tahap ke-8 dari rangkaian sejak Januari 2025, dengan Satgas PKH dibentuk lewat Perpres Nomor 5 Tahun 2025.
+
+Bagi anak muda, jalur yang tampak paling langsung — uang masuk kas negara lalu membiayai layanan publik — berhenti di tengah jalan. Halaman tidak menelusuri ke mana Rp13,24 triliun dialokasikan di APBN, jadi tidak ada dasar menyebut manfaat fiskal tertentu bagi kelompok muda mana pun; menyebutnya sebagai tambahan anggaran pendidikan atau kesehatan akan melampaui isi halaman.
+
+Yang lebih konkret justru lahannya: 259.230,73 hektare kembali dikuasai negara, dengan rincian 140.762,04 hektare kebun yang dikelola Agrinas Palma Nusantara dan 118.256,74 hektare hutan konservasi/lindung untuk reforestasi. Perubahan status penguasaan menyangkut siapa yang boleh menggarap dan memanfaatkan kawasan — pertanyaan yang langsung relevan bagi petani muda dan warga di sekitar kawasan hutan. Namun halaman tidak mencatat siapa yang bekerja di kebun itu, skema bagi warga lokal, atau jumlah lapangan kerja, sehingga hubungannya ke penghidupan anak muda masih berupa pertanyaan yang belum terjawab, bukan dampak yang sudah terukur.
 
 ## Fakta kunci
 

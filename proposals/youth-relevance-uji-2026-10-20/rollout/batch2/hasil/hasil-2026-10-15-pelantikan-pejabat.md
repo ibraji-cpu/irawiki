@@ -1,0 +1,5 @@
+## Apa relevansinya dengan anak muda?
+
+Halaman ini mencatat sebuah peristiwa pelantikan: 15 Oktober 2026 di Istana Kepresidenan, sembilan pejabat — empat wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala BPGMN, serta dua perwira tinggi TNI. Yang tidak ada di halaman adalah nomor Keputusan Presiden tiap pengangkatan, arah kebijakan pejabat baru, perubahan anggaran, program, atau target layanan. Catatan presisi juga menyatakan halaman ini tidak menilai latar politik pengangkatan.
+
+Tanpa satu pun keputusan, anggaran, atau program yang tercatat, tidak ada mekanisme yang bisa ditelusuri sampai ke kehidupan anak muda; menyambungkannya hanya dari nama lembaga akan menjadi tebakan, bukan pembacaan halaman. Karena itu bagian ini sengaja tidak membuat klaim dampak. Pengguna layanan lembaga-lembaga tersebut — pelamar paspor, warga di daerah rawan bencana, atau orang yang berurusan dengan pengelolaan gambut dan mangrove — belum mendapat satu pun keterangan di halaman ini untuk menilai apakah layanan yang mereka pakai berubah.

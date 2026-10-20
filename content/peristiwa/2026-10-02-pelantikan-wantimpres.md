@@ -71,9 +71,11 @@ last_verified: "2026-10-02"
 
 > **Ringkasan Topik:** Pada 2 Oktober 2026, Presiden Prabowo Subianto melantik 26 anggota Dewan Pertimbangan Presiden (Wantimpres) di Istana Negara, Jakarta. Menurut pemberitaan AFU.ID, total anggaran gaji untuk para anggota mencapai sekitar Rp1,989 miliar per bulan, belum termasuk fasilitas dan sekretaris.
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-Wantimpres memberi nasihat kepada presiden tanpa melalui pemilihan, sehingga susunannya menentukan siapa yang punya akses langsung ke pengambil keputusan. Pada 2 Oktober 2026 Presiden Prabowo Subianto melantik 26 anggota di Istana Negara, dengan Pratikno sebagai Ketua dan Hatta Rajasa sebagai Wakil Ketua. Menurut pemberitaan AFU.ID, gaji tiap anggota Rp76,5 juta per bulan, sehingga totalnya sekitar Rp1,989 miliar per bulan atau Rp23,868 miliar per tahun sebelum fasilitas.
+Halaman ini mencatat dua hal: susunan orang dan biayanya. Pada 2 Oktober 2026 Presiden Prabowo Subianto melantik 26 anggota Wantimpres di Istana Negara, dengan Pratikno sebagai Ketua dan Hatta Rajasa sebagai Wakil Ketua. Menurut pemberitaan AFU.ID — sumber ini pemberitaan, bukan dokumen anggaran — gaji tiap anggota Rp76,5 juta per bulan, sehingga totalnya sekitar Rp1,989 miliar per bulan atau Rp23,868 miliar per tahun, di luar fasilitas setara menteri dan gaji 26 sekretaris anggota. Pembiayaannya bersumber dari APBN melalui anggaran kementerian yang menangani urusan kesekretariatan negara.
+
+Angka itu adalah biaya, bukan manfaat, dan halaman tidak memuat satu pun nasihat, rekomendasi, atau keputusan yang lahir dari dewan ini, juga tidak menelusuri ke pos anggaran program mana pun. Menyebut Rp23,868 miliar setahun sebagai pengurang atau penambah belanja layanan bagi warga muda berarti membandingkan pos yang tidak dibandingkan halaman. Karena itu bagian ini tidak membuat klaim dampak: yang tersedia hanya catatan biaya dan komposisi anggota, dan keduanya belum cukup untuk menghubungkan lembaga ini ke kehidupan anak muda secara spesifik.
 
 ## Fakta kunci
 

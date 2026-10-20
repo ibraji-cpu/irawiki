@@ -55,9 +55,11 @@ last_verified: "2026-10-15"
 
 Bagian dari: [[Reshuffle Kabinet Merah Putih]]
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-Reshuffle ini memindahkan orang yang memutuskan kebijakan harga energi, upah, dan pendidikan, yaitu tiga hal yang paling terasa bagi pembaca muda. Pada 1 Oktober 2026, Presiden Prabowo Subianto melantik menteri, wakil menteri, dan pejabat tinggi di Istana Negara. Perubahan paling menonjol adalah pergeseran Listyo Sigit Prabowo dari Kapolri ke Kepala Staf Kepresidenan, dengan Suyudi Ario Seto mengisi jabatan Kapolri. Menurut CNBC Indonesia, perombakan ini adalah pergantian menteri atau pejabat setingkat menteri ke-11 pada masa pemerintahan Prabowo-Gibran.
+Yang tercatat di halaman ini adalah pergantian orang, bukan perubahan kebijakan. Pada 1 Oktober 2026 Presiden Prabowo Subianto melantik menteri, wakil menteri, dan pejabat tinggi negara di Istana Negara: Listyo Sigit Prabowo pindah dari Kapolri ke Kepala Staf Kepresidenan, Dudung Abdurachman menjadi Menko Polkam, Suyudi Ario Seto mengisi jabatan Kapolri berdasarkan Keppres 96 dan 97/POLRI Tahun 2026, Bahlil Lahadalia ke Menko Hilirisasi dan Energi, Sugiono ke Menko Pembangunan Manusia dan Kebudayaan, Arrmanatha Nasir ke Menlu, Muhammad Sarmuji ke Menperin. Halaman mencatatnya sebagai perombakan ke-11 menurut hitungan CNBC Indonesia — bukan hitungan resmi Setkab — dan tidak memuat satu pun keputusan, program, atau anggaran yang diambil pejabat yang baru dilantik, juga tidak menjelaskan bidang apa yang dikoordinasikan tiap kursi.
+
+Karena itu bagian ini sengaja tidak menyusun klaim dampak bagi anak muda. Menyambungkan nama jabatan ke harga energi, upah, atau pendidikan akan melampaui isi halaman: tidak ada kebijakan yang tercatat di sana, dan nama kementerian tidak dengan sendirinya menunjukkan keputusan apa yang akan diambil. Yang bisa dipantau adalah momen berikutnya — begitu pejabat baru mengeluarkan kebijakan atau mengubah anggaran di kursinya, barulah ada bahan untuk menghubungkannya ke kelompok muda tertentu. Pelantikan lanjutan 15 Oktober 2026 untuk sembilan pejabat adalah peristiwa terpisah, bukan kelanjutan peristiwa ini.
 
 ## Fakta kunci
 

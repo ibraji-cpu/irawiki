@@ -56,9 +56,13 @@ last_verified: "2026-10-04"
 
 > **Ringkasan Topik:** DPR RI menargetkan pengesahan RUU Satu Data Indonesia (17 bab, 138 pasal) menjadi undang-undang pada rapat paripurna Selasa, 6 Oktober 2026. RUU ini mengatur pembentukan Badan Satu Data Indonesia (BSDI) sebagai orkestrator tata kelola data nasional.
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-RUU Satu Data Indonesia menaikkan aturan tata kelola data dari Peraturan Presiden ke undang-undang, sehingga menentukan siapa yang boleh mengakses dan menggabungkan data warga. Rancangannya 17 bab dan 13 pasal, dengan Badan Satu Data Indonesia sebagai orkestrator, bukan pemilik data. DPR menargetkan pengesahan pada rapat paripurna 6 Oktober 2026, setelah rapat paripurna Juli 2026 menyetujui RUU sebagai usul inisiatif DPR.
+Sampai halaman ini diperbarui, yang ada masih rancangan, bukan hak atau kewajiban yang berlaku. DPR menargetkan pengesahan RUU Satu Data Indonesia pada rapat paripurna 6 Oktober 2026, dan status hukum yang tercatat masih "belum disahkan saat entry ditulis" — bagian Dampak Langsung halaman ini bahkan menyebut "belum ada" dengan alasan yang sama. Bagi warga muda, artinya belum ada satu pun kewajiban baru yang menempel pada mereka, dan belum ada dasar menyebut perlakuan atas data mereka sudah berubah.
+
+Yang bisa dijelaskan hanyalah bentuk rancangannya. RUU ini menaikkan tata kelola data dari Peraturan Presiden ke undang-undang dan membentuk Badan Satu Data Indonesia sebagai orkestrator — koordinatif, normatif, fasilitatif — bukan pemilik data, dengan interoperabilitas yang dirancang tanpa sentralisasi kepemilikan. Kalau disahkan dalam bentuk itu, yang berpindah adalah kewenangan mengoordinasikan dan menghubungkan data antarinstansi, bukan kepemilikan data ke satu badan. Bagi warga yang catatan datanya tersebar di lebih dari satu instansi, termasuk anak muda yang mengurus layanan publik, arah perubahan itu menyangkut siapa yang boleh menggabungkan berkas mereka dan untuk apa — pertanyaan yang jawabannya ada di pasal, bukan di judul berita.
+
+Di situlah batasnya. Halaman tidak memuat pasal tentang hak subjek data, mekanisme pengaduan, atau sanksi, dan Catatan presisi menyatakan halaman ini tidak menilai dampak UU terhadap privasi warga. Jumlah pasalnya pun belum konsisten: ringkasan menyebut 17 bab dan 138 pasal, sedangkan Fakta kunci dan Catatan presisi menyebut 17 bab dan 13 pasal — selisih itu belum dijelaskan, jadi angka pasal sebaiknya tidak dikutip sampai diperbaiki. Karena itu tidak ada dasar menyatakan rancangan ini memperkuat perlindungan data anak muda, dan tidak ada dasar menyatakan sebaliknya. Horizon waktunya bergantung pada paripurna yang masih berupa target; halaman ini juga belum mencatat nomor RUU maupun daftar fraksi yang mendukung, sehingga tidak ada yang bisa dipakai untuk memperkirakan kapan aturan itu benar-benar berlaku.
 
 ## Fakta kunci
 

@@ -27,9 +27,11 @@ last_verified: "2026-10-09"
 
 > **Ringkasan Topik:** Pada 16 September 2026, Haji Isam (Andi Syamsuddin Arsyad) sepakat membeli 30 persen saham PT Bayan Resources Tbk (BYAN) dari Low Tuck Kwong. Kesepakatan ini memindahkan sebagian kepemilikan salah satu produsen batu bara terbesar Indonesia ke pengusaha yang berbasis di Kalimantan Selatan.
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-Batu bara masih menjadi sumber energi utama pembangkit listrik Indonesia, sehingga perubahan pemilik tambang besar berpengaruh pada harga listrik dan penerimaan negara. Kesepakatan 16 September 2026 mencakup 30 persen saham BYAN, porsi yang cukup untuk mempengaruhi keputusan strategis perusahaan. Penjualnya adalah Low Tuck Kwong, pendiri dan pemegang saham utama BYAN.
+Yang tercatat di halaman ini adalah penandatanganan CSPA pada 16 September 2026 untuk 30 persen saham BYAN — 10.000.000.500 lembar — dari Low Tuck Kwong dan Elaine Low kepada PT Jhonlin Baratama. Itu perjanjian, bukan perpindahan saham yang sudah selesai: nilai transaksi, sumber pendanaan, tenggat, dan status penyelesaian (closing) tidak tercatat, komposisi kepemilikan setelah transaksi belum terdokumentasi, dan Catatan presisi menyatakan halaman tidak menilai dampak transaksi terhadap tata kelola perusahaan.
+
+Karena itu tidak ada rantai yang bisa dibangun dari halaman ini ke kehidupan sehari-hari pembaca muda. Halaman tidak memuat satu pun keterangan ekonomi yang bisa dipakai menilai akibat kesepakatan itu — tidak ada nilai transaksi, tidak ada harga, tidak ada lapangan kerja, tidak ada setoran ke negara — dan tidak mencatat apakah kesepakatan itu tuntas. Satu-satunya kelompok yang bisa diidentifikasi adalah pemegang saham BYAN lainnya, dan bahkan untuk mereka halaman ini tidak menyediakan harga, premi, atau syarat kesepakatan yang bisa dipakai menilai apa pun.
 
 ## Fakta kunci
 
