@@ -1,5 +1,8 @@
 ---
 title: "Andi Amran Sulaiman"
+description: Andi Amran Sulaiman (lahir 27 April 1968, Bone, Sulawesi Selatan; anak ketiga dari 12 bersaudara) adalah Menteri Pertanian Republik Indonesia dalam Kabinet
+date: 2026-09-27
+updated: '2026-10-17'
 tags:
 - individu
 - politisi

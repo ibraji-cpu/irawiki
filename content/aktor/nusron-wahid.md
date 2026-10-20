@@ -1,5 +1,8 @@
 ---
 title: "Nusron Wahid"
+description: Nama lengkap H. Nusron Wahid, S.S., M.Si. (KabarJawa; Wikipedia). · Lahir di Kudus, Jawa Tengah, 12 Oktober 1973 (Wikipedia; InvestorTrust; KabarJawa).
+date: 2026-09-27
+updated: '2026-10-17'
 aliases:
 - "H. Nusron Wahid"
 - "Nusron Wahid"

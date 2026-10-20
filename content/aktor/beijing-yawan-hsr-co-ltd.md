@@ -1,5 +1,8 @@
 ---
 title: Beijing Yawan HSR Co. Ltd
+description: Konsorsium BUMN Tiongkok yang memegang 40% saham PT KCIC dan mendominasi pengerjaan proyek Kereta Cepat Whoosh.
+date: 2026-09-27
+updated: '2026-10-17'
 category: aktor
 tags:
 - infrastruktur

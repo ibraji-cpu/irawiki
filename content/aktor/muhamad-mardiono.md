@@ -1,5 +1,7 @@
 ---
 title: Muhamad Mardiono
+description: Utusan Khusus Presiden Bidang Ketahanan Pangan (2024–sekarang) · Ketua Umum Partai Persatuan Pembangunan (PPP) (2025–sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Ketahanan pangan nasional

@@ -1,5 +1,8 @@
 ---
 title: "Dr. Jamaludin Gafur, S.H., M.H."
+description: 'Profil Dr. Jamaludin Gafur, S.H., M.H.: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Dr. Jamaludin Gafur, S.H., M.H."
 - "Jamaludin Gafur"

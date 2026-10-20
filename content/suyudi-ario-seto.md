@@ -1,15 +1,17 @@
 ---
 title: "Suyudi Ario Seto"
+description: Suyudi Ario Seto, perwira tinggi Polri berlatar reserse; pernah Wakapolda Metro Jaya, Kapolda Banten, dan Kepala BNN; diusulkan sebagai calon tunggal Kapolri September 2026.
+date: 2026-10-01
+updated: '2026-10-20'
 tags:
 - individu
-- polisi
-- Polri
-- penegak_hukum
-- Kepala_BNN
+- polri
+- penegak-hukum
+- kepala-bnn
 - Kapolri
 - reserse
 - narkotika
-- reformasi_Polri
+- reformasi-polri
 entity_type: individu
 entity_id: "suyudi-ario-seto"
 sumber:
@@ -78,7 +80,7 @@ status_hukum: "tidak diketahui"
 
 risiko_editorial: "rendah"
 confidence: 4
-last_updated: "2026-10-01"
+last_updated: "2026-10-20"
 ---
 
 # Suyudi Ario Seto
@@ -90,6 +92,19 @@ Suyudi Ario Seto adalah perwira tinggi Kepolisian Negara Republik Indonesia yang
 Pada 1 Oktober 2026, Komisi III DPR RI menyetujui pencalonannya sebagai Kapolri dan keputusan tersebut kemudian disahkan melalui Rapat Paripurna DPR RI.
 
 > **Catatan status:** Persetujuan DPR merupakan tahapan politik-konstitusional sebelum pelantikan oleh Presiden. Menurut CNBC Indonesia (1 Oktober 2026), jabatan Kapolri kini ditempati Suyudi Ario Seto.
+
+## Kenapa penting buat Gen Z
+
+Kapolri menentukan bagaimana laporan warga ditangani, termasuk laporan yang viral di media sosial, dan itu berpengaruh pada rasa aman sehari-hari. Suyudi Ario Seto dilantik pada 1 Oktober 2026 pukul 14.45 WIB dan langsung memakai tema "Polisi Bersama Masyarakat". Ia mengkritik pola "No Viral, No Justice" dan menyusun program 100 hari yang dibagi ke dalam tiga tahap: hari 1-30 untuk pemetaan, 31-60 untuk perbaikan, dan 61-100 untuk evaluasi.
+
+## Fakta kunci
+
+- **Lulusan:** Akademi Kepolisian (Akpol) tahun 1994.
+- **Jabatan sebelumnya:** Kapolres Metro Jakarta Pusat, 2017-2019.
+- **Pelantikan:** Kapolri pada 1 Oktober 2026 pukul 14.45 WIB.
+- **Program:** 100 hari kerja, dibagi menjadi 3 tahap (hari 1-30, 31-60, 61-100).
+- **Visi:** "Polisi Bersama Masyarakat", dipakai sejak pelantikan 1 Oktober 2026.
+- **Pendahulu:** Listyo Sigit Prabowo, lulusan Akpol 1991.
 
 ## Identitas
 
@@ -179,7 +194,7 @@ Listyo Sigit Prabowo merupakan lulusan Akpol 1991, sedangkan Suyudi merupakan lu
 
 Rekam jejak Suyudi di Jakarta terlihat melalui penugasan operasionalnya sebagai Kapolres Metro Jakarta Pusat, Dirreskrimum Polda Metro Jaya, dan Wakapolda Metro Jaya.
 
-## Perkembangan Terakhir
+## Kronologi
 
 ### 2026-10-01
 
@@ -196,6 +211,13 @@ Rekam jejak Suyudi di Jakarta terlihat melalui penugasan operasionalnya sebagai 
 3. Riwayat SMA Negeri 6 Jakarta.
 4. Pernyataan spesifik Indonesia Police Watch mengenai pencalonan Suyudi sebagai Kapolri.
 5. Status pelantikan sebagai Kapolri setelah persetujuan DPR pada 1 Oktober 2026.
+
+## Aktor yang Terlibat
+
+- [[prabowo-subianto|Prabowo Subianto]] — Presiden yang melantik pada 1 Oktober 2026.
+- [[listyo-sigit-prabowo|Listyo Sigit Prabowo]] — Kapolri sebelumnya, lulusan Akpol 1991.
+- Wahyu Hadiningrat — Wakapolri yang dilantik bersamaan.
+- Komisi III DPR RI — lembaga yang menggelar uji kelayakan dan kepatutan.
 
 ## Sumber
 
@@ -220,3 +242,12 @@ Artikel ini sebaiknya diperbarui secara berkala karena posisi Suyudi mengalami p
 - Visi dan program: berdasarkan pernyataan Suyudi dalam proses pencalonan
 - Capaian sebagai Kapolri: **belum dinilai dalam dokumen ini**
 - Data yang belum kuat: ditandai secara eksplisit agar tidak berubah menjadi fakta tanpa verifikasi
+
+## Catatan presisi
+
+- **Terverifikasi:** Akpol 1994, Kapolres Metro Jakarta Pusat 2017-2019, dan pelantikan 1 Oktober 2026 tercatat di halaman ini.
+- **Sebagian terverifikasi:** tempat lahir Pandeglang dan riwayat pendidikan SMP Negeri 70 Jakarta masih masuk daftar "Data yang Masih Perlu Diverifikasi".
+- **Program 100 hari:** pembagian tiga tahap mengikuti bagian Program 100 Hari halaman ini; belum ada laporan capaian.
+- **Sumber:** bagian Sumber memuat profil BNN dan pemberitaan, bukan salinan Keppres.
+- **Celah data:** nomor Keppres 96/POLRI Tahun 2026 belum ditautkan di halaman ini.
+- **Batas interpretasi:** halaman ini tidak menilai kinerja 100 hari pertama kepemimpinan.

@@ -1,5 +1,8 @@
 ---
 title: "PT Puri Setiabudi Real Estate"
+description: 'Profil PT Puri Setiabudi Real Estate: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Puri Setiabudi Real Estate"
 tags:

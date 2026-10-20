@@ -1,5 +1,8 @@
 ---
 title: "Bima Arya Sugiarto"
+description: Wakil Menteri Dalam Negeri ke-5 (sejak 21 Oktober 2024, Kabinet Merah Putih; Menteri Tito Karnavian)
+date: 2026-10-05
+updated: '2026-10-17'
 tags:
 - individu
 entity_type: individu

@@ -1,11 +1,14 @@
 ---
 title: "Arsul Sani"
+description: Hakim Mahkamah Konstitusi yang membacakan pertimbangan faktual Putusan Nomor 01/PHPU.PRES-XXIV/2026 pada 6 Oktober 2026.
+date: 2026-10-07
+updated: '2026-10-20'
 aliases:
 - "Arsul Sani"
 tags:
 - "individu"
 - "hakim"
-- "Mahkamah Konstitusi"
+- mahkamah-konstitusi
 entity_type: individu
 entity_id: "arsul-sani"
 status_data: "stub"

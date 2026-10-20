@@ -1,5 +1,8 @@
 ---
 title: "Ahmad Syaikhu"
+description: Ahmad Syaikhu (lahir 23 Januari 1965 di Ciledug, Cirebon, Jawa Barat) adalah politisi Partai Keadilan Sejahtera (PKS) yang menjabat Presiden PKS periode
+date: 2026-09-27
+updated: '2026-10-20'
 aliases:
 - "Ahmad Syaikhu"
 - "KH Ahmad Syaikhu"
@@ -9,7 +12,7 @@ tags:
 - PKS
 - Presiden PKS
 - Wakil Wali Kota Bekasi
-- DPR RI
+- dpr-ri
 - Pilgub Jabar 2024
 entity_type: individu
 entity_id: "ahmad-syaikhu"

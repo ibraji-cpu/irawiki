@@ -1,5 +1,7 @@
 ---
 title: Sontang Coin Manurung
+description: Kepala Kantor Pertanahan (BPN) Kabupaten Bogor I
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

@@ -1,5 +1,7 @@
 ---
 title: PT Bayan Resources Tbk
+description: 'PT Bayan Resources Tbk (BYAN): emiten batubara dalam daftar High Shareholding Concentration BEI, ~30% sahamnya dibeli Jhonlin Baratama.'
+updated: '2026-10-17'
 category: aktor
 tags:
 - korporasi

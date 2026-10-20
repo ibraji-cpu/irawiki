@@ -1,5 +1,8 @@
 ---
 title: "Polemik Ijazah Gibran"
+description: 'Hub polemik ijazah Gibran: gugatan perdata di PN Jakarta Pusat, sengketa syarat pendidikan di MK, dan putusan 01/PHPU.PRES-XXIV/2026.'
+date: 2026-10-09
+updated: '2026-10-17'
 aliases:
   - Ijazah Gibran
   - Polemik Ijazah Gibran Rakabuming Raka
@@ -50,9 +53,26 @@ last_verified: "2026-10-09"
 
 # Polemik Ijazah Gibran
 
-## Ringkasan Polemik Ijazah Gibran
+## Ringkasan
 
 > **Ringkasan Topik:** Rangkaian polemik, gugatan hukum, dan sengketa konstitusi terkait keabsahan riwayat pendidikan serta syarat ijazah Wakil Presiden [[gibran-rakabuming-raka|Gibran Rakabuming Raka]]. Isu ini bergulir dari perdebatan publik dan gugatan perdata di Pengadilan Negeri Jakarta Pusat (September 2025), klarifikasi lembaga pendidikan, hingga permohonan Perselisihan Hasil Pemilihan Umum (PHPU) di [[mahkamah-konstitusi|Mahkamah Konstitusi]] perkara nomor 01/PHPU.PRES-XXIV/2026 pada September–Oktober 2026.
+
+## Apa relevansinya dengan anak muda?
+
+Yang paling konkret dari rangkaian ini adalah pintu masuknya, bukan ijazahnya. Mahkamah Konstitusi mengucapkan putusan Perkara Nomor 01/PHPU.PRES-XXIV/2026 pada 6 Oktober 2026 dengan amar permohonan tidak dapat diterima (*niet ontvankelijke verklaard*) karena alasan prosedural *legal standing* berdasarkan Peraturan MK No. 2/2024: pemohon bukan pasangan calon peserta Pilpres. Putusan itu sudah dibacakan dan mengikat, tetapi karena berhenti di ambang kedudukan hukum, materi syarat pendidikan tidak pernah diadili. Bagi pemilih muda, yang tidak berubah adalah syarat pencalonan itu sendiri; yang menjadi jelas adalah siapa yang punya jalan untuk mempersoalkannya. Warga biasa — termasuk anak muda yang menganggap syarat calon perlu diuji — tidak memperoleh forum di MK untuk itu.
+
+Karena itu isi pertimbangan perlu dibaca terpisah dari amar. Dalam pertimbangan faktual yang dibacakan Hakim Konstitusi Arsul Sani, Mahkamah mencatat tidak menemukan bukti fisik kelulusan setara SMA di luar negeri, dan penyetaraan yang ada hanya berbasis "penyetaraan pengetahuan" program Grade 12 UTS Insearch. Itu pertimbangan, bukan amar, dan bukan pernyataan bahwa dokumen dianggap sah maupun dipalsukan. Tiga "temuan" Denny Indrayana — termasuk ketiadaan dokumen dasar penyetaraan di Kemendikbud — adalah dalil pemohon dalam konferensi pers 29 September 2026, bukan temuan Mahkamah. Klaim bahwa surat penyetaraan terbit kurang dari 24 jam, dan klaim disparitas pasal antara Pilpres dan Pileg, juga tidak diputus karena perkara berhenti lebih awal. Akibatnya perkara ini tidak bisa dikutip sebagai bukti pemalsuan, dan tidak bisa dikutip sebagai bukti bahwa administrasi pencalonan bersih.
+
+Setelah jalur yudisial tertutup, pertanyaannya berpindah ke DPR lewat wacana hak angket: Deddy Sitorus dari PDI Perjuangan menyatakan fraksinya akan menggalang pansus, sementara Sugiat Santoso dari Gerindra bersama koalisi KIM Plus meminta polemik dihentikan. Keduanya pernyataan politik, dan halaman ini tidak mencatat jumlah penandatangan usulan maupun jadwal pembahasan, jadi belum ada forum yang pasti. Sampai itu terjadi, tidak ada perubahan aturan pencalonan yang tercatat, dan standar pembuktian syarat pendidikan untuk pemilu berikutnya belum memperoleh kejelasan dari jalur ini. Satu hal yang tetap terbuka: catatan Mahkamah tentang dokumen yang tidak ditemukan itu ada di dalam pertimbangan, sehingga bisa menjadi bahan pemeriksaan lanjutan hanya jika parlemen benar-benar membuka forumnya.
+
+## Fakta kunci
+
+- **Perkara MK:** Nomor 01/PHPU.PRES-XXIV/2026, diregistrasi 17 September 2026, sidang pendahuluan 21 September 2026.
+- **Pemohon:** Denny Indrayana bersama 11 pemohon lain, mendaftar 10 September 2026; kuasa hukum Bambang Widjojanto.
+- **Putusan 6 Oktober 2026:** permohonan tidak dapat diterima (*niet ontvankelijke verklaard*) karena *legal standing* berdasarkan Peraturan MK No. 2/2024; pokok perkara tidak diadili.
+- **Pertimbangan faktual:** Mahkamah tidak menemukan bukti fisik kelulusan setara SMA di luar negeri; penyetaraan yang ada berbasis program Grade 12 UTS Insearch.
+- **Klarifikasi lembaga:** MDIS Singapura mengonfirmasi Gibran sebagai alumnus (3 Oktober 2025); Kepala SMPN 1 Surakarta Wuryanti mengonfirmasi kelulusan (25 September 2025).
+- **Perdata:** gugatan warga bernama Subhan disidang perdana di PN Jakarta Pusat pada 8 September 2025.
 
 ## Kronologi
 
@@ -173,3 +193,14 @@ Sebaliknya, Juru Bicara Partai Gerindra [[sugiat-santoso|Sugiat Santoso]] bersam
 ### Sumber Peristiwa 2026-10-06
 - Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES-XXIV/2026, diucapkan 6 Oktober 2026.
 - Laporan Analisis Politik dan Hukum: Peluang dan Hambatan DPR RI dalam Penggunaan Hak Angket Kasus Ijazah Wakil Presiden Gibran Rakabuming Raka, Oktober 2026.
+
+## Catatan presisi
+
+- **Terverifikasi:** nomor perkara, tanggal registrasi, jadwal sidang, dan amar "tidak dapat diterima" bersumber pada dokumen putusan yang dirujuk di bagian Sumber serta pemberitaan detikNews.
+- **Beda jenis putusan:** *niet ontvankelijke verklaard* berarti permohonan tidak dapat diterima secara prosedural. Itu bukan penolakan pokok perkara, bukan pengabulan, dan bukan pernyataan bahwa ijazah palsu.
+- **Dalil, bukan temuan:** tiga temuan Denny Indrayana (termasuk ketiadaan dokumen dasar penyetaraan di Kemendikbud) adalah dalil pemohon dalam konferensi pers, bukan temuan Mahkamah.
+- **Belum diuji:** klaim bahwa surat penyetaraan Grade 12 UTS Insearch terbit kurang dari 24 jam, dan klaim disparitas pasal antara Pilpres dan Pileg, disampaikan dalam persidangan tetapi tidak diputus karena perkara berhenti di ambang *legal standing*.
+- **Dilaporkan:** komposisi 11 pemohon lain dan rincian surat permohonan pemanggilan Gibran bersumber pemberitaan, bukan salinan berkas perkara.
+- **Celah data:** salinan resmi putusan MK (PDF) belum ditautkan di halaman ini; tidak ada catatan tanggal pembahasan hak angket di DPR.
+- **Batas interpretasi:** halaman ini tidak menyimpulkan adanya pemalsuan dokumen oleh pihak mana pun.
+

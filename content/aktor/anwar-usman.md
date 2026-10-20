@@ -1,10 +1,13 @@
 ---
 title: "Anwar Usman"
+description: Prof. Dr. Anwar Usman, S.H., M.H.
+date: 2026-10-04
+updated: '2026-10-20'
 tags:
 - individu
 - politisi
 - hakim
-- Mahkamah Konstitusi
+- mahkamah-konstitusi
 - Wantimpres
 entity_type: individu
 entity_id: "anwar-usman"

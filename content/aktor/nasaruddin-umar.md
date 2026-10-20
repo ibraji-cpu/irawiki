@@ -1,5 +1,8 @@
 ---
 title: Nasaruddin Umar
+description: Nasaruddin Umar adalah Menteri Agama Republik Indonesia yang namanya sempat menjadi sasaran isu hoaks pengunduran diri dalam dinamika media sosial dan industri sensationalism.
+date: 2026-09-27
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

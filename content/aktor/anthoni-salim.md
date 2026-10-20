@@ -1,5 +1,7 @@
 ---
 title: Anthoni Salim
+description: 'Anthoni Salim: Salim Group · PT Indofood Sukses Makmur Tbk'
+updated: '2026-10-17'
 category: aktor
 tags:
 - Industri Makanan & Konsumsi

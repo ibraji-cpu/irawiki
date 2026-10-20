@@ -1,5 +1,8 @@
 ---
 title: "Dudung Abdurachman"
+description: Menteri Koordinator Bidang Politik dan Keamanan (dilantik 1 Oktober 2026)
+date: 2026-10-03
+updated: '2026-10-17'
 aliases:
 - "Dudung Abdurachman"
 - "Jenderal TNI Dudung Abdurachman"

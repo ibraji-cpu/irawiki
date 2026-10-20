@@ -1,5 +1,8 @@
 ---
 title: "Dudy Purwagandhi"
+description: Dudy Purwagandhi, S.H. (lahir 23 September 1970, Manado, Sulawesi Utara) adalah Menteri Perhubungan Republik Indonesia dalam Kabinet Merah Putih sejak 21 Oktober 2024.
+date: 2026-09-27
+updated: '2026-10-17'
 tags:
 - individu
 - politisi

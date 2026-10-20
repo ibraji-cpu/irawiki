@@ -1,5 +1,8 @@
 ---
 title: "PT Sawit Multi Utama"
+description: 'Profil PT Sawit Multi Utama: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Sawit Multi Utama"
 tags:

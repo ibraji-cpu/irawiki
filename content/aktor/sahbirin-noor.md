@@ -1,5 +1,7 @@
 ---
 title: Sahbirin Noor
+description: 'Sahbirin Noor: Gubernur Kalimantan Selatan (2009-2024)'
+updated: '2026-10-17'
 aliases:
 - Sahbirin Noor
 category: aktor

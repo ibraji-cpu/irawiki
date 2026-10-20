@@ -1,5 +1,7 @@
 ---
 title: Bachtiar Karim
+description: Executive Chairman Musim Mas Group · Direktur Utama PT Musim Mas
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

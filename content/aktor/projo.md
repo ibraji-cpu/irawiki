@@ -1,5 +1,8 @@
 ---
 title: Projo
+description: Projo, organisasi relawan politik pimpinan Budi Arie Setiadi; panggung wacana spekulatif percepatan pemilu.
+date: 2026-09-27
+updated: '2026-10-17'
 category: aktor
 tags:
 - dukungan politik

@@ -1,5 +1,8 @@
 ---
 title: "Komisi Pemilihan Umum (KPU)"
+description: 'Profil Komisi Pemilihan Umum (KPU): afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Komisi Pemilihan Umum (KPU)"
 - "Komisi Pemilihan Umum"

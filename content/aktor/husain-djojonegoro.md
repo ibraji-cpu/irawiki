@@ -1,5 +1,7 @@
 ---
 title: Husain Djojonegoro
+description: 'Husain Djojonegoro: Pendiri dan Presiden Direktur ABC Holding'
+updated: '2026-10-17'
 category: aktor
 tags:
 - Ekspansi pasar baterai ABC

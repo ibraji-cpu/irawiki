@@ -1,5 +1,8 @@
 ---
 title: "PT Rifa Capital (Rifa Finance)"
+description: 'Profil PT Rifa Capital (Rifa Finance): afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Rifa Capital (Rifa Finance)"
 tags:

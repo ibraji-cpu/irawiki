@@ -1,5 +1,7 @@
 ---
 title: Alim Markus
+description: Presiden Direktur Maspion Group (1971-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Kesejahteraan buruh industri

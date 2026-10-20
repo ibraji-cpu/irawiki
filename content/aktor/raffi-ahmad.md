@@ -1,5 +1,8 @@
 ---
 title: "Raffi Ahmad"
+description: Utusan Khusus Presiden Bidang Pembinaan Generasi Muda dan Pekerja Seni · Wakil Ketua Kadin periode 2024–2029 (diumumkan 7 Oktober 2024)
+date: 2026-10-17
+updated: '2026-10-17'
 aliases:
   - "Raffi Farid Ahmad"
   - "Raffi"

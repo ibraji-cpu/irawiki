@@ -1,5 +1,8 @@
 ---
 title: "Arrmanatha Nasir"
+description: Nama lengkap Arrmanatha Christiawan Nasir, akrab disapa "Tata" (Ketik.com; Manadones.co.id, 1 Oktober 2026). · Lahir di Bangkok, Thailand, 30 Desember 1971 (Bloomberg Technoz; InvestorTrust.id).
+date: 2026-10-03
+updated: '2026-10-17'
 aliases:
 - "Arrmanatha Christiawan Nasir"
 - "Tata"

@@ -1,5 +1,7 @@
 ---
 title: Yahya Cholil Staquf
+description: Ketua Umum Pengurus Besar Nahdlatul Ulama / PBNU (2021-sekarang) · Ketua Majelis Wali Amanat Universitas Indonesia / MWA UI (2024-sekarang) · Pengasuh Pondok Pesantren Raudlatut Thalibin Rembang
+updated: '2026-10-17'
 category: aktor
 tags:
 - Moderasi beragama (Wathaniyah dan Insaniyah)

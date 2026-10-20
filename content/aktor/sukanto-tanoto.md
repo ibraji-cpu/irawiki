@@ -1,5 +1,7 @@
 ---
 title: Sukanto Tanoto
+description: Founder & Chairman Royal Golden Eagle (RGE) Group
+updated: '2026-10-17'
 category: aktor
 tags:
 - Hilirisasi produk sawit ramah lingkungan

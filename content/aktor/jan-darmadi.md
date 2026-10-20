@@ -1,5 +1,7 @@
 ---
 title: Jan Darmadi
+description: Anggota Dewan Pertimbangan Presiden RI (2015-2019) · Ketua Majelis Tinggi Partai NasDem · Pendiri & Presiden Komisaris PT Jakarta Setiabudi Internasional Tbk.
+updated: '2026-10-17'
 category: aktor
 tags:
 - Filantropi kesehatan masyarakat

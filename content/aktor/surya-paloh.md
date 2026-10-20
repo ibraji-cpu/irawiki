@@ -1,5 +1,7 @@
 ---
 title: Surya Paloh
+description: Ketua Umum Partai NasDem (2013-sekarang) · Pemilik Media Group (MetroTV, dsb)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Koalisi politik pendukung pembangunan pemerintah

@@ -1,5 +1,7 @@
 ---
 title: Chairul Tanjung
+description: Chairman CT Corp (Mega Corporindo, Trans Corp, dsb)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Sinergi media penyiaran

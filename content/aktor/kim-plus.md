@@ -1,12 +1,15 @@
 ---
 title: "KIM Plus"
+description: Koalisi pendukung pemerintah di DPR RI (7 fraksi, 470 kursi, 81,03 persen)
+date: 2026-10-07
+updated: '2026-10-20'
 aliases:
 - "KIM Plus"
 - "Koalisi Indonesia Maju Plus"
 tags:
 - "organisasi"
 - "koalisi politik"
-- "DPR"
+- dpr-ri
 entity_type: organisasi
 entity_id: "kim-plus"
 status_data: "stub"

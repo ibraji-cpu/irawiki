@@ -1,5 +1,8 @@
 ---
 title: "Gibran Rakabuming Raka"
+description: Gibran Rakabuming Raka, Wakil Presiden RI 2024–sekarang; sorotan polemik syarat pendidikan dan ijazah pada Pilpres 2024.
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Gibran Rakabuming Raka"
 - "Gibran Rakabuming"

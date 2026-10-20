@@ -1,5 +1,8 @@
 ---
 title: "PT Tanjung Sawit Abadi"
+description: 'Profil PT Tanjung Sawit Abadi: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Tanjung Sawit Abadi"
 tags:

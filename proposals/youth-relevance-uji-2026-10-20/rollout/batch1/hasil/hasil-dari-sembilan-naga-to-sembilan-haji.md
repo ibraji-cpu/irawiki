@@ -1,0 +1,5 @@
+## Apa relevansinya dengan anak muda?
+
+Halaman ini memuat satu perpindahan kepemilikan yang tercatat — 30 persen saham PT Bayan Resources Tbk (BYAN) dari Low Tuck Kwong ke Haji Isam, 16 September 2026 menurut catatan transaksi di wiki — dan satu angka yang tidak boleh diperlakukan setara: sekitar Rp300 triliun. Angka itu muncul di badan esai sebagai nilai rumor akuisisi 62,25 persen, sementara Catatan presisi halaman menyatakan nilai transaksi BYAN dan tanggal penutupan belum tercatat. Dua porsi pun berbeda dasar: 62,25 persen masih rumor, 30 persen yang tercatat. Halaman juga menyebut dirinya esai opini, bukan laporan peristiwa.
+
+Yang tidak tersedia justru bagian yang dibutuhkan untuk menghubungkannya ke kehidupan anak muda: jumlah pekerja tambang, komposisi usia pekerja, nilai royalti atau pajak daerah, dan data lingkungan tidak ada di halaman. Tanpa itu tidak ada satu mata rantai pun yang bisa ditutup menuju kelompok muda tertentu — pekerja muda di sekitar tambang, warga Kalimantan, atau pemegang saham ritel BYAN — tanpa mengarang besaran dan arahnya. Bagian ini karena itu berhenti sebelum membuat klaim dampak.

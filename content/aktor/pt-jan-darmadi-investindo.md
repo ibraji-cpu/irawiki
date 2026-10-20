@@ -1,5 +1,8 @@
 ---
 title: "PT Jan Darmadi Investindo"
+description: 'Profil PT Jan Darmadi Investindo: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Jan Darmadi Investindo"
 tags:

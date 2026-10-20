@@ -1,11 +1,14 @@
 ---
 title: "Suhartoyo"
+description: Suhartoyo, Ketua Mahkamah Konstitusi yang memimpin sidang putusan Perkara 01/PHPU.PRES-XXIV/2026.
+date: 2026-10-07
+updated: '2026-10-20'
 aliases:
 - "Suhartoyo"
 tags:
 - "individu"
 - "hakim"
-- "Mahkamah Konstitusi"
+- mahkamah-konstitusi
 entity_type: individu
 entity_id: "suhartoyo"
 status_data: "stub"

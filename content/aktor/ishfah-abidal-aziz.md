@@ -1,5 +1,7 @@
 ---
 title: Ishfah Abidal Aziz
+description: Staf Khusus Menteri Agama (Yaqut Cholil Qoumas) · Ketua PBNU (2022–2027) · Komisaris PT Krakatau Daya Listrik
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

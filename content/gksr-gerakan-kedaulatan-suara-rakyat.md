@@ -1,5 +1,8 @@
 ---
 title: "GKSR - Gerakan Kedaulatan Suara Rakyat"
+description: GKSR adalah koalisi delapan partai nonparlemen — Buruh, Ummat, Hanura, Perindo, PPP, PBB, PKN, Berkarya — yang menuntut perubahan sistem pemilu.
+date: 2026-10-01
+updated: '2026-10-20'
 aliases:
 - GKSR - Gerakan Kedaulatan Suara Rakyat
 - Gerakan Kedaulatan Suara Rakyat
@@ -66,14 +69,26 @@ pengaruh_media: "sedang"
 status_hukum: "tidak diketahui"
 risiko_editorial: "sedang"
 confidence: 5
-last_updated: "2026-09-27"
+last_updated: "2026-10-20"
 ---
 
 # GKSR - Gerakan Kedaulatan Suara Rakyat
 
-## Profil Singkat
+## Ringkasan
 
 Gerakan Kedaulatan Suara Rakyat (GKSR) adalah koalisi/gerakan politik yang didirikan oleh delapan partai politik nonparlemen Indonesia — Partai Buruh, Partai Ummat, Partai Hanura, Partai Perindo, PPP, PBB, PKN, dan Partai Berkarya — dengan fokus utama pada reformasi sistem pemilihan umum dan penurunan parliamentary threshold.
+
+## Kenapa penting buat Gen Z
+
+Ambang batas parlemen menentukan apakah suara pemilih berubah menjadi kursi, sehingga angka 4 persen yang berlaku sekarang membuang suara partai kecil. GKSR menuntut ambang batas turun menjadi maksimal 1 persen, dengan dasar Putusan MK Nomor 116/PUU-XXI/2023. Koalisi ini berisi delapan partai nonparlemen dan memperingati Milad ke-1 pada 26 September 2026 di Menteng, Jakarta Pusat, sekaligus meluncurkan Naskah Akademik dan Draf RUU Politik versi mereka.
+
+## Fakta kunci
+
+- **Bentuk:** koalisi delapan partai politik nonparlemen, berdiri 2025.
+- **Tuntutan utama:** ambang batas parlemen turun dari 4 persen menjadi maksimal 1 persen.
+- **Dasar hukum:** Putusan MK Nomor 116/PUU-XXI/2023.
+- **Milad ke-1:** 26 September 2026 di Menteng, Jakarta Pusat.
+- **Dokumen:** Naskah Akademik dan Draf RUU Politik versi GKSR, dirumuskan selama satu tahun dan diluncurkan 26 September 2026.
 
 ## Jabatan Aktif
 
@@ -101,19 +116,29 @@ GKSR merupakan wadah koalisi bagi delapan partai politik nonparlemen:
 
 Tuntutan GKSR berlandaskan Putusan MK Nomor 116/PUU-XXI/2023 yang memerintahkan pembentuk undang-undang mengubah ketentuan ambang batas parlemen 4 persen sebelum Pemilu 2029. GKSR menyatakan bahwa angka 4 persen sudah dinilai inkonstitusional oleh MK, dan menggunakan dasar itu untuk mendudukan tuntutan ambang batas 1 persen atau 0 persen.
 
-## Perkembangan Terakhir
+## Kronologi
 
 ### 2026-09-26
-
 - Milad ke-1 GKSR diperingati di Menteng, Jakarta Pusat. Delapan partai nonparlemen meluncurkan Naskah Akademik dan Draf RUU Pemilu/Politik versi GKSR (200+ halaman).
 - Tuntutan utama diulang: parliamentary threshold maksimal 1 persen (Partai Ummat mengusulkan 0 persen), verifikasi parpol disederhanakan, dan mekanisme stembus accord sebelum pemilu.
 - GKSR mengancam judicial review dan perlawanan publik jika DPR mengabaikan putusan MK dan tidak melibatkan parpol nonparlemen.
 
-## Catatan
+## Aktor yang Terlibat
 
-- Dokumen Naskah Akademik dan Draf RUU Politik GKSR yang dirumuskan selama satu tahun bergerak mencakup tata kelola aktor pemilu, sistem pemilu campuran, manajemen pemilu, dan penegakan keadilan pemilu (electoral justice).
-- Dari perspektif ilmiah, GKSR merujuk rumus Taagepera untuk memperkuat argumen ambang batas proporsional tidak lebih dari 1 persen.
+- [[muhammad-said-iqbal|Ir. H. Muhammad Said Iqbal, M.E.]] — Ketua GKSR.
+- Delapan partai politik nonparlemen — anggota koalisi, termasuk [[partai-ummat|Partai Ummat]].
+- [[milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr|Milad ke-1 GKSR]] — peristiwa tempat Naskah Akademik diluncurkan.
 
 ## Sumber
 
 - `doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx` (siaran pers GKSR, Diserahkan GKSR / Media Center GKSR, 2026-09-26)
+
+## Catatan presisi
+
+- Dokumen Naskah Akademik dan Draf RUU Politik GKSR yang dirumuskan selama satu tahun bergerak mencakup tata kelola aktor pemilu, sistem pemilu campuran, manajemen pemilu, dan penegakan keadilan pemilu (electoral justice).
+- Dari perspektif ilmiah, GKSR merujuk rumus Taagepera untuk memperkuat argumen ambang batas proporsional tidak lebih dari 1 persen.
+- **Terverifikasi:** jumlah delapan partai, tuntutan ambang batas 1 persen, dan Putusan MK Nomor 116/PUU-XXI/2023 tercatat di halaman ini.
+- **Sumber internal:** bagian Sumber memakai siaran pers GKSR (`doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx`), bukan pemberitaan independen.
+- **Tanggal pendirian:** 2025 adalah perkiraan berdasarkan pernyataan "selama satu tahun bergerak" pada Milad ke-1, bukan tanggal resmi.
+- **Halaman ganda:** ada dua halaman Milad GKSR dengan `entity_id` berbeda; lihat catatan di masing-masing halaman.
+- **Batas interpretasi:** halaman ini tidak menilai peluang tuntutan GKSR diterima DPR.

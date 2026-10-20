@@ -1,13 +1,16 @@
 ---
 title: "PDI Perjuangan"
+description: Fraksi DPR RI (110 kursi, 18,97 persen dari 580)
+date: 2026-10-07
+updated: '2026-10-20'
 aliases:
 - "PDI Perjuangan"
 - "PDIP"
 - "Partai Demokrasi Indonesia Perjuangan"
 tags:
 - "organisasi"
-- "partai politik"
-- "DPR"
+- partai-politik
+- dpr-ri
 entity_type: organisasi
 entity_id: "pdi-perjuangan"
 status_data: "stub"

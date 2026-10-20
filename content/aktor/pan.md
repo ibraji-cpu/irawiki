@@ -1,5 +1,7 @@
 ---
 title: Partai Amanat Nasional
+description: 'Profil Partai Amanat Nasional: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+updated: '2026-10-17'
 category: aktor
 tags:
 - korporasi

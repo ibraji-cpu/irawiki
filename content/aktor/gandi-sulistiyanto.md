@@ -1,5 +1,7 @@
 ---
 title: Gandi Sulistiyanto Suherman
+description: Anggota Dewan Pertimbangan Presiden RI (2023-2024) · Duta Besar LBBP RI untuk Republik Korea (2021-2023) · Managing Director Sinar Mas Group (2001-2021) ·
+updated: '2026-10-17'
 category: aktor
 tags:
 - Diplomasi ekonomi internasional

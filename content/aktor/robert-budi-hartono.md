@@ -1,5 +1,7 @@
 ---
 title: Robert Budi Hartono
+description: PT Bank Central Asia Tbk (BCA) · Djarum Group
+updated: '2026-10-17'
 category: aktor
 tags:
 - Perbankan dan Industri Rokok

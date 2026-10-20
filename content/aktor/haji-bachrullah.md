@@ -1,5 +1,7 @@
 ---
 title: Haji Bachrullah
+description: 'Haji Bachrullah: KUD Gajah Mada'
+updated: '2026-10-17'
 category: aktor
 tags:
 - Kriminalisasi bisnis

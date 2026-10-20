@@ -1,12 +1,15 @@
 ---
 title: "KPU, MK, dan Sengketa Syarat Pendidikan Gibran: Membaca Ujian Integritas Institusi melalui Siklus Berpikir Ichsanuddin Noorsy"
+description: Membaca ujian integritas KPU dan MK dalam sengketa syarat pendidikan Gibran lewat siklus berpikir Ichsanuddin Noorsy.
+date: 2026-10-01
+updated: '2026-10-20'
 aliases:
 - "KPU, MK, dan Sengketa Syarat Pendidikan Gibran"
 tags:
 - analisis
 - relasi
 - KPU
-- MK
+- mahkamah-konstitusi
 - Gibran Rakabuming Raka
 - syarat pendidikan
 - Pemilu 2024
@@ -49,7 +52,7 @@ kategori_analisis:
 
 confidence: 5
 risiko_editorial: "tinggi"
-last_updated: "2026-10-01"
+last_updated: "2026-10-20"
 last_verified: "2026-10-01"
 ---
 
@@ -66,6 +69,23 @@ Persoalan utama dalam perkara ini bukan semata-mata apakah Gibran memiliki pendi
 Para Pemohon mendalilkan bahwa syarat pendidikan minimum merupakan syarat substantif yang wajib telah dipenuhi pada saat pencalonan. [[komisi-pemilihan-umum|KPU]], sebaliknya, menyatakan telah menerima dan memverifikasi dokumen persyaratan Gibran pada 2023 dan merujuk antara lain pada ketentuan mengenai surat keterangan penyetaraan pendidikan. KPU juga mempersoalkan kewenangan MK dan kedudukan hukum para Pemohon dalam perkara yang diajukan pada 2026.
 
 Analisis ini menggunakan Siklus Berpikir [[ichsanuddin-noorsy|Ichsanuddin Noorsy]] — 3K, 5C, 7P, 7i, dan 7R — sebagai kerangka untuk membedah persoalan tersebut. Kerangka ini dipakai sebagai alat analisis, bukan sebagai putusan hukum. Dengan demikian, fakta hukum, dalil para pihak, dan interpretasi analitis dipisahkan.
+
+## Apa relevansinya dengan anak muda?
+
+Relevansinya tidak terutama lewat jalur menjadi calon presiden atau wakil presiden. Pasal 169 huruf q UU Pemilu mensyaratkan usia paling rendah 40 tahun atau pernah/sedang menduduki jabatan yang dipilih melalui pemilihan umum, jadi yang paling terpapar di sini adalah pemilih muda, bukan kandidat muda. Bagi mereka, yang menentukan adalah standar pembuktian syarat pendidikan calon yang namanya tercantum di surat suara. Pasal 169 huruf r UU Nomor 7 Tahun 2017 mewajibkan pendidikan paling rendah tamat SMA/sederajat — ketentuan yang berlaku — sementara Pasal 18 ayat (3) PKPU Nomor 19 Tahun 2023 mengatur dokumen bagi bakal calon yang tidak memiliki bukti kelulusan sekolah menengah dari sekolah asing di luar negeri tetapi memiliki bukti kelulusan perguruan tinggi. Persoalan hukumnya: apakah ketentuan administratif itu hanya mengatur dokumen, atau secara substantif memberi pengecualian atas syarat yang ditetapkan undang-undang.
+
+Jalur dampaknya berjalan dari dokumen ke keterbacaan standar. Menurut keterangan KPU dalam persidangan 23 September 2026, dokumen persyaratan Gibran diterima dan diverifikasi pada 27 Oktober 2023 lewat Berita Acara Nomor 1589/PL.01.4-BA/05/2023, dengan rujukan antara lain Pasal 1 ayat (7) Permendikbud Nomor 29 Tahun 2014 soal surat keterangan penyetaraan — itu posisi Termohon, bukan temuan pengadilan. Jika pengecualian dokumen dapat dipakai tanpa batas yang jelas, calon berlatar pendidikan luar negeri punya jalur pembuktian berbeda dari calon dalam negeri, dan pemilih muda tidak punya cara memeriksa apakah perbedaan itu punya dasar objektif, karena dokumen penyetaraan dan penalaran verifikasinya tidak terbuka. Kondisi yang harus terjadi agar persoalan ini selesai: ada putusan yang menjelaskan batas antara syarat substantif dan bukti pemenuhannya.
+
+Horizon waktunya ditentukan status perkara. Sampai 1 Oktober 2026 belum ada putusan akhir dan perkara masih di tahap pembuktian; KPU juga mempersoalkan kewenangan MK dan kedudukan hukum para pemohon dengan dalil bahwa ini sengketa proses yang menurut KPU menjadi ranah Bawaslu. Karena itu tidak ada dasar menyimpulkan pelanggaran oleh KPU, MK, maupun Gibran, dan tidak ada dasar menyebut standar pemilu berikutnya sudah berubah. Yang bisa dikatakan hanya ini: selama perkara belum diputus, ketidakpastian soal standar itulah yang dihadapi pemilih muda — bukan hasilnya.
+
+## Fakta kunci
+
+- **Dasar syarat:** Pasal 169 huruf r UU Nomor 7 Tahun 2017 mewajibkan pendidikan paling rendah tamat SMA/sederajat.
+- **Ketentuan yang dipersoalkan:** Pasal 18 ayat (3) PKPU Nomor 19 Tahun 2023 mengatur dokumen bagi bakal calon bergelar perguruan tinggi yang bersekolah di luar negeri.
+- **Verifikasi KPU:** dokumen persyaratan Gibran diterima dan diverifikasi 27 Oktober 2023, dituangkan dalam Berita Acara Nomor 1589/PL.01.4-BA/05/2023 tanggal 28 Oktober 2023.
+- **Perkara:** Nomor 01/PHPU.PRES-XXIV/2026, sidang pendahuluan 21 September 2026, jawaban Termohon 23 September 2026.
+- **Pemohon:** KIPP, Partai Ummat, Denny Indrayana, Forum Purnawirawan Prajurit TNI, M. Subhan, Bonatua Silalahi, dan Tiurma M. S. Sihombing; permohonan diajukan September 2026.
+- **Konteks etik:** MKMK menjatuhkan sanksi dan memberhentikan Anwar Usman dari jabatan Ketua MK setelah Putusan Nomor 90/PUU-XXI/2023.
 
 ## Fakta yang Relevan
 
@@ -165,27 +185,46 @@ Dalam perkara ini MK menghadapi persoalan ganda: menentukan apakah perkara terse
 
 Kepentingan kelembagaan tersebut tidak boleh disamakan dengan kepentingan politik salah satu pihak.
 
-## Perkembangan Terakhir
+## Kronologi
 
-### 2026-09-21
+### 2023-10-27 — KPU Menerima dan Memverifikasi Dokumen Persyaratan Gibran
+Menurut keterangan KPU dalam persidangan 23 September 2026, dokumen persyaratan Gibran diterima dan diverifikasi pada 27 Oktober 2023. Hasilnya dituangkan dalam Berita Acara Nomor 1589/PL.01.4-BA/05/2023 tertanggal 28 Oktober 2023, dengan rujukan antara lain Pasal 1 ayat (7) Permendikbud Nomor 29 Tahun 2014 tentang surat keterangan penyetaraan.
+
+### 2023-11-28 — MK Menggelar Sidang Pengujian Formil Syarat Usia
+Mahkamah Konstitusi mendengar keterangan pakar hukum tata negara dalam pengujian formil syarat usia calon presiden dan wakil presiden. Materi ini kemudian bermuara pada Putusan Nomor 90/PUU-XXI/2023, yang mengubah pemaknaan Pasal 169 huruf q UU Pemilu.
+
+
+### 2026-09-21 — Sidang Pendahuluan Perkara 01/PHPU.PRES-XXIV/2026
 
 MK memulai pemeriksaan pendahuluan perkara Nomor 01/PHPU.PRES-XXIV/2026 mengenai keabsahan syarat pendidikan Gibran.
 
 Para Pemohon menyatakan bahwa syarat pendidikan minimum merupakan syarat wajib dan meminta agar keabsahan pencalonan Gibran diperiksa melalui pembuktian terbuka.
 
-### 2026-09-23
+### 2026-09-23 — Jawaban KPU sebagai Termohon
 
 KPU memberikan jawaban sebagai Termohon. KPU menyatakan antara lain bahwa perkara yang diajukan merupakan persoalan sengketa proses, bukan sengketa hasil pemilu, dan mempertanyakan kedudukan hukum para Pemohon.
 
 KPU juga menyatakan telah memverifikasi dokumen persyaratan Gibran pada 2023.
 
-### 2026-09-30 sampai 2026-10-01
+### 2026-09-30 — Tahap Pembuktian dan Pencatatan Risalah
 
 Perkara memasuki tahap pembuktian. MK mencatat perkara Nomor 01/PHPU.PRES-XXIV/2026 dalam daftar risalah persidangan sebagai perkara Perselisihan Hasil Pemilihan Umum Presiden dan Wakil Presiden Tahun 2024.
 
 Pada tahap ini, status persoalan yang diperdebatkan masih merupakan materi pemeriksaan perkara. Belum terdapat putusan akhir yang dapat dijadikan dasar untuk menyatakan bahwa KPU telah terbukti melakukan pelanggaran atau bahwa pencalonan Gibran telah terbukti tidak sah.
 
 Lihat juga: [[polemik-ijazah-gibran|Polemik Ijazah Gibran]].
+
+## Aktor yang Terlibat
+
+- [[gibran-rakabuming-raka|Gibran Rakabuming Raka]] — calon wakil presiden Pemilu 2024 yang pemenuhan syarat pendidikannya dipersoalkan.
+- [[denny-indrayana|Denny Indrayana]] — pemohon yang mendalilkan syarat pendidikan sebagai syarat substantif.
+- KIPP dan [[partai-ummat|Partai Ummat]] — pemohon lain dalam perkara Nomor 01/PHPU.PRES-XXIV/2026.
+- M. Subhan, Bonatua Silalahi, Tiurma M. S. Sihombing, dan Forum Purnawirawan Prajurit TNI — pemohon perorangan dan organisasi.
+- [[komisi-pemilihan-umum|Komisi Pemilihan Umum (KPU)]] — Termohon yang menyatakan telah memverifikasi dokumen pada Oktober 2023 dan mempersoalkan kewenangan MK.
+- [[mahkamah-konstitusi|Mahkamah Konstitusi (MK)]] — lembaga yang memeriksa perkara dan menjadi forum uji keabsahan syarat pencalonan.
+- Anwar Usman — Ketua MK saat Putusan Nomor 90/PUU-XXI/2023 diucapkan; diberhentikan dari jabatan Ketua MK melalui putusan MKMK.
+- Bawaslu — lembaga yang oleh KPU disebut sebagai forum yang tepat untuk sengketa proses pencalonan.
+- [[ichsanuddin-noorsy|Ichsanuddin Noorsy]] — sumber kerangka analisis 3K-5C-7P-7i-7R yang dipakai halaman ini.
 
 ## Perspektif / Interpretasi
 
@@ -508,6 +547,17 @@ norma → regulasi → dokumen → verifikasi KPU → pengawasan Bawaslu → mek
 
 Dalam kerangka Siklus Berpikir 3K–5C–7P–7i–7R, titik akhirnya bukan menetapkan siapa yang harus disalahkan, tetapi menemukan bagian mana dari rantai tersebut yang tidak konsisten dan bagaimana memperbaikinya agar persoalan serupa dapat diuji dengan standar yang sama pada pemilu berikutnya.
 
+## Relasi Terkait
+
+- [[gibran-rakabuming-raka|Gibran Rakabuming Raka]]
+- [[komisi-pemilihan-umum|Komisi Pemilihan Umum (KPU)]]
+- [[mahkamah-konstitusi|Mahkamah Konstitusi (MK)]]
+- [[denny-indrayana|Denny Indrayana]]
+- [[partai-ummat|Partai Ummat]]
+- [[ichsanuddin-noorsy|Ichsanuddin Noorsy]]
+- [[joko-widodo|Joko Widodo]]
+- [[polemik-ijazah-gibran|Polemik Ijazah Gibran]]
+
 ## Sumber
 
 - Mahkamah Konstitusi Republik Indonesia, "Denny Indrayana Ajukan PHPU 2024 Menyoal Keabsahan Syarat Pendidikan Gibran", 21 September 2026.
@@ -520,13 +570,13 @@ Dalam kerangka Siklus Berpikir 3K–5C–7P–7i–7R, titik akhirnya bukan mene
 - Materi persidangan Perkara Nomor 01/PHPU.PRES-XXIV/2026.
 - Kerangka Siklus Berpikir Ichsanuddin Noorsy: 3K–5C–7P–7i–7R, sebagaimana digunakan sebagai kerangka analisis dalam tulisan ini.
 
-## Relasi Terkait
+## Catatan presisi
 
-- [[gibran-rakabuming-raka|Gibran Rakabuming Raka]]
-- [[komisi-pemilihan-umum|Komisi Pemilihan Umum (KPU)]]
-- [[mahkamah-konstitusi|Mahkamah Konstitusi (MK)]]
-- [[denny-indrayana|Denny Indrayana]]
-- [[partai-ummat|Partai Ummat]]
-- [[ichsanuddin-noorsy|Ichsanuddin Noorsy]]
-- [[joko-widodo|Joko Widodo]]
-- [[polemik-ijazah-gibran|Polemik Ijazah Gibran]]
+- **Terverifikasi:** nomor perkara, tanggal sidang, nomor berita acara, dan rujukan pasal bersumber pada risalah sidang dan dokumen yang tercantum di bagian Sumber.
+- **Dalil, bukan temuan:** klaim bahwa Pasal 18 ayat (3) PKPU 19/2023 dibuat untuk satu orang adalah posisi Pemohon; halaman ini tidak menyimpulkan demikian.
+- **Beda objek:** Putusan 90/PUU-XXI/2023 mengatur syarat usia, bukan syarat pendidikan. Hubungan keduanya bersifat konteks politik-hukum.
+- **Sanksi etik bukan pembatalan:** putusan MKMK terhadap Anwar Usman tidak dengan sendirinya membatalkan Putusan 90/PUU-XXI/2023.
+- **Belum diputus:** sampai 1 Oktober 2026 belum ada putusan akhir; status perkara masih tahap pembuktian.
+- **Celah data:** salinan resmi risalah dan berkas permohonan belum ditautkan; halaman ini hanya memuat identitas dokumen.
+- **Batas interpretasi:** halaman ini tidak menyimpulkan adanya pelanggaran hukum oleh KPU, MK, maupun Gibran.
+

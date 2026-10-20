@@ -1,5 +1,7 @@
 ---
 title: Muhaimin Iskandar
+description: Menteri Koordinator Bidang Pemberdayaan Masyarakat Indonesia (2024–sekarang) · Ketua Umum Partai Kebangkitan Bangsa (2005–sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Pemberdayaan ekonomi pesantren dan umat

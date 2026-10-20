@@ -1,5 +1,8 @@
 ---
 title: "Bank Perkreditan Rakyat (BPR)"
+description: 'Profil Bank Perkreditan Rakyat (BPR): afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Bank Perkreditan Rakyat (BPR)"
 tags:

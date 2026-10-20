@@ -1,5 +1,7 @@
 ---
 title: Lim Hariyanto Wijaya Sarwono
+description: Pengembang Cita Mineral Investindo & Bumitama Agri
+updated: '2026-10-17'
 aliases:
 - Lim Hariyanto Wijaya Sarwono
 - Lim Hariyanto

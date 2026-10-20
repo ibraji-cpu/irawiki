@@ -1,5 +1,7 @@
 ---
 title: Dato' Sri Tahir
+description: Anggota Dewan Pertimbangan Presiden (Wantimpres)
+updated: '2026-10-17'
 category: aktor
 tags:
   - Kesehatan

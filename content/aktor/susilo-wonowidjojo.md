@@ -1,5 +1,7 @@
 ---
 title: Susilo Wonowidjojo
+description: Presiden Direktur PT Gudang Garam Tbk (2009-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

@@ -1,9 +1,12 @@
 ---
 title: "Achmad Taufik Husein"
+description: Plt. Direktur Penyidikan Komisi Pemberantasan Korupsi (KPK)
+date: 2026-09-27
+updated: '2026-10-20'
 tags:
 - individu
 - KPK
-- penegak hukum
+- penegak-hukum
 entity_type: individu
 entity_id: "achmad-taufik-husein"
 sumber:

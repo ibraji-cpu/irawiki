@@ -1,5 +1,7 @@
 ---
 title: Michael Bambang Hartono
+description: Almarhum (Meninggal pada 19 Maret 2026 di Singapura pada usia 86 tahun)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Kedermawanan Sosial (Philanthropy)

@@ -1,5 +1,8 @@
 ---
 title: "Mardani Ali Sera"
+description: Ketua Badan Pemenangan Pemilu (Bappilu) Partai Sejahtera Indonesia (PKS).
+date: 2026-10-11
+updated: '2026-10-17'
 aliases:
 - "Mardani Ali Sera"
 - "Mardani"

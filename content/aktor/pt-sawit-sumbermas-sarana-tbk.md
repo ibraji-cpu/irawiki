@@ -1,5 +1,8 @@
 ---
 title: "PT Sawit Sumbermas Sarana Tbk (SSMS)"
+description: 'Profil PT Sawit Sumbermas Sarana Tbk (SSMS): afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Sawit Sumbermas Sarana Tbk (SSMS)"
 - "PT Sawit Sumbermas Sarana Tbk"

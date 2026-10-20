@@ -1,5 +1,7 @@
 ---
 title: Andi Syamsuddin Arsyad (Haji Isam)
+description: Profil Andi Syamsuddin Arsyad (Haji Isam), pengusaha Batulicin pemilik Jhonlin Group dan pihak di balik akuisisi 30% saham BYAN.
+updated: '2026-10-18'
 aliases:
 - haji-isam
 - Haji Isam

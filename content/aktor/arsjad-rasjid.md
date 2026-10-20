@@ -1,5 +1,7 @@
 ---
 title: Arsjad Rasjid
+description: Direktur Utama PT Indika Energy Tbk (2005-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Dekarbonisasi tambang batubara

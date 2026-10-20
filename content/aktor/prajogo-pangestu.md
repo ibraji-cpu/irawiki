@@ -1,5 +1,7 @@
 ---
 title: Prajogo Pangestu
+description: Orang terkaya 2 RI versi Forbes (Sept 2026) dengan kekayaan Rp 301,12 triliun (17,2 miliar USD).
+updated: '2026-10-17'
 category: aktor
 tags:
 - Petrokimia dan Energi

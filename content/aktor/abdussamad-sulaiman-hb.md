@@ -1,5 +1,7 @@
 ---
 title: Abdussamad Sulaiman HB
+description: Pemilik & Pendiri Hasnur Group (1966-2015) · Pemilik & Pendiri Klub Sepak Bola PS Barito Putera (1988-2015) · Ketua DPD Partai Golkar Kalimantan Selatan (3
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

@@ -1,5 +1,7 @@
 ---
 title: Jusuf Hamka
+description: Komisaris Utama PT Citra Marga Nusaphala Persada Tbk (CMNP) · Bendahara Pengurus Besar Nahdlatul Ulama (PBNU)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Asimilasi budaya Tionghoa-Islam

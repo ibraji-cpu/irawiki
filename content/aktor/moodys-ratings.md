@@ -1,12 +1,15 @@
 ---
 title: Moody\u2019s Ratings
+description: 'Profil Moody\u2019s Ratings: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-09-27
+updated: '2026-10-20'
 aliases:
 - moodys-ratings
 - Moody's Ratings
 - Moodys Ratings
 category: aktor
 tags:
-- organization
+- organisasi
 entity_type: individu
 relasi: []
 last_verified: "2026-10-09"

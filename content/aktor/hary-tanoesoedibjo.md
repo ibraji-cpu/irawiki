@@ -1,5 +1,7 @@
 ---
 title: Hary Tanoesoedibjo
+description: Executive Chairman MNC Group · Pendiri MNC Group
+updated: '2026-10-17'
 category: aktor
 tags:
 - Kewirausahaan nasional

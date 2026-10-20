@@ -1,5 +1,7 @@
 ---
 title: Djoko Susanto
+description: CEO & Founder AlfaCorp (Alfamart, Lawson, dsb)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Ekspansi gerai minimarket di daerah rural

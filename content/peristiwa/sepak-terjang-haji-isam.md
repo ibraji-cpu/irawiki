@@ -1,5 +1,8 @@
 ---
 title: "Sepak Terjang Haji Isam"
+description: 'Living document manuver korporasi Haji Isam/Jhonlin Group: aksi mega-akuisisi, transaksi pasar modal, dan ekspansi konglomerasi.'
+date: 2026-10-09
+updated: '2026-10-20'
 aliases:
   - Sepak Terjang Haji Isam
   - Aksi Korporasi Haji Isam
@@ -63,7 +66,7 @@ sumber:
     tanggal: "2026-08"
   - url: "https://www.idnfinancials.com/id/news/69988/rans-milik-raffi-ahmad-ditinggal-21-ribu-investor-harga-ambles-13-3"
     tanggal: "2026-10"
-last_updated: "2026-10-19"
+last_updated: "2026-10-20"
 last_verified: "2026-10-19"
 relasi:
   - tipe: terlibat_dalam
@@ -102,7 +105,26 @@ relasi:
 
 # Sepak Terjang Haji Isam
 
+## Ringkasan
+
 > **Ringkasan Topik:** Living document yang merangkum dinamika manuver korporasi, transaksi pasar modal, dan ekspansi konglomerasi bisnis yang dipimpin pengusaha asal Batulicin, Kalimantan Selatan, [[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad (Haji Isam)]]. Fokus utama mencakup aksi mega-akuisisi 30% saham raksasa batu bara [[pt-bayan-resources-tbk|PT Bayan Resources Tbk (BYAN)]] melalui [[pt-jhonlin-baratama|PT Jhonlin Baratama]], implikasi operasional dan *force majeure* RKAB, respons lembaga pemeringkat kredit, hingga merebaknya spekulasi pasar mengenai rumor rencana pengambilalihan emiten perbankan [[pt-bank-central-asia-tbk|PT Bank Central Asia Tbk (BBCA)]] pada kuartal ketiga 2026.
+
+## Apa relevansinya dengan anak muda?
+
+Halaman ini memuat dua angka besar untuk satu transaksi yang sama, dan bedanya justru yang berguna. Porsi 30% saham BYAN ditaksir Rp115,25 triliun saat diumumkan ke OJK dan BEI pada 17 September 2026, dihitung dari harga penutupan Rp11.525 per saham — itu nilai pasar, bukan uang yang berpindah. Eksekusinya pada 7 Oktober 2026 tercatat 10.084.088.370 saham (30,25%) di harga Rp2.588 per saham, sekitar Rp26,09 triliun, sementara nilai nominal transaksi tidak dibuka para pihak sehingga angka itu dihitung dari harga pasar negosiasi. Angka pertama menjawab berapa nilai porsi tersebut di pasar; angka kedua menjawab berapa nilainya saat berpindah tangan. Menjumlahkan keduanya, atau mengutipnya bergantian tanpa label, menghasilkan angka yang tidak pernah ada.
+
+Bagi pembaca muda yang memegang saham atau reksa dana dengan eksposur BYAN — atau yang mengutip angka ini di tugas kuliah, debat, dan utas media sosial — mekanismenya terasa di dua hal. Pertama, harga acuan Rp11.525 dan harga eksekusi Rp2.588 adalah dua dasar penilaian yang berbeda untuk porsi yang sama, jadi siapa pun yang menandai nilai portofolionya pada angka pengumuman memakai dasar yang tidak sama dengan transaksi yang benar-benar terjadi. Kedua, BEI memasukkan BYAN ke daftar High Shareholding Concentration setelah konsentrasi kepemilikan diumumkan, tetapi pengendali tidak berubah: Low Tuck Kwong tetap mengendalikan BYAN. Peralihan 30% itu karena itu perubahan komposisi pemegang saham, bukan perubahan kendali. Halaman tidak memuat data produksi, penerimaan negara, atau lowongan kerja, sehingga tidak ada dasar menyebut akuisisi ini menambah atau mengurangi lapangan kerja.
+
+Sisi lain yang perlu dibaca dengan label yang sama adalah isu akuisisi BBCA. Bantahan manajemen BCA tercatat 28 September 2026 melalui EVP Hera F. Haryn dan Presiden Direktur Jahja Setiaatmadja. Pada 19 Oktober 2026 saham BBCA turun 6,86% ke Rp4.820 bersamaan IHSG −4,31% dan LQ45 −5,52%; halaman menandai korelasi harga–rumor tidak terbukti dan tidak ada pengumuman BEI, OJK, maupun BCA yang mengonfirmasi transaksi. OJK hanya menyatakan pada 15 Oktober 2026 bahwa transaksi yang berpotensi mengubah pemegang saham pengendali akan dinilai sesuai ketentuan — itu gerbang penilaian, bukan transaksi. Pemegang saham ritel yang membaca penurunan harga sebagai bukti akuisisi membaca urutan sebab yang tidak ada. Hal serupa berlaku pada Moody's: outlook BYAN direvisi dari stabil ke negatif pada 18 September 2026 karena force majeure RKAB tiga anak usaha, dengan peringkat Ba1 dipertahankan, dan Menteri ESDM menyatakan penerbitan RKAB tidak berkaitan dengan masuknya kepemilikan Haji Isam. Gunanya di sini bukan menakut-nakuti soal harga, melainkan satu kebiasaan membaca: memisahkan nilai pasar dari nilai transaksi, rumor dari keterbukaan informasi, dan sebab yang tercatat dari sebab yang terdengar masuk akal.
+
+## Fakta kunci
+
+- **CSPA 16 September 2026:** 10.000.000.500 saham BYAN (sekitar 30%) dijual Low Tuck Kwong dan Elaine Low ke PT Jhonlin Baratama; keluarga Low mempertahankan 32,25%.
+- **Nilai saat pengumuman:** Rp115,25 triliun, dihitung dari harga penutupan Rp11.525 per saham (17 September 2026), status High Shareholding Concentration dari BEI.
+- **Realisasi 7 Oktober 2026:** 10.084.088.370 saham (30,25%) @Rp2.588 per saham, total sekitar Rp26,09 triliun; pengendali BYAN tidak berubah.
+- **Moody's 18 September 2026:** outlook BYAN direvisi dari stabil ke negatif, peringkat Ba1 dipertahankan, dipicu *force majeure* RKAB tiga anak usaha.
+- **Bantahan BCA 28 September 2026:** EVP Hera F. Haryn dan Presdir Jahja Setiaatmadja menyatakan isu akuisisi BBCA tidak benar, di tengah kapitalisasi pasar BBCA Rp756 triliun.
+- **BBCA 19 Oktober 2026:** turun 6,86% ke Rp4.820 per saham, bersamaan IHSG −4,31% ke 4.961,88.
 
 ## Kronologi
 
@@ -215,3 +237,14 @@ Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saha
 - [Tujuan Jhonlin Group Kuasai 10 Miliar Saham Bayan Resources BYAN](https://www.bloombergtechnoz.com/detail-news/122098/tujuan-jhonlin-group-kuasai-10-miliar-saham-bayan-resources-byan) — Bloomberg Technoz, 25 September 2026.
 - [BCA Bantah Isu Rumor Akuisisi Saham BBCA oleh Haji Isam](https://www.bloombergtechnoz.com/detail-news/122777/bca-jawab-kabar-haji-isam-akuisisi-saham-perusahaan) — Bloomberg Technoz, 28 September 2026.
 - Moody's Ratings Press Release: Moody's changes PT Bayan Resources Tbk's outlook to negative; affirms Ba1 ratings, 18 September 2026.
+
+## Catatan presisi
+
+- **Terverifikasi:** CSPA 16 September 2026, realisasi 7 Oktober 2026 (10.084.088.370 saham @Rp2.588), dan bantahan BCA 28 September 2026 dirujuk ke keterbukaan informasi BEI serta pemberitaan CNBC Indonesia dan Bloomberg Technoz.
+- **Dua nilai, dua dasar:** Rp115,25 triliun adalah **nilai pasar** porsi 30% pada harga penutupan Rp11.525 (17 September 2026); Rp26,09 triliun adalah **nilai transaksi** pada Rp2.588 (7 Oktober 2026). Keduanya benar untuk pertanyaan berbeda — jangan dikutip bergantian tanpa label.
+- **Rumor, bukan transaksi:** isu akuisisi BBCA tidak pernah dikonfirmasi BEI, OJK, maupun BCA. Penurunan BBCA 19 Oktober 2026 terjadi di tengah tekanan pasar luas (IHSG −4,31%); korelasi harga–rumor tidak terbukti.
+- **Dilaporkan, bukan terkonfirmasi:** angka penawaran tunai sekitar US$3 miliar bersumber laporan Bloomberg (9 September 2026) dan tidak dikonfirmasi para pihak.
+- **Nilai nominal dirahasiakan:** para pihak tidak membuka nilai nominal transaksi; angka Rp26,09 triliun dihitung dari harga pasar negosiasi.
+- **Koreksi eksternal:** tesis MoneyTalk.id (16 Oktober 2026) soal absennya nama Haji Isam dari daftar pemegang saham RANS >1% tidak didukung data KSEI 31 Agustus 2026 yang mencatat 1,40%.
+- **Batas:** halaman ini tidak menyimpulkan adanya pelanggaran pasar modal oleh pihak mana pun.
+

@@ -1,11 +1,14 @@
 ---
 title: Norman Joesoef
+description: Norman Joesoef adalah pemilik Republik Korpora Indonesia (RKI) / Republikorp, perusahaan infrastruktur dan rantai pasok maritim.
+date: 2026-09-27
+updated: '2026-10-20'
 aliases:
 - norman-joesoef
 - Norman Joesoef
 category: aktor
 tags:
-- individual
+- individu
 entity_type: individu
 relasi: []
 last_verified: "2026-10-09"

@@ -1,5 +1,7 @@
 ---
 title: Budi Santoso
+description: Menteri Perdagangan Republik Indonesia (2024-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

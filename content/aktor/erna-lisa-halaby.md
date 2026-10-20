@@ -1,5 +1,7 @@
 ---
 title: Erna Lisa Halaby
+description: 'Erna Lisa Halaby: Wali Kota Banjarbaru (2024-sekarang)'
+updated: '2026-10-17'
 aliases:
 - Erna Lisa Halaby
 category: aktor

@@ -1,5 +1,8 @@
 ---
 title: "Fajar Surya Wisesa"
+description: 'Profil Fajar Surya Wisesa: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "Fajar Surya Wisesa"
 tags:

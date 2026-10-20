@@ -1,0 +1,32 @@
+# Personal Wiki Ira Amalia
+
+> Wiki politik Indonesia: aktor, relasi kuasa, dan kronologi kebijakan.
+> Disusun sebagai bahan rujukan — setiap klaim penting terverifikasi
+> (cek fakta) dengan catatan presisi. Bahasa: Indonesia.
+
+## Hub utama
+- [Perang Ultra Modern dan Geopolitik](https://wiki.iraamalia.id/perang-ultra-modern-dan-geopolitik): tipologi perang narasi/ekonomi/sumber daya + kronologi Indonesia 2026 (MSCI, IHSG, DHE, DSI).
+- [Sepak Terjang Haji Isam](https://wiki.iraamalia.id/peristiwa/sepak-terjang-haji-isam): kronologi jaringan bisnis-politik Haji Isam / Jhonlin Group.
+- [Sengketa Gelar Pahlawan Soeharto](https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional): kronologi gugatan PTUN atas Keppres 116/TK/2025.
+- [Polemik Ijazah Gibran](https://wiki.iraamalia.id/peristiwa/polemik-ijazah-gibran): kronologi + putusan MK 01/PHPU.PRES-XXIV/2026.
+- [Reshuffle Kabinet Merah Putih](https://wiki.iraamalia.id/reshuffle-kabinet-merah-putih): hub seluruh perombakan kabinet era Prabowo Subianto.
+- [Satgas PKH](https://wiki.iraamalia.id/satgas-pkh): satgas lintas 12 kementerian/lembaga penertiban kawasan hutan.
+- [UU Pelindungan Ketenagakerjaan 2026](https://wiki.iraamalia.id/uu-pelindungan-ketenagakerjaan-2026): 23 bab, 313 pasal, disahkan 6 Oktober 2026.
+- [GKSR — Gerakan Kedaulatan Suara Rakyat](https://wiki.iraamalia.id/gksr-gerakan-kedaulatan-suara-rakyat): koalisi delapan partai nonparlemen dan tuntutan perubahan sistem pemilu.
+- [Pencalonan Kapolri 2026](https://wiki.iraamalia.id/peristiwa/pencalonan-kapolri-2026): Surpres 30 September 2026, Listyo Sigit → Suyudi Ario Seto.
+- [Korupsi di Indonesia](https://wiki.iraamalia.id/peristiwa/korupsi-di-indonesia): ringkasan sistemik pasca-reformasi 1998 dan pola perkara besar.
+- [RUU Satu Data Indonesia 2026](https://wiki.iraamalia.id/peristiwa/rencana-pengesahan-ruu-satu-data-indonesia-2026): 17 bab, 138 pasal, Badan Satu Data Indonesia.
+- [Andi Syamsuddin Arsyad (Haji Isam)](https://wiki.iraamalia.id/aktor/andi-syamsuddin-arsyad): profil pengusaha Batulicin dan konglomerasi Jhonlin.
+- [Prabowo Subianto](https://wiki.iraamalia.id/aktor/prabowo-subianto): profil presiden dan jaringan kekuasaan pendukungnya.
+- [Analisis Kepentingan RUU Satu Data](https://wiki.iraamalia.id/analisis/analisis-kepentingan-ruu-satu-data-indonesia): peta kepentingan aktor di balik legislasi data.
+- [Korpus lengkap](https://wiki.iraamalia.id/llms-full.txt): seluruh halaman peristiwa, analisis, dan hub dalam satu berkas markdown.
+
+## Struktur situs
+- /aktor/* — profil aktor (pengusaha, politikus, perusahaan, lembaga)
+- /peristiwa/* — kronologi peristiwa bertanggal
+- /analisis/* — analisis tematik
+- /tags/* — indeks topik
+
+## Cara mengutip
+- Kutip URL halaman spesifik (bukan homepage). Cantumkan tanggal akses;
+  setiap halaman mencantumkan tanggal pembaruan.

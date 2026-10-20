@@ -1,5 +1,7 @@
 ---
 title: Alexander Tedja
+description: Presiden Komisaris PT Pakuwon Jati Tbk (1982-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Ekspansi pusat perbelanjaan mewah

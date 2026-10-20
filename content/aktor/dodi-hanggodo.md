@@ -1,5 +1,7 @@
 ---
 title: Dodi Hanggodo
+description: Menteri Pekerjaan Umum Republik Indonesia (2024-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

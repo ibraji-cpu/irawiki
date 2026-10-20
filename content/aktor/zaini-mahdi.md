@@ -1,5 +1,7 @@
 ---
 title: Zaini Mahdi
+description: Pemilik PT Batu Gunung Mulia · Co-founder PT Binuang Mitra Bersama (2013-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

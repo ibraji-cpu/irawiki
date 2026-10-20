@@ -1,5 +1,7 @@
 ---
 title: Rusdi Kirana
+description: Wakil Ketua Majelis Permusyawaratan Rakyat (MPR) RI (2024-2029) · Anggota DPR RI Fraksi PKB
+updated: '2026-10-17'
 category: aktor
 tags:
 - Ekspansi rute penerbangan domestik murah

@@ -1,5 +1,7 @@
 ---
 title: Eddy Kusnadi Sariaatmadja
+description: Komisaris Utama PT Elang Mahkota Teknologi Tbk (Emtek)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Konvergensi media konvensional ke digital

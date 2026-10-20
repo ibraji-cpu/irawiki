@@ -1,5 +1,7 @@
 ---
 title: Martua Sitorus
+description: Co-founder Wilmar International Ltd · Chairman Kencana Agri
+updated: '2026-10-17'
 category: aktor
 tags:
 - Agribisnis gula dan padi terintegrasi

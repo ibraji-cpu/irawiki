@@ -1,5 +1,7 @@
 ---
 title: Zainudin Hasan
+description: 'Profil Zainudin Hasan: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

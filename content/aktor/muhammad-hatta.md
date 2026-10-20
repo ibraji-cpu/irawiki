@@ -1,5 +1,7 @@
 ---
 title: Muhammad Hatta
+description: Pemilik PT Gunung Mulia Binuang · Pemilik PT Harapan Binuang Motor · Co-founder PT Binuang Mitra Bersama (2013-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - individu

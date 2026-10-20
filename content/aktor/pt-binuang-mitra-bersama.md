@@ -1,5 +1,8 @@
 ---
 title: "PT Binuang Mitra Bersama"
+description: 'Profil PT Binuang Mitra Bersama: afiliasi, relasi bisnis-politik, dan peran yang terdokumentasi dalam wiki politik Indonesia Ira Amalia.'
+date: 2026-10-01
+updated: '2026-10-17'
 aliases:
 - "PT Binuang Mitra Bersama"
 tags:

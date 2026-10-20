@@ -1,5 +1,8 @@
 ---
 title: "Sufmi Dasco Ahmad"
+description: Wakil Ketua Dewan Perwakilan Rakyat RI (periode 2024-2029)
+date: 2026-10-06
+updated: '2026-10-17'
 aliases:
 - "Sufmi Dasco Ahmad"
 - "Sufmi Dasco"

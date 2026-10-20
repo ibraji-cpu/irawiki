@@ -1,5 +1,7 @@
 ---
 title: Agus Harimurti Yudhoyono
+description: Menteri Koordinator Bidang Infrastruktur dan Pembangunan Kewilayahan Kabinet Merah Putih (2024–sekarang) · Ketua Umum Partai Demokrat (2020–sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Kepastian hukum pertanahan

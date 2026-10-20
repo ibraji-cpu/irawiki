@@ -1,5 +1,8 @@
 ---
 title: "Kementerian Ketenagakerjaan"
+description: Kementerian Republik Indonesia yang menyelenggarakan urusan ketenagakerjaan
+date: 2026-10-06
+updated: '2026-10-17'
 aliases:
 - "Kementerian Ketenagakerjaan"
 - "Kemnaker"

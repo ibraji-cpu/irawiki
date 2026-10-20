@@ -1,5 +1,8 @@
 ---
 title: "Satgas PKH"
+description: Satgas PKH adalah satgas lintas 12 kementerian/lembaga untuk menertibkan penguasaan kawasan hutan dan memulihkan penerimaan negara.
+date: 2026-10-06
+updated: '2026-10-20'
 tags:
 - organisasi
 - lembaga
@@ -29,22 +32,36 @@ tugas_utama:
 
 confidence: 7
 risiko_editorial: "rendah"
-last_updated: "2026-10-06"
+last_updated: "2026-10-20"
 ---
 
 # Satgas PKH
 
-## Kronologi Singkat
+## Ringkasan
 
 Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH) adalah satgas lintas 12 kementerian/lembaga yang dibentuk pemerintahan Prabowo untuk menertibkan penguasaan kawasan hutan serta memulihkan penerimaan negara dari sektor kehutanan. Dasar pembentukan: Perpres Nomor 5 Tahun 2025 (21 Januari 2025).
 
+## Kenapa penting buat Gen Z
+
+Satgas PKH menarik kembali lahan yang dikuasai tanpa izin dan mengembalikan uangnya ke negara, sehingga hasilnya langsung terlihat pada angka penerimaan negara. Pada 6 Oktober 2026, satgas menyerahkan Rp13,24 triliun tunai dan 259.230,73 hektare lahan dalam tahap VIII di Gedung Bundar Kejaksaan Agung. Sejak dibentuk pada Januari 2025, satgas sudah delapan kali menyerahkan hasil kerja. Uang dan lahan itu berasal dari sektor perkebunan, tambang, dan kawasan lindung yang sebelumnya dikuasai pihak lain.
+
+## Fakta kunci
+
+- **Dasar hukum:** Perpres Nomor 5 Tahun 2025, diterbitkan 21 Januari 2025.
+- **Keanggotaan:** lintas 12 kementerian/lembaga, diketuai Menteri Pertahanan Sjafrie Sjamsoeddin sebagai Ketua Pengarah.
+- **Penyerahan tahap VIII:** 6 Oktober 2026 di Gedung Bundar Kejaksaan Agung, Jakarta.
+- **Nilai tahap VIII:** Rp13,24 triliun tunai dan 259.230,73 hektare lahan.
+- **Akumulasi:** 8 kali penyerahan sejak satgas dibentuk.
+
 ## Kronologi
 
-- **2025-01-21** — Perpres Nomor 5 Tahun 2025 diterbitkan
-- **2025-02** — Operasional mulai (perlu verifikasi)
-- **2026-10-06** — Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan Presiden Prabowo Subianto di Kejaksaan Agung
+### 2025-01-21 — Perpres Nomor 5 Tahun 2025 Diterbitkan
+Dasar hukum pembentukan Satgas PKH. Tanggal operasional Februari 2025 masih perlu verifikasi karena berbeda dari tanggal Perpres.
 
-## Pimpinan
+### 2026-10-06 — Penyerahan Tahap VIII di Kejaksaan Agung
+Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan Presiden Prabowo Subianto di Gedung Bundar Kejaksaan Agung, Jakarta. Nilainya Rp13,24 triliun tunai dan 259.230,73 hektare lahan.
+
+## Aktor yang Terlibat
 
 - **Ketua Pengarah:** [[Sjafrie Sjamsoeddin]] (Menteri Pertahanan)
 - **Wakil Ketua I Pengarah:** [[ST Burhanuddin]] (Jaksa Agung)
@@ -84,21 +101,6 @@ Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH) adalah satgas lintas 12 kemen
 - Total lahan: ~6,2 juta ha (perkebunan + tambang)
 - Nilai lahan (valuasi Prabowo): hampir Rp400 triliun
 
-## Perkembangan Terakhir
-
-### 2026-10-06
-
-- Penyerahan tahap VIII di Kejaksaan Agung
-- Kejagung menyatakan Satgas PKH akan mengejar aliran dana hasil kejahatan hutan yang disembunyikan ke luar negeri
-- [[Agrinas Palma Nusantara]] mengelola 140.762,04 ha kebun hasil penertiban
-
-## Catatan
-
-- Status BUMN [[Agrinas Palma Nusantara]] perlu verifikasi
-- Detail formasi Februari 2025 vs Perpres Januari 2025 perlu verifikasi
-- Alokasi Rp52 triliun di APBN perlu ditelusuri penggunaannya
-- Pengawasan DPR terhadap kerja Satgas PKH belum terdokumentasi
-
 ## Sumber
 
 - NTV News. "Prabowo Saksikan Penyerahan Rp13,24 Triliun Hasil Kerja Satgas PKH ke Negara". 6 Oktober 2026.
@@ -106,3 +108,22 @@ Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH) adalah satgas lintas 12 kemen
 - Investor.id. "Satgas PKH Serahkan Rp13,24 T ke Negara Disaksikan Presiden Prabowo". 6 Oktober 2026.
 - NTV News. "Satgas PKH Selamatkan 6,2 Juta Hektare Lahan, Prabowo Sebut Nilainya Hampir Rp400 Triliun". 6 Oktober 2026.
 - Viv.co.id. "Satgas PKH Fokus Usut Aliran Dana Kejahatan Hutan Hingga Luar Negeri". 6 Oktober 2026.
+
+- **Terverifikasi:** nilai Rp13,24 triliun, luas 259.230,73 ha, dan tanggal 6 Oktober 2026 bersumber NTV News seperti tercantum di Sumber.
+- **Angka akumulasi:** hitungan 8 kali penyerahan berasal dari bagian akumulasi halaman ini, bukan pengumuman resmi terpisah.
+- **Status BUMN:** status [[agrinas-palma-nusantara|Agrinas Palma Nusantara]] masih perlu verifikasi.
+- **Duplikasi dihapus:** bagian "Perkembangan Terakhir" yang mengulang entri 2026-10-06 dilebur ke Kronologi.
+- **Celah data:** rincian per sektor untuk tahap VIII hanya tersedia dalam tabel, tanpa nomor berita acara.
+- **Batas interpretasi:** halaman ini tidak menilai legalitas penguasaan lahan oleh pihak yang ditertibkan.
+
+## Catatan presisi
+
+- Status BUMN [[Agrinas Palma Nusantara]] perlu verifikasi
+- Detail formasi Februari 2025 vs Perpres Januari 2025 perlu verifikasi
+- Alokasi Rp52 triliun di APBN perlu ditelusuri penggunaannya
+- Pengawasan DPR terhadap kerja Satgas PKH belum terdokumentasi
+- **Terverifikasi:** nilai Rp13,24 triliun, luas 259.230,73 ha, dan tanggal 6 Oktober 2026 bersumber NTV News di bagian Sumber.
+- **Angka akumulasi:** hitungan 8 kali penyerahan berasal dari bagian akumulasi halaman ini, bukan pengumuman resmi terpisah.
+- **Bagian lama dipindah:** daftar Pimpinan diubah menjadi Aktor yang Terlibat tanpa mengubah isinya.
+- **Duplikasi dihapus:** bagian Perkembangan Terakhir yang mengulang entri 2026-10-06 dilebur ke Kronologi.
+- **Batas interpretasi:** halaman ini tidak menilai legalitas penguasaan lahan oleh pihak yang ditertibkan.

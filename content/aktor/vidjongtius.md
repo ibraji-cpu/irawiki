@@ -1,5 +1,7 @@
 ---
 title: Vidjongtius
+description: Presiden Direktur PT Kalbe Farma Tbk (2017-sekarang)
+updated: '2026-10-17'
 category: aktor
 tags:
 - Digitalisasi layanan kesehatan (KlikDokter)
