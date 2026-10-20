@@ -24,9 +24,11 @@ Ironisnya, pernyataan itu disampaikan di hadapan relawan, dengan mantan Presiden
 
 > **Ringkasan Topik:** Esai ini menganalisis rekaman viral yang memperlihatkan Budi Arie Setiadi, Ketua Umum Projo, membicarakan percepatan pemilu sebelum 2029 di hadapan relawan, dengan Joko Widodo duduk di sebelahnya tanpa menyanggah. Pada 26 Agustus 2026, Budi Arie meminta maaf dan menyebut pernyataannya sebagai "analisis dan insting pribadi" yang tidak berkaitan dengan Jokowi. Penulis membaca insiden ini lewat psikologi kognitif dan dinamika relasi patron-klien.
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-Wacana menunda atau mempercepat pemilu menentukan kapan pembaca muda bisa memilih dan kapan kebijakan yang mereka kritik bisa diganti. Esai ini mencatat pernyataan Budi Arie soal pemilu sebelum 2029 dan permintaan maafnya pada 26 Agustus 2026. Diamnya Jokowi di sebelahnya menjadi bagian analisis, karena sikap tidak menyanggah dibaca sebagai isyarat politik.
+Halaman ini mencatat satu peristiwa bertanggal jelas dan satu wacana yang statusnya lebih lemah. Yang jelas: pada 26 Agustus 2026 Budi Arie Setiadi meminta maaf dan menyebut pernyataannya soal percepatan pemilu sebelum 2029 sebagai "analisis dan insting pribadi", bukan posisi Joko Widodo. Yang lebih lemah: pernyataan itu sendiri adalah klaim pihak di forum relawan pada Agustus 2026 — halaman tidak mencatat tanggal dan lokasi forumnya — dan halaman tidak mencatat adanya usulan resmi, pembahasan di penyelenggara pemilu, atau dasar hukum yang berubah. Sampai di situ statusnya wacana, belum perubahan jadwal.
+
+Bagi pembaca yang suara pertamanya jatuh pada pemilu berikutnya, jadwal itulah yang menentukan kapan ia boleh memilih dan berapa lama kebijakan yang ia kritik bertahan. Panah itu hanya bergerak jika ada proses perubahan yang nyata, dan halaman ini tidak memuat satu pun. Yang juga perlu dipisahkan: pembacaan Freudian slip, trial balloon, dan "diam sama dengan setuju" adalah tafsiran penulis — Catatan presisi halaman menyatakannya sendiri — bukan temuan terukur, begitu pula klaim bahwa wacana semacam ini memantik sinisme berlapis. Kegunaan halaman ini karena itu lebih sebagai alat baca sinyal politik daripada bukti bahwa hidup anak muda sudah berubah.
 
 ## Fakta kunci
 

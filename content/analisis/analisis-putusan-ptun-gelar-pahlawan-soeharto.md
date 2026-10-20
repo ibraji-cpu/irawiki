@@ -27,9 +27,13 @@ last_verified: "2026-10-12"
 
 Putusan PTUN Jakarta perkara 50/G/2026/PTUN.JKT menyatakan gugatan pembatalan Keppres Nomor 116/TK/2025 tentang penganugerahan gelar Pahlawan Nasional kepada Jenderal Besar TNI H.M. Soeharto **Tidak Diterima**. Putusan ini mengabulkan eksepsi Tergugat dan Tergugat II Intervensi — Siti Hardiyanti Hastuti Rukmana (Mbak Tutut) selaku ahli waris Soeharto — bahwa penggugat tidak mempunyai kepentingan hukum untuk menggugat Keppres ini. Perkara kedua, 151/G/2026/PTUN.JKT (koalisi GEMAS), masih berjalan.
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-Gelar pahlawan nasional menentukan bagaimana negara menulis sejarah, termasuk peristiwa 1965 yang masih diperdebatkan. Putusan PTUN Jakarta perkara 50/G/2026/PTUN.JKT pada 2 September 2026 menyatakan gugatan pembatalan Keppres Nomor 116/TK/2025 tidak dapat diterima, sehingga gelar Soeharto tetap berlaku. Halaman ini memisahkan amar putusan dari pertanyaan substantif soal dasar pemberian gelar.
+Relevansinya bukan pada gelarnya, melainkan pada pintu yang diuji. Putusan 50/G/2026/PTUN.JKT — diputus 2 September 2026, diucapkan 8 September 2026 — menyatakan gugatan tidak diterima karena penggugat, Bejo, petani asal Boyolali, dinilai tidak punya hubungan hukum langsung dengan Keppres 116/TK/2025, tidak punya hak yang dilanggar, dan tidak mengalami kerugian hukum yang nyata dan aktual; dasarnya Pasal 53 ayat (1) UU Peratun jo Pasal 87 UU Administrasi Pemerintahan. Karena eksepsi dikabulkan, pokok perkara tidak dipertimbangkan. Halaman tidak mencatat apakah ada upaya hukum atas putusan ini.
+
+Bagi warga muda yang ingin mempersoalkan keputusan negara secara hukum, urutannya jadi terbalik dari dugaan banyak orang: kedudukan hukum diperiksa lebih dulu, bukan kuatnya alasan. Yang dinilai pengadilan adalah apakah keputusan itu menimbulkan akibat hukum bagi penggugat, bukan apakah isinya benar. Beban itu juga berbiaya — penggugat dihukum membayar biaya perkara Rp489.000 — meski halaman tidak memuat data berapa warga muda yang pernah menempuh jalur ini atau bagaimana biaya itu memengaruhi pilihan mereka.
+
+Perkara 151/G/2026/PTUN.JKT yang diajukan koalisi GEMAS dengan objek yang sama masih berjalan: sidang 12 Oktober 2026 baru masuk pembuktian ahli (Richo Andi Wibowo dan Bivitri Susanti), tahap berikutnya penyerahan surat-surat, dan belum ada putusan. Jadi apakah jalur PTUN bisa dipakai warga biasa untuk menguji keputusan semacam ini masih terbuka — itu yang perlu dipantau, bukan disimpulkan sebagai jalur yang sudah tertutup.
 
 ## Fakta kunci
 

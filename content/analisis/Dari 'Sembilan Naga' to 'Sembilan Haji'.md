@@ -17,9 +17,11 @@ Ada kabar dari bursa yang pada mulanya tampak seperti urusan angka biasa. Perten
 
 > **Ringkasan Topik:** Esai ini membaca perpindahan pusat gravitasi ekonomi Indonesia dari konglomerat lama yang disebut "Sembilan Naga" ke pemilik modal baru dari daerah yang dijuluki "Sembilan Haji". Pemicunya adalah transaksi saham PT Bayan Resources Tbk (BYAN): 30 persen saham pindah dari Low Tuck Kwong ke Haji Isam pada September 2026. Penulis memakai teori reflexivity George Soros untuk menjelaskan bagaimana persepsi pasar bisa mengubah kenyataan ekonomi.
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-Kepemilikan tambang menentukan siapa yang menerima keuntungan dari batu bara yang dibakar untuk listrik rumah dan ponsel. Esai ini mencatat perpindahan 30 persen saham BYAN pada September 2026 sebagai penanda bahwa pemilik lama tidak lagi menguasai seluruh rantai. Perpindahan itu juga mengubah siapa yang punya suara dalam keputusan investasi dan tenaga kerja di daerah tambang.
+Halaman ini memuat satu perpindahan kepemilikan yang tercatat — 30 persen saham PT Bayan Resources Tbk (BYAN) dari Low Tuck Kwong ke Haji Isam, 16 September 2026 menurut catatan transaksi di wiki — dan satu angka yang tidak boleh diperlakukan setara: sekitar Rp300 triliun. Angka itu muncul di badan esai sebagai nilai rumor akuisisi 62,25 persen, sementara Catatan presisi halaman menyatakan nilai transaksi BYAN dan tanggal penutupan belum tercatat. Dua porsi pun berbeda dasar: 62,25 persen masih rumor, 30 persen yang tercatat. Halaman juga menyebut dirinya esai opini, bukan laporan peristiwa.
+
+Yang tidak tersedia justru bagian yang dibutuhkan untuk menghubungkannya ke kehidupan anak muda: jumlah pekerja tambang, komposisi usia pekerja, nilai royalti atau pajak daerah, dan data lingkungan tidak ada di halaman. Tanpa itu tidak ada satu mata rantai pun yang bisa ditutup menuju kelompok muda tertentu — pekerja muda di sekitar tambang, warga Kalimantan, atau pemegang saham ritel BYAN — tanpa mengarang besaran dan arahnya. Bagian ini karena itu berhenti sebelum membuat klaim dampak.
 
 ## Fakta kunci
 
