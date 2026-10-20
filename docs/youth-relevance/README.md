@@ -13,9 +13,14 @@ Paket ini membantu LLM menyusun bagian **“Apa relevansinya dengan anak muda?�
 ## Isi paket
 
 - [`youth-relevance-map.md`](youth-relevance-map.md) — peta isu, kebutuhan, aspirasi, kelompok, mekanisme dampak, dan horizon waktu.
-- [`youth-relevance-method.md`](youth-relevance-method.md) — prosedur analisis, standar bukti, dan aturan penulisan untuk LLM.
+- [`youth-relevance-method.md`](youth-relevance-method.md) — prosedur analisis, standar bukti, dan aturan penulisan untuk LLM (v1.1).
 - [`youth-relevance-sources.md`](youth-relevance-sources.md) — daftar awal sumber rujukan dan aturan memperbaruinya.
-- [`youth-relevance-test-cases.md`](youth-relevance-test-cases.md) — contoh uji agar LLM tidak menghasilkan relevansi tempelan.
+- [`youth-relevance-test-cases.md`](youth-relevance-test-cases.md) — 8 contoh uji + rubrik, agar LLM tidak menghasilkan relevansi tempelan (v1.1).
+
+## Revisi
+
+- **v1.0 (2026-10-20)** — paket awal, disimpan verbatim dari berkas sumber.
+- **v1.1 (2026-10-20)** — pengetatan setelah uji Fase 1 pada 5 halaman (laporan: `proposals/youth-relevance-uji-2026-10-20/LAPORAN-UJI-FASE1.md`). Method: pemeriksaan status provenance fakta, larangan menjumlahkan arus kas dengan valuasi stok, larangan menggabung dua periode, larangan mewarisi klaim dari section lama, dan abstain sebagai keluaran yang benar. Test cases: Kasus 7–8 + aturan abstain pada rubrik. Peta dan daftar sumber tidak berubah.
 
 ## Cara pakai yang disarankan
 

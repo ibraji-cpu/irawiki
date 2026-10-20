@@ -3,12 +3,15 @@ title: "Kasus Uji: Relevansi Anak Muda"
 type: evaluation
 status: draft
 lang: id
+version: 1.1
 tags:
   - evaluasi
   - llm
   - anak-muda
 last_reviewed: 2026-10-20
 ---
+
+> **Revisi 1.1 (2026-10-20).** Ditetapkan setelah uji Fase 1 (laporan: `proposals/youth-relevance-uji-2026-10-20/LAPORAN-UJI-FASE1.md`). Ditambah Kasus 7 (fakta draf / belum diundangkan) dan Kasus 8 (arus kas vs valuasi stok), serta aturan abstain pada rubrik — aspek yang tidak berlaku diberi `N/A`, bukan 0, sehingga halaman stub tidak dihukum karena tidak mengarang.
 
 # Kasus Uji: “Apa relevansinya dengan anak muda?”
 
@@ -128,9 +131,48 @@ Tidak semua anak muda menerima upah minimum, dan hasil bersih dapat berbeda.
 **Aturan**
 Jangan menciptakan paragraf relevansi hanya karena bagian itu tersedia di template. Jika hubungan dengan kehidupan anak muda tidak dapat ditunjukkan melalui kebijakan, keputusan, layanan, sektor, atau relasi yang bermakna, tulis bagian yang sangat terbatas atau jangan membuat klaim dampak.
 
+## Kasus 7 — Fakta masih draf atau belum diundangkan
+
+**Fakta yang mungkin tersedia**
+- Sebuah ketentuan disebut "sudah disahkan" tetapi nomor dan berita resmi belum ada.
+- Rinciannya dibaca dari draf, kutipan media, atau dokumen kerja.
+- Seorang pihak (serikat, pengusaha, pejabat) menyatakan keberatan atau dukungan.
+
+**Relevansi yang layak diperiksa**
+- Siapa yang secara hukum tercakup — dipisah dari siapa yang secara faktual sudah terkena.
+- Batas waktu, kewajiban, atau tenggat yang memang ditulis halaman.
+
+**Contoh buruk**
+> UU ini menentukan isi kontrak kerja dan pesangon, jadi pekerja muda sudah mendapat hak baru.
+
+**Mengapa buruk**
+Menaikkan draf yang belum diundangkan menjadi hak yang berlaku.
+
+**Contoh lebih baik**
+> Yang tercakup secara hukum adalah mereka yang bekerja dengan kontrak, bukan seluruh pekerja. Rincian batas kontrak masih dibaca dari draf dan pemberitaan, bukan teks resmi, sehingga belum bisa diperlakukan sebagai hak yang pasti berlaku.
+
+## Kasus 8 — Arus kas dan valuasi stok
+
+**Fakta yang mungkin tersedia**
+- Kas yang benar-benar diserahkan (arus masuk) sebesar Rp52 triliun.
+- Klaim valuasi aset sebesar hampir Rp400 triliun, bukan kas.
+
+**Relevansi yang layak diperiksa**
+- Siapa yang membaca dan memakai angka itu; perbedaan angka mana yang layak dikutip.
+- Tidak ada manfaat fiskal bagi kelompok tertentu kecuali alokasinya ditelusuri.
+
+**Contoh buruk**
+> Penertiban ini menghasilkan Rp452 triliun untuk negara, yang akan memperbesar belanja untuk anak muda.
+
+**Mengapa buruk**
+Menjumlahkan dua jenis angka berbeda, lalu menyambungnya ke belanja kelompok yang tidak ditelusuri.
+
+**Contoh lebih baik**
+> Halaman memisahkan sekitar Rp52 triliun kas yang benar-benar diserahkan dan klaim valuasi lahan hampir Rp400 triliun. Menjumlahkan keduanya akan menghasilkan angka yang tidak pernah ada. Halaman tidak menelusuri ke mana Rp52 triliun dialokasikan di APBN, sehingga tidak ada dasar menyebut manfaat fiskal bagi kelompok anak muda.
+
 ## Rubrik evaluasi
 
-Beri skor 0–2 untuk setiap aspek:
+Beri skor 0–2 untuk setiap aspek. **Beri `N/A` (bukan 0) pada aspek yang memang tidak berlaku** ketika halaman tidak menyediakan cukup fakta dan generator memang seharusnya abstain — kecuali aspek bukti.
 
 | Aspek | 0 | 1 | 2 |
 |---|---|---|---|
@@ -142,12 +184,18 @@ Beri skor 0–2 untuk setiap aspek:
 | Keseimbangan | hanya menakut-nakuti atau menjanjikan | sebagian seimbang | risiko, peluang, dan konteks dipertimbangkan |
 | Keterbacaan | jargon/generik | cukup jelas | mengalir dan mudah dipahami |
 
-**Skor maksimum:** 14.
+**Skor maksimum:** 14 (hanya dari aspek yang berlaku).
+
+**Aturan abstain.** Untuk halaman stub atau halaman tanpa data dampak, keluaran yang benar adalah abstain. Dalam hal itu:
+- aspek bukti tetap dinilai — 2 jika satu-satunya pernyataan (mis. “halaman tidak memuat data dampak”) dapat diverifikasi langsung dari isi halaman, 0 jika generator mengarang;
+- aspek lain diberi `N/A` dan **tidak dihitung** sebagai kegagalan;
+- hasil akhir dicatat sebagai **“abstain — benar”**, bukan “tulis ulang”.
 
 Saran penggunaan:
 - 12–14: layak ditinjau editor.
 - 9–11: perlu perbaikan.
 - 0–8: tulis ulang.
+- Abstain dengan bukti 2: **benar** — jangan dipaksa mengarang.
 - Jika aspek bukti mendapat skor 0, jangan terbitkan klaim kausal meskipun skor total tinggi.
 
 Skor ini adalah alat bantu editorial, bukan pengganti penilaian manusia.

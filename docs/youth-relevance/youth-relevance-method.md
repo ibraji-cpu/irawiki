@@ -3,12 +3,15 @@ title: "Metode Penulisan: Apa Relevansinya dengan Anak Muda?"
 type: prompt-guide
 status: draft
 lang: id
+version: 1.1
+last_reviewed: 2026-10-20
 tags:
   - llm
   - editorial
   - anak-muda
-last_reviewed: 2026-10-20
 ---
+
+> **Revisi 1.1 (2026-10-20).** Ditetapkan setelah uji Fase 1 pada 5 halaman wiki (laporan: `proposals/youth-relevance-uji-2026-10-20/LAPORAN-UJI-FASE1.md`). Empat pengetatan: (1) pemeriksaan status provenance fakta sebelum menulis panah (Langkah 1 + Langkah 5 + pemeriksaan akhir no. 9); (2) larangan menjumlahkan arus kas dengan valuasi stok dan larangan menggabung dua periode (Langkah 4); (3) larangan mewarisi klaim dari section lama halaman (Langkah 4 + pemeriksaan akhir no. 11); (4) abstain dinyatakan sebagai keluaran yang benar (bagian "Kapan tidak perlu membuat klaim").
 
 # Metode Penulisan: “Apa relevansinya dengan anak muda?”
 
@@ -39,6 +42,15 @@ Identifikasi:
 - bagian yang belum diketahui.
 
 Jangan menyimpulkan dampak hanya dari nama entitas atau kategori halaman.
+
+**Periksa status provenance tiap fakta sebelum dipakai.** Untuk setiap fakta yang akan menjadi mata rantai, tentukan statusnya:
+
+- **Berlaku / teks resmi:** peraturan sudah diundangkan dan berlaku, putusan sudah berkekuatan tetap, atau angka resmi terbitan lembaga.
+- **Disahkan, belum diundangkan:** sudah disahkan tetapi nomor/berita resmi belum ada — tidak boleh diperlakukan sebagai hak yang sudah berlaku.
+- **Draf / rancangan:** masih dibaca dari draf, kutipan media, atau dokumen kerja. Tulis apa adanya; jangan naikkan menjadi "aturan yang berlaku".
+- **Klaim pihak:** pernyataan seorang pihak (serikat, pengusaha, politisi, pejabat) tanpa pengukuran independen. Sebut sebagai klaim pihak, bukan fakta.
+
+Bila statusnya bukan "berlaku", panah yang memakainya wajib diberi label syarat ("masih draf", "belum diundangkan", "klaim pihak") — atau panah itu dipotong.
 
 ### Langkah 2 — Cocokkan dengan peta relevansi
 
@@ -77,6 +89,12 @@ Contoh bentuk, bukan klaim otomatis:
 
 Setiap panah harus punya dasar. Jika satu mata rantai tidak didukung, jangan menyajikan seluruh rantai sebagai fakta.
 
+**Aturan khusus angka:**
+
+- **Jangan menjumlahkan arus kas dengan valuasi stok.** Kas yang benar-benar masuk (mis. penerimaan negara Rp52 triliun) dan valuasi aset (mis. nilai lahan ~Rp400 triliun) adalah dua jenis angka berbeda. Menjumlahkannya menghasilkan angka yang tidak pernah ada. Sebut keduanya dengan label dasarnya.
+- **Jangan menggabung dua periode berbeda menjadi satu peristiwa.** Bila halaman mencatat kurs terendah di bulan Juni dan indeks jatuh di bulan Oktober, tulis sebagai dua peristiwa dengan tanggalnya — bukan sebagai satu kejadian "bersamaan".
+- **Jangan mewarisi klaim dari section lama.** Halaman bisa memuat bagian `## Kenapa penting buat Gen Z` (atau sejenisnya) yang lebih longgar daripada badan halaman. Baca badan halaman dan Catatan presisi-nya; jangan menyalin klaim lama yang tidak didukung isi halaman.
+
 ### Langkah 5 — Periksa kekuatan bukti
 
 Klasifikasikan klaim secara internal:
@@ -85,6 +103,7 @@ Klasifikasikan klaim secara internal:
 - **Inferensi kuat:** mekanismenya didukung sumber, tetapi hasil pada kelompok tertentu belum diukur secara langsung.
 - **Kemungkinan / skenario:** masuk akal, tetapi masih bergantung pada kondisi lain.
 - **Tidak didukung:** tidak ada dasar memadai; jangan tulis sebagai klaim.
+- **Provenance lemah:** fakta dasar masih berstatus draf, belum diundangkan, atau klaim pihak — klaim yang memakainya hanya boleh ditulis dengan label syarat, atau dihapus.
 
 Jangan memberi label “terbukti” hanya karena dua peristiwa terjadi berdekatan atau karena hubungan itu terdengar masuk akal.
 
@@ -139,9 +158,12 @@ Jangan membuat klaim dampak khusus jika:
 - hubungan kausal memerlukan bukti yang tidak tersedia;
 - kelompok yang terdampak tidak bisa diidentifikasi;
 - perkiraan waktu akan menjadi tebakan;
-- klaim memerlukan data baru yang belum diperiksa.
+- klaim memerlukan data baru yang belum diperiksa;
+- fakta dasarnya masih draf, belum diundangkan, atau klaim satu pihak.
 
 Jika berguna, bagian bisa menyebut pertanyaan yang masih terbuka, tetapi jangan membuat kalimat kosong seperti “hal ini tentu berdampak pada masa depan anak muda.”
+
+**Jika halaman tidak menyediakan cukup fakta untuk satu pun panah, bagian abstain adalah keluaran yang benar** — tulis paling banyak dua paragraf pendek yang menyatakan apa yang tidak tersedia, atau jangan buat bagian sama sekali. Jangan mengarang kelompok, mekanisme, atau horizon waktu untuk mengisi template.
 
 ## Pemeriksaan akhir
 
@@ -154,8 +176,11 @@ Sebelum menyelesaikan bagian, pastikan:
 6. Apakah ada peluang atau manfaat yang relevan, bukan hanya risiko?
 7. Apakah paragraf ini menambahkan pemahaman baru?
 8. Apakah bagian ini tetap berguna jika label generasi berubah?
+9. Apakah setiap fakta punya status provenance yang disebut (berlaku / belum diundangkan / draf / klaim pihak)?
+10. Apakah ada angka arus kas yang dijumlahkan dengan valuasi stok, atau dua periode yang digabung?
+11. Apakah ada klaim yang diwarisi dari section lama halaman, bukan dari badan halaman?
 
-Jika jawaban untuk pertanyaan 2, 3, atau 4 adalah tidak, revisi atau hilangkan klaim tersebut.
+Jika jawaban untuk pertanyaan 2, 3, 4, atau 9 adalah tidak, revisi atau hilangkan klaim tersebut. Jika pertanyaan 10 atau 11 ya, perbaiki sebelum selesai.
 
 ## Format keluaran
 
