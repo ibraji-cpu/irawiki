@@ -2,7 +2,7 @@
 title: "Kinerja Pemerintahan Prabowo-Gibran"
 description: "Ringkasan terverifikasi dua tahun pemerintahan Prabowo Subianto–Gibran Rakabuming Raka (20 Oktober 2024–20 Oktober 2026): indikator makro, laba BUMN, dan kebijakan per bidang — dengan koreksi dan catatan presisi atas daftar '200 fakta' yang beredar."
 date: 2026-10-20
-updated: '2026-10-20'
+updated: '2026-10-21'
 entity_type: topik
 entity_id: "kinerja-pemerintahan-prabowo-gibran"
 aliases:
@@ -15,7 +15,7 @@ tags:
   - ekonomi
 confidence: 8
 risiko_editorial: "sedang"
-last_updated: "2026-10-20"
+last_updated: "2026-10-21"
 ---
 
 # Kinerja Pemerintahan Prabowo-Gibran
@@ -26,7 +26,7 @@ last_updated: "2026-10-20"
 
 ## Kenapa penting buat Gen Z
 
-Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 untuk lulusan D3/S1 — uang saku setara UMK — tetapi kuotanya hanya mencakup sekitar 2% dari jumlah penganggur. Koding dan kecerdasan artifisial menjadi mata pelajaran pilihan mulai tahun ajaran 2025/2026, sehingga keterampilan digital Gen Z langsung dipengaruhi kurikulum. Cek Kesehatan Gratis sudah dimanfaatkan lebih dari 89 juta orang hingga pertengahan 2026 dan dapat diakses berkala, termasuk saat ulang tahun. PP TUNAS (PP 17/2025) memerintahkan platform berisiko tinggi menonaktifkan akun pengguna di bawah 16 tahun mulai Maret 2026 — aturan yang langsung menyentuh pengalaman bermedia sosial anak muda. Beasiswa Garuda membuka 1.000 kursi S1 ke kampus top dunia pada 2026 dalam 10 bidang prioritas. Investasi dua tahun diklaim menyerap 5,49 juta tenaga kerja — pasar kerja tempat Gen Z masuk lulusannya.
+Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 untuk lulusan D3/S1 — uang saku setara UMK — tetapi kuotanya hanya mencakup sekitar 2% dari jumlah penganggur. Koding dan kecerdasan artifisial menjadi mata pelajaran pilihan mulai tahun ajaran 2025/2026, sehingga keterampilan digital Gen Z langsung dipengaruhi kurikulum. Cek Kesehatan Gratis sudah dimanfaatkan lebih dari 89 juta orang hingga pertengahan 2026 dan dapat diakses berkala, termasuk saat ulang tahun. PP TUNAS (PP 17/2025) memerintahkan platform berisiko tinggi menonaktifkan akun pengguna di bawah 16 tahun mulai Maret 2026 — aturan yang langsung menyentuh pengalaman bermedia sosial anak muda. Beasiswa Garuda membuka 1.000 kursi S1 ke kampus top dunia pada 2026 dalam 10 bidang prioritas. Investasi dua tahun diklaim menyerap 5,49 juta tenaga kerja — pasar kerja tempat Gen Z masuk lulusannya. Evaluasi ini datang dari partai Presiden sendiri dan menyorot karhutla serta energi — dua isu yang langsung menyentuh kesehatan dan biaya hidup anak muda — sehingga hasil akhirnya, reshuffle atau tidak, ikut menentukan arah kebijakan tiga tahun ke depan.
 
 ## Fakta kunci
 
@@ -347,8 +347,13 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 ### 2026-10-19
 - Menteri Investasi Rosan Roeslani: realisasi investasi kumulatif 2 tahun Rp3.923,2 triliun dengan penyerapan 5.485.944 pekerja.
 
+### 2026-10-20
+- **Evaluasi kabinet dari partai Presiden sendiri:** Juru Bicara DPP Partai Gerindra [[Kamrussamad]] menyatakan partainya tengah mengevaluasi kinerja [[Kabinet Merah Putih]] per sektor berdasarkan KPI, dengan melibatkan ekonom senior independen. Data sementara Gerindra menunjukkan **42 menteri dan wakil menteri tidak bekerja sesuai KPI**; nama-namanya tidak dipublikasikan. Hasil evaluasi akan dilaporkan kepada Presiden [[Prabowo Subianto]] sebagai bahan perbaikan tiga tahun sisa pemerintahan.
+- **Menhut disorot soal karhutla:** Dalam forum yang sama, Kamrussamad menilai Menteri Kehutanan [[Raja Juli Antoni]] layak dievaluasi secara sungguh-sungguh — termasuk kemungkinan diganti lewat reshuffle — karena lemahnya pengawasan kawasan rawan kebakaran hutan dan lahan (karhutla) yang berdampak pada masyarakat. Per 20 Oktober 2026 belum ada tanggapan resmi dari Raja Juli Antoni maupun keputusan Presiden atas desakan ini.
+
 ## Aktor yang Terlibat
 
+- **Kamrussamad** — Juru Bicara DPP Partai Gerindra; inisiator evaluasi kinerja kabinet per sektor berdasarkan KPI (42 menteri/wamen, data sementara partai).
 - **Prabowo Subianto** — Presiden RI; menetapkan arah kebijakan dan menandatangani regulasi periode ini.
 - **Gibran Rakabuming Raka** — Wakil Presiden RI.
 - **Bahlil Lahadalia** — Menteri ESDM; kebijakan B50, E20, impor minyak, kilang, dan subsidi LPG.
@@ -366,6 +371,7 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 - **BPS** — sumber data makro (PDB, kemiskinan, NTP, investasi pariwisata).
 - **Danantara** — lembaga pengelola aset dan investasi negara; motor hilirisasi, PSEL, Kampung Haji.
 - **Satgas PKH** — gugus tugas penertiban kawasan hutan (Perpres 5/2025).
+- **Raja Juli Antoni** — Menteri Kehutanan; disorot Gerindra lewat pengawasan kawasan rawan karhutla.
 - **Bulog** — penyerapan dan stok beras nasional.
 
 ## Sumber
@@ -390,9 +396,17 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 - **OJK/IASC (30/9/2026):** 702.833 rekening diblokir; Rp811,1 miliar dana korban scam diblokir.
 - **Kemlu RI (6/1/2025):** Indonesia anggota penuh BRICS; Komisi Eropa (23/7/2025) mengadopsi visa cascade Schengen untuk WNI.
 - **Reuters (15/10/2026) & Securities.io:** konsultasi MSCI penurunan klasifikasi Indonesia (s.d. 30/4/2027).
+- **Sindonews (20/10/2026):** Debat Terbuka "2 Tahun Pemerintahan Prabowo-Gibran" — Kamrussamad: 42 menteri dan wamen tak bekerja sesuai KPI (data sementara), evaluasi melibatkan ekonom senior independen, hasil akan dilaporkan ke Presiden. https://nasional.sindonews.com/read/1762637/12/gerindra-evaluasi-kabinet-merah-putih-42-menteri-dan-wamen-dinilai-tak-kerja-sesuai-kpi-1792476628
+- **Sindonews (21/10/2026):** Gerindra — menteri/wamen yang tak bekerja maksimal dipersilakan keluar kabinet. https://nasional.sindonews.com/read/1762891/12/gerindra-ungkap-42-menteri-dan-wamen-tak-bekerja-maksimal-persilakan-keluar-kabinet-1792537801
+- **JournalArta (20/10/2026):** Menhut layak dievaluasi serius, Jubir Gerindra desak evaluasi; empat faktor karhutla disebut tanpa rincian. https://journalarta.com/news/2026/10/20/dua-tahun-pemerintahan-prabowo-jubir-gerindra-menhut-layak-direshuffle-presiden/
+- **tunjuk.id (20/10/2026, mengutip Okezone):** Kinerja 42 menteri dan wamen tak optimal. https://tunjuk.id/detail/2-tahun-pemerintah-prabowo-gibran-gerindra-kinerja-42-menteri-dan-wamen-tak-optimal
 - Laporan verifikasi per klaster (arsip kerja internal, 20/10/2026): 10 berkas di `verifikasi-200-fakta/` — tabel per klaim #1–200 dengan status TERVERIFIKASI / KOREKSI / RISIKO / BELUM TERVERIFIKASI, temuan, dan URL sumber per klaim.
 
 ## Catatan presisi
+
+- **Angka 42 menteri/wamen:** klaim **data sementara internal Partai Gerindra** (Kamrussamad), bukan temuan audit resmi; daftar nama tidak dipublikasikan di sumber mana pun — jangan pernah mengarang atau menyebut nama tertentu.
+- **Sorotan Menhut:** penilaian/posisi Partai Gerindra, bukan putusan atau temuan resmi; per 20/10/2026 belum ada tanggapan Raja Juli Antoni maupun keputusan/ pengumuman reshuffle dari Presiden.
+- **Empat faktor karhutla:** Kamrussamad menyebutnya tanpa rincian di sumber yang dibuka — sengaja tidak diisi.
 
 - **PDB:** angka 5,45% benar, tetapi superlatif daftar ("tertinggi 13 tahun") salah — yang benar "tertinggi dalam 5 tahun terakhir".
 - **NTP:** 131,11 benar sebagai rekor, tetapi label "tertinggi 34 tahun" belum terverifikasi — dipakai "rekor tertinggi sepanjang pencatatan BPS".
