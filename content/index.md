@@ -24,7 +24,8 @@ Oiya satu lagi, tiap konten di wiki ini juga disiapkan untuk generasi muda, gen 
 - [Reshuffle Kabinet Merah Putih](./reshuffle-kabinet-merah-putih)
 - [GKSR - Gerakan Kedaulatan Suara Rakyat](./gksr-gerakan-kedaulatan-suara-rakyat)
 - [Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR](./milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr)
-- [Update: Raja Juli Antoni](./update-raja-juli-antoni)
+- [Raja Juli Antoni](./aktor/raja-juli-antoni)
+- [Kamrussamad](./aktor/kamrussamad)
 
 # Atau Telusuri Semua
 Browse [semua artikel.](./tags/)

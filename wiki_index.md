@@ -6,81 +6,118 @@ title: Wiki Index
 
 > Kamus artikel IRAWIKI. Gunakan untuk navigasi cepat.
 > Diperbarui otomatis oleh `build_wiki_index.py`.
-> Last generated: 2026-10-17 08:13
+> Last generated: 2026-10-21 13:29
 
 ## Peristiwa
 
-- **[36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting Bagi Masa Depan Indonesia?](./content/peristiwa/36-tahun-humanika)** · 2026-10-05 (confidence: low)
-  _36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting Bagi Masa Depan Indonesia? Ke mana perginya keriuhan teriakan di jalanan setelah tiga dekade berlalu?_
+- **[36 Tahun Humanika: Mengapa Perjumpaan Para Mantan Demonstran Ini Begitu Penting Bagi Masa Depan Indonesia?](./content/peristiwa/36-tahun-humanika)** · 2026-10-20
+  _# 36 Tahun Humanika: Reuni Mantan Demonstran dan Arah Politik 2026
 
-- **[Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong](./content/peristiwa/Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong)** · 2026-10-09 (confidence: low)
-  _[[dato-low-tuck-kwong|Low Tuck Kwong]] dan [[elaine-low|Elaine Low]] sepakat menjual 10.000.000.500 saham BYAN kepada [[pt-jhonlin-baratama|PT Jhonlin Baratama]] melalui CSPA yang ditandatangani 16 September 2026. Setelah transaksi selesai, [[jhonlin-group|Jhonlin]] Baratama akan memegang ~30% BYAN._
+## Ringkasan
 
-- **[Kepala Kantah Kabupaten Bogor Menjadi Tersangka](./content/peristiwa/Kepala Kantah Kabupaten Bogor Menjadi Tersangka)** · 2026-10-10 (confidence: medium)
+Reuni 36 tahun Himpunan Masyarakat untuk Kemanusiaan dan Keadilan (Humanika) digelar di sebuah restoran di kawasan Cilandak, Jakarta, dan dihadiri menteri, bupati, serta pegiat sosial dari angkatan 1990-an._
+
+- **[Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong](./content/peristiwa/Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong)** · 2026-10-20
+  _# Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong
+
+## Ringkasan
+
+> **Ringkasan Topik:** Pada 16 September 2026, Haji Isam (Andi Syamsuddin Arsyad) sepakat membeli 30 persen saham PT Bayan Resources Tbk (BYAN) dari Low Tuck Kwong._
+
+- **[Kepala Kantah Kabupaten Bogor Menjadi Tersangka](./content/peristiwa/Kepala Kantah Kabupaten Bogor Menjadi Tersangka)** · 2026-10-20 (confidence: 4)
   _# Kepala Kantah Kabupaten Bogor Menjadi Tersangka
 
-> **Kronologi Singkat:** KPK menggelar operasi tangkap tangan (OTT) di Jabodetabek pada 14 September 2026 terkait dugaan suap pengurusan Hak Guna Bangunan (HGB) PT Summarecon Agung Tbk di Kabupaten Bogor._
+## Ringkasan
 
-- **[Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR](./content/peristiwa/Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR)** · 2026-09-27 (confidence: 5)
+> **Ringkasan Topik:** KPK menggelar operasi tangkap tangan (OTT) di Jabodetabek pada 14 September 2026 terkait dugaan suap pengurusan Hak Guna Bangunan (HGB) PT Summarecon Agung Tbk di Kabupaten Bogor._
+
+- **[Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR](./content/peristiwa/Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR)** · 2026-10-20 (confidence: 5)
   _# Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR
 
-> **Kronologi Singkat:** Delapan partai politik nonparlemen yang tergabung dalam Gerakan Kedaulatan Suara Rakyat (GKSR) meluncurkan Naskah Akademik dan Draf RUU Pemilu/Politik versi GKSR pada peringatan Milad ke-1 GKSR di DPP Partai Um..._
+## Ringkasan
 
-- **[Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR](./content/milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr)** · 2026-09-27 (confidence: 5)
+> **Ringkasan Topik:** Delapan partai politik nonparlemen yang tergabung dalam Gerakan Kedaulatan Suara Rakyat (GKSR) meluncurkan Naskah Akademik dan Draf RUU Pemilu/Politik versi GKSR pada peringatan Milad ke-1 GKSR di D..._
+
+- **[Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR](./content/milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr)** · 2026-10-20 (confidence: 5)
   _# Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR
 
-> **Kronologi Singkat:** Pada peringatan Milad ke-1 Gerakan Kedaulatan Suara Rakyat (GKSR), delapan partai politik nonparlemen — Partai Buruh, Partai Ummat, Partai Hanura, Partai Perindo, PPP, PBB, PKN, dan Partai Berkarya —..._
+## Ringkasan
 
-- **[Pelantikan 26 Anggota Wantimpres 2 Oktober 2026](./content/peristiwa/2026-10-02-pelantikan-wantimpres)** · 2026-10-04 (confidence: 5)
+> **Ringkasan Topik:** Pada peringatan Milad ke-1 Gerakan Kedaulatan Suara Rakyat (GKSR), delapan partai politik nonparlemen — Partai Buruh, Partai Ummat, Partai Hanura, Partai Perindo, PPP, PBB, PKN, dan Parta..._
+
+- **[Pelantikan 26 Anggota Wantimpres 2 Oktober 2026](./content/peristiwa/2026-10-02-pelantikan-wantimpres)** · 2026-10-20 (confidence: 5)
   _# Pelantikan 26 Anggota Wantimpres 2 Oktober 2026
 
-> **Kronologi Singkat:** Pada 2 Oktober 2026, Presiden Prabowo Subianto melantik 26 anggota Dewan Pertimbangan Presiden (Wantimpres) di Istana Negara, Jakarta._
+## Ringkasan
 
-- **[Pelantikan Pejabat 15 Oktober 2026](./content/peristiwa/2026-10-15-pelantikan-pejabat)** · 2026-10-15 (confidence: 5)
+> **Ringkasan Topik:** Pada 2 Oktober 2026, Presiden Prabowo Subianto melantik 26 anggota Dewan Pertimbangan Presiden (Wantimpres) di Istana Negara, Jakarta._
+
+- **[Pelantikan Pejabat 15 Oktober 2026](./content/peristiwa/2026-10-15-pelantikan-pejabat)** · 2026-10-20 (confidence: 5)
   _# Pelantikan Pejabat 15 Oktober 2026
 
-> **Kronologi Singkat:** Pada 15 Oktober 2026, Presiden Prabowo Subianto melantik sembilan pejabat di Istana Kepresidenan, Jakarta Pusat — empat wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala Badan Pengelolaan Gambut dan Mangrove Nasional (BPGMN), serta ..._
+## Ringkasan
 
-- **[Pencalonan Kapolri 2026](./content/peristiwa/pencalonan-kapolri-2026)** · 2026-10-10 (confidence: 4)
+> **Ringkasan Topik:** Pada 15 Oktober 2026, Presiden Prabowo Subianto melantik sembilan pejabat di Istana Kepresidenan, Jakarta Pusat — empat wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala Badan Pengelolaan Gambut dan Mangrove Nasional (BP..._
+
+- **[Pencalonan Kapolri 2026](./content/peristiwa/pencalonan-kapolri-2026)** · 2026-10-20 (confidence: 4)
   _# Pencalonan Kapolri 2026
 
-> **Kronologi Singkat:** Presiden Prabowo Subianto mengusulkan pemberhentian Listyo Sigit Prabowo dan pengangkatan Komjen Pol Suyudi Ario Seto sebagai calon tunggal Kapolri melalui Surpres tertanggal 30 September 2026._
+## Ringkasan
 
-- **[Pengesahan UU Pelindungan Ketenagakerjaan 2026](./content/peristiwa/2026-10-06-pengesahan-uu-pelindungan-ketenagakerjaan)** · 2026-10-06 (confidence: 6)
+> **Ringkasan Topik:** Presiden Prabowo Subianto mengusulkan pemberhentian Listyo Sigit Prabowo dan pengangkatan Komjen Pol Suyudi Ario Seto sebagai calon tunggal Kapolri melalui Surpres tertanggal 30 September 2026._
+
+- **[Pengesahan UU Pelindungan Ketenagakerjaan 2026](./content/peristiwa/2026-10-06-pengesahan-uu-pelindungan-ketenagakerjaan)** · 2026-10-20 (confidence: 6)
   _# Pengesahan UU Pelindungan Ketenagakerjaan 2026
 
-> **Kronologi Singkat:** DPR RI mengesahkan RUU Pelindungan Ketenagakerjaan menjadi undang-undang dalam Rapat Paripurna di Gedung Parlemen Senayan, Jakarta, Selasa 6 Oktober 2026._
+## Ringkasan
 
-- **[Penyerahan Tahap VIII Satgas PKH ke Negara](./content/peristiwa/2026-10-06-penyerahan-tahap-viii-satgas-pkh)** · 2026-10-06 (confidence: 8)
+> **Ringkasan Topik:** DPR RI mengesahkan RUU Pelindungan Ketenagakerjaan menjadi undang-undang dalam Rapat Paripurna di Gedung Parlemen Senayan, Jakarta, Selasa 6 Oktober 2026._
+
+- **[Penyerahan Tahap VIII Satgas PKH ke Negara](./content/peristiwa/2026-10-06-penyerahan-tahap-viii-satgas-pkh)** · 2026-10-20 (confidence: 8)
   _# Penyerahan Tahap VIII Satgas PKH ke Negara
 
-> **Kronologi Singkat:** Pada 6 Oktober 2026, di Gedung Bundar Kejaksaan Agung, Jakarta, Presiden Prabowo Subianto menyaksikan penyerahan Rp13,24 triliun hasil kerja Satgas PKH tahap VIII dari Jaksa Agung ST Burhanuddin kepada Menteri Keuangan Suahasi..._
+## Ringkasan
 
-- **[Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima](./content/peristiwa/2026-10-06-putusan-mk-phpu-ijazah-gibran)** · 2026-10-07 (confidence: 5)
+> **Ringkasan Topik:** Pada 6 Oktober 2026, di Gedung Bundar Kejaksaan Agung, Jakarta, Presiden Prabowo Subianto menyaksikan penyerahan Rp13,24 triliun hasil kerja Satgas PKH tahap VIII dari Jaksa Agung ST Burhanuddin kepada Menteri Keua..._
+
+- **[Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima](./content/peristiwa/2026-10-06-putusan-mk-phpu-ijazah-gibran)** · 2026-10-20 (confidence: 5)
   _# Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima
 
-## Kronologi
+## Ringkasan
 
-- **2026-10-06** — Mahkamah Konstitusi mengucapkan putusan Perkara Nomor 01/PHPU.PRES-XXIV/2026 dalam sidang yang dipimpin Ketua MK [[Suhartoyo]]. - **2026-10-06** — Amar putusan: permohonan ti..._
+> **Ringkasan Topik:** Mahkamah Konstitusi mengucapkan putusan Perkara Nomor 01/PHPU.PRES-XXIV/2026 pada 6 Oktober 2026 dengan amar permohonan tidak dapat diterima._
 
-- **[Rencana Pengesahan RUU Satu Data Indonesia](./content/peristiwa/rencana-pengesahan-ruu-satu-data-indonesia-2026)** · 2026-10-05 (confidence: 5)
+- **[Rencana Pengesahan RUU Satu Data Indonesia](./content/peristiwa/rencana-pengesahan-ruu-satu-data-indonesia-2026)** · 2026-10-20 (confidence: 5)
   _# Rencana Pengesahan RUU Satu Data Indonesia
 
-> **Kronologi Singkat:** DPR RI menargetkan pengesahan RUU Satu Data Indonesia (17 bab, 138 pasal) menjadi undang-undang pada rapat paripurna Selasa, 6 Oktober 2026. RUU ini mengatur pembentukan Badan Satu Data Indonesia (BSDI) sebagai orkestrator tat..._
+## Ringkasan
 
-- **[Reshuffle Kabinet Merah Putih 1 Oktober 2026](./content/peristiwa/2026-10-01-reshuffle-kabinet-merah-putih)** · 2026-10-02 (confidence: 5)
+> **Ringkasan Topik:** DPR RI menargetkan pengesahan RUU Satu Data Indonesia (17 bab, 138 pasal) menjadi undang-undang pada rapat paripurna Selasa, 6 Oktober 2026._
+
+- **[Reshuffle Kabinet Merah Putih 1 Oktober 2026](./content/peristiwa/2026-10-01-reshuffle-kabinet-merah-putih)** · 2026-10-20 (confidence: 5)
   _# Reshuffle Kabinet Merah Putih 1 Oktober 2026
 
-> **Kronologi Singkat:** Pada 1 Oktober 2026, Presiden Prabowo Subianto melantik sejumlah menteri, wakil menteri, dan pejabat tinggi negara di Istana Negara, Jakarta._
+## Ringkasan
 
-- **[Sengketa Ijazah Wapres Gibran di MK](./content/peristiwa/sengketa-ijazah-gibran-2026)** · 2026-10-07 (confidence: 4)
+> **Ringkasan Topik:** Pada 1 Oktober 2026, Presiden Prabowo Subianto melantik sejumlah menteri, wakil menteri, dan pejabat tinggi negara di Istana Negara, Jakarta._
+
+- **[Sengketa Ijazah Wapres Gibran di MK](./content/peristiwa/sengketa-ijazah-gibran-2026)** · 2026-10-20 (confidence: 4)
   _# Sengketa Ijazah Wapres Gibran di MK
 
-> **Kronologi Singkat:** Gugatan terhadap syarat pendidikan (ijazah SMA) Wakil Presiden Gibran Rakabuming Raka sebagai calon wakil presiden Pilpres 2024, diajukan ke Mahkamah Konstitusi pada 10 September 2026. Perkara No._
+## Ringkasan
+
+> **Ringkasan Topik:** Gugatan terhadap syarat pendidikan (ijazah SMA) Wakil Presiden Gibran Rakabuming Raka sebagai calon wakil presiden Pilpres 2024, diajukan ke Mahkamah Konstitusi pada 10 September 2026. Perkara No._
+
+- **[Update: [[2026-10-01-reshuffle-kabinet-merah-putih|Reshuffle Kabinet Merah Putih 1 Oktober 2026]]](./content/peristiwa/update-reshuffle-kabinet)** · 2026-10-20
+  _# Update Reshuffle Kabinet Merah Putih
+
+## Ringkasan
+
+> **Ringkasan Topik:** Halaman ini semula catatan kerja untuk menampung update hub reshuffle Kabinet Merah Putih._
 
 ## Aktor
 
-- **[Abdul Rasyid AS](./content/aktor/abdul-rasyid-as)** · 2026-10-05 (confidence: low)
+- **[Abdul Rasyid AS](./content/aktor/abdul-rasyid-as)** · 2026-10-20
   _# Abdul Rasyid AS
 
 ## Jabatan Aktif
@@ -94,7 +131,7 @@ title: Wiki Index
 - [[PT Citra Borneo Indah (CBI Group)]]
 - [[..._
 
-- **[Abdussamad Sulaiman HB](./content/aktor/abdussamad-sulaiman-hb)** · 2026-10-05 (confidence: low)
+- **[Abdussamad Sulaiman HB](./content/aktor/abdussamad-sulaiman-hb)** · 2026-10-20
   _# Abdussamad Sulaiman HB
 
 ## Jabatan Aktif
@@ -106,7 +143,7 @@ title: Wiki Index
 - Ketua DPD Partai Golkar Kalimantan Selatan (3 periode)
 - Ketua Komite Olahraga Nasional..._
 
-- **[Agus Harimurti Yudhoyono](./content/aktor/agus-harimurti-yudhoyono)** · 2026-10-05
+- **[Agus Harimurti Yudhoyono](./content/aktor/agus-harimurti-yudhoyono)** · 2026-10-20
   _# Agus Harimurti Yudhoyono
 
 ## Jabatan Aktif
@@ -123,18 +160,7 @@ title: Wiki Index
 
 - Bendum (Bendahara Umum) Partai NasDem. - Wakil Ketua Komisi III DPR RI._
 
-- **[Ahmad Syaikhu](./content/aktor/ahmad-syaikhu)** · 2026-10-05
-  _# Ahmad Syaikhu
-
-## Jabatan Aktif
-- Presiden Partai Keadilan Sejahtera (PKS) (2020–2025)
-
-## Riwayat Jabatan
-- Wakil Wali Kota Bekasi
-- Anggota DPRD Kota Bekasi
-- Aparatur Sipil Negara (ASN)_
-
-- **[Airlangga Hartarto](./content/aktor/airlangga-hartarto)** · 2026-10-05 (confidence: low)
+- **[Airlangga Hartarto](./content/aktor/airlangga-hartarto)** · 2026-10-20
   _# Airlangga Hartarto
 
 ## Jabatan Aktif
@@ -148,7 +174,7 @@ title: Wiki Index
 - [[Fajar Surya Wisesa]]
 - [[Persada Capital Investama]]_
 
-- **[Aksa Mahmud](./content/aktor/aksa-mahmud)** · 2026-10-05 (confidence: low)
+- **[Aksa Mahmud](./content/aktor/aksa-mahmud)** · 2026-10-20
   _# Aksa Mahmud
 
 ## Jabatan Aktif
@@ -159,7 +185,7 @@ title: Wiki Index
 - Wakil Ketua Majelis Permusyawaratan Rakyat (MPR) RI (2004-2009)
 - Anggota Dewan Perwakilan Daerah (DPD) RI mewakili Sulawesi Selatan ..._
 
-- **[Alexander Tedja](./content/aktor/alexander-tedja)** · 2026-10-05
+- **[Alexander Tedja](./content/aktor/alexander-tedja)** · 2026-10-20
   _# Alexander Tedja
 
 ## Jabatan Aktif
@@ -168,7 +194,7 @@ title: Wiki Index
 ## Riwayat Jabatan
 - Pendiri Pakuwon Group (1982)_
 
-- **[Alim Markus](./content/aktor/alim-markus)** · 2026-10-05
+- **[Alim Markus](./content/aktor/alim-markus)** · 2026-10-20
   _# Alim Markus
 
 ## Jabatan Aktif
@@ -178,7 +204,32 @@ title: Wiki Index
 - Anggota Dewan Pemantau Keuangan Negara
 - Penasihat Asosiasi Pengusaha Indonesia_
 
-- **[Anindya Bakrie](./content/aktor/anindya-bakrie)** · 2026-10-05
+- **[Alphington Universal](./content/aktor/alphington-universal)** · 2026-10-20
+  _# Alphington Universal
+
+## Catatan
+Disebut dalam skema transfer pricing ekspor batubara [[jhonlin-group|Jhonlin Group]]
+
+## Relasi Terkait
+
+- [[jhonlin-group]]_
+
+- **[Andi Syamsuddin Arsyad (Haji Isam)](./content/aktor/andi-syamsuddin-arsyad)** · 2026-10-20
+  _# Andi Syamsuddin Arsyad (Haji Isam)
+
+## Identitas
+
+- **Nama Lengkap:** Andi Syamsuddin Arsyad
+- **Alias:** Haji Isam
+- **Lahir:** 1977, Kalimantan Selatan
+- **Basis Daerah:** Kalimantan Selatan, Indonesia
+- **Status:** Pengusaha Batubara & Infrastruktur
+
+## Jabatan Aktif
+
+- Pendiri dan Pemilik [..._
+
+- **[Anindya Bakrie](./content/aktor/anindya-bakrie)** · 2026-10-20
   _# Anindya Bakrie
 
 ## Jabatan Aktif
@@ -189,7 +240,7 @@ title: Wiki Index
 - Presiden Direktur PT Visi Media Asia Tbk (VIVA)
 - Ketua Dewan Pertimbangan Kadin Indonesia_
 
-- **[Anthoni Salim](./content/aktor/anthoni-salim)** · 2026-10-05 (confidence: low)
+- **[Anthoni Salim](./content/aktor/anthoni-salim)** · 2026-10-20
   _# Anthoni Salim
 
 ## Jabatan Aktif
@@ -202,7 +253,7 @@ title: Wiki Index
 ## Catatan
 Orang terkaya #4 RI versi Forbes (Sept 2026) dengan kekayaan Rp 197,83 triliun (11,3 miliar USD)._
 
-- **[Arif Sugiyanto](./content/aktor/arif-sugiyanto)** · 2026-10-05
+- **[Arif Sugiyanto](./content/aktor/arif-sugiyanto)** · 2026-10-20
   _# Arif Sugiyanto
 
 ## Jabatan Aktif
@@ -214,7 +265,7 @@ Orang terkaya #4 RI versi Forbes (Sept 2026) dengan kekayaan Rp 197,83 triliun (
 ## Catatan
 Onboarding otomatis dari artikel pipeline_
 
-- **[Arsjad Rasjid](./content/aktor/arsjad-rasjid)** · 2026-10-05
+- **[Arsjad Rasjid](./content/aktor/arsjad-rasjid)** · 2026-10-20
   _# Arsjad Rasjid
 
 ## Jabatan Aktif
@@ -224,7 +275,7 @@ Onboarding otomatis dari artikel pipeline_
 - Ketua Umum Kadin Indonesia (2021-2026)
 - Ketua Tim Pemenangan Nasional Ganjar-Mahfud (2024)_
 
-- **[Bachtiar Karim](./content/aktor/bachtiar-karim)** · 2026-10-05
+- **[Bachtiar Karim](./content/aktor/bachtiar-karim)** · 2026-10-20
   _# Bachtiar Karim
 
 ## Jabatan Aktif
@@ -233,7 +284,7 @@ Onboarding otomatis dari artikel pipeline_
 ## Riwayat Jabatan
 - Direktur Utama PT Musim Mas_
 
-- **[Bahlil Lahadalia](./content/aktor/bahlil-lahadalia)** · 2026-10-05 (confidence: low)
+- **[Bahlil Lahadalia](./content/aktor/bahlil-lahadalia)** · 2026-10-20
   _# Bahlil Lahadalia
 
 ## Jabatan Aktif
@@ -246,7 +297,7 @@ Onboarding otomatis dari artikel pipeline_
 
 ##..._
 
-- **[Bayu Priawan Djokosoetono](./content/aktor/bayu-priawan-djokosoetono)** · 2026-10-05 (confidence: low)
+- **[Bayu Priawan Djokosoetono](./content/aktor/bayu-priawan-djokosoetono)** · 2026-10-20
   _# Bayu Priawan Djokosoetono
 
 ## Jabatan Aktif
@@ -260,24 +311,39 @@ Onboarding otomatis dari artikel pipeline_
 
 - [[dpp-partai-golkar]]_
 
-- **[Beijing Yawan HSR Co. Ltd](./content/aktor/beijing-yawan-hsr-co-ltd)** · 2026-10-05 (confidence: low)
+- **[Beijing Yawan HSR Co. Ltd](./content/aktor/beijing-yawan-hsr-co-ltd)** · 2026-10-20
   _# Beijing Yawan HSR Co. Ltd
 
 Konsorsium BUMN Tiongkok yang memegang 40% saham [[pt-kcic|PT KCIC]] dan mendominasi pengerjaan proyek Kereta Cepat Whoosh._
 
-- **[Budi Santoso](./content/aktor/budi-santoso)** · 2026-10-05
+- **[Budi Arie Setiadi](./content/aktor/budi-arie-setiadi)** · 2026-10-20
+  _# Budi Arie Setiadi
+
+Budi Arie Setiadi adalah Ketua Umum [[projo|Projo]] yang menjadi sorotan publik setelah melontarkan wacana spekulatif mengenai percepatan pemilu sebelum 2029 di hadapan relawan._
+
+- **[Budi Santoso](./content/aktor/budi-santoso)** · 2026-10-20
   _# Budi Santoso
 
 ## Jabatan Aktif
 - Menteri Perdagangan Republik Indonesia (2024-sekarang)_
 
-- **[Bursa Efek Indonesia](./content/aktor/bursa-efek-indonesia)** · 2026-10-05
+- **[Bursa Efek Indonesia](./content/aktor/bursa-efek-indonesia)** · 2026-10-20
   _# Bursa Efek Indonesia
 
 ## Catatan
 Mencatatkan BYAN dalam daftar High Shareholding Concentration (HSC) pada 14 Juli 2026._
 
-- **[Chairul Tanjung](./content/aktor/chairul-tanjung)** · 2026-10-05
+- **[Castro Enterprises](./content/aktor/castro-enterprises)** · 2026-10-20
+  _# Castro Enterprises
+
+## Catatan
+Disebut dalam skema transfer pricing ekspor batubara [[jhonlin-group|Jhonlin Group]]
+
+## Relasi Terkait
+
+- [[jhonlin-group]]_
+
+- **[Chairul Tanjung](./content/aktor/chairul-tanjung)** · 2026-10-20
   _# Chairul Tanjung
 
 ## Jabatan Aktif
@@ -287,12 +353,27 @@ Mencatatkan BYAN dalam daftar High Shareholding Concentration (HSC) pada 14 Juli
 - Menteri Koordinator Bidang Perekonomian (2014)
 - Anggota Majelis Permusyawaratan Rakyat (1999-2004)_
 
-- **[China Development Bank](./content/aktor/china-development-bank)** · 2026-10-05
+- **[China Development Bank](./content/aktor/china-development-bank)** · 2026-10-20
   _# China Development Bank
 
 Bank kebijakan di bawah Pemerintah Tiongkok yang berperan sebagai kreditor dalam proyek Kereta Cepat Jakarta-Bandung (Whoosh). Lembaga ini meraup keuntungan dari pembayaran bunga dan pokok utang jangka panjang yang ditanggung oleh pemerintah Indonesia melalui APBN._
 
-- **[Dato' Sri Tahir](./content/aktor/tahir)** · 2026-10-05 (confidence: low)
+- **[Colestar Resources](./content/aktor/colestar-resources)** · 2026-10-20
+  _# Colestar Resources
+
+## Catatan
+Entitas offshore yang diduga digunakan untuk mengalirkan ekspor batubara [[jhonlin-group|Jhonlin Group]]
+
+## Relasi Terkait
+
+- [[jhonlin-group]]_
+
+- **[Dato' Low Tuck Kwong](./content/aktor/dato-low-tuck-kwong)** · 2026-10-20
+  _# Dato' Low Tuck Kwong
+
+Dato' Low Tuck Kwong adalah pengusaha pendiri dan pemegang saham pengendali [[pt-bayan-resources-tbk|PT Bayan Resources Tbk]] (BYAN) yang menyepakati perjanjian CSPA penjualan 30% saham BYAN kepada kelompok usaha Jhonlin milik [[haji-isam|Haji Isam]]._
+
+- **[Dato' Sri Tahir](./content/aktor/tahir)** · 2026-10-20
   _# Dato' Sri Tahir
 
 ## Jabatan Aktif
@@ -309,7 +390,7 @@ Bank kebijakan di bawah Pemerintah Tiongkok yang berperan sebagai kreditor dalam
 ## Catatan
 Orang terkaya #5 RI versi Forbes (Sept 2026) bersama keluarga dengan..._
 
-- **[Djan Faridz](./content/aktor/djan-faridz)** · 2026-10-05 (confidence: low)
+- **[Djan Faridz](./content/aktor/djan-faridz)** · 2026-10-20
   _# Djan Faridz
 
 ## Jabatan Aktif
@@ -322,7 +403,7 @@ Orang terkaya #5 RI versi Forbes (Sept 2026) bersama keluarga dengan..._
 - Anggota DPD RI DKI Jakarta (2009-2011)
 - Ketua Pengurus Wilayah Nahdlatul Ulama DKI Jakar..._
 
-- **[Djoko Susanto](./content/aktor/djoko-susanto)** · 2026-10-05
+- **[Djoko Susanto](./content/aktor/djoko-susanto)** · 2026-10-20
   _# Djoko Susanto
 
 ## Jabatan Aktif
@@ -331,19 +412,20 @@ Orang terkaya #5 RI versi Forbes (Sept 2026) bersama keluarga dengan..._
 ## Riwayat Jabatan
 - Kemitraan bisnis grosir rokok dengan HM Sampoerna_
 
-- **[Dodi Hanggodo](./content/aktor/dodi-hanggodo)** · 2026-10-05
+- **[Dodi Hanggodo](./content/aktor/dodi-hanggodo)** · 2026-10-20
   _# Dodi Hanggodo
 
 ## Jabatan Aktif
 - Menteri Pekerjaan Umum Republik Indonesia (2024-sekarang)_
 
-- **[DPP Partai Golkar](./content/aktor/dpp-partai-golkar)** · 2026-10-05 (confidence: low)
+- **[DPP Partai Golkar](./content/aktor/dpp-partai-golkar)** · 2026-10-18 (confidence: 4)
   _# DPP Partai Golkar
 
-## Catatan
-Disebutkan dalam artikel sebagai afiliasi organisasi dari tersangka [[fahd-el-fouz|Fahd El Fouz]] / Fahd A. Rafiq yang menjabat sebagai Ketua DPP Partai Golkar._
+## Profil
 
-- **[Eddy Kusnadi Sariaatmadja](./content/aktor/eddy-kusnadi-sariaatmadja)** · 2026-10-05
+Dewan Pimpinan Pusat (DPP) adalah struktur kepengurusan pusat Partai Golongan Karya (Golkar)._
+
+- **[Eddy Kusnadi Sariaatmadja](./content/aktor/eddy-kusnadi-sariaatmadja)** · 2026-10-20
   _# Eddy Kusnadi Sariaatmadja
 
 ## Jabatan Aktif
@@ -352,7 +434,7 @@ Disebutkan dalam artikel sebagai afiliasi organisasi dari tersangka [[fahd-el-fo
 ## Riwayat Jabatan
 - Pendiri dan CEO Emtek Group_
 
-- **[Eddy William Katuari](./content/aktor/eddy-william-katuari)** · 2026-10-05
+- **[Eddy William Katuari](./content/aktor/eddy-william-katuari)** · 2026-10-20
   _# Eddy William Katuari
 
 ## Jabatan Aktif
@@ -361,7 +443,7 @@ Disebutkan dalam artikel sebagai afiliasi organisasi dari tersangka [[fahd-el-fo
 ## Riwayat Jabatan
 - Direktur Operasional PT Wings Surya_
 
-- **[Edwin Soeryadjaya](./content/aktor/edwin-soeryadjaya)** · 2026-10-05
+- **[Edwin Soeryadjaya](./content/aktor/edwin-soeryadjaya)** · 2026-10-20
   _# Edwin Soeryadjaya
 
 ## Jabatan Aktif
@@ -371,18 +453,18 @@ Disebutkan dalam artikel sebagai afiliasi organisasi dari tersangka [[fahd-el-fo
 ## Riwayat Jabatan
 - Direktur PT Astra International Tbk (restrukturisasi finansial Astra era 1990-an)_
 
-- **[Elaine Low](./content/aktor/elaine-low)** · 2026-10-09 (confidence: low)
+- **[Elaine Low](./content/aktor/elaine-low)** · 2026-10-20
   _# Elaine Low
 
 [[Elaine Low]] adalah putri [[Dato' Low Tuck Kwong]], pemegang saham [[PT Bayan Resources Tbk (BYAN)]] sebesar 22,002% per 31 Juli 2026. Bersama ayahnya, total kepemilikan keluarga Low mencapai 62,253% saham BYAN._
 
-- **[Erna Lisa Halaby](./content/aktor/erna-lisa-halaby)** · 2026-10-05
+- **[Erna Lisa Halaby](./content/aktor/erna-lisa-halaby)** · 2026-10-20
   _# Erna Lisa Halaby
 
 ## Jabatan Aktif
 - Wali Kota Banjarbaru (2024-sekarang)_
 
-- **[Erwin](./content/aktor/erwin)** · 2026-10-05
+- **[Erwin](./content/aktor/erwin)** · 2026-10-20
   _# Erwin
 
 ## Jabatan Aktif
@@ -391,7 +473,7 @@ Disebutkan dalam artikel sebagai afiliasi organisasi dari tersangka [[fahd-el-fo
 ## Catatan
 Onboarding otomatis dari artikel pipeline_
 
-- **[Fahd El Fouz / Fahd A. Rafiq](./content/aktor/fahd-el-fouz)** · 2026-10-05
+- **[Fahd El Fouz / Fahd A. Rafiq](./content/aktor/fahd-el-fouz)** · 2026-10-20
   _# Fahd El Fouz / Fahd A. Rafiq
 
 ## Jabatan Aktif
@@ -401,7 +483,7 @@ Onboarding otomatis dari artikel pipeline_
 ## Catatan
 Onboarding otomatis dari artikel pipeline_
 
-- **[Gandi Sulistiyanto Suherman](./content/aktor/gandi-sulistiyanto)** · 2026-10-05 (confidence: low)
+- **[Gandi Sulistiyanto Suherman](./content/aktor/gandi-sulistiyanto)** · 2026-10-20
   _# Gandi Sulistiyanto Suherman
 
 ## Jabatan Aktif
@@ -414,7 +496,7 @@ Onboarding otomatis dari artikel pipeline_
 - Komisaris PT Bank Internasional Indonesia (1998-1999)
 - Wakil Pre..._
 
-- **[Garibaldi Thohir](./content/aktor/garibaldi-thohir)** · 2026-10-05
+- **[Garibaldi Thohir](./content/aktor/garibaldi-thohir)** · 2026-10-20
   _# Garibaldi Thohir
 
 ## Jabatan Aktif
@@ -424,16 +506,16 @@ Onboarding otomatis dari artikel pipeline_
 - Komisaris Utama [[bursa-efek-indonesia|Bursa Efek Indonesia]]
 - Komisaris PT GoTo Gojek Tokopedia Tbk_
 
-- **[Haji Amir Nasarudin](./content/aktor/amir-nasarudin)** · 2026-10-05
+- **[Haji Amir Nasarudin](./content/aktor/amir-nasarudin)** · 2026-10-20
   _# Haji Amir Nasarudin_
 
-- **[Haji Bachrullah](./content/aktor/haji-bachrullah)** · 2026-10-05 (confidence: low)
+- **[Haji Bachrullah](./content/aktor/haji-bachrullah)** · 2026-10-20
   _# Haji Bachrullah
 
 ## Afiliasi Bisnis
 - [[KUD Gajah Mada]]_
 
-- **[Hary Tanoesoedibjo](./content/aktor/hary-tanoesoedibjo)** · 2026-10-05 (confidence: low)
+- **[Hary Tanoesoedibjo](./content/aktor/hary-tanoesoedibjo)** · 2026-10-20
   _# Hary Tanoesoedibjo
 
 ## Jabatan Aktif
@@ -446,7 +528,7 @@ Onboarding otomatis dari artikel pipeline_
 - Ketua Bapilu dan Ketua Dewan Pertimbangan Partai Hanura (2013–2014)
 - Ketua Dewan P..._
 
-- **[Hashim Djojohadikusumo](./content/aktor/hashim-djojohadikusumo)** · 2026-10-05 (confidence: low)
+- **[Hashim Djojohadikusumo](./content/aktor/hashim-djojohadikusumo)** · 2026-10-20
   _# Hashim Djojohadikusumo
 
 ## Jabatan Aktif
@@ -461,7 +543,7 @@ Onboarding otomatis dari artikel pipeline_
 
 - [[prabowo-subia..._
 
-- **[Hermanto Tanoko](./content/aktor/hermanto-tanoko)** · 2026-10-05
+- **[Hermanto Tanoko](./content/aktor/hermanto-tanoko)** · 2026-10-20
   _# Hermanto Tanoko
 
 ## Jabatan Aktif
@@ -470,7 +552,7 @@ Onboarding otomatis dari artikel pipeline_
 ## Riwayat Jabatan
 - Pendiri dan Komisaris Utama PT Avia Avian Tbk_
 
-- **[Husain Djojonegoro](./content/aktor/husain-djojonegoro)** · 2026-10-05
+- **[Husain Djojonegoro](./content/aktor/husain-djojonegoro)** · 2026-10-20
   _# Husain Djojonegoro
 
 ## Jabatan Aktif
@@ -479,12 +561,12 @@ Onboarding otomatis dari artikel pipeline_
 ## Riwayat Jabatan
 - Pendiri dan Presiden Direktur ABC Holding_
 
-- **[Ichsanuddin Noorsy](./content/aktor/ichsanuddin-noorsy)** · 2026-10-05
+- **[Ichsanuddin Noorsy](./content/aktor/ichsanuddin-noorsy)** · 2026-10-20
   _# Ichsanuddin Noorsy
 
 Pakar ekonomi politik yang mengajukan gagasan kritis bahwa utang luar negeri telah bertransformasi menjadi instrumen "perang asimetris" atau "jebakan utang" (debt trap) yang digunakan oleh kekuatan global untuk mendikte kebijakan negara berkembang._
 
-- **[Irwan Hidayat](./content/aktor/irwan-hidayat)** · 2026-10-05
+- **[Irwan Hidayat](./content/aktor/irwan-hidayat)** · 2026-10-20
   _# Irwan Hidayat
 
 ## Jabatan Aktif
@@ -493,7 +575,7 @@ Pakar ekonomi politik yang mengajukan gagasan kritis bahwa utang luar negeri tel
 ## Riwayat Jabatan
 - Presiden Direktur Sido Muncul_
 
-- **[Ishfah Abidal Aziz](./content/aktor/ishfah-abidal-aziz)** · 2026-10-05 (confidence: low)
+- **[Ishfah Abidal Aziz](./content/aktor/ishfah-abidal-aziz)** · 2026-10-20
   _# Ishfah Abidal Aziz
 
 ## Riwayat Jabatan
@@ -507,7 +589,7 @@ Pakar ekonomi politik yang mengajukan gagasan kritis bahwa utang luar negeri tel
 ## Catatan
 Tersangka KPK sejak 8 Januari 2026, ditahan 17 Maret 2026._
 
-- **[James Riady](./content/aktor/james-riady)** · 2026-10-05
+- **[James Riady](./content/aktor/james-riady)** · 2026-10-20
   _# James Riady
 
 ## Jabatan Aktif
@@ -517,7 +599,7 @@ Tersangka KPK sejak 8 Januari 2026, ditahan 17 Maret 2026._
 - CEO Lippo Group
 - Duta Besar Keliling Republik Indonesia (era Habibie)_
 
-- **[Jan Darmadi](./content/aktor/jan-darmadi)** · 2026-10-05 (confidence: low)
+- **[Jan Darmadi](./content/aktor/jan-darmadi)** · 2026-10-20
   _# Jan Darmadi
 
 ## Jabatan Aktif
@@ -528,12 +610,12 @@ Tersangka KPK sejak 8 Januari 2026, ditahan 17 Maret 2026._
 - Ketua Majelis Tinggi Partai NasDem
 - Pendiri & Presiden Komisaris PT Jakarta Setiabudi Internasional Tbk._
 
-- **[Jhonlin Group](./content/aktor/jhonlin-group)** · 2026-10-05 (confidence: low)
+- **[Jhonlin Group](./content/aktor/jhonlin-group)** · 2026-10-20
   _# Jhonlin Group
 
 Jhonlin Group adalah konglomerasi pertambangan dan infrastruktur milik [[Andi Syamsuddin Arsyad (Haji Isam)]] yang beroperasi di Indonesia. Group ini memiliki kuota produksi batubara pemerintah sekitar 60 juta ton per tahun dan merupakan induk dari beberapa emiten terkait._
 
-- **[Jogi Hendra Atmadja](./content/aktor/jogi-hendra-atmadja)** · 2026-10-05
+- **[Jogi Hendra Atmadja](./content/aktor/jogi-hendra-atmadja)** · 2026-10-20
   _# Jogi Hendra Atmadja
 
 ## Jabatan Aktif
@@ -542,12 +624,7 @@ Jhonlin Group adalah konglomerasi pertambangan dan infrastruktur milik [[Andi Sy
 ## Riwayat Jabatan
 - Pendiri PT Mayora Indah Tbk (1977)_
 
-- **[Joko Widodo](./content/aktor/joko-widodo)** · 2026-10-05 (confidence: low)
-  _# Joko Widodo
-
-[[joko-widodo|Joko Widodo]], atau [[joko-widodo|Jokowi]], adalah mantan Presiden Indonesia yang dalam artikel ini dikaitkan dengan insiden viral wacana percepatan pemilu._
-
-- **[Jusuf Hamka](./content/aktor/jusuf-hamka)** · 2026-10-05
+- **[Jusuf Hamka](./content/aktor/jusuf-hamka)** · 2026-10-20
   _# Jusuf Hamka
 
 ## Jabatan Aktif
@@ -558,7 +635,7 @@ Jhonlin Group adalah konglomerasi pertambangan dan infrastruktur milik [[Andi Sy
 - Ketua PBNU
 - Komisaris Utama PT Mandiri Toll Road_
 
-- **[Kaesang Pangarep](./content/aktor/kaesang-pangarep)** · 2026-10-05 (confidence: low)
+- **[Kaesang Pangarep](./content/aktor/kaesang-pangarep)** · 2026-10-20
   _# Kaesang Pangarep
 
 ## Jabatan Aktif
@@ -573,13 +650,14 @@ Jhonlin Group adalah konglomerasi pertambangan dan infrastruktur milik [[Andi Sy
 - Lini pakaian bertema kecebong
 - Apl..._
 
-- **[Kementerian Agraria dan Tata Ruang / Badan Pertanahan Nasional](./content/aktor/kementerian-atr-bpn)** · 2026-10-05
+- **[Kementerian Agraria dan Tata Ruang / Badan Pertanahan Nasional](./content/aktor/kementerian-atr-bpn)** · 2026-10-18 (confidence: 4)
   _# Kementerian Agraria dan Tata Ruang / Badan Pertanahan Nasional
 
-## Catatan
-Kementerian yang menjadi pusat penyidikan kasus suap pengurusan izin HGB yang melibatkan beberapa pejabat dan perantara._
+## Profil
 
-- **[Kuncoro Wibowo](./content/aktor/kuncoro-wibowo)** · 2026-10-05
+Kementerian Agraria dan Tata Ruang/Badan Pertanahan Nasional (ATR/BPN) adalah kementerian yang menyelenggarakan urusan pemerintahan di bidang pertanahan dan suburusan tata ruang._
+
+- **[Kuncoro Wibowo](./content/aktor/kuncoro-wibowo)** · 2026-10-20
   _# Kuncoro Wibowo
 
 ## Jabatan Aktif
@@ -588,7 +666,7 @@ Kementerian yang menjadi pusat penyidikan kasus suap pengurusan izin HGB yang me
 ## Riwayat Jabatan
 - Pendiri dan CEO Kawan Lama Sejahtera_
 
-- **[Lampri](./content/aktor/lampri)** · 2026-10-05
+- **[Lampri](./content/aktor/lampri)** · 2026-10-20
   _# Lampri
 
 ## Jabatan Aktif
@@ -597,7 +675,7 @@ Kementerian yang menjadi pusat penyidikan kasus suap pengurusan izin HGB yang me
 ## Catatan
 Onboarding otomatis dari artikel pipeline_
 
-- **[Liana Saputri](./content/aktor/liana-saputri)** · 2026-10-05 (confidence: low)
+- **[Liana Saputri](./content/aktor/liana-saputri)** · 2026-10-20
   _# liana-saputri
 
 ## Atribut Data
@@ -615,7 +693,7 @@ Onboarding otomatis dari artikel pipeline_
 - [[andi-syamsuddin-arsyad]]
 - [[h..._
 
-- **[Lim Gunawan Hariyanto](./content/aktor/lim-gunawan-hariyanto)** · 2026-10-05 (confidence: low)
+- **[Lim Gunawan Hariyanto](./content/aktor/lim-gunawan-hariyanto)** · 2026-10-20
   _# Lim Gunawan Hariyanto
 
 ## Jabatan Aktif
@@ -632,7 +710,7 @@ Onboarding otomatis dari artikel pipeline_
 - [[PT Cita Mineral Investindo Tbk]]
 - ..._
 
-- **[Lim Hariyanto Wijaya Sarwono](./content/aktor/lim-hariyanto)** · 2026-10-05 (confidence: low)
+- **[Lim Hariyanto Wijaya Sarwono](./content/aktor/lim-hariyanto)** · 2026-10-20
   _# Lim Hariyanto Wijaya Sarwono
 
 ## Jabatan Aktif
@@ -644,7 +722,7 @@ Onboarding otomatis dari artikel pipeline_
 ## Catatan
 Orang terkaya #9 RI versi Forbes (Sept 2026) dengan kekayaan Rp 85,78 triliun (4,9 miliar USD)._
 
-- **[Manoj Punjabi](./content/aktor/manoj-punjabi)** · 2026-10-05
+- **[Manoj Punjabi](./content/aktor/manoj-punjabi)** · 2026-10-20
   _# Manoj Punjabi
 
 ## Jabatan Aktif
@@ -654,16 +732,14 @@ Orang terkaya #9 RI versi Forbes (Sept 2026) dengan kekayaan Rp 85,78 triliun (4
 - Pendiri MD Pictures (2002)
 - Komisaris Multivision Plus (awal karir)_
 
-- **[Mardani Ali Sera](./content/aktor/mardani-ali-sera)** · 2026-10-10 (confidence: 3)
+- **[Mardani Ali Sera](./content/aktor/mardani-ali-sera)** · 2026-10-20 (confidence: 4)
   _# Mardani Ali Sera
 
-## Jabatan Aktif
+## Profil
 
-- Ketua Badan Pemenangan Pemilu (Bappilu) Partai Sejahtera Indonesia (PKS). ## Perkembangan Terakhir
+- Lahir dengan nama **Mardani** pada **9 April 1968** di Jakarta, dari pasangan M. Ali Sera dan Rohati._
 
-- **2026-10-09** — Merespons putusan MK soal ijazah Gibran: menyebut putusan MK sebagai keputusan yang berani dan jujur, menilai pertimbangannya layak didala..._
-
-- **[Marina Budiman](./content/aktor/marina-budiman)** · 2026-10-05 (confidence: low)
+- **[Marina Budiman](./content/aktor/marina-budiman)** · 2026-10-20
   _# Marina Budiman
 
 ## Jabatan Aktif
@@ -675,7 +751,7 @@ Orang terkaya #9 RI versi Forbes (Sept 2026) dengan kekayaan Rp 85,78 triliun (4
 ## Catatan
 Orang terkaya #8 RI versi Forbes (Sept 2026) dengan kekayaan Rp 105,04 triliun (6 miliar USD)._
 
-- **[Martua Sitorus](./content/aktor/martua-sitorus)** · 2026-10-05
+- **[Martua Sitorus](./content/aktor/martua-sitorus)** · 2026-10-20
   _# Martua Sitorus
 
 ## Jabatan Aktif
@@ -685,7 +761,7 @@ Orang terkaya #8 RI versi Forbes (Sept 2026) dengan kekayaan Rp 105,04 triliun (
 ## Riwayat Jabatan
 - CEO Wilmar International (hingga 2012)_
 
-- **[Megawati Soekarnoputri](./content/aktor/megawati-soekarnoputri)** · 2026-10-05
+- **[Megawati Soekarnoputri](./content/aktor/megawati-soekarnoputri)** · 2026-10-20
   _# Megawati Soekarnoputri
 
 ## Jabatan Aktif
@@ -696,7 +772,7 @@ Orang terkaya #8 RI versi Forbes (Sept 2026) dengan kekayaan Rp 105,04 triliun (
 ## Riwayat Jabatan
 - Presiden Republik Indonesia ..._
 
-- **[Michael Bambang Hartono](./content/aktor/michael-bambang-hartono)** · 2026-10-05 (confidence: low)
+- **[Michael Bambang Hartono](./content/aktor/michael-bambang-hartono)** · 2026-10-20
   _# Michael Bambang Hartono
 
 ## Jabatan Aktif
@@ -710,7 +786,7 @@ Orang terkaya #8 RI versi Forbes (Sept 2026) dengan kekayaan Rp 105,04 triliun (
 ## Afiliasi Bisnis
 - [[Djarum Grou..._
 
-- **[Moody\u2019s Ratings](./content/aktor/moodys-ratings)** · 2026-10-09 (confidence: low)
+- **[Moody\u2019s Ratings](./content/aktor/moodys-ratings)** · 2026-10-20
   _# moodys-ratings
 
 ## Atribut Data
@@ -730,7 +806,7 @@ Orang terkaya #8 RI versi Forbes (Sept 2026) dengan kekayaan Rp 105,04 triliun (
 - [[sepak-terjang-haji-isam|Sepak Terjang Haji Isam]]
 ..._
 
-- **[Muhaimin Iskandar](./content/aktor/muhaimin-iskandar)** · 2026-10-05
+- **[Muhaimin Iskandar](./content/aktor/muhaimin-iskandar)** · 2026-10-20
   _# Muhaimin Iskandar
 
 ## Jabatan Aktif
@@ -742,7 +818,7 @@ Orang terkaya #8 RI versi Forbes (Sept 2026) dengan kekayaan Rp 105,04 triliun (
 - Wakil Ketua DPR RI (1999–2009, 2019–2024)
 - Wakil Ketu..._
 
-- **[Muhamad Mardiono](./content/aktor/muhamad-mardiono)** · 2026-10-05
+- **[Muhamad Mardiono](./content/aktor/muhamad-mardiono)** · 2026-10-20
   _# Muhamad Mardiono
 
 ## Jabatan Aktif
@@ -753,7 +829,7 @@ Orang terkaya #8 RI versi Forbes (Sept 2026) dengan kekayaan Rp 105,04 triliun (
 - Pelaksana Tugas (Plt) Ketua Umum PPP (2022–2025)
 - Utusan Khusus Presiden Bidang Kerja Sama Pengentasan Kemis..._
 
-- **[Muhammad Fakhry](./content/aktor/muhammad-fakhry)** · 2026-10-05
+- **[Muhammad Fakhry](./content/aktor/muhammad-fakhry)** · 2026-10-20
   _# Muhammad Fakhry
 
 ## Jabatan Aktif
@@ -762,7 +838,7 @@ Orang terkaya #8 RI versi Forbes (Sept 2026) dengan kekayaan Rp 105,04 triliun (
 ## Catatan
 Onboarding otomatis dari artikel pipeline_
 
-- **[Muhammad Hatta](./content/aktor/muhammad-hatta)** · 2026-10-05 (confidence: low)
+- **[Muhammad Hatta](./content/aktor/muhammad-hatta)** · 2026-10-20
   _# Muhammad Hatta
 
 ## Jabatan Aktif
@@ -778,7 +854,7 @@ Onboarding otomatis dari artikel pipeline_
 - [[PT Harapan Binuang Motor]]
 - [[..._
 
-- **[Muhammad Jusuf Kalla](./content/aktor/muhammad-jusuf-kalla)** · 2026-10-05 (confidence: low)
+- **[Muhammad Jusuf Kalla](./content/aktor/muhammad-jusuf-kalla)** · 2026-10-20
   _# Muhammad Jusuf Kalla
 
 ## Jabatan Aktif
@@ -789,7 +865,7 @@ Onboarding otomatis dari artikel pipeline_
 - Wakil Presiden Republik Indonesia ke-10 (2004-2009)
 - Wakil Presiden Republik Indonesia ke-12 (2014-201..._
 
-- **[Musannif](./content/aktor/musannif-shah)** · 2026-10-05 (confidence: low)
+- **[Musannif](./content/aktor/musannif-shah)** · 2026-10-20
   _# Musannif
 
 ## Jabatan Aktif
@@ -804,17 +880,17 @@ Onboarding otomatis dari artikel pipeline_
 - [[PT Anugerah Sawindo]]
 ..._
 
-- **[Nasaruddin Umar](./content/aktor/nasaruddin-umar)** · 2026-10-05
+- **[Nasaruddin Umar](./content/aktor/nasaruddin-umar)** · 2026-10-20
   _# Nasaruddin Umar
 
 Nasaruddin Umar adalah Menteri Agama Republik Indonesia yang namanya sempat menjadi sasaran isu hoaks pengunduran diri dalam dinamika media sosial dan industri sensationalism._
 
-- **[Norman Joesoef](./content/aktor/norman-joesoef)** · 2026-10-05 (confidence: low)
+- **[Norman Joesoef](./content/aktor/norman-joesoef)** · 2026-10-20
   _# Norman Joesoef
 
 Norman Joesoef adalah pemilik [[Republik Korpora Indonesia (RKI)]] / Republikorp, perusahaan infrastruktur dan rantai pasok maritim. Ia merupakan salah satu figur kunci dalam transaksi akuisisi [[PT Bayan Resources Tbk (BYAN)]] oleh [[Haji Isam]]._
 
-- **[Nurhayati Subakat](./content/aktor/nurhayati-subakat)** · 2026-10-05
+- **[Nurhayati Subakat](./content/aktor/nurhayati-subakat)** · 2026-10-20
   _# Nurhayati Subakat
 
 ## Jabatan Aktif
@@ -823,7 +899,7 @@ Norman Joesoef adalah pemilik [[Republik Korpora Indonesia (RKI)]] / Republikorp
 ## Riwayat Jabatan
 - Presiden Direktur PT Paragon Technology and Innovation (pendiri Wardah)_
 
-- **[Otto Toto Sugiri](./content/aktor/otto-toto-sugiri)** · 2026-10-05 (confidence: low)
+- **[Otto Toto Sugiri](./content/aktor/otto-toto-sugiri)** · 2026-10-20
   _# Otto Toto Sugiri
 
 ## Jabatan Aktif
@@ -836,10 +912,10 @@ Norman Joesoef adalah pemilik [[Republik Korpora Indonesia (RKI)]] / Republikorp
 ## Catatan
 Orang terkaya #7 RI versi Forbes (Sept 2026) dengan kekayaan Rp 147,06 triliun (8,4 miliar USD)._
 
-- **[Partai Amanat Nasional](./content/aktor/pan)** · 2026-10-05
+- **[Partai Amanat Nasional](./content/aktor/pan)** · 2026-10-20
   _# Partai Amanat Nasional_
 
-- **[Peter Sondakh](./content/aktor/peter-sondakh)** · 2026-10-05
+- **[Peter Sondakh](./content/aktor/peter-sondakh)** · 2026-10-20
   _# Peter Sondakh
 
 ## Jabatan Aktif
@@ -849,7 +925,7 @@ Orang terkaya #7 RI versi Forbes (Sept 2026) dengan kekayaan Rp 147,06 triliun (
 - Pendiri Rajawali Group (1984)
 - Pemilik awal saham PT Excelcomindo Pratama (XL)_
 
-- **[Prabowo Subianto](./content/aktor/prabowo-subianto)** · 2026-10-05 (confidence: low)
+- **[Prabowo Subianto](./content/aktor/prabowo-subianto)** · 2026-10-20
   _# Prabowo Subianto
 
 ## Jabatan Aktif
@@ -864,7 +940,7 @@ Orang terkaya #7 RI versi Forbes (Sept 2026) dengan kekayaan Rp 147,06 triliun (
 ## Afiliasi Bisnis
 - [[PT Kia..._
 
-- **[Prajogo Pangestu](./content/aktor/prajogo-pangestu)** · 2026-10-05 (confidence: low)
+- **[Prajogo Pangestu](./content/aktor/prajogo-pangestu)** · 2026-10-20
   _# Prajogo Pangestu
 
 ## Jabatan Aktif
@@ -877,12 +953,12 @@ Orang terkaya #7 RI versi Forbes (Sept 2026) dengan kekayaan Rp 147,06 triliun (
 ## Catatan
 Orang terkaya #2 RI versi Forbes (Sept 2026) dengan kekayaan Rp 301,12 triliun (17,2 miliar USD)._
 
-- **[Projo](./content/aktor/projo)** · 2026-10-05 (confidence: low)
+- **[Projo](./content/aktor/projo)** · 2026-10-20
   _# Projo
 
 Projo adalah organisasi relawan politik yang dipimpin oleh [[budi-arie-setiadi|Budi Arie Setiadi]]. Dalam konteks artikel ini, Projo menjadi panggung di mana wacana spekulatif mengenai percepatan pemilu dilontarkan di hadapan para relawannya._
 
-- **[PT Bayan Resources Tbk](./content/aktor/pt-bayan-resources-tbk)** · 2026-10-06 (confidence: low)
+- **[PT Bayan Resources Tbk](./content/aktor/pt-bayan-resources-tbk)** · 2026-10-20
   _# PT Bayan Resources Tbk
 
 ## Catatan
@@ -890,12 +966,58 @@ Emiten yang masuk dalam daftar High Shareholding Concentration (HSC) BEI, di man
 
 - [[pt-jhonlin-baratama]]_
 
-- **[PT Kereta Cepat Indonesia China (PT KCIC)](./content/aktor/pt-kcic)** · 2026-10-05 (confidence: low)
+- **[PT Jhonlin Agro Raya Tbk](./content/aktor/pt-jhonlin-agro-raya)** · 2026-10-20
+  _# PT Jhonlin Agro Raya Tbk
+
+## Catatan
+Sempat dikaitkan dalam pemberitaan sebagai kendaraan akuisisi saham BYAN oleh [[haji-isam|Haji Isam]], sebelum struktur resmi mengonfirmasi transaksi dilakukan melalui [[pt-jhonlin-baratama|PT Jhonlin Baratama]]. ## Relasi Terkait
+
+- [[haji-isam]]
+- [[pt-jho..._
+
+- **[PT Jhonlin Baratama](./content/aktor/pt-jhonlin-baratama)** · 2026-10-20
+  _# pt-jhonlin-baratama
+
+## Atribut Data
+
+- **parent**: [[jhonlin-group|Jhonlin Group]]
+- **sector**: Investasi
+- **key_deal**: Akuisisi 30% BYAN via CSPA 16 Sep 2026
+
+## Sumber Data
+
+- kg-documents[tirto-cspa-byan-30-persen-september]
+
+## Relasi Terkait
+
+- [[jhonlin-group]]
+- [[Haji Isam Sepakat B..._
+
+- **[PT Kereta Cepat Indonesia China (PT KCIC)](./content/aktor/pt-kcic)** · 2026-10-20
   _# PT Kereta Cepat Indonesia China (PT KCIC)
 
 Perusahaan patungan (joint venture) yang mengelola proyek Kereta Cepat Jakarta-Bandung (Whoosh). Perusahaan ini memiliki struktur kepemilikan di mana konsorsium Tiongkok ([[beijing-yawan-hsr-co-ltd|Beijing Yawan HSR Co._
 
-- **[PT Sebuku Iron Lateritic Ores](./content/aktor/pt-sebuku-iron)** · 2026-10-05 (confidence: low)
+- **[PT Pradiksi Gunatama Tbk (PGUN)](./content/aktor/pt-pradiksi-gunatama)** · 2026-10-20
+  _# pt-pradiksi-gunatama
+
+## Atribut Data
+
+- **stock_code**: PGUN
+- **sector**: Pertambangan/Perkebunan
+- **hsc_date**: 2026-07-14
+- **controller**: [[liana-saputri|Liana Saputri]]
+- **concentration**: >90%
+
+## Sumber Data
+
+- kg-documents[idnfinancials-hsc-byan-juli-2026]
+
+## Relasi Terkait
+
+- [[ha..._
+
+- **[PT Sebuku Iron Lateritic Ores](./content/aktor/pt-sebuku-iron)** · 2026-10-20
   _# PT Sebuku Iron Lateritic Ores
 
 ## Catatan
@@ -905,7 +1027,7 @@ Perusahaan tambang yang izinnya diduga dicabut atas intervensi [[sahbirin-noor|S
 
 - [[sahbirin-noor]]_
 
-- **[PT Summarecon Agung Tbk](./content/aktor/pt-summarecon-agung-tbk)** · 2026-10-05 (confidence: low)
+- **[PT Summarecon Agung Tbk](./content/aktor/pt-summarecon-agung-tbk)** · 2026-10-20
   _# PT Summarecon Agung Tbk
 
 ## Catatan
@@ -915,12 +1037,12 @@ Perusahaan yang diduga memberikan suap senilai Rp 1,5 miliar untuk mempercepat d
 
 - [[adrianto-pitojo-adhi]]_
 
-- **[Purbaya Yudhi Sadewa](./content/aktor/purbaya-yudhi-sadewa)** · 2026-10-05
+- **[Purbaya Yudhi Sadewa](./content/aktor/purbaya-yudhi-sadewa)** · 2026-10-20
   _# Purbaya Yudhi Sadewa
 
 Purbaya Yudhi Sadewa adalah seorang pejabat publik yang pergeseran posisinya menjadi sorotan pemberitaan media terkait dengan isu kebijakan fiskal dan dinamika elite politik._
 
-- **[Putera Sampoerna](./content/aktor/putera-sampoerna)** · 2026-10-05
+- **[Putera Sampoerna](./content/aktor/putera-sampoerna)** · 2026-10-20
   _# Putera Sampoerna
 
 ## Jabatan Aktif
@@ -929,7 +1051,7 @@ Purbaya Yudhi Sadewa adalah seorang pejabat publik yang pergeseran posisinya men
 ## Riwayat Jabatan
 - Presiden Direktur PT HM Sampoerna Tbk (hingga 2005)_
 
-- **[Raffi Ahmad](./content/aktor/raffi-ahmad)** · 2026-10-16 (confidence: high)
+- **[Raffi Ahmad](./content/aktor/raffi-ahmad)** · 2026-10-16 (confidence: 4)
   _# Raffi Ahmad
 
 ## Jabatan Aktif
@@ -941,7 +1063,12 @@ Purbaya Yudhi Sadewa adalah seorang pejabat publik yang pergeseran posisinya men
 
 - **PT RANS Entertainment Indonesia Tbk (RANS)** — IPO di BEI 10 Juli 2026: 2,525 miliar saham @Rp170, me..._
 
-- **[Rizal Pahlevi](./content/aktor/rizal-pahlevi)** · 2026-10-05
+- **[Republik Korpora Indonesia (RKI) / Republikorp](./content/aktor/rki)** · 2026-10-20
+  _# Republik Korpora Indonesia (RKI)
+
+Republik Korpora Indonesia (RKI) atau Republikorp adalah perusahaan infrastruktur dan rantai pasok maritim yang dimiliki oleh [[Norman Joesoef]]._
+
+- **[Rizal Pahlevi](./content/aktor/rizal-pahlevi)** · 2026-10-20
   _# Rizal Pahlevi
 
 ## Jabatan Aktif
@@ -950,7 +1077,7 @@ Purbaya Yudhi Sadewa adalah seorang pejabat publik yang pergeseran posisinya men
 ## Catatan
 Onboarding otomatis dari artikel pipeline_
 
-- **[Robert Budi Hartono](./content/aktor/robert-budi-hartono)** · 2026-10-05 (confidence: low)
+- **[Robert Budi Hartono](./content/aktor/robert-budi-hartono)** · 2026-10-20
   _# Robert Budi Hartono
 
 ## Jabatan Aktif
@@ -965,7 +1092,7 @@ Orang terkaya #3 RI versi Forbes (Sept 2026) dengan kekayaan Rp 294,12 triliun (
 
 - [[michael-bambang-har..._
 
-- **[Robert Nitiyudo Wachjo](./content/aktor/robert-nitiyudo-wachjo)** · 2026-10-05 (confidence: low)
+- **[Robert Nitiyudo Wachjo](./content/aktor/robert-nitiyudo-wachjo)** · 2026-10-20
   _# Robert Nitiyudo Wachjo
 
 ## Jabatan Aktif
@@ -976,7 +1103,7 @@ Orang terkaya #3 RI versi Forbes (Sept 2026) dengan kekayaan Rp 294,12 triliun (
 ## Riwayat Jabatan
 - Pemegang Saham Utama P..._
 
-- **[Rusdi Kirana](./content/aktor/rusdi-kirana)** · 2026-10-05
+- **[Rusdi Kirana](./content/aktor/rusdi-kirana)** · 2026-10-20
   _# Rusdi Kirana
 
 ## Jabatan Aktif
@@ -987,13 +1114,13 @@ Orang terkaya #3 RI versi Forbes (Sept 2026) dengan kekayaan Rp 294,12 triliun (
 - Duta Besar RI untuk Malaysia (2017-2020)
 - Anggota Dewan Pertimbangan Presiden (2015-2017)_
 
-- **[Sahbirin Noor](./content/aktor/sahbirin-noor)** · 2026-10-05
+- **[Sahbirin Noor](./content/aktor/sahbirin-noor)** · 2026-10-20
   _# Sahbirin Noor
 
 ## Jabatan Aktif
 - Gubernur Kalimantan Selatan (2009-2024)_
 
-- **[Siti Hartati Murdaya](./content/aktor/siti-hartati-murdaya)** · 2026-10-05
+- **[Siti Hartati Murdaya](./content/aktor/siti-hartati-murdaya)** · 2026-10-20
   _# Siti Hartati Murdaya
 
 ## Jabatan Aktif
@@ -1003,7 +1130,7 @@ Orang terkaya #3 RI versi Forbes (Sept 2026) dengan kekayaan Rp 294,12 triliun (
 - Ketua Umum Perwakilan Umat Buddha Indonesia (Walubi)
 - Anggota Komite Ekonomi Nasional (KEN)_
 
-- **[Soedomo Mergonoto](./content/aktor/soedomo-mergonoto)** · 2026-10-05 (confidence: low)
+- **[Soedomo Mergonoto](./content/aktor/soedomo-mergonoto)** · 2026-10-20
   _# Soedomo Mergonoto
 
 ## Jabatan Aktif
@@ -1017,7 +1144,7 @@ Orang terkaya #3 RI versi Forbes (Sept 2026) dengan kekayaan Rp 294,12 triliun (
 - [[PT Santos Jaya Abadi Kopi Kapal Api]]
 - [[Agil Langgeng]]_
 
-- **[Soetjipto Nagaria](./content/aktor/soetjipto-nagaria)** · 2026-10-05
+- **[Soetjipto Nagaria](./content/aktor/soetjipto-nagaria)** · 2026-10-20
   _# Soetjipto Nagaria
 
 ## Jabatan Aktif
@@ -1026,7 +1153,7 @@ Orang terkaya #3 RI versi Forbes (Sept 2026) dengan kekayaan Rp 294,12 triliun (
 ## Riwayat Jabatan
 - Presiden Direktur [[pt-summarecon-agung-tbk|PT Summarecon Agung Tbk]] (1975-2001)_
 
-- **[Sontang Coin Manurung](./content/aktor/sontang-coin-manurung)** · 2026-10-05
+- **[Sontang Coin Manurung](./content/aktor/sontang-coin-manurung)** · 2026-10-20
   _# Sontang Coin Manurung
 
 ## Jabatan Aktif
@@ -1035,7 +1162,7 @@ Orang terkaya #3 RI versi Forbes (Sept 2026) dengan kekayaan Rp 294,12 triliun (
 ## Catatan
 Onboarding otomatis dari artikel pipeline_
 
-- **[Sri Prakash Lohia](./content/aktor/sri-prakash-lohia)** · 2026-10-05 (confidence: low)
+- **[Sri Prakash Lohia](./content/aktor/sri-prakash-lohia)** · 2026-10-20
   _# Sri Prakash Lohia
 
 ## Jabatan Aktif
@@ -1047,7 +1174,7 @@ Onboarding otomatis dari artikel pipeline_
 ## Catatan
 Orang terkaya #6 RI versi Forbes (Sept 2026) dengan kekayaan Rp 152,31 triliun (8,7 miliar USD)._
 
-- **[Sudhamek](./content/aktor/sudhamek-aws)** · 2026-10-05
+- **[Sudhamek](./content/aktor/sudhamek-aws)** · 2026-10-20
   _# Sudhamek
 
 ## Jabatan Aktif
@@ -1058,7 +1185,7 @@ Orang terkaya #6 RI versi Forbes (Sept 2026) dengan kekayaan Rp 152,31 triliun (
 ## Riwayat Jabatan
 - Presiden Direktur Garudafood (1994-2012)_
 
-- **[Suharso Monoarfa](./content/aktor/suharso-monoarfa)** · 2026-10-05 (confidence: low)
+- **[Suharso Monoarfa](./content/aktor/suharso-monoarfa)** · 2026-10-20
   _# Suharso Monoarfa
 
 ## Jabatan Aktif
@@ -1071,7 +1198,7 @@ Orang terkaya #6 RI versi Forbes (Sept 2026) dengan kekayaan Rp 152,31 triliun (
 - Menteri Perumahan Rakyat RI (2009-2011)
 - Anggota..._
 
-- **[Sukanto Tanoto](./content/aktor/sukanto-tanoto)** · 2026-10-05
+- **[Sukanto Tanoto](./content/aktor/sukanto-tanoto)** · 2026-10-20
   _# Sukanto Tanoto
 
 ## Jabatan Aktif
@@ -1081,7 +1208,7 @@ Orang terkaya #6 RI versi Forbes (Sept 2026) dengan kekayaan Rp 152,31 triliun (
 - Pendiri PT Inti Indorayon Utama Tbk
 - Pendiri Asian Agri_
 
-- **[Surya Paloh](./content/aktor/surya-paloh)** · 2026-10-05 (confidence: low)
+- **[Surya Paloh](./content/aktor/surya-paloh)** · 2026-10-20
   _# Surya Paloh
 
 ## Jabatan Aktif
@@ -1096,7 +1223,7 @@ Orang terkaya #6 RI versi Forbes (Sept 2026) dengan kekayaan Rp 152,31 triliun (
 
 - [[dpp-partai-golkar]]_
 
-- **[Susilo Wonowidjojo](./content/aktor/susilo-wonowidjojo)** · 2026-10-05 (confidence: low)
+- **[Susilo Wonowidjojo](./content/aktor/susilo-wonowidjojo)** · 2026-10-20
   _# Susilo Wonowidjojo
 
 ## Jabatan Aktif
@@ -1109,7 +1236,7 @@ Orang terkaya #6 RI versi Forbes (Sept 2026) dengan kekayaan Rp 152,31 triliun (
 - PT Gudang Garam Tbk (President Director, Vice President Director, Director)
 - [[PT Suryaduta Investama]] (Pengenda..._
 
-- **[Theodore Permadi Rachmat](./content/aktor/theodore-rachmat)** · 2026-10-05 (confidence: low)
+- **[Theodore Permadi Rachmat](./content/aktor/theodore-rachmat)** · 2026-10-20
   _# Theodore Permadi Rachmat
 
 ## Jabatan Aktif
@@ -1125,7 +1252,7 @@ Orang terkaya #6 RI versi Forbes (Sept 2026) dengan kekayaan Rp 152,31 triliun (
 ## Catatan
 Orang terkaya #10 RI versi Forbes (Sept 2026) dengan kekayaan Rp 85,78 triliun (4,9 mi..._
 
-- **[Tomy Winata](./content/aktor/tomy-winata)** · 2026-10-05
+- **[Tomy Winata](./content/aktor/tomy-winata)** · 2026-10-20
   _# Tomy Winata
 
 ## Jabatan Aktif
@@ -1134,7 +1261,7 @@ Orang terkaya #10 RI versi Forbes (Sept 2026) dengan kekayaan Rp 85,78 triliun (
 ## Riwayat Jabatan
 - Pendiri Artha Graha Peduli (Yayasan Sosial)_
 
-- **[Vidjongtius](./content/aktor/vidjongtius)** · 2026-10-05
+- **[Vidjongtius](./content/aktor/vidjongtius)** · 2026-10-20
   _# Vidjongtius
 
 ## Jabatan Aktif
@@ -1143,7 +1270,7 @@ Orang terkaya #10 RI versi Forbes (Sept 2026) dengan kekayaan Rp 85,78 triliun (
 ## Riwayat Jabatan
 - Direktur Keuangan (CFO) PT Kalbe Farma Tbk_
 
-- **[Yahya Cholil Staquf](./content/aktor/yahya-cholil-staquf)** · 2026-10-05
+- **[Yahya Cholil Staquf](./content/aktor/yahya-cholil-staquf)** · 2026-10-20
   _# Yahya Cholil Staquf
 
 ## Jabatan Aktif
@@ -1154,7 +1281,7 @@ Orang terkaya #10 RI versi Forbes (Sept 2026) dengan kekayaan Rp 85,78 triliun (
 ## Riwayat Jabatan
 - Anggota Dewan Pertimbangan Presiden RI..._
 
-- **[Zaini Mahdi](./content/aktor/zaini-mahdi)** · 2026-10-05 (confidence: low)
+- **[Zaini Mahdi](./content/aktor/zaini-mahdi)** · 2026-10-20
   _# Zaini Mahdi
 
 ## Jabatan Aktif
@@ -1172,16 +1299,28 @@ Orang terkaya #10 RI versi Forbes (Sept 2026) dengan kekayaan Rp 85,78 triliun (
 
 - [[muhammad-hatta]]_
 
-- **[Zainudin Hasan](./content/aktor/zainudin-hasan)** · 2026-10-05
+- **[Zainudin Hasan](./content/aktor/zainudin-hasan)** · 2026-10-20
   _# Zainudin Hasan_
 
-- **[Achmad Taufik Husein](./content/aktor/achmad-taufik-husein)** · 2026-10-05
+- **[Zulkifli Hasan](./content/aktor/zulkifli-hasan)** · 2026-10-20
+  _# Zulkifli Hasan
+
+## Jabatan Aktif
+- Menteri Koordinator Bidang Pangan Kabinet Merah Putih (2024–sekarang)
+- Ketua Umum [[pan|Partai Amanat Nasional]] ([[pan|PAN]]) (2015–sekarang)
+
+## Riwayat Jabatan
+- Menteri Perdagangan Republik Indonesia (2022–2024)
+- Ketua MPR RI (2014–2019)
+- Menteri Kehuta..._
+
+- **[Achmad Taufik Husein](./content/aktor/achmad-taufik-husein)** · 2026-10-20
   _# Achmad Taufik Husein
 
 ## Jabatan Aktif
 - Plt._
 
-- **[Adrianto Pitojo Adhi](./content/aktor/adrianto-pitojo-adhi)** · 2026-10-05
+- **[Adrianto Pitojo Adhi](./content/aktor/adrianto-pitojo-adhi)** · 2026-10-20
   _# Adrianto Pitojo Adhi
 
 ## Jabatan Aktif
@@ -1196,18 +1335,25 @@ Orang terkaya #10 RI versi Forbes (Sept 2026) dengan kekayaan Rp 85,78 triliun (
 
 > **Status: stub.** Halaman ini dibuat agar tautan ke halaman ini tidak menunjuk ke halaman kosong. Isi bagian di bawah akan dilengkapi dari data yang disediakan._
 
-- **[Agrinas Palma Nusantara](./content/agrinas-palma-nusantara)** · 2026-10-06 (confidence: 3)
+- **[Agrinas Palma Nusantara](./content/agrinas-palma-nusantara)** · 2026-10-20 (confidence: 3)
   _# Agrinas Palma Nusantara
 
-## Kronologi Singkat
+## Ringkasan
 
 Agrinas Palma Nusantara adalah entitas yang mengelola 140.762,04 hektare kebun hasil penertiban Satgas PKH. Status kepemilikan (BUMN atau swasta) belum terverifikasi._
 
-- **[Agum Gumelar](./content/aktor/agum-gumelar)** · 2026-10-05
+- **[Agum Gumelar](./content/aktor/agum-gumelar)** · 2026-10-20
   _# Agum Gumelar
 
 ## Profil
 Agum Gumelar adalah purnawirawan jenderal TNI dan politikus Indonesia. Ia menempati berbagai posisi strategis di pemerintahan, termasuk dua periode sebagai Menteri Perhubungan._
+
+- **[Ahmad Syaikhu](./content/aktor/ahmad-syaikhu)** · 2026-10-17 (confidence: 7)
+  _# Ahmad Syaikhu
+
+## Profil
+
+**Ahmad Syaikhu** (lahir 23 Januari 1965 di Ciledug, Cirebon, Jawa Barat) adalah politisi Partai Keadilan Sejahtera (PKS) yang menjabat Presiden PKS periode 2020–2025 dan sejak Juni 2025 menjadi Wakil Ketua Majelis Syura PKS periode 2025–2030._
 
 - **[Alamtri Resources](./content/aktor/alamtri-resources)** · 2026-10-01 (confidence: 1)
   _# Alamtri Resources
@@ -1279,18 +1425,12 @@ Prof. Dr._
 
 > **Status: stub.** Halaman ini dibuat agar wiki link ke halaman ini tidak menunjuk ke halaman kosong. Isi bagian di bawah akan dilengkapi dari data yang disediakan._
 
-- **[Bambang Soesatyo](./content/aktor/bambang-soesatyo)** · 2026-10-04 (confidence: 3)
+- **[Bambang Soesatyo](./content/aktor/bambang-soesatyo)** · 2026-10-15 (confidence: 4)
   _# Bambang Soesatyo
 
-## Jabatan Aktif
+## Profil
 
-- Anggota Dewan Pertimbangan Presiden (dilantik 2 Oktober 2026)
-
-## Perkembangan Terakhir
-
-### 2026-10-02
-
-- Dilantik sebagai anggota Dewan Pertimbangan Presiden (Wantimpres) oleh Presiden Prabowo Subianto di Istana Negara, Jakarta._
+H. Bambang Soesatyo, S.E., M.B.A._
 
 - **[Bambang Widjojanto](./content/aktor/bambang-widjojanto)** · 2026-10-01 (confidence: 1)
   _# Bambang Widjojanto
@@ -1330,18 +1470,12 @@ Prof. Dr._
 
 > **Status: stub.** Halaman ini dibuat agar wiki link ke halaman ini tidak menunjuk ke halaman kosong. Isi bagian di bawah akan dilengkapi dari data yang disediakan._
 
-- **[Budi Gunawan](./content/aktor/budi-gunawan)** · 2026-10-04 (confidence: 3)
+- **[Budi Gunawan](./content/aktor/budi-gunawan)** · 2026-10-17 (confidence: 7)
   _# Budi Gunawan
 
-## Jabatan Aktif
+## Profil
 
-- Anggota Dewan Pertimbangan Presiden (dilantik 2 Oktober 2026)
-
-## Perkembangan Terakhir
-
-### 2026-10-02
-
-- Dilantik sebagai Anggota Dewan Pertimbangan Presiden oleh Presiden Prabowo Subianto di Istana Negara, Jakarta._
+**Jenderal Polisi (Purn.) Budi Gunawan** (lahir 11 Desember 1959 di Surakarta, Jawa Tengah) adalah purnawirawan Polri yang pernah menjabat Kepala BIN (2016–2024) dan Menko Polkam (2024–2025), serta sejak 2 Oktober 2026 menjadi Anggota Dewan Pertimbangan Presiden._
 
 - **[Budi Tanuwibowo](./content/aktor/budi-tanuwibowo)** · 2026-10-04 (confidence: 3)
   _# Budi Tanuwibowo
@@ -1383,18 +1517,12 @@ Prof. Dr._
 
 - Anggota DPR RI periode 2014–2019 dan 2019–2024 ..._
 
-- **[Deddy Sitorus](./content/aktor/deddy-sitorus)** · 2026-10-07 (confidence: 3)
+- **[Deddy Sitorus](./content/aktor/deddy-sitorus)** · 2026-10-15 (confidence: 4)
   _# Deddy Sitorus
 
-## Jabatan Aktif
+## Profil
 
-- "Politisi PDI Perjuangan"
-
-## Perkembangan Terakhir
-
-### 2026-10-06
-
-- Politisi [[PDI Perjuangan]] yang menegaskan komitmen mendorong pembentukan Pansus Hak Angket setelah Putusan MK Nomor 01/PHPU.PRES-XXIV/2026._
+Deddy Yevri Hanteru Sitorus (lahir 17 November 1970, Pematangsiantar, Sumatera Utara) adalah politikus PDI Perjuangan yang saat ini menjabat Anggota DPR RI periode 2024–2029 dari Dapil Kalimantan Utara (terpilih dengan 59.335 suara) dan duduk di Komisi II._
 
 - **[Denny Indrayana](./content/aktor/denny-indrayana)** · 2026-10-01 (confidence: 1)
   _# Denny Indrayana
@@ -1523,12 +1651,12 @@ Dudy Purwagandhi, S.H. (lahir 23 September 1970, Manado, Sulawesi Utara) adalah 
 
 > **Status: stub.** Halaman ini dibuat agar tautan ke halaman ini tidak menunjuk ke halaman kosong. Isi bagian di bawah akan dilengkapi dari data yang disediakan._
 
-- **[GKSR - Gerakan Kedaulatan Suara Rakyat](./content/gksr-gerakan-kedaulatan-suara-rakyat)** · 2026-09-27 (confidence: 5)
+- **[GKSR - Gerakan Kedaulatan Suara Rakyat](./content/gksr-gerakan-kedaulatan-suara-rakyat)** · 2026-10-20 (confidence: 5)
   _# GKSR - Gerakan Kedaulatan Suara Rakyat
 
-## Profil Singkat
+## Ringkasan
 
-Gerakan Kedaulatan Suara Rakyat (GKSR) adalah koalisi/gerakan politik yang didirikan oleh delapan partai politik nonparlemen Indonesia — Partai Buruh, Partai Ummat, Partai Hanura, Partai Perindo, PPP, PBB, PKN, dan Partai Berkarya — den..._
+Gerakan Kedaulatan Suara Rakyat (GKSR) adalah koalisi/gerakan politik yang didirikan oleh delapan partai politik nonparlemen Indonesia — Partai Buruh, Partai Ummat, Partai Hanura, Partai Perindo, PPP, PBB, PKN, dan Partai Berkarya — dengan f..._
 
 - **[Global Digital Niaga (Blibli.com)](./content/aktor/global-digital-niaga)** · 2026-10-01 (confidence: 1)
   _# Global Digital Niaga (Blibli.com)
@@ -1560,18 +1688,12 @@ Gerakan Kedaulatan Suara Rakyat (GKSR) adalah koalisi/gerakan politik yang didir
 
 > **Status: stub.** Halaman ini dibuat agar wiki link ke halaman ini tidak menunjuk ke halaman kosong. Isi bagian di bawah akan dilengkapi dari data yang disediakan._
 
-- **[Hatta Rajasa](./content/aktor/hatta-rajasa)** · 2026-10-04 (confidence: 3)
+- **[Hatta Rajasa](./content/aktor/hatta-rajasa)** · 2026-10-18 (confidence: 4)
   _# Hatta Rajasa
 
-## Jabatan Aktif
+## Profil
 
-- Wakil Ketua Dewan Pertimbangan Presiden (dilantik 2 Oktober 2026)
-
-## Perkembangan Terakhir
-
-### 2026-10-02
-
-- Dilantik sebagai Wakil Ketua Dewan Pertimbangan Presiden oleh Presiden Prabowo Subianto di Istana Negara, Jakarta._
+Muhammad Hatta Rajasa (lahir 18 Desember 1953 di Palembang, Sumatera Selatan) adalah politikus senior Partai Amanat Nasional (PAN)._
 
 - **[Ida Bagus Purwalaksana](./content/aktor/ida-bagus-purwalaksana)** · 2026-10-04 (confidence: 3)
   _# Ida Bagus Purwalaksana
@@ -1586,18 +1708,12 @@ Gerakan Kedaulatan Suara Rakyat (GKSR) adalah koalisi/gerakan politik yang didir
 
 - Dilantik sebagai anggota Dewan Pertimbangan Presiden (Wantimpres) oleh Presiden Prabowo Subianto di Istana Negara, Jakarta._
 
-- **[Ignasius Jonan](./content/aktor/ignasius-jonan)** · 2026-10-04 (confidence: 3)
+- **[Ignasius Jonan](./content/aktor/ignasius-jonan)** · 2026-10-20 (confidence: 8)
   _# Ignasius Jonan
 
-## Jabatan Aktif
+## Profil
 
-- Anggota Dewan Pertimbangan Presiden (dilantik 2 Oktober 2026)
-
-## Perkembangan Terakhir
-
-### 2026-10-02
-
-- Dilantik sebagai anggota Dewan Pertimbangan Presiden (Wantimpres) oleh Presiden Prabowo Subianto di Istana Negara, Jakarta._
+Ignasius Jonan (lahir 21 Juni 1963, Singapura) adalah teknokrat dan pengusaha Indonesia, mantan Menteri Perhubungan dan Menteri Energi dan Sumber Daya Mineral Kabinet Kerja (Joko Widodo), serta Direktur Utama PT Kereta Api Indonesia (Persero) periode 2009–2014._
 
 - **[Indonet](./content/aktor/indonet)** · 2026-10-01 (confidence: 1)
   _# Indonet
@@ -1617,15 +1733,29 @@ Gerakan Kedaulatan Suara Rakyat (GKSR) adalah koalisi/gerakan politik yang didir
 - **[Ir. H. Muhammad Said Iqbal, M.E.](./content/aktor/muhammad-said-iqbal)** · 2026-10-01 (confidence: 1)
   _# Ir. H._
 
+- **[Joko Widodo](./content/aktor/joko-widodo)** · 2026-10-17 (confidence: 7)
+  _# Joko Widodo
+
+## Profil
+
+**Joko Widodo** (lahir 21 Juni 1961 di Surakarta, Jawa Tengah), akrab disapa **Jokowi**, adalah Presiden Republik Indonesia ke-7 (2014–2024). Sebelum menjadi presiden ia menjabat Wali Kota Surakarta (2005–2012) dan Gubernur DKI Jakarta (2012–2014)._
+
 - **[Kalla Group (NV Hadji Kalla)](./content/aktor/kalla-group)** · 2026-10-01 (confidence: 1)
   _# Kalla Group (NV Hadji Kalla)
 
 > **Status: stub.** Halaman ini dibuat agar wiki link ke halaman ini tidak menunjuk ke halaman kosong. Isi bagian di bawah akan dilengkapi dari data yang disediakan._
 
-- **[Kejaksaan Agung](./content/kejaksaan-agung)** · 2026-10-06 (confidence: 5)
+- **[Kamrussamad](./content/aktor/kamrussamad)** · 2026-10-21 (confidence: 7)
+  _# Kamrussamad
+
+## Jabatan Aktif
+
+- Juru Bicara DPP Partai Gerindra. - Anggota DPR RI periode 2024–2029, Fraksi Gerindra, Komisi XI (bidang keuangan dan perbankan)._
+
+- **[Kejaksaan Agung](./content/kejaksaan-agung)** · 2026-10-20 (confidence: 5)
   _# Kejaksaan Agung
 
-## Kronologi Singkat
+## Ringkasan
 
 Kejaksaan Agung Republik Indonesia adalah lembaga penegakan hukum yang dipimpin Jaksa Agung ST Burhanuddin. Dalam konteks Satgas PKH, Kejaksaan Agung menjadi lokasi penyerahan tahap VIII dan Wakil Ketua I Pengarah._
 
@@ -1755,18 +1885,12 @@ Kejaksaan Agung Republik Indonesia adalah lembaga penegakan hukum yang dipimpin 
 
 - Dilantik sebagai anggota Dewan Pertimbangan Presiden (Wantimpres) oleh Presiden Prabowo Subianto di Istana Negara, Jakarta._
 
-- **[Muhammad Qodari](./content/aktor/muhammad-qodari)** · 2026-10-04 (confidence: 3)
+- **[Muhammad Qodari](./content/aktor/muhammad-qodari)** · 2026-10-20 (confidence: 4)
   _# Muhammad Qodari
 
-## Jabatan Aktif
+## Profil
 
-- Anggota Dewan Pertimbangan Presiden (dilantik 2 Oktober 2026)
-
-## Perkembangan Terakhir
-
-### 2026-10-02
-
-- Dilantik sebagai Anggota Dewan Pertimbangan Presiden oleh Presiden Prabowo Subianto di Istana Negara, Jakarta._
+Muhammad Qodari, akrab disapa M._
 
 - **[Muhammad Quraish Shihab](./content/aktor/muhammad-quraish-shihab)** · 2026-10-04 (confidence: 3)
   _# Muhammad Quraish Shihab
@@ -2355,7 +2479,7 @@ Kejaksaan Agung Republik Indonesia adalah lembaga penegakan hukum yang dipimpin 
 
 - Belum ada data yang terdokumentasi di halaman ini._
 
-- **[Raja Juli Antoni](./content/aktor/raja-juli-antoni)** · 2026-10-01 (confidence: 1)
+- **[Raja Juli Antoni](./content/aktor/raja-juli-antoni)** · 2026-10-21 (confidence: 6)
   _# Raja Juli Antoni
 
 > **Status: stub.** Halaman ini dibuat agar wiki link ke halaman ini tidak menunjuk ke halaman kosong. Isi bagian di bawah akan dilengkapi dari data yang disediakan._
@@ -2417,10 +2541,10 @@ Kejaksaan Agung Republik Indonesia adalah lembaga penegakan hukum yang dipimpin 
 
 - Dilantik sebagai anggota Dewan Pertimbangan Presiden (Wantimpres) oleh Presiden Prabowo Subianto di Istana Negara, Jakarta._
 
-- **[Satgas PKH](./content/satgas-pkh)** · 2026-10-06 (confidence: 7)
+- **[Satgas PKH](./content/satgas-pkh)** · 2026-10-20 (confidence: 7)
   _# Satgas PKH
 
-## Kronologi Singkat
+## Ringkasan
 
 Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH) adalah satgas lintas 12 kementerian/lembaga yang dibentuk pemerintahan Prabowo untuk menertibkan penguasaan kawasan hutan serta memulihkan penerimaan negara dari sektor kehutanan._
 
@@ -2442,25 +2566,14 @@ Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH) adalah satgas lintas 12 kemen
 
 > **Status: stub.** Halaman ini dibuat agar wiki link ke halaman ini tidak menunjuk ke halaman kosong. Isi bagian di bawah akan dilengkapi dari data yang disediakan._
 
-- **[Sjafrie Sjamsoeddin](./content/sjafrie-sjamsoeddin)** · 2026-10-06 (confidence: 5)
+- **[Sjafrie Sjamsoeddin](./content/sjafrie-sjamsoeddin)** · 2026-10-20 (confidence: 5)
   _# Sjafrie Sjamsoeddin
 
-## Jabatan Aktif
+## Ringkasan
 
-- Menteri Pertahanan Republik Indonesia (2024–sekarang)
-- Ketua Pengarah [[Satgas PKH]]
+> **Ringkasan Topik:** Sjafrie Sjamsoeddin adalah Menteri Pertahanan Republik Indonesia sejak 2024 dan menjabat Ketua Pengarah Satgas Penertiban Kawasan Hutan (Satgas PKH)._
 
-## Perkembangan Terakhir
-
-### 2026-10-06
-
-- Sebagai Ketua Pengarah [[Satgas PKH]], terlibat dalam penyerahan tahap VIII hasil kerja satgas ke negara
-
-## Sumber
-
-- NTV ..._
-
-- **[Soeharto](./content/aktor/soeharto)** · 2026-10-12 (confidence: high)
+- **[Soeharto](./content/aktor/soeharto)** · 2026-10-12 (confidence: 5)
   _# Soeharto
 
 ## Profil
@@ -2480,19 +2593,12 @@ Haji Muhammad Soeharto (dikenal sebagai Soeharto; ejaan internasional: Suharto) 
 
 - Dilantik sebagai anggota Dewan Pertimbangan Presiden (Wantimpres) oleh Presiden Prabowo Subianto di Istana Negara, Jakarta._
 
-- **[ST Burhanuddin](./content/st-burhanuddin)** · 2026-10-06 (confidence: 5)
+- **[ST Burhanuddin](./content/st-burhanuddin)** · 2026-10-20 (confidence: 5)
   _# ST Burhanuddin
 
-## Jabatan Aktif
+## Ringkasan
 
-- Jaksa Agung Republik Indonesia (2026–sekarang)
-- Wakil Ketua I Pengarah [[Satgas PKH]]
-
-## Perkembangan Terakhir
-
-### 2026-10-06
-
-- Menyerahkan Rp13,24 triliun hasil kerja [[Satgas PKH]] tahap VIII kepada Menkeu [[Suahasil Nazara]], disaksikan Presiden [[Prab..._
+> **Ringkasan Topik:** ST Burhanuddin adalah Jaksa Agung Republik Indonesia dan menjabat Wakil Ketua I Pengarah Satgas Penertiban Kawasan Hutan (Satgas PKH)._
 
 - **[Sufmi Dasco Ahmad](./content/aktor/sufmi-dasco-ahmad)** · 2026-10-06 (confidence: 4)
   _# Sufmi Dasco Ahmad
@@ -2551,7 +2657,7 @@ Haji Muhammad Soeharto (dikenal sebagai Soeharto; ejaan internasional: Suharto) 
 
 - Ketua [[Mahkamah Konstitusi]] yang memimpin sidang pembacaan Putusan Nomor 01/PHPU.PRES-XXIV/2026 pada 6 Oktober 2026. - Putusan tersebut beramar permohonan tidak dapat diterima karena alasan..._
 
-- **[Suyudi Ario Seto](./content/suyudi-ario-seto)** · 2026-10-01 (confidence: 4)
+- **[Suyudi Ario Seto](./content/suyudi-ario-seto)** · 2026-10-20 (confidence: 4)
   _# Suyudi Ario Seto
 
 ## Ringkasan
@@ -2562,23 +2668,6 @@ Suyudi Ario Seto adalah perwira tinggi Kepolisian Negara Republik Indonesia yang
   _# Triputra Group
 
 > **Status: stub.** Halaman ini dibuat agar wiki link ke halaman ini tidak menunjuk ke halaman kosong. Isi bagian di bawah akan dilengkapi dari data yang disediakan._
-
-- **[Update: Raja Juli Antoni](./content/update-raja-juli-antoni)** · 2026-10-06 (confidence: 5)
-  _# Raja Juli Antoni
-
-## Jabatan Aktif
-
-- Menteri Kehutanan Republik Indonesia (2024–sekarang)
-
-## Perkembangan Terakhir
-
-### 2026-10-06
-
-- Kemenhut menerima 140.762,04 ha kebun hasil penertiban [[Satgas PKH]] untuk dikelola [[Agrinas Palma Nusantara]]
-
-## Sumber
-
-- NTV News._
 
 - **[Yassierli](./content/aktor/yassierli)** · 2026-10-06 (confidence: 4)
   _# Yassierli
@@ -2630,61 +2719,62 @@ Suyudi Ario Seto adalah perwira tinggi Kepolisian Negara Republik Indonesia yang
 
 ## Analisis
 
-- **[Analisis Relasi: Jokowi dalam RUU Satu Data Indonesia](./content/analisis/analisis-jokowi-ruu-satu-data)** · 2026-10-05 (confidence: 4)
+- **[Analisis Relasi: Jokowi dalam RUU Satu Data Indonesia](./content/analisis/analisis-jokowi-ruu-satu-data)** · 2026-10-20 (confidence: 4)
   _# Analisis Relasi: Jokowi dalam RUU Satu Data Indonesia
 
 ## Ringkasan
 
-Analisis mengenai peran Jokowi dalam pengesahan RUU Satu Data Indonesia. ## Fakta yang Relevan
+Analisis mengenai peran Jokowi dalam pengesahan RUU Satu Data Indonesia. ## Apa relevansinya dengan anak muda?_
 
-- Jokowi mengusulkan RUU Satu Data Indonesia._
-
-- **[Analisis Relasi: Kepentingan di Balik RUU Satu Data Indonesia](./content/analisis/analisis-kepentingan-ruu-satu-data-indonesia)** · 2026-10-05 (confidence: 4)
+- **[Analisis Relasi: Kepentingan di Balik RUU Satu Data Indonesia](./content/analisis/analisis-kepentingan-ruu-satu-data-indonesia)** · 2026-10-20 (confidence: 4)
   _# Analisis Relasi: Kepentingan di Balik RUU Satu Data Indonesia
 
 ## Ringkasan
 
 RUU Satu Data Indonesia (17 bab, 138 pasal; target disahkan 6 Oktober 2026) menempatkan sejumlah aktor pada posisi kepentingan yang terdokumentasi: DPR/Baleg sebagai inisiator legislasi, pemerintah (Presiden, Bappenas,..._
 
-- **[Analisis: Membaca Angka Satgas PKH — Rp52 T Kas vs Rp400 T Valuasi](./content/analisis/analisis-satgas-pkh-uang-vs-nilai)** · 2026-10-06 (confidence: 7)
+- **[Analisis: Membaca Angka Satgas PKH — Rp52 T Kas vs Rp400 T Valuasi](./content/analisis/analisis-satgas-pkh-uang-vs-nilai)** · 2026-10-20 (confidence: 7)
   _# Analisis: Membaca Angka Satgas PKH — Rp52 T Kas vs Rp400 T Valuasi
 
-## Fakta yang Relevan
+## Ringkasan
 
-- Total tunai sejak dibentuk: ~Rp52 triliun (8 kali penyerahan)
-- Nilai lahan yang dikuasai kembali: hampir Rp400 triliun (valuasi Prabowo)
-- Komposisi tahap VIII (Rp13,24 T): Rp8,22 T pajak + Rp3,47 T de..._
+Satgas PKH menyerahkan Rp13,24 triliun ke negara pada 6 Oktober 2026, sehingga total kas yang diserahkan sejak dibentuk mencapai sekitar Rp52 triliun dalam delapan tahap._
 
-- **[Analisis: Putusan PTUN 50/G Gugatan Gelar Pahlawan Soeharto dan Posisi Hukum Ahli Waris](./content/analisis/analisis-putusan-ptun-gelar-pahlawan-soeharto)** · 2026-10-16 (confidence: high)
+- **[Analisis: Putusan PTUN 50/G Gugatan Gelar Pahlawan Soeharto dan Posisi Hukum Ahli Waris](./content/analisis/analisis-putusan-ptun-gelar-pahlawan-soeharto)** · 2026-10-20 (confidence: 4)
   _# Analisis: Putusan PTUN 50/G Gugatan Gelar Pahlawan Soeharto dan Posisi Hukum Ahli Waris
 
 ## Ringkasan
 
 Putusan PTUN Jakarta perkara 50/G/2026/PTUN.JKT menyatakan gugatan pembatalan Keppres Nomor 116/TK/2025 tentang penganugerahan gelar Pahlawan Nasional kepada Jenderal Besar TNI H.M. Soeharto *..._
 
-- **[Analisis: Taktik Komunikasi GKSR dalam Peluncuran Naskah Akademik RUU Politik](./content/analisis-taktik-komunikasi-gksr-dalam-peluncuran-naskah-akademik-ruu-politik)** · 2026-09-27 (confidence: 4)
+- **[Analisis: Taktik Komunikasi GKSR dalam Peluncuran Naskah Akademik RUU Politik](./content/analisis-taktik-komunikasi-gksr-dalam-peluncuran-naskah-akademik-ruu-politik)** · 2026-10-20 (confidence: 4)
   _# Analisis: Taktik Komunikasi GKSR dalam Peluncuran Naskah Akademik RUU Politik
 
 ## Ringkasan
 
 Peluncuran Naskah Akademik dan Draf RUU Politik versi GKSR pada Milad ke-1 (2026-09-26) tidak hanya bersifat pernyataan posisi, tetapi mengandung elemen-elemen taktik komunikasi yang dapat diamati dari ..._
 
-- **[Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu](./content/analisis/Di Balik Keceplosan Budi Arie dan Diamnya Jokowi)** · 2026-10-05 (confidence: low)
-  _*Artikel ini dibuat berdasarkan diskusi mendalam dengan AI._
+- **[Dari 'Sembilan Naga' to 'Sembilan Haji](./content/analisis/Dari 'Sembilan Naga' to 'Sembilan Haji')** · 2026-10-20
+  _Ada kabar dari bursa yang pada mulanya tampak seperti urusan angka biasa. Pertengahan Agustus 2026, pasar dikejutkan oleh rumor besar: [[haji-isam|Haji Isam]], lewat [[jhonlin-group|Jhonlin Group]], disebut-sebut bersiap mencaplok 62,25 persen saham [[pt-bayan-resources-tbk|Bayan Resources]] (BYAN)._
 
-- **[Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026](./content/analisis/Krisis Makna Subsidi Silang Pertamina Kelas Menangah)** · 2026-10-05 (confidence: low)
+- **[Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu](./content/analisis/Di Balik Keceplosan Budi Arie dan Diamnya Jokowi)** · 2026-10-20
+  _# Di Balik Keceplosan Budi Arie dan Diamnya Jokowi: Analisis Psikologis Wacana Percepatan Pemilu
+
+Apakah sebuah "keceplosan" di panggung politik murni kesalahan mekanis otak yang kelelahan, atau justru wacana rahasia yang sengaja dibiarkan merembes untuk menguji ombak publik?_
+
+- **[Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026](./content/analisis/Krisis Makna Subsidi Silang Pertamina Kelas Menangah)** · 2026-10-20
   _# Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026
 
 Pada 1 September 2026, harga bahan bakar minyak (BBM) nonsubsidi kembali mengalami penyesuaian tajam._
 
-- **[Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR](./content/analisis/hak-angket-ijazah-gibran)** · 2026-10-10 (confidence: 5)
+- **[Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR](./content/analisis/hak-angket-ijazah-gibran)** · 2026-10-20 (confidence: 5)
   _# Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR
 
 ## Ringkasan
 
 [[Mahkamah Konstitusi]] menolak permohonan Perkara Nomor 01/PHPU.PRES-XXIV/2026 pada 6 Oktober 2026 karena alasan prosedural, sehingga materi syarat pendidikan [[Gibran Rakabuming Raka]] tidak diuji._
 
-- **[KPU, MK, dan Sengketa Syarat Pendidikan Gibran: Membaca Ujian Integritas Institusi melalui Siklus Berpikir Ichsanuddin Noorsy](./content/analisis/kpu-mk-syarat-pendidikan-gibran)** · 2026-10-01 (confidence: 5)
+- **[KPU, MK, dan Sengketa Syarat Pendidikan Gibran: Membaca Ujian Integritas Institusi melalui Siklus Berpikir Ichsanuddin Noorsy](./content/analisis/kpu-mk-syarat-pendidikan-gibran)** · 2026-10-20 (confidence: 5)
   _# KPU, MK, dan Sengketa Syarat Pendidikan Gibran: Membaca Ujian Integritas Institusi melalui Siklus Berpikir Ichsanuddin Noorsy
 
 ## Ringkasan
@@ -2693,264 +2783,60 @@ Perdebatan mengenai keabsahan syarat pendidikan [[gibran-rakabuming-raka|Gibran 
 
 ## Lainnya
 
-- **[Alphington Universal](./content/aktor/alphington-universal)** · 2026-10-05
-  _---
-title: Alphington Universal
-category: aktor
-tags:
-- korporasi
-- organisasi
-status: stub
-entity_type: individu
-relasi:
-  - objek_id: "aktor/jhonlin-group"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-date: '2026-08-30T05:43:28.695566+00:00'
----# Alphington Universal
+- **[Kinerja Pemerintahan Prabowo-Gibran](./content/kinerja-pemerintahan-prabowo-gibran)** · 2026-10-21 (confidence: 8)
+  _# Kinerja Pemerintahan Prabowo-Gibran
 
-#..._
+## Ringkasan
 
-- **[Andi Syamsuddin Arsyad](./content/aktor/andi-syamsuddin-arsyad)** · 2026-10-09
-  _---
-title: Andi Syamsuddin Arsyad (Haji Isam)
-aliases:
-- haji-isam
-- Haji Isam
-- Andi Syamsuddin Arsyad
-- Andi Syamsuddin Arsyad (Haji Isam)
-category: aktor
-tags:
-- individu
-- pengusaha
-- taipan-batubara
-- batubara
-- jhonlin-group
-- kalimantan-selatan
-- haji-isam
-entity_type: individu
-sumber:
-  -..._
+> **Ringkasan:** Halaman ini merangkum dua tahun pemerintahan Presiden Prabowo Subianto dan Wakil Presiden Gibran Rakabuming Raka (20 Oktober 2024–20 Oktober 2026)._
 
-- **[Budi Arie Setiadi](./content/aktor/budi-arie-setiadi)** · 2026-10-05
-  _---
-title: Budi Arie Setiadi
-category: aktor
-tags:
-  - individu
-  - politisi
-entity_type: individu
-relasi:
-  - objek_id: "aktor/joko-widodo"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/joko-widodo"
-    predikat: "terkait_dengan"
-    confidence: "low"..._
-
-- **[Castro Enterprises](./content/aktor/castro-enterprises)** · 2026-10-05
-  _---
-title: Castro Enterprises
-category: aktor
-tags:
-- korporasi
-- organisasi
-status: stub
-entity_type: individu
-relasi:
-  - objek_id: "aktor/jhonlin-group"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-date: '2026-08-30T05:43:28.690266+00:00'
----# Castro Enterprises
-
-## Ca..._
-
-- **[Colestar Resources](./content/aktor/colestar-resources)** · 2026-10-05
-  _---
-title: Colestar Resources
-category: aktor
-tags:
-- korporasi
-- organisasi
-status: stub
-entity_type: organisasi
-relasi:
-  - objek_id: "aktor/jhonlin-group"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-date: '2026-08-30T05:43:28.684856+00:00'
----# Colestar Resources
-
-## ..._
-
-- **[Dari 'Sembilan Naga' To 'Sembilan Haji](./content/analisis/Dari 'Sembilan Naga' to 'Sembilan Haji')** · 2026-10-05
-  _---
-title: Dari 'Sembilan Naga' to 'Sembilan Haji'
-entity_type: analisis
-relasi:
-  - objek_id: "aktor/pt-bayan-resources-tbk"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/andi-syamsuddin-arsyad"
-    predikat: "terkait_dengan"
-    confidence: "low"
-   ..._
-
-- **[Dato Low Tuck Kwong](./content/aktor/dato-low-tuck-kwong)** · 2026-10-05
-  _---
-title: Dato' Low Tuck Kwong
-aliases:
-- Dato' Low Tuck Kwong
-- Low Tuck Kwong
-- low-tuck-kwong
-category: aktor
-tags:
-- individu
-- pasar-modal
-- pengusaha
-- pertambangan
-entity_type: individu
-relasi:
-  - objek_id: "aktor/pt-bayan-resources-tbk"
-    predikat: "terkait_dengan"
-    confidence: "lo..._
-
-- **[Korupsi di Indonesia](./content/peristiwa/korupsi-di-indonesia)** · 2026-10-15 (confidence: high)
+- **[Korupsi di Indonesia](./content/peristiwa/korupsi-di-indonesia)** · 2026-10-20 (confidence: 4)
   _# Korupsi di Indonesia
 
 ## Ringkasan
 
 > **Ringkasan Topik:** Korupsi — penyalahgunaan wewenang untuk keuntungan pribadi atau kelompok — adalah persoalan sistemik di Indonesia. Pasca-reformasi 1998, pemberantasan korupsi dilembagakan melalui Komisi Pemberantasan Korupsi ([[kpk|KPK]]) yang dibentuk..._
 
-- **[Perang Ultra Modern dan Geopolitik](./content/perang-ultra-modern-dan-geopolitik)** · 2026-10-17 (confidence: 7)
+- **[Perang Ultra Modern dan Geopolitik](./content/perang-ultra-modern-dan-geopolitik)** · 2026-10-20 (confidence: 7)
   _# Perang Ultra Modern dan Geopolitik
 
-> **Ringkasan:** Halaman ini mengulas contoh-contoh perang ultra modern dan dinamika geopolitik berbagai kawasan. Edisi kali ini dimulai dengan kawasan ASEAN — gelombang narasi dan tekanan terhadap perekonomian Indonesia sepanjang 2026 — sebagai studi kasus._
+## Ringkasan
 
-- **[Polemik Ijazah Gibran](./content/peristiwa/polemik-ijazah-gibran)** · 2026-10-09 (confidence: high)
+> **Ringkasan:** Halaman ini mengulas contoh-contoh perang ultra modern dan dinamika geopolitik berbagai kawasan. Edisi kali ini dimulai dengan kawasan ASEAN — gelombang narasi dan tekanan terhadap perekonomian Indonesia sepanjang 2026 — sebagai..._
+
+- **[Polemik Ijazah Gibran](./content/peristiwa/polemik-ijazah-gibran)** · 2026-10-09 (confidence: 5)
   _# Polemik Ijazah Gibran
 
-## Ringkasan Polemik Ijazah Gibran
+## Ringkasan
 
 > **Ringkasan Topik:** Rangkaian polemik, gugatan hukum, dan sengketa konstitusi terkait keabsahan riwayat pendidikan serta syarat ijazah Wakil Presiden [[gibran-rakabuming-raka|Gibran Rakabuming Raka]]._
 
-- **[Pt Jhonlin Agro Raya](./content/aktor/pt-jhonlin-agro-raya)** · 2026-10-05
-  _---
-title: PT Jhonlin Agro Raya Tbk
-aliases:
-- PT Jhonlin Agro Raya Tbk (JARR)
-- PT Jhonlin Agro Raya (JARR)
-- PT Jhonlin Agro Raya
-- JARR
-category: aktor
-tags:
-- korporasi
-- organisasi
-entity_type: organisasi
-relasi:
-  - objek_id: "aktor/andi-syamsuddin-arsyad"
-    predikat: "terkait_dengan"
-   ..._
-
-- **[Pt Jhonlin Baratama](./content/aktor/pt-jhonlin-baratama)** · 2026-10-05
-  _---
-title: PT Jhonlin Baratama
-entity_type: organisasi
-relasi:
-  - objek_id: "aktor/jhonlin-group"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "peristiwa/Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong"
-    predikat: "terkait_dengan"
-    confidenc..._
-
-- **[Pt Pradiksi Gunatama](./content/aktor/pt-pradiksi-gunatama)** · 2026-10-05
-  _---
-title: PT Pradiksi Gunatama Tbk (PGUN)
-entity_type: organisasi
-relasi:
-  - objek_id: "aktor/andi-syamsuddin-arsyad"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/liana-saputri"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-a..._
-
-- **[Reshuffle Kabinet Merah Putih](./content/reshuffle-kabinet-merah-putih)** · 2026-10-15
+- **[Reshuffle Kabinet Merah Putih](./content/reshuffle-kabinet-merah-putih)** · 2026-10-20
   _# Reshuffle Kabinet Merah Putih
 
-> **Ringkasan:** Hub living document untuk seluruh perombakan (reshuffle) Kabinet Merah Putih era Presiden Prabowo Subianto._
+## Ringkasan
 
-- **[Rki](./content/aktor/rki)** · 2026-10-05
-  _---
-title: Republik Korpora Indonesia (RKI) / Republikorp
-entity_type: individu
-relasi:
-  - objek_id: "aktor/andi-syamsuddin-arsyad"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-  - objek_id: "aktor/norman-joesoef"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    ..._
+> **Ringkasan Topik:** Hub living document untuk seluruh perombakan (reshuffle) Kabinet Merah Putih era Presiden Prabowo Subianto._
 
-- **[Sepak Terjang Haji Isam](./content/peristiwa/sepak-terjang-haji-isam)** · 2026-10-16 (confidence: high)
+- **[Sepak Terjang Haji Isam](./content/peristiwa/sepak-terjang-haji-isam)** · 2026-10-20 (confidence: 5)
   _# Sepak Terjang Haji Isam
 
-> **Ringkasan Topik:** Living document yang merangkum dinamika manuver korporasi, transaksi pasar modal, dan ekspansi konglomerasi bisnis yang dipimpin pengusaha asal Batulicin, Kalimantan Selatan, [[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad (Haji Isam)]]._
+## Ringkasan
 
-- **[Soeharto Pahlawan Nasional](./content/peristiwa/soeharto-pahlawan-nasional)** · 2026-10-14 (confidence: high)
+> **Ringkasan Topik:** Living document yang merangkum dinamika manuver korporasi, transaksi pasar modal, dan ekspansi konglomerasi bisnis yang dipimpin pengusaha asal Batulicin, Kalimantan Selatan, [[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad (Haji Isam..._
+
+- **[Soeharto Pahlawan Nasional](./content/peristiwa/soeharto-pahlawan-nasional)** · 2026-10-20 (confidence: 4)
   _# Soeharto Pahlawan Nasional
 
-## Ringkasan Soeharto Pahlawan Nasional
+## Ringkasan
 
-> **Ringkasan Topik:** Penganugerahan gelar Pahlawan Nasional kepada Almarhum Jenderal Besar TNI H.M. Soeharto oleh Presiden [[prabowo-subianto|Prabowo Subianto]] — diumumkan 10 November 2025 bertepatan dengan Hari Pahlawan, b..._
+> **Ringkasan Topik:** Penganugerahan gelar Pahlawan Nasional kepada Almarhum Jenderal Besar TNI H.M. Soeharto oleh Presiden [[prabowo-subianto|Prabowo Subianto]] — diumumkan 10 November 2025 bertepatan dengan Hari Pahlawan, berdasarkan Keppres No._
 
-- **[Update Reshuffle Kabinet](./content/peristiwa/update-reshuffle-kabinet)** · 2026-10-06
-  _---
-title: "Update: [[2026-10-01-reshuffle-kabinet-merah-putih|Reshuffle Kabinet Merah Putih 1 Oktober 2026]]"
-tags:
-- peristiwa
-- pemerintahan
-entity_type: peristiwa
-entity_id: "2026-10-01-reshuffle-kabinet-merah-putih"
-
-peristiwa_terkait:
-- "[[2026-10-02-pelantikan-wantimpres]]"
-- "[[Satgas PKH..._
-
-- **[UU Pelindungan Ketenagakerjaan](./content/uu-pelindungan-ketenagakerjaan-2026)** · 2026-10-06 (confidence: 6)
+- **[UU Pelindungan Ketenagakerjaan](./content/uu-pelindungan-ketenagakerjaan-2026)** · 2026-10-20 (confidence: 6)
   _# UU Pelindungan Ketenagakerjaan
 
-> **Ringkas:** Undang-undang yang mengatur pelindungan ketenagakerjaan secara terkonsolidasi, disahkan DPR RI pada 6 Oktober 2026 dalam Rapat Paripurna. Terdiri atas 23 bab dan 313 pasal, disusun sebagai tindak lanjut Putusan MK No._
+## Ringkasan
 
-- **[Zulkifli Hasan](./content/aktor/zulkifli-hasan)** · 2026-10-05
-  _---
-title: Zulkifli Hasan
-category: aktor
-tags:
-- Pangan nasional
-- Penguatan pasar domestik
-- Politik moderat dan inklusif
-- individu
-- pengusaha
-- politisi
-entity_type: individu
-date: '2026-08-19T09:50:51.389023+00:00'
----# Zulkifli Hasan
+> **Ringkasan Topik:** Undang-undang yang mengatur pelindungan ketenagakerjaan secara terkonsolidasi, disahkan DPR RI pada 6 Oktober 2026 dalam Rapat Paripurna. Terdiri atas 23 bab dan 313 pasal, disusun sebagai tindak lanjut Putusan MK No._
 
-## Jabatan Aktif
-- Menteri Koordinator Bidang Pangan Ka..._
-
-*Index di-update: 2026-10-17 08:13 WIB*
+*Index di-update: 2026-10-21 13:29 WIB*

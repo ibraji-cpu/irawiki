@@ -2,7 +2,7 @@
 title: "Reshuffle Kabinet Merah Putih"
 description: Hub living document seluruh reshuffle Kabinet Merah Putih era Prabowo Subianto, berisi entri bertanggal dan halaman milestone pelantikan.
 date: 2026-10-15
-updated: '2026-10-20'
+updated: '2026-10-21'
 entity_type: topik
 aliases:
 - "Reshuffle Kabinet Prabowo"
@@ -61,9 +61,14 @@ Susunan kabinet menentukan siapa yang memutuskan kebijakan upah, harga energi, p
 - Pelantikan 9 pejabat di Istana Kepresidenan, Jakarta Pusat: 4 wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala BPGMN, serta mutasi dua pati TNI (Wakil Panglima TNI dan KSAD).
 - Lihat halaman milestone: [[Pelantikan Pejabat 15 Oktober 2026]].
 
+### 2026-10-20 — Desakan Evaluasi Menhut (Belum Ada Keputusan Reshuffle)
+
+- Juru Bicara DPP Partai Gerindra [[Kamrussamad]] menyatakan Menteri Kehutanan [[Raja Juli Antoni]] layak dievaluasi secara sungguh-sungguh, termasuk kemungkinan diganti lewat reshuffle, karena lemahnya pengawasan kawasan rawan kebakaran hutan dan lahan (karhutla). Pernyataan disampaikan dalam Debat Terbuka "2 Tahun Pemerintahan Prabowo-Gibran" di Jakarta Selatan.
+- **Status:** desakan evaluasi dari partai, **bukan keputusan reshuffle**. Per 20 Oktober 2026 belum ada tanggapan resmi dari Raja Juli Antoni maupun keputusan/pengumuman Presiden [[Prabowo Subianto]]; susunan kabinet tidak berubah pada tanggal ini.
+
 ## Aktor yang Terlibat
 
-- [[prabowo-subianto|Prabowo Subianto]] — Presiden RI; melakukan seluruh pelantikan dan perombakan dalam kronologi ini.
+- [[Prabowo Subianto]] — Presiden RI; melakukan seluruh pelantikan dan perombakan dalam kronologi ini.
 - **Listyo Sigit Prabowo** — Bergeser dari Kapolri menjadi Kepala Staf Kepresidenan (1 Okt 2026).
 - **Suyudi Ario Seto** — Menjadi Kapolri (1 Okt 2026).
 - **Dudung Abdurachman** — Dari Kepala Staf Kepresidenan menjadi Menko Polkam (1 Okt 2026).
@@ -73,6 +78,8 @@ Susunan kabinet menentukan siapa yang memutuskan kebijakan upah, harga energi, p
 - **Kristomei Sianturi** — Menjadi Kepala BNPB (15 Okt 2026).
 
 ## Sumber
+
+- **JournalArta (20/10/2026):** "Dua Tahun Pemerintahan Prabowo, Jubir Gerindra: Menhut Layak Direshuffle Presiden" — Kamrussamad soal pengawasan karhutla; Kamrussamad menyebut empat faktor penyebab karhutla tanpa rincian. https://journalarta.com/news/2026/10/20/dua-tahun-pemerintahan-prabowo-jubir-gerindra-menhut-layak-direshuffle-presiden/
 
 - **2026-10-15:** Rolando Fransiscus Sihombing. "Daftar Lengkap Pejabat yang Dilantik Prabowo Hari Ini." detikNews, 15 Oktober 2026 15:51 WIB. https://news.detik.com/berita/d-8708512/daftar-lengkap-pejabat-yang-dilantik-prabowo-hari-ini
 - **2026-10-01 dan reshuffle sebelumnya:** Zhafa Yuda Rehema. "Daftar Lengkap 7 Kali Reshuffle Kabinet Merah Putih Era Prabowo-Gibran." CNBC Indonesia, 1 Oktober 2026. https://www.cnbcindonesia.com/research/20261001172953-128-772648/daftar-lengkap-7-kali-reshuffle-kabinet-merah-putih-era-prabowo-gibran

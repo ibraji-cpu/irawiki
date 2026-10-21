@@ -348,7 +348,7 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 - Menteri Investasi Rosan Roeslani: realisasi investasi kumulatif 2 tahun Rp3.923,2 triliun dengan penyerapan 5.485.944 pekerja.
 
 ### 2026-10-20
-- **Evaluasi kabinet dari partai Presiden sendiri:** Juru Bicara DPP Partai Gerindra [[Kamrussamad]] menyatakan partainya tengah mengevaluasi kinerja [[Kabinet Merah Putih]] per sektor berdasarkan KPI, dengan melibatkan ekonom senior independen. Data sementara Gerindra menunjukkan **42 menteri dan wakil menteri tidak bekerja sesuai KPI**; nama-namanya tidak dipublikasikan. Hasil evaluasi akan dilaporkan kepada Presiden [[Prabowo Subianto]] sebagai bahan perbaikan tiga tahun sisa pemerintahan.
+- **Evaluasi kabinet dari partai Presiden sendiri:** Juru Bicara DPP Partai Gerindra [[Kamrussamad]] menyatakan partainya tengah mengevaluasi kinerja Kabinet Merah Putih per sektor berdasarkan KPI, dengan melibatkan ekonom senior independen. Data sementara Gerindra menunjukkan **42 menteri dan wakil menteri tidak bekerja sesuai KPI**; nama-namanya tidak dipublikasikan. Hasil evaluasi akan dilaporkan kepada Presiden [[Prabowo Subianto]] sebagai bahan perbaikan tiga tahun sisa pemerintahan.
 - **Menhut disorot soal karhutla:** Dalam forum yang sama, Kamrussamad menilai Menteri Kehutanan [[Raja Juli Antoni]] layak dievaluasi secara sungguh-sungguh — termasuk kemungkinan diganti lewat reshuffle — karena lemahnya pengawasan kawasan rawan kebakaran hutan dan lahan (karhutla) yang berdampak pada masyarakat. Per 20 Oktober 2026 belum ada tanggapan resmi dari Raja Juli Antoni maupun keputusan Presiden atas desakan ini.
 
 ## Aktor yang Terlibat
