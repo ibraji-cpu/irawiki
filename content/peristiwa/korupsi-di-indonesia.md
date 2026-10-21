@@ -2,7 +2,7 @@
 title: "Korupsi di Indonesia"
 description: 'Ringkasan sistemik korupsi di Indonesia pasca-reformasi 1998: kelahiran KPK, pasang surut pemberantasan, dan pola perkara besar.'
 date: 2026-10-15
-updated: '2026-10-20'
+updated: '2026-10-21'
 aliases:
   - Korupsi Indonesia
   - Tindak Pidana Korupsi di Indonesia
@@ -37,8 +37,16 @@ sumber:
     tanggal: "2026-10-15"
   - url: "https://langit7.id/read/62903/1/kpk-tetapkan-5-tersangka-kasus-bnpb-dan-ralat-sita-uang-rp33-m-bukan-rp14-m-1792023045"
     tanggal: "2026-10-15"
-last_updated: "2026-10-20"
-last_verified: "2026-10-17"
+  - url: "https://jatimupdate.id/baca-20069-kpk-duga-dana-pengadaan-bnpb-dipakai-beli-saham-medela-potentia-rp3098-miliar"
+    tanggal: "2026-10-18"
+  - url: "https://www.abadikini.com/2026/10/21/dana-untuk-korban-bencana-diduga-dikorupsi-kpk-ungkap-skema-proyek-bnpb/"
+    tanggal: "2026-10-21"
+  - url: "https://afu.id/hukum-kriminal/prajurit-aktif-terlibat-dalam-korupsi-dana-bencana-bnpb-kpk-surati-panglima-tni"
+    tanggal: "2026-10-21"
+  - url: "https://afu.id/hukum-kriminal/kpk-proyek-rp148-miliar-bnpb-dimenangkan-perusahaan-istri-tersangka-korupsi"
+    tanggal: "2026-10-21"
+last_updated: "2026-10-21"
+last_verified: "2026-10-21"
 ---
 
 # Korupsi di Indonesia
@@ -53,7 +61,7 @@ Halaman ini adalah simpul topik, bukan satu peristiwa, dan status hukum tiap ent
 
 Dari empat entri itu, hanya satu yang menyentuh warga secara langsung dan bisa ditelusuri: dalam perkara BNPB, dugaan korupsi pengadaan barang dan jasa memakai Dana Siap Pakai untuk kebencanaan, dengan modus penunjukan langsung proyek darurat yang diduga berjalan tiga sampai empat tahun. Bila dugaan itu terbukti, yang berkurang adalah dana untuk respons darurat, dan yang paling langsung kehilangan manfaatnya adalah warga di daerah bencana. Anak muda ada di dalam kelompok itu sebagai bagian rumah tangga dan komunitas, bukan sebagai kelompok terpisah dengan eksposur tersendiri — dan halaman ini tidak memuat rincian penerima, wilayah, atau nilai per program, sehingga besar kerugian yang jatuh pada kelompok usia tertentu tidak bisa disebut dari sini. Untuk perkara e-KTP dan bansos, korbannya tersebar sebagai pengguna layanan dan penerima bantuan yang tidak teridentifikasi perorangan di halaman.
 
-Angka-angkanya juga tidak boleh dibaca sebagai anggaran yang berpindah. Rp2,3 triliun adalah kerugian negara yang ditetapkan pengadilan untuk proyek 2011–2013, Rp32,48 miliar adalah suap yang diterima seorang menteri, dan Rp3,3 miliar adalah uang tunai yang disita di BNPB setelah KPK meralat hitungan awal Rp1,4 miliar — tiga jenis angka dari tiga perkara berbeda. Halaman tidak menelusuri pos anggaran mana pun, jadi pernyataan bahwa layanan sekolah, jalan, atau kesehatan otomatis berkurang tidak punya dasar di sini. Yang bisa dipegang pembaca muda: pola pengadaan dan penyaluran dana bantuan yang berulang, dan perbedaan tegas antara perkara yang sudah divonis dan yang masih penyidikan.
+Angka-angkanya juga tidak boleh dibaca sebagai anggaran yang berpindah. Rp2,3 triliun adalah kerugian negara yang ditetapkan pengadilan untuk proyek 2011–2013, Rp32,48 miliar adalah suap yang diterima seorang menteri, dan Rp5,47 miliar adalah total nilai barang bukti yang disita KPK dalam perkara BNPB per pengumuman 17 Oktober 2026 (termasuk uang tunai Rp3,35 miliar; hitungan awal tunai Rp1,4 miliar sempat diralat menjadi Rp3,3 miliar pada 14 Oktober) — tiga jenis angka dari tiga perkara berbeda. Halaman tidak menelusuri pos anggaran mana pun, jadi pernyataan bahwa layanan sekolah, jalan, atau kesehatan otomatis berkurang tidak punya dasar di sini. Yang bisa dipegang pembaca muda: pola pengadaan dan penyaluran dana bantuan yang berulang, dan perbedaan tegas antara perkara yang sudah divonis dan yang masih penyidikan.
 
 ## Fakta kunci
 
@@ -62,6 +70,7 @@ Angka-angkanya juga tidak boleh dibaca sebagai anggaran yang berpindah. Rp2,3 tr
 - **Vonis bansos Covid-19:** Juliari Batubara, 12 tahun penjara, 23 Agustus 2021.
 - **OTT ATR/BPN Bogor:** 15 September 2026, 8 tersangka.
 - **OTT BNPB:** 13 Oktober 2026, 5 tersangka ditetapkan 14 Oktober 2026.
+- **Sitaan perkara BNPB:** total barang bukti Rp5,47 miliar per pengumuman KPK 17 Oktober 2026.
 
 ## Kronologi
 
@@ -83,9 +92,19 @@ KPK melakukan operasi tangkap tangan terkait dugaan suap pengurusan Hak Guna Ban
 
 ### 2026-10-13 — OTT KPK di BNPB, 5 tersangka ditetapkan (14/10)
 
-KPK melakukan operasi tangkap tangan di lingkungan Badan Nasional Penanggulangan Bencana (BNPB) wilayah Jabodetabek dan mengamankan 14 orang, termasuk Sekretaris Utama BNPB Rustian, pejabat pembuat komitmen (PPK), dan pihak swasta. Barang bukti: uang tunai Rp3,3 miliar (ralat KPK dari hitungan awal Rp1,4 miliar) dan logam mulia (emas batangan serta tabungan emas, masih didata). Dugaan perkara: korupsi pengadaan barang/jasa BNPB yang menggunakan Dana Siap Pakai (DSP) untuk kebencanaan, dengan modus penunjukan langsung proyek darurat yang diduga berjalan 3–4 tahun. BNPB menyatakan kooperatif dan menjunjung praduga tak bersalah.
+KPK melakukan operasi tangkap tangan di lingkungan Badan Nasional Penanggulangan Bencana (BNPB) wilayah Jabodetabek dan mengamankan 14 orang, termasuk Sekretaris Utama BNPB Rustian, pejabat pembuat komitmen (PPK), dan pihak swasta. Dugaan perkara: korupsi pengadaan barang/jasa BNPB yang menggunakan Dana Siap Pakai (DSP) untuk kebencanaan, dengan modus penunjukan langsung proyek darurat yang diduga berjalan 3–4 tahun. BNPB menyatakan kooperatif dan menjunjung praduga tak bersalah.
 
 Pada 14/10, usai ekspose, KPK menaikkan perkara ke penyidikan dan menetapkan 5 tersangka yang langsung ditahan: Gabriel Purwaka Sigit (Kasubdit Pengelolaan Bantuan dan Kedaruratan/PPK), Bima Setiawan (Tenaga Ahli Kepala BNPB; Ketua KPK membenarkan informasi bahwa ia adik kandung Kepala BNPB Suharyanto), Richard Erlangga (Tenaga Ahli Kepala BNPB), serta Gery Prasetiawan dan Syifa Nrika Ghifarian (pihak swasta). Sestama Rustian berstatus saksi dan dipulangkan pada 14/10; menurut Ketua KPK, ekspose belum menemukan perbuatan melawan hukum yang dilakukannya.
+
+Total barang bukti yang disita KPK mencapai Rp5,47 miliar (pengumuman KPK yang dilaporkan media pada 17 Oktober 2026): uang tunai Rp3,35 miliar (hitungan awal Rp1,4 miliar, diralat menjadi Rp3,3 miliar pada pengumuman 14/10), US$7.500, SG$9.000, 56 keping emas seberat 133 gram (sekitar Rp315,8 juta), tabungan emas 192 gram (sekitar Rp452 juta), dan aset kripto senilai Rp1,10 miliar. KPK juga menduga dana dari vendor yang terafiliasi dengan tersangka Bima Setiawan dipakai untuk kepentingan pribadi, antara lain pembelian 150,4 juta lembar saham (1,07%) PT Medela Potentia Tbk (MDLA) oleh PT Alfa Veritas Energizer senilai sekitar Rp30,98 miliar (berdasarkan harga saham per 13 Oktober 2026) — dugaan aliran dana ini terpisah dari nilai barang bukti yang disita di atas.
+
+### 2026-10-20 — KPK menyurati Panglima TNI soal dugaan keterlibatan prajurit aktif (kasus BNPB)
+
+KPK mengirimkan surat kepada Panglima TNI Jenderal Agus Subiyanto pada 20 Oktober 2026 terkait dugaan keterlibatan prajurit TNI aktif dalam perkara dugaan korupsi DSP BNPB; pengiriman surat ini dikonfirmasi Ketua KPK Setyo Budiyanto pada 21 Oktober 2026. Menurut Juru Bicara KPK Budi Prasetyo, surat tersebut menguraikan konstruksi perkara, termasuk dugaan keterlibatan oknum TNI dalam pengadaan barang dan jasa di lingkungan BNPB yang diduga disertai benturan kepentingan dan praktik penyuapan.
+
+Latar belakangnya: mantan Kepala BNPB Suharyanto masih berstatus prajurit TNI aktif. KPK sebelumnya telah memaparkan posisi Suharyanto dalam perkara ini kepada Pusat Polisi Militer TNI (Puspom TNI) dalam ekspos perkara pada 13 dan 14 Oktober 2026, dan Puspom TNI turut mendampingi KPK saat penyegelan kantor BNPB. Plt Direktur Penyidikan KPK Ahmad Taufik Husein (16/10) menyebut penanganan perkara dilakukan dengan pendekatan kolaboratif bersama penegak hukum militer, karena KPK tidak dapat menangani prajurit aktif sendirian. Dalam kesempatan yang sama, KPK mengungkap pengadaan barang dan jasa senilai Rp148 miliar pada 2024–2026 diduga diatur untuk memenangkan perusahaan-perusahaan yang komisaris utama atau direkturnya adalah istri tersangka Bima Setiawan.
+
+Hingga 21 Oktober 2026, KPK belum mengumumkan penetapan tersangka dari unsur prajurit TNI aktif; dugaan keterlibatan mereka dinyatakan masih didalami dalam penyidikan.
 
 ## Pola Umum
 
@@ -109,6 +128,10 @@ Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/j
 - Putusan Pengadilan Tipikor Jakarta, kasus e-KTP: vonis Setya Novanto, 24 April 2018.
 - Putusan Pengadilan Tipikor Jakarta, kasus bansos Covid-19: vonis Juliari Batubara, 23 Agustus 2021.
 - Siaran pers KPK atas OTT ATR/BPN Bogor (15 September 2026) dan OTT BNPB (13-14 Oktober 2026); tautan belum tersedia di halaman ini.
+- JatimUpdate, "KPK Duga Dana Pengadaan BNPB Dipakai Beli Saham Medela Potentia Rp30,98 Miliar" (18 Oktober 2026).
+- Abadikini, "Dana untuk Korban Bencana Diduga Dikorupsi, KPK Ungkap Skema Proyek BNPB" (21 Oktober 2026).
+- AFU.id, "Prajurit Aktif Terlibat dalam Korupsi Dana Bencana BNPB, KPK Surati Panglima TNI" (21 Oktober 2026).
+- AFU.id, "KPK: Proyek Rp148 Miliar BNPB Dimenangkan Perusahaan Istri Tersangka Korupsi" (21 Oktober 2026).
 
 ## Catatan presisi
 
