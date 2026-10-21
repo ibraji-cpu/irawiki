@@ -15,4 +15,7 @@ node ./quartz/bootstrap-cli.mjs build
 # SEO artifacts: robots.txt, llms.txt, llms-full.txt (regenerated every build)
 python3 tools/build_seo.py
 
+# Notifikasi update wiki -> blog/data/wiki_updates.json (jangan gagalkan deploy)
+python3 tools/wiki_update_notify.py || echo "[!] wiki_update_notify gagal, notifikasi dilewati" >&2
+
 echo "[✅] Selesai."

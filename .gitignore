@@ -29,3 +29,7 @@ wiki_index.db-shm
 
 __pycache__/
 *.pyc
+
+# Notifikasi update wiki (dibuat tools/wiki_update_notify.py)
+.wiki-last-sha
+blog/data/wiki_updates.json

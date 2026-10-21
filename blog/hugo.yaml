@@ -28,6 +28,9 @@ menu:
     - name: Tag
       url: /tags/
       weight: 20
+    - name: Update Wiki
+      url: /update/
+      weight: 30
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
