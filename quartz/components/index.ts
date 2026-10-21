@@ -9,10 +9,24 @@ import Flex from "./Flex"
 import ConditionalRender from "./ConditionalRender"
 import Relations from "./Relations"
 import SchemaOrg from "./SchemaOrg"
+import HomeList from "./HomeList"
 
 export { componentRegistry, defineComponent } from "./registry"
 export { External } from "./external"
 export type { ComponentManifest, RegisteredComponent } from "./registry"
 export type { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-export { Head, CoverImage, IraBanner, Spacer, DesktopOnly, MobileOnly, NotFound, Flex, ConditionalRender, Relations, SchemaOrg }
+export {
+  Head,
+  CoverImage,
+  IraBanner,
+  Spacer,
+  DesktopOnly,
+  MobileOnly,
+  NotFound,
+  Flex,
+  ConditionalRender,
+  Relations,
+  SchemaOrg,
+  HomeList,
+}

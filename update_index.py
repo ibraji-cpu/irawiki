@@ -4,6 +4,26 @@ import re
 
 content_dir = "/home/ubuntu/irawiki/content"
 
+# ---------------------------------------------------------------------------
+# RETIRED — jangan panggil script ini dari build.
+#
+# Dulu script ini menimpa daftar `# Start Here` di content/index.md dengan 10
+# artikel yang barusan di-commit (berdasarkan `git log`). Akibatnya daftar
+# kurasi "Topik" di halaman utama hilang setiap kali `build_wiki.sh` dijalankan
+# — halaman utama menampilkan artikel terbaru, bukan hub yang dikurasi.
+#
+# Sekarang daftar "Baru Update" di halaman utama dibuat DINAMIS oleh komponen
+# `HomeList` (quartz/components/HomeList.tsx) yang membaca frontmatter
+# `updated`, jadi tidak ada lagi daftar yang perlu di-generate ke index.md.
+#
+# Barisan di bawah sengaja dibiarkan sebagai arsip; jangan dijalankan.
+raise SystemExit(
+    "update_index.py retired: daftar halaman utama kini dinamis (HomeList). "
+    "Hapus pemanggilan `python3 update_index.py` dari build_wiki.sh."
+)
+
+# --- arsip di bawah ---
+
 # Get all markdown files in content except index.md
 files = []
 for root, _, filenames in os.walk(content_dir):
