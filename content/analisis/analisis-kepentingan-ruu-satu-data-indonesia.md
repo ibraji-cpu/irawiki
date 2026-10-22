@@ -46,6 +46,7 @@ kategori_analisis:
 
 confidence: 4
 risiko_editorial: "sedang"
+kategori: aturan-main-demokrasi
 last_updated: "2026-10-20"
 last_verified: "2026-10-05"
 ---

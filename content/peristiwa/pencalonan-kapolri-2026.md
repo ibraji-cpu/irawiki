@@ -64,6 +64,7 @@ sumber:
 
 confidence: 4
 risiko_editorial: "rendah"
+kategori: kinerja-pemerintahan
 last_updated: "2026-10-20"
 last_verified: "2026-10-06"
 relasi: []

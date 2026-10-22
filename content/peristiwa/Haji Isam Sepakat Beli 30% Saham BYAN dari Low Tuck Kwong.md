@@ -17,6 +17,7 @@ sumber:
   - judul: "Keterbukaan Informasi BEI: Penandatanganan CSPA 10 Miliar Saham BYAN"
     tanggal: "2026-09-16"
 relasi: []
+kategori: pasar-dan-kepemilikan
 last_verified: "2026-10-09"
 ---
 

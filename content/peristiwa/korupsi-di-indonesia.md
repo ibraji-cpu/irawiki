@@ -45,6 +45,7 @@ sumber:
     tanggal: "2026-10-21"
   - url: "https://afu.id/hukum-kriminal/kpk-proyek-rp148-miliar-bnpb-dimenangkan-perusahaan-istri-tersangka-korupsi"
     tanggal: "2026-10-21"
+kategori: hukum-dan-pertanahan
 last_updated: "2026-10-21"
 last_verified: "2026-10-21"
 ---

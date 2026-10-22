@@ -17,6 +17,8 @@ tags:
   - asean
 confidence: 7
 risiko_editorial: "sedang"
+kategori: pasar-dan-kepemilikan
+kategori_tambahan: [sumber-daya-alam]
 last_updated: "2026-10-20"
 ---
 

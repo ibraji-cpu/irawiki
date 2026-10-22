@@ -69,6 +69,7 @@ pengaruh_media: "sedang"
 status_hukum: "tidak diketahui"
 risiko_editorial: "sedang"
 confidence: 5
+kategori: aturan-main-demokrasi
 last_updated: "2026-10-20"
 ---
 

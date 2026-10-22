@@ -31,6 +31,7 @@ sumber:
     tanggal: "2026-02-26"
   - url: "https://drive.google.com/file/d/1JnadHSNQiTInxWopfehkZ4WHQXAYSKCc/view?usp=drive_link"
     tanggal: "2026-10-14"
+kategori: aturan-main-demokrasi
 last_updated: "2026-10-20"
 last_verified: "2026-10-14"
 ---

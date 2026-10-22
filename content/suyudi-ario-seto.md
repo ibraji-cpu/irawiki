@@ -80,6 +80,7 @@ status_hukum: "tidak diketahui"
 
 risiko_editorial: "rendah"
 confidence: 4
+kategori: kinerja-pemerintahan
 last_updated: "2026-10-20"
 ---
 

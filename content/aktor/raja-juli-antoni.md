@@ -27,6 +27,7 @@ status_hukum: "bersih"
 risiko_editorial: "sedang"
 confidence: 6
 sumber_status: "ber_url"
+kategori: sumber-daya-alam
 last_updated: "2026-10-21"
 last_verified: "2026-10-21"
 

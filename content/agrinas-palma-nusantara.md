@@ -18,6 +18,7 @@ status_belum: "Perlu verifikasi (BUMN?)"
 
 confidence: 3
 risiko_editorial: "sedang"
+kategori: sumber-daya-alam
 last_updated: "2026-10-20"
 ---
 

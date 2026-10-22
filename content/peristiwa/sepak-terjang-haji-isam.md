@@ -66,6 +66,8 @@ sumber:
     tanggal: "2026-08"
   - url: "https://www.idnfinancials.com/id/news/69988/rans-milik-raffi-ahmad-ditinggal-21-ribu-investor-harga-ambles-13-3"
     tanggal: "2026-10"
+kategori: pasar-dan-kepemilikan
+kategori_tambahan: [sumber-daya-alam]
 last_updated: "2026-10-20"
 last_verified: "2026-10-19"
 relasi:

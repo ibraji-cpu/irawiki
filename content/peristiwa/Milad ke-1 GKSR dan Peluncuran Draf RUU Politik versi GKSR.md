@@ -41,6 +41,7 @@ peristiwa_terkait: []
 
 confidence: 5
 risiko_editorial: "rendah"
+kategori: aturan-main-demokrasi
 last_updated: "2026-10-20"
 last_verified: "2026-10-09"
 ---

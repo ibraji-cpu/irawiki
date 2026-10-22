@@ -38,6 +38,7 @@ peristiwa_terkait:
 - "Reshuffle Kabinet Merah Putih 1 Oktober 2026"
 confidence: 5
 risiko_editorial: "sedang"
+kategori: kinerja-pemerintahan
 last_updated: "2026-10-20"
 last_verified: "2026-10-15"
 ---

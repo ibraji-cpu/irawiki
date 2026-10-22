@@ -81,6 +81,7 @@ status: "Disahkan, belum diundangkan"
 catatan_verifikasi: "Substansi pasal-pasal belum diverifikasi ke teks resmi UU; rujukan masih ke draf RUU dan pemberitaan."
 risiko_editorial: "rendah"
 confidence: 6
+kategori: kinerja-pemerintahan
 last_updated: "2026-10-20"
 ---
 

@@ -16,6 +16,7 @@ fokus: "Membedakan kas nyata vs valuasi aset, dan komposisi revenue recovery vs 
 
 confidence: 7
 risiko_editorial: "sedang"
+kategori: sumber-daya-alam
 last_updated: "2026-10-20"
 last_verified: "2026-10-09"
 relasi: []

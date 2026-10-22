@@ -20,6 +20,8 @@ pimpinan: "[[ST Burhanuddin]] (Jaksa Agung)"
 
 confidence: 5
 risiko_editorial: "rendah"
+kategori: hukum-dan-pertanahan
+kategori_tambahan: [sumber-daya-alam]
 last_updated: "2026-10-20"
 ---
 

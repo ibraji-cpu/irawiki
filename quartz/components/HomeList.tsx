@@ -174,7 +174,7 @@ export default ((opts?: Options) => {
     condition: "index",
     sort: "updated",
     limit: 12,
-    title: "Baru Update",
+    title: "Terbaru di Wiki",
     showDate: true,
     ...opts,
   }

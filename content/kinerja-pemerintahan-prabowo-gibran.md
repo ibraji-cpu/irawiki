@@ -15,6 +15,7 @@ tags:
   - ekonomi
 confidence: 8
 risiko_editorial: "sedang"
+kategori: kinerja-pemerintahan
 last_updated: "2026-10-21"
 ---
 

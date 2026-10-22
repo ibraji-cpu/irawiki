@@ -6,7 +6,7 @@ title: Wiki Index
 
 > Kamus artikel IRAWIKI. Gunakan untuk navigasi cepat.
 > Diperbarui otomatis oleh `build_wiki_index.py`.
-> Last generated: 2026-10-21 13:29
+> Last generated: 2026-10-22 10:22
 
 ## Peristiwa
 
@@ -108,7 +108,7 @@ Reuni 36 tahun Himpunan Masyarakat untuk Kemanusiaan dan Keadilan (Humanika) dig
 
 > **Ringkasan Topik:** Gugatan terhadap syarat pendidikan (ijazah SMA) Wakil Presiden Gibran Rakabuming Raka sebagai calon wakil presiden Pilpres 2024, diajukan ke Mahkamah Konstitusi pada 10 September 2026. Perkara No._
 
-- **[Update: [[2026-10-01-reshuffle-kabinet-merah-putih|Reshuffle Kabinet Merah Putih 1 Oktober 2026]]](./content/peristiwa/update-reshuffle-kabinet)** · 2026-10-20
+- **[Update: Reshuffle Kabinet Merah Putih 1 Oktober 2026](./content/peristiwa/update-reshuffle-kabinet)** · 2026-10-20
   _# Update Reshuffle Kabinet Merah Putih
 
 ## Ringkasan
@@ -2783,6 +2783,9 @@ Perdebatan mengenai keabsahan syarat pendidikan [[gibran-rakabuming-raka|Gibran 
 
 ## Lainnya
 
+- **[Adilkah Aturan Mainnya?](./content/kategori/aturan-main-demokrasi)** · 2026-10-22 (confidence: 9)
+  _# Adilkah Aturan Mainnya? Kategori ini membahas aturan yang menentukan siapa boleh berkuasa dan dengan cara apa: undang-undang, putusan pengadilan, syarat pencalonan, dan tafsir konstitusi._
+
 - **[Kinerja Pemerintahan Prabowo-Gibran](./content/kinerja-pemerintahan-prabowo-gibran)** · 2026-10-21 (confidence: 8)
   _# Kinerja Pemerintahan Prabowo-Gibran
 
@@ -2790,12 +2793,22 @@ Perdebatan mengenai keabsahan syarat pendidikan [[gibran-rakabuming-raka|Gibran 
 
 > **Ringkasan:** Halaman ini merangkum dua tahun pemerintahan Presiden Prabowo Subianto dan Wakil Presiden Gibran Rakabuming Raka (20 Oktober 2024–20 Oktober 2026)._
 
-- **[Korupsi di Indonesia](./content/peristiwa/korupsi-di-indonesia)** · 2026-10-20 (confidence: 4)
+- **[Konsep Kunci](./content/kategori/konsep)** · 2026-10-22 (confidence: 9)
+  _# Konsep Kunci
+
+Kategori ini menjadi tempat penjelas istilah dan konsep yang berulang di seluruh wiki: ambang batas, mekanisme hukum, klasifikasi pasar, dan istilah teknis lain yang sering dipakai tanpa dijelaskan._
+
+- **[Korupsi di Indonesia](./content/peristiwa/korupsi-di-indonesia)** · 2026-10-21 (confidence: 4)
   _# Korupsi di Indonesia
 
 ## Ringkasan
 
 > **Ringkasan Topik:** Korupsi — penyalahgunaan wewenang untuk keuntungan pribadi atau kelompok — adalah persoalan sistemik di Indonesia. Pasca-reformasi 1998, pemberantasan korupsi dilembagakan melalui Komisi Pemberantasan Korupsi ([[kpk|KPK]]) yang dibentuk..._
+
+- **[Menagih Janji dan Bukti](./content/kategori/kinerja-pemerintahan)** · 2026-10-22 (confidence: 9)
+  _# Menagih Janji dan Bukti
+
+Kategori ini menagih janji pemerintahan dengan bukti: target kebijakan, capaian yang terverifikasi, dan perubahan susunan kabinet yang menyertainya. Fokusnya pada apa yang bisa diukur — angka, tanggal, dan keputusan resmi — bukan retorika._
 
 - **[Perang Ultra Modern dan Geopolitik](./content/perang-ultra-modern-dan-geopolitik)** · 2026-10-20 (confidence: 7)
   _# Perang Ultra Modern dan Geopolitik
@@ -2811,7 +2824,7 @@ Perdebatan mengenai keabsahan syarat pendidikan [[gibran-rakabuming-raka|Gibran 
 
 > **Ringkasan Topik:** Rangkaian polemik, gugatan hukum, dan sengketa konstitusi terkait keabsahan riwayat pendidikan serta syarat ijazah Wakil Presiden [[gibran-rakabuming-raka|Gibran Rakabuming Raka]]._
 
-- **[Reshuffle Kabinet Merah Putih](./content/reshuffle-kabinet-merah-putih)** · 2026-10-20
+- **[Reshuffle Kabinet Merah Putih](./content/reshuffle-kabinet-merah-putih)** · 2026-10-21
   _# Reshuffle Kabinet Merah Putih
 
 ## Ringkasan
@@ -2824,6 +2837,15 @@ Perdebatan mengenai keabsahan syarat pendidikan [[gibran-rakabuming-raka|Gibran 
 ## Ringkasan
 
 > **Ringkasan Topik:** Living document yang merangkum dinamika manuver korporasi, transaksi pasar modal, dan ekspansi konglomerasi bisnis yang dipimpin pengusaha asal Batulicin, Kalimantan Selatan, [[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad (Haji Isam..._
+
+- **[Siapa Lagi Korupsi?](./content/kategori/hukum-dan-pertanahan)** · 2026-10-22 (confidence: 9)
+  _# Siapa Lagi Korupsi? Kategori ini mengikuti penegakan hukum atas korupsi dan sengketa pertanahan di Indonesia._
+
+- **[Siapa Pemilik Sebenarnya?](./content/kategori/pasar-dan-kepemilikan)** · 2026-10-22 (confidence: 9)
+  _# Siapa Pemilik Sebenarnya? Kategori ini menelusuri siapa yang berdiri di balik kepemilikan saham di pasar modal Indonesia._
+
+- **[Siapa Tuan Tanahnya?](./content/kategori/sumber-daya-alam)** · 2026-10-22 (confidence: 9)
+  _# Siapa Tuan Tanahnya? Halaman ini mengumpulkan jejak penguasaan sumber daya alam Indonesia: lahan, tambang, kebun, dan aset sitaan yang berpindah tangan._
 
 - **[Soeharto Pahlawan Nasional](./content/peristiwa/soeharto-pahlawan-nasional)** · 2026-10-20 (confidence: 4)
   _# Soeharto Pahlawan Nasional
@@ -2839,4 +2861,4 @@ Perdebatan mengenai keabsahan syarat pendidikan [[gibran-rakabuming-raka|Gibran 
 
 > **Ringkasan Topik:** Undang-undang yang mengatur pelindungan ketenagakerjaan secara terkonsolidasi, disahkan DPR RI pada 6 Oktober 2026 dalam Rapat Paripurna. Terdiri atas 23 bab dan 313 pasal, disusun sebagai tindak lanjut Putusan MK No._
 
-*Index di-update: 2026-10-21 13:29 WIB*
+*Index di-update: 2026-10-22 10:22 WIB*

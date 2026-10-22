@@ -98,6 +98,7 @@ peristiwa_terkait:
 - "Putusan MK Nomor 116/PUU-XXI/2023"
 confidence: 5
 risiko_editorial: "sedang"
+kategori: aturan-main-demokrasi
 last_updated: "2026-10-20"
 ---
 

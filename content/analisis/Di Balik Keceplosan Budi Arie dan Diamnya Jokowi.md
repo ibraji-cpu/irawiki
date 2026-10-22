@@ -11,6 +11,7 @@ tags:
 entity_type: analisis
 relasi: []
 date: 2026-08-31
+kategori: aturan-main-demokrasi
 last_verified: 2026-10-18
 
 ---

@@ -25,6 +25,8 @@ sumber:
   - tanggal: "2026-09-11"
 relasi: []
 date: '2026-09-26'
+kategori: pasar-dan-kepemilikan
+kategori_tambahan: [sumber-daya-alam]
 last_verified: 2026-10-18
 
 ---

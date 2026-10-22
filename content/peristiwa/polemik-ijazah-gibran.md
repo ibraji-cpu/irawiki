@@ -47,6 +47,7 @@ sumber:
     tanggal: "2026-09-30"
   - url: "https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran"
     tanggal: "2026-09-30"
+kategori: aturan-main-demokrasi
 last_updated: "2026-10-09"
 last_verified: "2026-10-09"
 ---

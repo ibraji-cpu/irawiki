@@ -6,6 +6,8 @@ entity_type: analisis
 relasi: []
 category: analisis
 date: 2026-08-19
+kategori: pasar-dan-kepemilikan
+kategori_tambahan: [sumber-daya-alam]
 last_verified: 2026-10-18
 
 ---

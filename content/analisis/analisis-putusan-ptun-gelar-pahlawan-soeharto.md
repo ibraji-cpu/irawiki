@@ -17,6 +17,7 @@ risiko_editorial: |
   bukan vonis benar-salahnya sejarah. Substansi gugatan bersumber tunggal dari ringkasan kasus
   dan ditandai reported (belum terverifikasi independen).
 relasi: []
+kategori: aturan-main-demokrasi
 last_updated: "2026-10-20"
 last_verified: "2026-10-12"
 ---

@@ -39,6 +39,7 @@ confidence: 4
 
 risiko_editorial: "tinggi"
 
+kategori: aturan-main-demokrasi
 last_updated: "2026-10-20"
 last_verified: "2026-09-29"
 ---

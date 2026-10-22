@@ -19,7 +19,6 @@ dasar_hukum: "Perpres Nomor 5 Tahun 2025"
 tanggal_pembentukan: "2025-01-21"
 tanggal_operasional: "2025-02 (perlu verifikasi)"
 
-kategori: "Satuan Tugas Pemerintah"
 kementerian_terkait: "12 kementerian/lembaga"
 
 pimpinan:
@@ -32,6 +31,8 @@ tugas_utama:
 
 confidence: 7
 risiko_editorial: "rendah"
+jenis_lembaga: "Satuan Tugas Pemerintah"
+kategori: sumber-daya-alam
 last_updated: "2026-10-20"
 ---
 

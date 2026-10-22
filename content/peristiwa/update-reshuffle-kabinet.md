@@ -1,8 +1,11 @@
 ---
-title: "Update: [[2026-10-01-reshuffle-kabinet-merah-putih|Reshuffle Kabinet Merah Putih 1 Oktober 2026]]"
+title: "Update: Reshuffle Kabinet Merah Putih 1 Oktober 2026"
 description: Catatan update untuk hub reshuffle Kabinet Merah Putih; menampung entri perubahan susunan kabinet terbaru.
 date: 2026-10-06
 updated: '2026-10-20'
+aliases:
+- "Update: Reshuffle Kabinet Merah Putih 1 Oktober 2026"
+- "Update Reshuffle Kabinet"
 tags:
 - peristiwa
 - pemerintahan
@@ -15,6 +18,7 @@ peristiwa_terkait:
 
 catatan_update: "Tambah koneksi ke penyerahan tahap VIII [[satgas-pkh|Satgas PKH]] (6 Okt 2026) sebagai bagian dari rangkaian penataan posisi strategis pemerintahan."
 relasi: []
+kategori: kinerja-pemerintahan
 last_verified: 2026-10-18
 
 ---

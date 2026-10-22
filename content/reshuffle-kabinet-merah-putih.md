@@ -10,6 +10,7 @@ aliases:
 tags:
 - topik
 - pemerintahan
+kategori: kinerja-pemerintahan
 ---
 
 # Reshuffle Kabinet Merah Putih

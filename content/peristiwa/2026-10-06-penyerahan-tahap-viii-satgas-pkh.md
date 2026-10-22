@@ -28,6 +28,7 @@ peristiwa_terkait:
 
 confidence: 8
 risiko_editorial: "rendah"
+kategori: sumber-daya-alam
 last_updated: "2026-10-20"
 last_verified: "2026-10-06"
 relasi: []

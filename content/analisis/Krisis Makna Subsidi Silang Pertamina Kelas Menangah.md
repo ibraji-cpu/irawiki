@@ -6,6 +6,7 @@ entity_type: analisis
 relasi: []
 category: analisis
 date: 2026-09-01
+kategori: kinerja-pemerintahan
 last_verified: "2026-10-09"
 ---
 

@@ -57,6 +57,7 @@ sumber:
 
 confidence: 4
 risiko_editorial: "sedang"
+kategori: hukum-dan-pertanahan
 last_updated: "2026-10-20"
 
 relasi: []

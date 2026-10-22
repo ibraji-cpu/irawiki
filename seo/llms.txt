@@ -21,10 +21,19 @@
 - [Analisis Kepentingan RUU Satu Data](https://wiki.iraamalia.id/analisis/analisis-kepentingan-ruu-satu-data-indonesia): peta kepentingan aktor di balik legislasi data.
 - [Korpus lengkap](https://wiki.iraamalia.id/llms-full.txt): seluruh halaman peristiwa, analisis, dan hub dalam satu berkas markdown.
 
+## Kategori
+- [Siapa Tuan Tanahnya?](https://wiki.iraamalia.id/kategori/sumber-daya-alam): Siapa menguasai sumber daya Indonesia, siapa yang diuntungkan?
+- [Siapa Pemilik Sebenarnya?](https://wiki.iraamalia.id/kategori/pasar-dan-kepemilikan): Bursa, konglomerat, dan konsentrasi kepemilikan saham
+- [Adilkah Aturan Mainnya?](https://wiki.iraamalia.id/kategori/aturan-main-demokrasi): Aturan-aturan yang menentukan siapa sah berkuasa
+- [Siapa Lagi Korupsi?](https://wiki.iraamalia.id/kategori/hukum-dan-pertanahan): Bagaimana hukum korupsi ditegakkan dan dilanggar
+- [Menagih Janji dan Bukti](https://wiki.iraamalia.id/kategori/kinerja-pemerintahan): Pemerintahan per bidang: target vs capaian terverifikasi
+- [Konsep Kunci](https://wiki.iraamalia.id/kategori/konsep): Penjelas istilah dan konsep yang sering dipakai di dunia politik
+
 ## Struktur situs
 - /aktor/* — profil aktor (pengusaha, politikus, perusahaan, lembaga)
 - /peristiwa/* — kronologi peristiwa bertanggal
 - /analisis/* — analisis tematik
+- /kategori/* — enam kategori hub (taksonomi navigasi utama)
 - /tags/* — indeks topik
 
 ## Cara mengutip
