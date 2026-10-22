@@ -103,7 +103,7 @@ Sisi lain juga ada di halaman, bukan hanya risiko: keterbukaan data pemerintah, 
 ### 2026-10-05
 
 - Entry analisis ini ditulis saat pengesahan masih berstatus target (paripurna 6 Oktober 2026); perlu diperbarui setelah hasil paripurna diketahui.
-- [[Rencana Pengesahan RUU Satu Data Indonesia]]
+- [[peristiwa/rencana-pengesahan-ruu-satu-data-indonesia-2026|Rencana Pengesahan RUU Satu Data Indonesia]]
 
 ## Perspektif / Interpretasi
 

@@ -215,7 +215,7 @@ Data dikumpulkan dari pemberitaan media nasional (Detik, VIVA, Tempo, Sindonews,
 - [[Deddy Sitorus]]
 - [[Sugiat Santoso]]
 - [[Putusan MK 6 Oktober 2026]]
-- [[Sengketa Ijazah Wapres Gibran di MK]]
+- [[peristiwa/sengketa-ijazah-gibran-2026|Sengketa Ijazah Wapres Gibran di MK]]
 - [[KPU, MK, dan Sengketa Syarat Pendidikan Gibran]]
 
 ## Sumber

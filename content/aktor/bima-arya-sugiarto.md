@@ -91,7 +91,7 @@ relasi: []
 ### 2026-09
 
 - Menyatakan arah Satu Data Indonesia adalah membangun basis data yang terintegrasi dengan kejelasan mengenai walidata; desain kelembagaan diharapkan mengatur orkestrasi data nasional.
-- [[Rencana Pengesahan RUU Satu Data Indonesia]]
+- [[peristiwa/rencana-pengesahan-ruu-satu-data-indonesia-2026|Rencana Pengesahan RUU Satu Data Indonesia]]
 
 ## Catatan
 

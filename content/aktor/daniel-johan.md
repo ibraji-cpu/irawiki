@@ -97,7 +97,7 @@ relasi: []
 ### 2026-10-02
 
 - Sebagai juru bicara Baleg untuk RUU Satu Data Indonesia, menyatakan DPR bersiap mengesahkan RUU tersebut pada paripurna 6 Oktober 2026; menekankan urgensi meruntuhkan "ego sektoral" birokrasi dan menyebut "negara tanpa data tidak punya dasar perencanaan".
-- [[Rencana Pengesahan RUU Satu Data Indonesia]]
+- [[peristiwa/rencana-pengesahan-ruu-satu-data-indonesia-2026|Rencana Pengesahan RUU Satu Data Indonesia]]
 
 ## Catatan
 
