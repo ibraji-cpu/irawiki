@@ -273,6 +273,7 @@ layout:
           - backlinks
         right:
           - BrowseAll
+          - LandingLink
     folder:
       exclude:
         - reader-mode

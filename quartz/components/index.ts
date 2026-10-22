@@ -10,6 +10,7 @@ import ConditionalRender from "./ConditionalRender"
 import Relations from "./Relations"
 import SchemaOrg from "./SchemaOrg"
 import HomeList from "./HomeList"
+import LandingLink from "./LandingLink"
 
 export { componentRegistry, defineComponent } from "./registry"
 export { External } from "./external"
@@ -29,5 +30,6 @@ export {
   Relations,
   SchemaOrg,
   HomeList,
+  LandingLink,
   BrowseAll,
 }
