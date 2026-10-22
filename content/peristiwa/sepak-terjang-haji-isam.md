@@ -2,7 +2,7 @@
 title: "Sepak Terjang Haji Isam"
 description: 'Living document manuver korporasi Haji Isam/Jhonlin Group: aksi mega-akuisisi, transaksi pasar modal, dan ekspansi konglomerasi.'
 date: 2026-10-09
-updated: '2026-10-20'
+updated: '2026-10-22'
 aliases:
   - Sepak Terjang Haji Isam
   - Aksi Korporasi Haji Isam
@@ -184,9 +184,22 @@ Di tengah bantahan resmi manajemen BCA, data perdagangan bursa mencatat adanya t
 
 Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saham BYAN oleh PT Jhonlin Baratama (Haji Isam) resmi tercatat sebagai aksi korporasi pengambilalihan emiten terbesar di pasar modal Indonesia sepanjang September 2026, melampaui sejumlah aksi korporasi lain seperti akuisisi rumah sakit oleh Siloam Hospitals (SILO Rp3,47 T) dan ekspansi migas Oxala Energy (PIPA).
 
+### 2026-09-30 — Gadai Saham JARR dan PGUN ke Bank Mandiri untuk Pembiayaan Akuisisi BYAN
+
+- PT Eshan Agro Sentosa menandatangani akta gadai saham di hadapan notaris, menggadaikan 7.997.556.204 saham [[pt-jhonlin-agro-raya|PT Jhonlin Agro Raya Tbk]] (JARR) — 100% kepemilikannya, setara 86,64% saham beredar JARR — kepada PT Bank Mandiri (Persero) Tbk sebagai jaminan fasilitas kredit perusahaan afiliasi (diungkap lewat keterbukaan informasi JARR No. 096/EXT-CORSEC/JARR/X/2026, 7 Oktober 2026).
+- Pemegang saham [[pt-pradiksi-gunatama|PT Pradiksi Gunatama Tbk]] (PGUN) — PT Araya Agro Lestari, PT Citra Agro Raya, dan PT Baramega Citra Mulia Persada — menjaminkan 92,38% saham PGUN ke Bank Mandiri (Kiwoom Sekuritas).
+- Nilai jaminan gabungan menurut Kiwoom Sekuritas: JARR Rp28,63 triliun + PGUN Rp51,70 triliun = **Rp80,33 triliun, atau 3,08× nilai akuisisi BYAN**. Manajemen JARR menegaskan gadai tidak mengubah pengendalian dan tidak menimbulkan dilusi.
+
 ### 2026-10-07 — Rampungnya Akuisisi 30,25% BYAN oleh PT Jhonlin Baratama
 
 - PT Jhonlin Baratama merampungkan pembelian 10.084.088.370 saham (30,25%) PT Bayan Resources Tbk di pasar negosiasi @Rp2.588/saham, total ~Rp26,09 triliun. Penjual: [[dato-low-tuck-kwong|Low Tuck Kwong]] (10.067.421.703 saham) dan [[elaine-low|Elaine Low]] (16.666.667 saham). Low Tuck Kwong tetap menjadi pengendali BYAN; tidak ada perubahan pengendalian.
+- Struktur pembiayaan akuisisi menurut Kiwoom Sekuritas (dikutip Kompas.com): pembelian dilakukan Acquisition SPV; Financing SPV memperoleh fasilitas Bank Mandiri beragunan saham PGUN dan JARR; dana mengalir ke Acquisition SPV melalui pinjaman antarperusahaan. **Nominal fasilitas tidak diungkap para pihak.**
+- Mirae Asset Sekuritas (12 Oktober 2026) memperkirakan utang akuisisi Jhonlin kepada Bank Mandiri dilunasi dari dividen BYAN (estimasi hak dividen Jhonlin ±US$290 juta/tahun dari rata-rata dividen BYAN 2021–2025).
+- Harga transaksi Rp2.588/saham setara **80,76% di bawah harga pasar reguler BYAN pada hari transaksi (Rp13.450)**; nilai pasar paket 30,25% pada harga reguler ±Rp135,6 triliun. BYAN ditutup melemah 6,69% ke Rp12.550 pada 7 Oktober 2026. Konteks: free float BYAN hanya ±1,5% sehingga harga regulernya tipis likuiditas (Bloomberg).
+
+### 2026-10-12 — Kekayaan Low Tuck Kwong Turun US$5,78 Miliar Versi Indeks Bloomberg
+
+- Bloomberg Billionaires Index mencatat kekayaan [[dato-low-tuck-kwong|Low Tuck Kwong]] turun US$5,78 miliar (dari ±US$17,1 miliar menjadi ±US$11,3 miliar) — penurunan satu hari terbesar di dunia pada 12 Oktober 2026. Penurunan ini adalah penyesuaian valuasi (paper loss) atas penjualan BYAN jauh di bawah harga pasar; Low menerima hasil penjualan tunai ±Rp26,09 triliun. Penjual maupun BYAN tidak memberikan penjelasan resmi atas besarnya diskon.
 
 ### 2026-10-19 — BBCA Tertekan 6,86%, Rumor Akuisisi Haji Isam Kembali Disorot
 
@@ -226,6 +239,13 @@ Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saha
 - Bloomberg Markets: Low Tuck Kwong in Talks with Consortium Led by Haji Isam for Bayan Stake, 26 Agustus 2026.
 
 ### Sumber Peristiwa Oktober 2026
+- Keterbukaan informasi JARR ke BEI/OJK No. 096/EXT-CORSEC/JARR/X/2026, 7 Oktober 2026.
+- [Butuh dana jumbo, Haji Isam gadaikan seluruh saham JARR](https://www.idnfinancials.com/id/news/69954/butuh-dana-jumbo-haji-isam-gadaikan-seluruh-saham-jarr) — IDNFinancials, 7 Oktober 2026.
+- [Analisis Kiwoom Sekuritas via Kompas.com, 8 Oktober 2026](https://www.infonasional.com/haji-isam-akuisisi-saham-byan) (dirangkum InfoNasional, 9 Oktober 2026).
+- [Jhonlin Andalkan Dividen BYAN untuk Bayar Utang Rp26,1 Triliun (Mirae Asset Sekuritas)](https://www.infonasional.com/jhonlin-dividen-byan-bayar-utang) — InfoNasional, 15 Oktober 2026.
+- [Haji Isam Resmi Caplok 30,25% Saham BYAN senilai Rp26,1 Triliun, Low Tuck Kwong Tetap Pengendali](https://informasi.com/ekonomi/infrms-28729/haji-isam-resmi-caplok-3025-saham-byan-senilai-rp261-triliun-low-tuck-kwong-tetap-pengendali) — Informasi.com, 13 Oktober 2026.
+- [Indonesian billionaire Low Tuck Kwong loses $5.8 billion](https://www.billionaires.africa/2026/10/12/indonesian-billionaire-low-tuck-kwong-loses-5-8-billion-after-selling-bayan-stake/) (Bloomberg Billionaires Index via Bloomberg Technoz) — Billionaires Africa, 12 Oktober 2026.
+- [Saham JARR-PGUN Milik Haji Isam Dijaminkan ke Bank Mandiri, Ini Kata BEI](https://investortrust.id/market/119753/saham-jarr-pgun-milik-haji-isam-dijaminkan-ke-bank-mandiri-ini-kata-bei) — InvestorTrust, 19 Oktober 2026.
 - [BBCA Tertekan, Rumor Haji Isam Akuisisi BCA Kembali Jadi Sorotan](https://www.viva.co.id/bisnis/1936917-bbca-tertekan-rumor-haji-isam-akuisisi-bca-kembali-jadi-sorotan) — VIVA (Nadiyas Utami Pratiwi, sumber data Stockbit Sekuritas), 19 Oktober 2026.
 
 ### Sumber Peristiwa September 2026
@@ -241,6 +261,10 @@ Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saha
 - Moody's Ratings Press Release: Moody's changes PT Bayan Resources Tbk's outlook to negative; affirms Ba1 ratings, 18 September 2026.
 
 ## Catatan presisi
+
+- **Free float JARR 13,25%** (porsi masyarakat 1.222.950.000 dari 9.230.665.050 saham, laporan keuangan JARR). Angka "free float 7%" yang beredar di artikel viral tidak bersumber dan keliru.
+- Yang menggadaikan saham adalah **pemegang saham pengendali** (Eshan Agro Sentosa untuk JARR; tiga entitas untuk PGUN) sebagai jaminan fasilitas entitas afiliasi/SPV — bukan perseroan JARR/PGUN yang berutang.
+- BEI meminta penjelasan kepada JARR dan PGUN atas pengagunan ini; Direktur Utama BEI Jeffrey Hendrik (19 Oktober 2026) menyatakan pengagunan saham untuk kredit adalah transaksi perbankan biasa, kewenangan BEI terbatas pada keterbukaan informasi.
 
 - **Terverifikasi:** CSPA 16 September 2026, realisasi 7 Oktober 2026 (10.084.088.370 saham @Rp2.588), dan bantahan BCA 28 September 2026 dirujuk ke keterbukaan informasi BEI serta pemberitaan CNBC Indonesia dan Bloomberg Technoz.
 - **Dua nilai, dua dasar:** Rp115,25 triliun adalah **nilai pasar** porsi 30% pada harga penutupan Rp11.525 (17 September 2026); Rp26,09 triliun adalah **nilai transaksi** pada Rp2.588 (7 Oktober 2026). Keduanya benar untuk pertanyaan berbeda — jangan dikutip bergantian tanpa label.

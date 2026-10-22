@@ -2,7 +2,7 @@
 title: "Kinerja Pemerintahan Prabowo-Gibran"
 description: "Ringkasan terverifikasi dua tahun pemerintahan Prabowo Subianto–Gibran Rakabuming Raka (20 Oktober 2024–20 Oktober 2026): indikator makro, laba BUMN, dan kebijakan per bidang — dengan koreksi dan catatan presisi atas daftar '200 fakta' yang beredar."
 date: 2026-10-20
-updated: '2026-10-21'
+updated: '2026-10-22'
 entity_type: topik
 entity_id: "kinerja-pemerintahan-prabowo-gibran"
 aliases:
@@ -16,7 +16,7 @@ tags:
 confidence: 8
 risiko_editorial: "sedang"
 kategori: kinerja-pemerintahan
-last_updated: "2026-10-21"
+last_updated: "2026-10-22"
 ---
 
 # Kinerja Pemerintahan Prabowo-Gibran
@@ -27,7 +27,7 @@ last_updated: "2026-10-21"
 
 ## Kenapa penting buat Gen Z
 
-Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 untuk lulusan D3/S1 — uang saku setara UMK — tetapi kuotanya hanya mencakup sekitar 2% dari jumlah penganggur. Koding dan kecerdasan artifisial menjadi mata pelajaran pilihan mulai tahun ajaran 2025/2026, sehingga keterampilan digital Gen Z langsung dipengaruhi kurikulum. Cek Kesehatan Gratis sudah dimanfaatkan lebih dari 89 juta orang hingga pertengahan 2026 dan dapat diakses berkala, termasuk saat ulang tahun. PP TUNAS (PP 17/2025) memerintahkan platform berisiko tinggi menonaktifkan akun pengguna di bawah 16 tahun mulai Maret 2026 — aturan yang langsung menyentuh pengalaman bermedia sosial anak muda. Beasiswa Garuda membuka 1.000 kursi S1 ke kampus top dunia pada 2026 dalam 10 bidang prioritas. Investasi dua tahun diklaim menyerap 5,49 juta tenaga kerja — pasar kerja tempat Gen Z masuk lulusannya. Evaluasi ini datang dari partai Presiden sendiri dan menyorot karhutla serta energi — dua isu yang langsung menyentuh kesehatan dan biaya hidup anak muda — sehingga hasil akhirnya, reshuffle atau tidak, ikut menentukan arah kebijakan tiga tahun ke depan.
+Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 untuk lulusan D3/S1 — uang saku setara UMK — tetapi kuotanya hanya mencakup sekitar 2% dari jumlah penganggur. Koding dan kecerdasan artifisial menjadi mata pelajaran pilihan mulai tahun ajaran 2025/2026, sehingga keterampilan digital Gen Z langsung dipengaruhi kurikulum. Cek Kesehatan Gratis sudah dimanfaatkan lebih dari 89 juta orang hingga pertengahan 2026 dan dapat diakses berkala, termasuk saat ulang tahun. PP TUNAS (PP 17/2025) memerintahkan platform berisiko tinggi menonaktifkan akun pengguna di bawah 16 tahun mulai Maret 2026 — aturan yang langsung menyentuh pengalaman bermedia sosial anak muda. Beasiswa Garuda membuka 1.000 kursi S1 ke kampus top dunia pada 2026 dalam 10 bidang prioritas. Investasi dua tahun diklaim menyerap 5,49 juta tenaga kerja — pasar kerja tempat Gen Z masuk lulusannya. Evaluasi ini datang dari partai Presiden sendiri dan menyorot karhutla serta energi — dua isu yang langsung menyentuh kesehatan dan biaya hidup anak muda — sehingga hasil akhirnya, reshuffle atau tidak, ikut menentukan arah kebijakan tiga tahun ke depan. Sejak dividen BUMN dikelola Danantara di luar APBN, pos penerimaan negara dari dividen menyusut dari Rp86,4 triliun (2024) ke Rp1,5 triliun (Semester I 2026) — perubahan desain fiskal yang ikut menentukan ruang anggaran negara untuk program-program yang menyentuh anak muda pada tahun-tahun mendatang.
 
 ## Fakta kunci
 
@@ -239,6 +239,7 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 
 ### 2025-10-22
 - HET pupuk bersubsidi turun 20% (Kepmentan 1117/Kpts./SR.310/M/10/2025).
+- PT Danantara Investment Management menerbitkan **Patriot Bond** melalui penawaran terbatas (private placement): kupon **2% per tahun flat**; Seri A tenor 5 tahun (jatuh tempo 22 Oktober 2030) dan Seri B tenor 7 tahun (21 Oktober 2032). Target Rp50 triliun, realisasi oversubscribe **Rp51,75 triliun** dengan partisipasi ±46 konglomerat/grup usaha; pembeli pertama yang tercatat di keterbukaan informasi BEI adalah PT Hanjaya Mandala Sampoerna Tbk (Rp500 miliar). Tujuan awal pembiayaan proyek strategis, terutama waste-to-energy di 33 lokasi. Danantara dan Menteri Keuangan membantah adanya kewajiban membeli. (Pada 2026, Pasal 50A UU P2SK memberi perlindungan hukum bagi pembeli surat utang khusus Danantara di pasar primer.)
 
 ### 2025-10-29
 - Kick-off SIMBARA (Perpres 94/2025); Rusun Blok C-2 Kemayoran (eks Wisma Atlet) diresmikan.
@@ -248,6 +249,9 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 
 ### 2025-11-25
 - Rehabilitasi 3 eks direksi ASDP; PT Perminas didirikan Danantara untuk mineral kritis.
+
+### 2025-12-01
+- Kepmen ESDM 391.K/MB.01/MEM.B/2025 berlaku: tarif denda administratif tambang ilegal di kawasan hutan per hektare — batu bara Rp354 juta, nikel Rp6,5 miliar, bauksit ±Rp1,76 miliar, timah ±Rp1,25 miliar. Untuk perkebunan sawit, PP 45/2025 mengatur denda Rp25 juta per hektare dikalikan tahun beroperasi, disertai mekanisme **penguasaan kembali oleh negara**; lahan perkebunan hasil penguasaan kembali dikelola PT Agrinas Palma Nusantara.
 
 ### 2025-12-17
 - UU 20/2025 KUHAP ditandatangani Presiden (berlaku 2/1/2026).
@@ -336,14 +340,33 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 ### 2026-08-25
 - Program PLTS 100 GWp diluncurkan di Gilimanuk, Bali (groundbreaking awal 14 proyek, 5,3 GWp).
 
+### 2026-08-28
+- Menteri Keuangan [[purbaya-yudhi-sadewa|Purbaya Yudhi Sadewa]] mengumumkan rencana Danantara menyetor ±Rp120 triliun ke APBN 2026 sebagai PNBP Lainnya, yang ia sebut sebagai keputusan Presiden. Pada 9 September 2026, CEO Danantara Rosan Roeslani menyatakan rencana setoran itu belum dibahas secara internal di Danantara.
+
+### 2026-09-10
+- Purbaya melantik dan merombak 1.585 pejabat Kementerian Keuangan (Koridor; media lain menyebut ratusan pejabat), mencakup antara lain Ditjen Pajak dan Ditjen Bea Cukai. Perombakan ini kemudian dipersoalkan kedua dirjen terkait nama-nama yang dinilai tidak melalui asesmen.
+
+### 2026-09-14
+- Presiden memberhentikan Purbaya Yudhi Sadewa dan melantik Suahasil Nazara sebagai Menteri Keuangan (Keppres 97/P/2026). Pemerintah tidak memberikan alasan resmi. Analis CELIOS Bhima Yudhistira menyebut polemik dividen Danantara sebagai satu dari beberapa faktor; Purbaya membantah pencopotannya berkaitan dengan Danantara.
+
+### 2026-09-17
+- Kementerian ESDM mengumumkan hasil lelang wilayah kerja migas Tahap I 2026 (Kepmen ESDM 108.K/MG.4/DJM/2026). Blok Natuna D-Alpha dimenangkan PT Nations Petroleum (Arsari Group) lewat penawaran langsung, dengan komitmen pasti US$103.309.000 dan bonus tanda tangan US$200.000 — komitmen terbesar dari enam blok yang dilelang.
+
 ### 2026-09-24
 - Eks kapal induk Italia Garibaldi direflagging menjadi KRI Sriwijaya-100 di Tanjung Priok.
+
+### 2026-09-30
+- COO Danantara Dony Oskaria menyatakan belum ada kewajiban bagi Danantara menyerahkan dividen Rp120 triliun ke kas negara; dana dividen direncanakan untuk proyek strategis dan hilirisasi.
 
 ### 2026-10-05
 - 6 Kodam baru lagi diresmikan (total 27 Kodam).
 
 ### 2026-10-06
 - Satgas PKH penyerahan ke-8: penguasaan kembali mencapai 6.206.212,14 ha perkebunan + 14.633,79 ha tambang; total ±Rp52 triliun diserahkan dalam 2 tahun. DPR mengesahkan UU Satu Data Indonesia (20 bab, 141 pasal).
+- Penyerahan Tahap VIII Satgas PKH (disaksikan Presiden di Kejagung): Rp13.241.335.681.910,13 ke kas negara — terdiri atas denda administratif kehutanan Rp3,476 triliun, PNBP Pidsus Rp1,536 triliun, dan penerimaan pajak tindak lanjut Rp8,230 triliun — serta 259.230,73 ha lahan (140.762,4 ha perkebunan diserahkan untuk dikelola Agrinas Palma Nusantara; 118.256,74 ha konservasi/hutan lindung untuk reboisasi; 211,95 ha pertambangan). Lihat [[2026-10-06-penyerahan-tahap-viii-satgas-pkh]].
+
+### 2026-10-08
+- Menteri Keuangan Suahasil Nazara menegaskan APBN 2026 dan APBN 2027 tidak mencatat dividen Danantara (Antara). Di hari yang sama, Dony Oskaria menyatakan dividen Danantara diinvestasikan kembali melalui Danantara Asset Management (DAM) dan Danantara Investment Management (DIM). Konteks fiskal: realisasi PNBP Kekayaan Negara Dipisahkan (KND) turun dari Rp86,4 triliun (2024) menjadi Rp12,7 triliun (2025) dan Rp1,5 triliun (Semester I 2026), akibat perubahan mekanisme UU 1/2025 yang mengalihkan dividen BUMN ke Danantara; total PNBP Semester I 2026 sendiri naik 21,6% menjadi Rp271 triliun.
 
 ### 2026-10-19
 - Menteri Investasi Rosan Roeslani: realisasi investasi kumulatif 2 tahun Rp3.923,2 triliun dengan penyerapan 5.485.944 pekerja.
@@ -377,6 +400,11 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 
 ## Sumber
 
+- **Patriot Bond:** Kontan, "Melihat Prospek Emiten yang Mulai Beli Patriot Bond", 23 Oktober 2025 — https://id.tradingview.com/news/kontan:c996e922f87ea:0/ ; Kabar Nusantara, "Danantara Bantah Kabar Orang Kaya Wajib Beli Patriot Bond", 2026 — https://www.kabarnusantara.id/danantara-bantah-kabar-wajib-beli-patriot-bond ; AsatuNews, "Kejagung Respons Perlindungan Hukum Surat Utang BPI Danantara", 24 Juni 2026 — https://www.asatunews.co.id/kejagung-respons-perlindungan-hukum-danantara
+- **Tarif denda PKH:** Bloomberg Technoz, "Penambang Nikel Beber Kejanggalan Denda Kawasan Hutan Satgas PKH", 11 Desember 2025 — https://www.bloombergtechnoz.com/detail-news/93725/penambang-nikel-beber-kejanggalan-denda-kawasan-hutan-satgas-pkh/2 ; Fortune Indonesia, "Kementerian ESDM Tetapkan Denda Rp6,5 miliar per Hektar Bagi Pelanggaran Tambang di Hutan", Desember 2025 — https://www.fortuneidn.com/news/kementerian-esdm-tetapkan-denda-rp6-5-miliar-per-hektar-bagi-pelanggar-00-5mjpg-t666qb/amp
+- **Tahap VIII Satgas PKH:** Industry.co.id, "Satgas PKH Setor Rp13,24 Triliun ke Negara, 259.230 Hektare Hutan Kembali Dikuasai", Oktober 2026 — https://www.industry.co.id/read/157071/satgas-pkh-setor-rp1324-triliun-ke-negara-259230-hektare-hutan-kembali-dikuasai
+- **Dividen Danantara & Purbaya:** Espos, "Purbaya Ungkap Danantara akan Setor Rp120 Triliun ke APBN 2026", 28 Agustus 2026 — https://ekonomi.espos.id/purbaya-ungkap-danantara-akan-setor-rp120-triliun-ke-apbn-2026-2246177 ; Bloomberg Technoz, "Purbaya Rombak Ratusan Pejabat Kemenkeu", 11 September 2026 — https://www.bloombergtechnoz.com/detail-news/121217/purbaya-rombak-ratusan-pejabat-kemenkeu-bantah-ada-obral-jabatan/2 ; InvestorTrust, "Purbaya Kena Reshuffle, Prabowo Lantik Suahasil sebagai Menkeu", 14 September 2026 — https://investortrust.id/national/116178/purbaya-kena-reshuffle-prabowo-lantik-suahasil-sebagai-menkeu ; IDNFinancials (Antara), "Menteri Keuangan: Danantara tak setor dividen ke APBN", 8 Oktober 2026 — https://www.idnfinancials.com/id/news/70009/menteri-keuangan-danantara-tak-setor-dividen-ke-apbn ; LensaHukum, "Danantara Investasikan Kembali Dividen di Luar APBN 2026 dan 2027", 9 Oktober 2026 — https://lensahukum.co.id/danantara-investasi-dividen-luar-apbn
+- **Natuna D-Alpha (Arsari Group):** Kepmen ESDM 108.K/MG.4/DJM/2026.
 - **BPS (5/8/2026):** PDB semester I 2026 tumbuh 5,45%. Kemiskinan Maret 2026: 8,07%. TPT Februari 2026: 4,68%. NTP September 2026: 131,11.
 - **BKPM (19/10/2026):** realisasi investasi kumulatif TW IV 2024–TW III 2026 = Rp3.923,2 triliun, serap 5.485.944 pekerja (Rosan Roeslani di Istana Merdeka). Investasi 2025: Rp1.931,2 triliun / 2,71 juta pekerja.
 - **Kepmentan 1117/Kpts./SR.310/M/10/2025 (22/10/2025):** HET pupuk bersubsidi turun 20%.
