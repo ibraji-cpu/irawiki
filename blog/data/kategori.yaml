@@ -1,0 +1,23 @@
+- slug: adilkah-aturan-mainnya
+  nama: "Adilkah Aturan Mainnya?"
+  deskripsi: "Aturan main, putusan, dan lembaga yang diuji: mana yang adil, mana yang hanya aman."
+- slug: siapa-tuan-tanahnya
+  nama: "Siapa Tuan Tanahnya?"
+  deskripsi: "Lahan, kawasan hutan, dan sumber daya alam: siapa yang menguasai, siapa yang menikmati."
+- slug: siapa-pemilik-sebenarnya
+  nama: "Siapa Pemilik Sebenarnya?"
+  deskripsi: "Di balik nama dan atas nama: melacak pemilik sampai ke ujung."
+  paksa: true
+- slug: siapa-lagi-korupsi
+  nama: "Siapa Lagi Korupsi?"
+  deskripsi: "Kasus, tersangka, dan barang bukti yang masih menagih tindak lanjut."
+  paksa: true
+- slug: menagih-janji-dan-bukti
+  nama: "Menagih Janji dan Bukti"
+  deskripsi: "Janji kerja, janji politik, janji pembangunan — ditagih dengan bukti."
+- slug: konsep-kunci
+  nama: "Konsep Kunci"
+  deskripsi: "Manifesto: konsep untuk membaca politik, pengetahuan, dan teknologi."
+- slug: umum
+  nama: "Umum"
+  deskripsi: "Catatan dan pengumuman yang tidak masuk kategori lain."

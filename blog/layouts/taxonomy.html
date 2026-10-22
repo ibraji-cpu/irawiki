@@ -1,0 +1,51 @@
+{{- define "main" -}}
+
+{{- if eq .Type "categories" -}}
+{{- /* Indeks kategori: pakai data/kategori.yaml supaya kategori 0-artikel ikut terdaftar */ -}}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- with .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+
+{{- $counts := dict -}}
+{{- range $nama, $tax := site.Taxonomies.categories -}}
+{{- $counts = merge $counts (dict (urlize $nama) (len $tax.Pages)) -}}
+{{- end -}}
+
+<ul class="terms-tags">
+    {{- range hugo.Data.kategori }}
+    <li>
+        <a href="/categories/{{ .slug }}/">{{ .nama }} <sup><strong><sup>{{ index $counts .slug | default 0 }}</sup></strong></sup></a>
+    </li>
+    {{- end }}
+</ul>
+
+{{- else -}}
+{{- /* Taxonomy lain (tags) —pertahankan markup bawaan PaperMod */ -}}
+{{- if .Title }}
+<header class="page-header">
+    <h1>{{ .Title }}</h1>
+    {{- if .Description }}
+    <div class="post-description">
+        {{ .Description }}
+    </div>
+    {{- end }}
+</header>
+{{- end }}
+
+<ul class="terms-tags">
+    {{- range $name, $tax := site.Taxonomies.tags }}
+    {{- with site.GetPage (printf "/tags/%s" (urlize $name)) }}
+    <li>
+        <a href="{{ .Permalink }}">{{ .LinkTitle }} <sup><strong><sup>{{ len $tax.Pages }}</sup></strong></sup> </a>
+    </li>
+    {{- end }}
+    {{- end }}
+</ul>
+{{- end }}
+
+{{- end }}{{/* end main */ -}}

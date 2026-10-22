@@ -1,0 +1,31 @@
+{{- /* Kartu "Update Wiki" — dipakai shortcode wiki_updates & beranda (layouts/index.html) */ -}}
+{{- $limit := 3 -}}
+{{- $showArchive := false -}}
+{{- with hugo.Data.wiki_updates }}{{ with .home_items }}{{ $limit = . }}{{ end }}{{ end -}}
+{{- with .limit }}{{ $limit = (int .) }}{{ end -}}
+{{- if isset . "showArchive" }}{{ $showArchive = .showArchive }}{{ end -}}
+
+{{- $items := slice -}}
+{{- with hugo.Data.wiki_updates }}{{ with .items }}{{ $items = . }}{{ end }}{{ end -}}
+
+{{- with $items }}
+<section class="wiki-updates">
+  <header class="wiki-updates-head">
+    <h2>Update Wiki</h2>
+    <p class="wiki-updates-sub">Catatan terbaru dari <a href="https://wiki.iraamalia.id" target="_blank" rel="noopener">wiki.iraamalia.id</a></p>
+  </header>
+  {{- range first $limit . }}
+  <article class="wiki-update-card">
+    <div class="wiki-update-top">
+      <span class="wiki-badge wiki-badge--{{ .badge }}">{{ if eq .badge "baru" }}Baru{{ else }}Diperbarui{{ end }}</span>
+      <a class="wiki-update-title" href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
+    </div>
+    <p class="wiki-update-summary">{{ .summary }}</p>
+    <a class="wiki-update-link" href="{{ .url }}" target="_blank" rel="noopener">Baca halaman di wiki &rarr;</a>
+  </article>
+  {{- end }}
+  {{- if $showArchive }}
+  <p class="wiki-updates-more"><a href="/update/">Lihat semua update wiki &rarr;</a></p>
+  {{- end }}
+</section>
+{{- end }}
