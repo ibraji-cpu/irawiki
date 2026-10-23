@@ -1,0 +1,11 @@
+Carousel: Dividen BUMN — 5 slide template Ira Kafe, 1025x1366 (3:4)
+Slide 1 = cover, slide 2-5 = isi. Teks persis dari carousel.md.
+
+Unduh tiap slide:
+Slide 1 (cover): https://drive.google.com/uc?export=download&id=1EW4UObTusdVG-gd_8xeWUAHQX2GCU4l9
+Slide 2: https://drive.google.com/uc?export=download&id=1Yz0uq_FwCfIQwrxLx2mzRa_FS5EG5pCb
+Slide 3: https://drive.google.com/uc?export=download&id=1pRAcQQiijl2M8sdogZ2b-WZD0ea_xTrl
+Slide 4: https://drive.google.com/uc?export=download&id=16ew0MGoL6mByP4ooxN9GHUE0Qq315F1X
+Slide 5: https://drive.google.com/uc?export=download&id=1457YCtTX7Nrf0FEreWB9Ivuh2Lifk_QT
+
+Catatan: file biner tidak bisa di-push lewat GitHub MCP (hanya UTF-8), jadi PNG di-host di Google Drive pemilik (anyone-with-link). Lihat CATATAN.txt untuk detail produksi.
