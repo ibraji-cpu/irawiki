@@ -48,7 +48,7 @@ sumber:
   - url: "https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran"
     tanggal: "2026-09-30"
 kategori: aturan-main-demokrasi
-last_updated: "2026-10-09"
+last_updated: "2026-10-22"
 last_verified: "2026-10-09"
 ---
 
@@ -146,6 +146,10 @@ Putusan resmi ini mengakhiri sengketa di ranah yudisial, namun pertimbangan fakt
 Menyikapi pertimbangan faktual Mahkamah Konstitusi terkait ketiadaan dokumen fisik ijazah SMA, politisi PDI Perjuangan [[deddy-sitorus|Deddy Sitorus]] menyatakan komitmen fraksinya untuk menggalang pembentukan Panitia Khusus (Pansus) Hak Angket di [[dpr-ri|DPR RI]] guna mengusut tuntas mekanisme verifikasi syarat pencalonan di KPU dan Ditjen Dikdasmen.
 
 Sebaliknya, Juru Bicara Partai Gerindra [[sugiat-santoso|Sugiat Santoso]] bersama koalisi KIM Plus mendesak seluruh pihak menghentikan polemik dan *move on* menghormati putusan MK demi menjaga kepastian hukum, stabilitas pasar keuangan, serta iklim investasi internasional. Wacana pergeseran sengketa dari ranah hukum ke arena parlemen ini dianalisis secara komprehensif dalam [[hak-angket-ijazah-gibran|Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR]].
+
+### 2026-10-22 — PTUN Jakarta tetapkan Gibran sebagai Tergugat II dalam gugatan ijazah; sidang lanjutan 29/10
+
+Majelis hakim PTUN Jakarta membacakan putusan sela pada sidang Kamis 22/10/2026 (Ruang Kartika) yang mengabulkan permohonan intervensi dan menetapkan Gibran Rakabuming Raka sebagai Tergugat II dalam perkara Nomor 255/G/2026/PTUN.JKT — gugatan yang diajukan Mercy Sihombing terhadap Dirjen Pendidikan Menengah dan Pendidikan Khusus Kemendikdasmen atas Surat Keterangan Penyetaraan No. 9149/D.D1/KS/2019. Sidang lanjutan dijadwalkan Kamis 29 Oktober 2026 pukul 10.00 WIB dengan agenda tanggapan/jawaban Tergugat II serta penyampaian bukti para pihak. Kuasa hukum Gibran (Muhammad Rullyandi dan Adil Supatra Akbar) menyatakan siap membuktikan riwayat pendidikan Gibran "sejelas-jelasnya" dari SLTP, SLTA/setara, hingga S1 — klaim pihak, bukan fakta yang sudah diuji di persidangan. Polsek Cakung mengawal sidang dengan 6 personel; situasi kondusif.
 
 ## Aktor yang Terlibat
 

@@ -56,7 +56,7 @@ kategori_analisis:
 confidence: 5
 risiko_editorial: "tinggi"
 kategori: aturan-main-demokrasi
-last_updated: "2026-10-20"
+last_updated: "2026-10-22"
 last_verified: "2026-10-08"
 relasi: []
 ---
@@ -93,6 +93,14 @@ Batasnya perlu disebut. Pernyataan Deddy Sitorus yang mendorong Pansus Hak Angke
 ### 2026-10-07 — Respons Politik Terbelah
 - Respons politik terbelah: PDIP melalui Deddy Sitorus mendorong Pansus Hak Angket, sementara Gerindra melalui Sugiat Santoso meminta polemik dihentikan.
 - Wacana hak angket diperdebatkan dengan sorotan pada syarat lintas fraksi UU MD3 dan komposisi 110 berbanding 470 kursi.
+
+### 2026-10-20 — PKS ajak fraksi lain tindaklanjuti polemik ijazah Gibran; sikap soal hak angket belum ditentukan
+
+Sekretaris Jenderal PKS Muhammad Kholid menyatakan PKS akan membangun komunikasi dengan fraksi-fraksi lain di DPR untuk membahas tindak lanjut polemik ijazah Wakil Presiden Gibran Rakabuming Raka — tindak lanjut dari penugasan Presiden PKS Al Muzzammil Yusuf kepada Fraksi PKS di parlemen. PKS belum menentukan sikap soal kemungkinan penggunaan hak angket maupun hak menyatakan pendapat; DPR masih dalam masa reses, sikap akan dilihat pada masa sidang berikutnya (fakta resmi: pernyataan Kholid pada 20/10). Kholid memosisikan PKS sebagai "jembatan aspirasi masyarakat" — klaim politik pihak, bukan keputusan formal fraksi.
+
+### 2026-10-22 — Ray Rangkuti nilai peluang hak angket bergantung pada sikap Istana
+
+Ray Rangkuti (Direktur Eksekutif Lingkar Madani, perwakilan Aliansi Kolektif Sipil/AKSI) dalam wawancara kanal YouTube Abraham Samad Speak Up (diunggah 20/10/2026) menilai peluang hak angket DPR atas polemik ijazah Gibran bergantung pada sikap Istana — "kunci di tangan Istana". Menurut pembacaannya sendiri (bukan pernyataan resmi fraksi), sekitar 60% fraksi sudah positif mendukung rencana hak angket; baru tiga fraksi yang merespons ajakan masyarakat sipil — Golkar, PKB, dan PKS — "tidak satu pun langsung menolak". Ia menyebut terkejut dengan keterbukaan Golkar; PKS disebut memakai istilah "ijazah gate". Sikap Istana dan Gerindra dinilai "fifty-fifty". Ray menyarankan Prabowo/Gerindra ikut mendorong angket agar tidak terkesan melindungi Gibran — semuanya opini Ray, bukan fakta resmi.
 
 ## Fakta yang Relevan
 
@@ -226,6 +234,8 @@ Data dikumpulkan dari pemberitaan media nasional (Detik, VIVA, Tempo, Sindonews,
 - Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum, Pasal 169 huruf r.
 - Peraturan Mahkamah Konstitusi Nomor 2 Tahun 2024.
 - Ira Amalia, "Hak Angket Ijazah Gibran: Pintu Politik yang Terkunci dari Dalam", 7 Oktober 2026.
+- Warta Nusantara — https://wartanusantara.com/polsek-cakung-pantau-sidang-gugatan-ijazah-gibran-di-ptun-jakarta-berlangsung-kondusif/ — 22 Oktober 2026
+- Ntvnews.id (dilansir dari Antara) — https://www.ntvnews.id/news/01122511/pks-akan-ajak-partai-lain-tindaklanjuti-ijazah-gibran — 20 Oktober 2026
 
 ## Catatan presisi
 

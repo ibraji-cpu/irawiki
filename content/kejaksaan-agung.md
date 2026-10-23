@@ -22,7 +22,7 @@ confidence: 5
 risiko_editorial: "rendah"
 kategori: hukum-dan-pertanahan
 kategori_tambahan: [sumber-daya-alam]
-last_updated: "2026-10-20"
+last_updated: "2026-10-22"
 ---
 
 # Kejaksaan Agung
@@ -52,6 +52,10 @@ Kejaksaan Agung adalah lembaga yang mengajukan perkara ke pengadilan dan mengeks
 ### 2026-10-06 — Penyerahan Tahap VIII di Gedung Bundar
 Penyerahan tahap VIII hasil kerja [[satgas-pkh|Satgas PKH]] ke negara, disaksikan Presiden Prabowo Subianto. Nilai yang diserahkan Rp13,24 triliun tunai dan 259.230,73 hektare lahan.
 
+### 2026-10-22 — Kejagung periksa dua karyawan PT CNI sebagai saksi kunci dugaan korupsi tata kelola nikel Sultra
+
+Perkembangan penyidikan Jampidsus Kejaksaan Agung atas dugaan korupsi tata kelola komoditas nikel di Sulawesi Tenggara periode 2017–2020: penyidik memeriksa dua karyawan PT Ceria Nugraha Indotama (PT CNI) berinisial WM dan S sebagai saksi pada Kamis 22/10/2026 untuk menelusuri alur penyimpangan perizinan dan produksi komoditas tambang; dikonfirmasi Kapuspenkum Kejagung Anang Supriatna. Kerugian keuangan negara ditaksir Rp401 miliar dari dugaan permufakatan jahat penyelenggara negara dan korporasi tambang. Tersangka yang sudah ditetapkan: DS (Dirut sekaligus pemegang saham pengendali PT CNI), BS (mantan Direktur Pembinaan Pengusahaan Mineral Ditjen Minerba Kementerian ESDM), MHI (mantan Kabid Minerba Dinas ESDM Sultra 2017–2019), NRH (mantan Kepala Unit PT Sucofindo Kendari 2012–2019); Kejagung masih menahan pengumuman resmi satu tersangka lain yang belum memenuhi panggilan.
+
 ## Aktor yang Terlibat
 
 - [[st-burhanuddin|ST Burhanuddin]] — Jaksa Agung, Wakil Ketua I Pengarah Satgas PKH.
@@ -62,6 +66,7 @@ Penyerahan tahap VIII hasil kerja [[satgas-pkh|Satgas PKH]] ke negara, disaksika
 
 - NTV News. "Prabowo Saksikan Penyerahan Rp13,24 Triliun Hasil Kerja Satgas PKH ke Negara". 6 Oktober 2026.
 - Viv.co.id. "Satgas PKH Fokus Usut Aliran Dana Kejahatan Hutan Hingga Luar Negeri". 6 Oktober 2026.
+- AFU.id — https://afu.id/hukum-kriminal/manut-terhadap-kuhap-kpk-tak-bisa-cegah-nusron-wahid-ke-luar-negeri — 22 Oktober 2026
 
 ## Catatan presisi
 

@@ -19,7 +19,7 @@ confidence: 7
 risiko_editorial: "sedang"
 kategori: pasar-dan-kepemilikan
 kategori_tambahan: [sumber-daya-alam]
-last_updated: "2026-10-20"
+last_updated: "2026-10-21"
 ---
 
 # Perang Ultra Modern dan Geopolitik
@@ -73,6 +73,18 @@ Tipologi di bawah dirumuskan dari kajian Agus M. Maksum ("Serangan Susulan dari 
 - IHSG rontok 11,57% (−678,67 poin) ke 5.185,11 — penurunan harian terdalam sejak krisis 1998. Perdagangan sempat dihentikan sementara (*trading halt*) 30 menit saat indeks jatuh 8,01% di pembukaan. Investor asing mencatat *net sell* besar di saham perbankan (BBCA Rp2,3 triliun; BBRI Rp1,15 triliun; BMRI Rp868 miliar).
 - Beredar konten video berjudul "Indonesia is Collapsing!!!!" bertag #1M65 (ekosistem gerakan edukasi keuangan Singapura 1M65 yang dirintis Loo Cheng Chuan): deskripsinya merangkai kebakaran hutan/asap (kebakaran di kawasan Bromo, kabut asap sampai ke Singapura–Malaysia), kejatuhan IHSG 11,6%, dan konsultasi MSCI menjadi satu kesimpulan "Indonesia runtuh", diakhiri ajakan berlangganan (*subscribe*).
 
+### 2026-10-21 — BEI akan mengecualikan saham berkonsentrasi kepemilikan tinggi (HSC) dari IHSG mulai 2 November 2026
+
+Bursa Efek Indonesia (BEI) mengumumkan pengecualian saham berkategori High Shareholding Concentration (HSC) dari perhitungan Indeks Harga Saham Gabungan (IHSG) mulai 2 November 2026, berdasarkan Pengumuman BEI No. Peng-00201/BEI.POP/10-2026 tertanggal 21 Oktober 2026. Daftar HSC mencakup 80 saham dengan bobot sekitar 18% terhadap IHSG; saham-saham tersebut tetap tercatat dan dapat diperdagangkan, hanya dikeluarkan dari penghitungan indeks. BEI juga mengubah periode evaluasi indeks menjadi Januari, April, Juli, dan Oktober (dari sebelumnya Maret, Juni, September, Desember), dengan hari efektif penyesuaian menjadi Februari, Mei, Agustus, dan November. Direktur Utama BEI Jeffrey Hendrik (22/10) menyebut langkah ini bertujuan memberikan gambaran pergerakan IHSG yang lebih wajar karena potensi risiko pada saham-saham HSC. Phintraco Sekuritas menilai kebijakan dapat meningkatkan kualitas indeks tetapi efektivitasnya dalam memulihkan kepercayaan pasar masih perlu dicermati (penilaian analis, bukan keputusan resmi).
+
+### 2026-10-21 — OJK serahkan surat sanksi administratif Rp2,1 triliun atas kasus saham DSSA, BREN, dan CUAN
+
+Otoritas Jasa Keuangan (OJK) menyerahkan surat sanksi administratif berupa denda total Rp2,1 triliun terkait kasus perdagangan saham PT Dian Swastatika Sentosa Tbk (DSSA) dan IPO PT Barito Renewables Energy Tbk (BREN) serta PT Petrindo Jaya Kreasi Tbk (CUAN); sanksi ditetapkan 16 Oktober 2026 dan suratnya diserahkan langsung di Kantor OJK, Jakarta, Rabu 21/10/2026, oleh Deputi Komisioner OJK Khoirul Muttaqien, dihadiri Direktur Ditpideksus Bareskrim Polri Kombes Pol. Suhasto. Dalam kasus DSSA, PT SMT didenda Rp1,5 triliun atas manipulasi pasar (Pasal 91 dan 92 UUPM jo. UUPPSK) dan Sdr. R (direktur PT SS) dibekukan izin Wakil Penjamin Emisi Efek selama satu tahun; sembilan anggota bursa juga didenda dan delapan sales diberi peringatan tertulis. Dalam kasus IPO BREN, AH Ltd didenda Rp500 miliar, dan dalam kasus IPO CUAN, TC Pte Ltd didenda Rp100 miliar atas pengaburan identitas pemesan saham (Pasal 107 UUPM jo. UUPPSK); dua anggota bursa (PT HPS dan PT BDS) didenda dan satu direktur PT HPS dibekukan izinnya tiga bulan. Menurut OJK, praktik tersebut menyebabkan kepemilikan BREN dan CUAN terkonsentrasi pada kelompok tertentu sehingga saham beredar di pasar terbatas.
+
+### 2026-10-22 — Manajemen BYAN tegaskan belum ada perubahan pengendali pasca-alih saham ke Jhonlin Baratama
+
+PT Bayan Resources Tbk (BYAN) menanggapi surat permintaan penjelasan lanjutan BEI (No. S-13248/BEI.PP1/10-2026 tertanggal 20 Oktober 2026) mengenai transaksi pengalihan saham yang melibatkan PT Jhonlin Baratama. Dalam keterbukaan informasi Kamis 22/10/2026, manajemen BYAN menegaskan perseroan bukan pihak dalam transaksi tersebut sehingga tidak dapat mengonfirmasi substansinya. Berdasarkan Laporan Kepemilikan Saham per 19 Oktober 2026 dari KSEI: Dato' Low Tuck Kwong memegang 2.766.667.800 saham (8,30%), Elaine Low 7.333.833.700 saham (22,00%), dan PT Jhonlin Baratama 10.084.088.370 saham (30,25%); gabungan keluarga Low masih 30,30% — sedikit lebih besar dari porsi Jhonlin Baratama. Manajemen berpandangan belum terdapat perubahan pengendalian perseroan. BEI mempertanyakan harga transaksi Rp2.588/saham (15 Oktober 2026) padahal Dato' Low Tuck Kwong tercatat membeli saham BYAN di pasar reguler pada harga Rp11.200/saham pada 14 Oktober 2026.
+
 ## Aktor yang Terlibat
 
 - **MSCI (Morgan Stanley Capital International)** — Penyedia indeks global; membuka konsultasi penurunan klasifikasi Indonesia ke *Standalone Market* (15 Okt 2026).
@@ -90,6 +102,8 @@ Tipologi di bawah dirumuskan dari kajian Agus M. Maksum ("Serangan Susulan dari 
 - **DSI:** Indonesia at Melbourne (Universitas Melbourne). "Indonesia's economic centralisation under Prabowo." https://indonesiaatmelbourne.unimelb.edu.au/indonesias-economic-centralisation-under-prabowo/
 - **Konten 1M65:** "Indonesia is Collapsing!!!!" (YouTube Short, bertag #1M65). https://www.youtube.com/shorts/cxHtfLTjUmI
 - **Liputan The Economist:** Lowy Institute. "What The Economist missed about Indonesia." https://www.lowyinstitute.org/the-interpreter/what-the-economist-missed-about-indonesia
+- Ntvnews.id — https://www.ntvnews.id/ekonomi/01122530/bank-mandiri-buka-suara-soal-saham-perusahaan-haji-isam-yang-jadi-agunan-kredit — 20 Oktober 2026
+- FORTUNE Indonesia — https://www.fortuneidn.com/market/bei-kecualikan-saham-hsc-dari-ihsg-mulai-november-2026-00-3dhnm-fcddzc — 22 Oktober 2026
 
 ## Catatan presisi
 

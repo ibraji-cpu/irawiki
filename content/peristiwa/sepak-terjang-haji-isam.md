@@ -209,6 +209,10 @@ Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saha
 - Kepala Eksekutif Pengawas Perbankan OJK Dian Ediana Rae: "Dalam hal terdapat transaksi yang berpotensi mengakibatkan perubahan pemegang saham pengendali bank, OJK akan melakukan penilaian sesuai dengan ketentuan peraturan perundang-undangan." Penilaian mencakup prinsip kehati-hatian, GCG, profil risiko bank, konsentrasi eksposur, transaksi pihak terkait, kualitas tata kelola, dan hubungan bank dengan kelompok usaha pemegang saham.
 - Catatan verifikasi: korelasi harga–rumor tidak terbukti. Penurunan BBCA terjadi di tengah tekanan pasar luas (IHSG/LQ45), dan tidak ada pengumuman resmi BEI/OJK/BCA yang mengonfirmasi transaksi akuisisi. Status: **rumor, belum terverifikasi**.
 
+### 2026-10-20 — Bank Mandiri klarifikasi kredit Jhonlin Baratama bukan untuk trading saham
+
+PT Bank Mandiri (Persero) Tbk menyampaikan klarifikasi resmi melalui keterbukaan informasi BEI (dikutip Selasa 20/10/2026) soal kredit kepada PT Jhonlin Baratama, afiliasi bisnis Andi Syamsuddin Arsyad (Haji Isam), yang dikabarkan dipakai untuk membeli saham BYAN. SVP Corporate Secretary Group Adhika Vista menegaskan kredit tersebut bukan untuk aktivitas trading saham, melainkan untuk belanja modal (capex) dan kebutuhan pembiayaan perusahaan dan grup usaha di industri batu bara beserta penunjangnya. Bank Mandiri mengonfirmasi saham PT Jhonlin Agro Raya Tbk (JARR) dan PT Pradiksi Gunatama Tbk (PGUN) yang berafiliasi dengan Jhonlin Baratama menjadi bagian dari agunan, tetapi bukan satu-satunya jaminan — fasilitas juga dijamin aset tetap, aset non-tetap, dan rekening perusahaan. Penilaian agunan saham mengacu pada POJK No. 40 Tahun 2017; agunan saham disebut sebagai "second way out" dan dinilai konservatif.
+
 ## Aktor yang Terlibat
 
 - [[andi-syamsuddin-arsyad|Andi Syamsuddin Arsyad (Haji Isam)]] — Pengusaha nasional asal Batulicin, Kalimantan Selatan; pengendali utama Jhonlin Group dan UBO dari PT Jhonlin Baratama serta PT Jhonlin Agro Raya Tbk.
@@ -259,6 +263,7 @@ Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saha
 - [Tujuan Jhonlin Group Kuasai 10 Miliar Saham Bayan Resources BYAN](https://www.bloombergtechnoz.com/detail-news/122098/tujuan-jhonlin-group-kuasai-10-miliar-saham-bayan-resources-byan) — Bloomberg Technoz, 25 September 2026.
 - [BCA Bantah Isu Rumor Akuisisi Saham BBCA oleh Haji Isam](https://www.bloombergtechnoz.com/detail-news/122777/bca-jawab-kabar-haji-isam-akuisisi-saham-perusahaan) — Bloomberg Technoz, 28 September 2026.
 - Moody's Ratings Press Release: Moody's changes PT Bayan Resources Tbk's outlook to negative; affirms Ba1 ratings, 18 September 2026.
+- Pasardana.id — https://pasardana.id/news/2026/10/22/manajemen-byan-tegaskan-belum-ada-perubahan-pengendali — 22 Oktober 2026
 
 ## Catatan presisi
 

@@ -16,7 +16,7 @@ tags:
 confidence: 8
 risiko_editorial: "sedang"
 kategori: kinerja-pemerintahan
-last_updated: "2026-10-22"
+last_updated: "2026-10-20"
 ---
 
 # Kinerja Pemerintahan Prabowo-Gibran
@@ -368,12 +368,28 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 ### 2026-10-08
 - Menteri Keuangan Suahasil Nazara menegaskan APBN 2026 dan APBN 2027 tidak mencatat dividen Danantara (Antara). Di hari yang sama, Dony Oskaria menyatakan dividen Danantara diinvestasikan kembali melalui Danantara Asset Management (DAM) dan Danantara Investment Management (DIM). Konteks fiskal: realisasi PNBP Kekayaan Negara Dipisahkan (KND) turun dari Rp86,4 triliun (2024) menjadi Rp12,7 triliun (2025) dan Rp1,5 triliun (Semester I 2026), akibat perubahan mekanisme UU 1/2025 yang mengalihkan dividen BUMN ke Danantara; total PNBP Semester I 2026 sendiri naik 21,6% menjadi Rp271 triliun.
 
+### 2026-10-16 — BGN paparkan MBG menjangkau 57,8 juta penerima manfaat; serap 1 juta pekerja
+
+Dalam diskusi bersama Forum Pemred, Jumat 16/10/2026, Kepala BGN Dr. Sudaryono memaparkan: program MBG menjangkau 57,8 juta penerima manfaat hingga 15/10/2026, didukung 26.563 SPPG dan 436.397 kelompok penerima manfaat. Tenaga kerja aktif 1.027.998 orang hingga September 2026 (86.120 pegawai SPPG + 941.878 relawan); 63.608 pemasok terlibat, 82,83% UMKM. Sisi pembenahan tata kelola: 1.288 SPPG ditutup (melanggar standar/belum SLHS); 353 kepala SPPG diberhentikan tidak hormat; ~2.500 kepala SPPG dalam proses penyelidikan dugaan korupsi/disiplin berat; Rp311,246 miliar saldo rekening virtual dikembalikan ke kas negara; pengadaan lampu LED Rp535 miliar dibatalkan; uji coba skema prasmanan di 66 SPPG; platform Radar MBG untuk pengawasan publik. Hasil uji laboratorium yang dipaparkan BGN mencatat E. coli 31%, Bacillus cereus 15%, Staphylococcus aureus 11% — rekapitulasi hasil pemeriksaan yang dipaparkan, bukan prevalensi nasional seluruh makanan MBG. Skema insentif baru Rp15.000/porsi = Rp10.000 makanan + Rp3.000 operasional + Rp2.000 insentif (atribusi BGN).
+
 ### 2026-10-19
 - Menteri Investasi Rosan Roeslani: realisasi investasi kumulatif 2 tahun Rp3.923,2 triliun dengan penyerapan 5.485.944 pekerja.
 
 ### 2026-10-20
 - **Evaluasi kabinet dari partai Presiden sendiri:** Juru Bicara DPP Partai Gerindra [[Kamrussamad]] menyatakan partainya tengah mengevaluasi kinerja Kabinet Merah Putih per sektor berdasarkan KPI, dengan melibatkan ekonom senior independen. Data sementara Gerindra menunjukkan **42 menteri dan wakil menteri tidak bekerja sesuai KPI**; nama-namanya tidak dipublikasikan. Hasil evaluasi akan dilaporkan kepada Presiden [[Prabowo Subianto]] sebagai bahan perbaikan tiga tahun sisa pemerintahan.
 - **Menhut disorot soal karhutla:** Dalam forum yang sama, Kamrussamad menilai Menteri Kehutanan [[Raja Juli Antoni]] layak dievaluasi secara sungguh-sungguh — termasuk kemungkinan diganti lewat reshuffle — karena lemahnya pengawasan kawasan rawan kebakaran hutan dan lahan (karhutla) yang berdampak pada masyarakat. Per 20 Oktober 2026 belum ada tanggapan resmi dari Raja Juli Antoni maupun keputusan Presiden atas desakan ini.
+
+### 2026-10-20 — Komite Sadar dan BEM UI deklarasikan aksi nasional Hari Sumpah Pemuda 28/10
+
+Komite Sadar (Komite Selamatkan Daulat Rakyat) memastikan akan menggelar unjuk rasa berskala nasional pada Hari Sumpah Pemuda, 28/10/2026. Deklarasi diserukan Ketua BEM UI Yatalathof Imawan saat pembacaan pernyataan sikap "Aksi Indonesia Sadar" di Tugu Tani, Jakarta Pusat, Selasa malam 20/10/2026 — lanjutan dari aksi 20/10 di Tugu Proklamasi dan Tugu Tani (massa diperkirakan 500–700 orang lintas kampus, termasuk dari Kalimantan). Massa menilai dua tahun pemerintahan Prabowo-Gibran gagal memenuhi janji kesejahteraan. Lima tuntutan utama: karhutla dan banjir sebagai bencana nasional; pulihkan kesehatan warga terdampak krisis lingkungan; adili dan cabut izin korporasi penyebab krisis lingkungan; pulihkan ekonomi/pasar; hentikan pembatasan kebebasan berpendapat; berantas KKN; turunkan biaya pendidikan, kesehatan, dan pelayanan publik. Ketua Sosospol BEM UI Hafidz Hernanda menyebut titik aksi 28/10 masih dirahasiakan dan dimatangkan.
+
+### 2026-10-20 — BPS peringatkan potensi kenaikan inflasi Oktober–Desember 2026
+
+Direktur Statistik Harga BPS Sarpono memperingatkan pemerintah mewaspadai potensi kenaikan inflasi Oktober–Desember 2026, berdasarkan pola historis: November dan Desember selalu mencatat inflasi bulanan selama 2022–2025. Data yang dipaparkan BPS: inflasi tahunan Oktober 2022 5,51%, Oktober 2023 2,61%, Oktober 2024 1,57%, Oktober 2025 2,92%; inflasi tahun kalender (ytd) Januari–September 2026 mencapai 2,17%. Sarpono menegaskan pola historis bukan kepastian arah harga akhir 2026; perkembangan inflasi harus dicermati dari data aktual tiap bulan.
+
+### 2026-10-21 — Sidang Kabinet Paripurna 2 tahun pemerintahan; dibuka pemutaran video klaim capaian Setkab
+
+Presiden Prabowo Subianto memimpin Sidang Kabinet Paripurna di Halaman Tengah Istana Merdeka, Jakarta, Rabu 21/10/2026 — momen 2 tahun pemerintahan Prabowo-Gibran. Sidang dibuka dengan pemutaran video "cuplikan hasil nyata dua tahun pertama pemerintahan" oleh Seskab Teddy Indra Wijaya. Klaim-klaim yang ditampilkan dalam video (atribusi wajib: klaim Setkab, bukan angka terverifikasi independen): swasembada 8 komoditas pangan; cadangan pangan 5,2 juta ton (diklaim rekor tertinggi sepanjang sejarah); MBG menjangkau 62 juta penerima manfaat; realisasi investasi Rp3.923 triliun menyerap 5.485.944 tenaga kerja; groundbreaking 26 proyek hilirisasi termasuk pabrik baterai EV terbesar di Asia Tenggara; 265 Sekolah Rakyat; 30.000 sekolah direnovasi; Cek Kesehatan Gratis 108 juta layanan; 400.000 rumah diperbaiki; >9.000 km jaringan irigasi; Solar B50; klaim "menyelamatkan aset negara Rp54,8 triliun" dan penutupan 290 BUMN. Catatan liputan: materi Setkab belum menjelaskan periode penghitungan, metode, maupun komponen masing-masing angka.
 
 ## Aktor yang Terlibat
 
@@ -430,6 +446,9 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 - **JournalArta (20/10/2026):** Menhut layak dievaluasi serius, Jubir Gerindra desak evaluasi; empat faktor karhutla disebut tanpa rincian. https://journalarta.com/news/2026/10/20/dua-tahun-pemerintahan-prabowo-jubir-gerindra-menhut-layak-direshuffle-presiden/
 - **tunjuk.id (20/10/2026, mengutip Okezone):** Kinerja 42 menteri dan wamen tak optimal. https://tunjuk.id/detail/2-tahun-pemerintah-prabowo-gibran-gerindra-kinerja-42-menteri-dan-wamen-tak-optimal
 - Laporan verifikasi per klaster (arsip kerja internal, 20/10/2026): 10 berkas di `verifikasi-200-fakta/` — tabel per klaim #1–200 dengan status TERVERIFIKASI / KOREKSI / RISIKO / BELUM TERVERIFIKASI, temuan, dan URL sumber per klaim.
+- Ntvnews.id — https://www.ntvnews.id/news/01122651/sidang-kabinet-paripurna-2-tahun-pemerintahan-prabowo-gibran-dibuka-dengan-paparan-capaian — 21 Oktober 2026
+- Investortrust.id — http://investortrust.id/national/119717/2-tahun-prabowo-mbg-jangkau-57-8-juta-penerima-manfaat-dan-serap-1-juta-pekerja — 19 Oktober 2026 (diperbarui 22 Oktober 2026)
+- Koranindopos.com (Indopos) — https://koranindopos.com/bem-ui-dan-komite-sadar-serukan-aksi-nasional-pada-hari-sumpah-pemuda-28-oktober/ — 21 Oktober 2026
 
 ## Catatan presisi
 

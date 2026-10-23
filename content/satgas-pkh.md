@@ -33,7 +33,7 @@ confidence: 7
 risiko_editorial: "rendah"
 jenis_lembaga: "Satuan Tugas Pemerintah"
 kategori: sumber-daya-alam
-last_updated: "2026-10-20"
+last_updated: "2026-10-22"
 ---
 
 # Satgas PKH
@@ -61,6 +61,14 @@ Dasar hukum pembentukan Satgas PKH. Tanggal operasional Februari 2025 masih perl
 
 ### 2026-10-06 — Penyerahan Tahap VIII di Kejaksaan Agung
 Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan Presiden Prabowo Subianto di Gedung Bundar Kejaksaan Agung, Jakarta. Nilainya Rp13,24 triliun tunai dan 259.230,73 hektare lahan.
+
+### 2026-10-12 — IUP PT Kristalin Eka Lestari di Nabire dicabut; 3.500 hektare dikembalikan ke negara
+
+Izin Usaha Pertambangan (IUP) PT Kristalin Eka Lestari di Nabire, Papua Tengah, resmi dicabut melalui Keputusan Menteri Investasi dan Hilirisasi/Kepala BKPM tertanggal 12 Oktober 2026; wilayah pertambangan seluas 3.500 hektare dikembalikan kepada negara. Jaksa Agung Sanitiar Burhanuddin menjelaskan tim gabungan Satgas PKH menemukan aktivitas tambang emas di kawasan hutan produksi tanpa Persetujuan Penggunaan Kawasan Hutan (PPKH) serta pelanggaran kewajiban jaminan reklamasi. Tim memasang plang penyegelan; pengelolaan kawasan direncanakan dialihkan ke PT Aneka Tambang Tbk (Antam). Menhan Sjafrie Sjamsoeddin selaku Ketua Satgas PKH menegaskan operasi penertiban berlanjut meski ada perlawanan, berlandaskan Perpres 5/2025; Panglima TNI dan Kapolri hadir dalam penertiban.
+
+### 2026-10-22 — Prabowo instruksikan pencabutan konsesi tambang yang mangkrak lebih dari dua tahun
+
+Dalam Rakornas TPAKD di JIExpo Kemayoran, Jakarta, Kamis 22/10/2026, Presiden Prabowo Subianto menginstruksikan Menteri ESDM untuk mencabut konsesi tambang yang tidak menunjukkan aktivitas nyata selama lebih dari dua tahun: "lebih dari dua tahun tidak ada aktivitas nyata, cabut!" Prabowo menekankan selektivitas pemberian izin ke depan — kapasitas finansial dan kompetensi teknis calon pemegang izin. Ia menyebut sejumlah konsesi dibiarkan puluhan tahun dan dijadikan instrumen spekulasi ("diminta untuk dimasukkan ke bursa"), serta menyinggung konsesi yang mangkrak 28 tahun di Tanimbar/Masela (Maluku) yang sudah ia tanyakan langsung ke pihak Inpex Jepang.
 
 ## Aktor yang Terlibat
 
@@ -116,6 +124,8 @@ Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan Presiden Prab
 - **Duplikasi dihapus:** bagian "Perkembangan Terakhir" yang mengulang entri 2026-10-06 dilebur ke Kronologi.
 - **Celah data:** rincian per sektor untuk tahap VIII hanya tersedia dalam tabel, tanpa nomor berita acara.
 - **Batas interpretasi:** halaman ini tidak menilai legalitas penguasaan lahan oleh pihak yang ditertibkan.
+- Validnews.id (dilansir dari Antara) — https://validnews.id/nasional/2026/10/21/kemenhut-bekukan-izin-6-perusahaan-terkait-karhutla-di-kalteng-163100437 — 21 Oktober 2026
+- Abadikini.com (dilansir dari Antara) — https://www.abadikini.com/2026/10/22/3-500-hektare-tambang-dikembalikan-ke-negara-sjafrie-tegaskan-operasi-berlanjut/ — 22 Oktober 2026
 
 ## Catatan presisi
 

@@ -107,6 +107,14 @@ Latar belakangnya: mantan Kepala BNPB Suharyanto masih berstatus prajurit TNI ak
 
 Hingga 21 Oktober 2026, KPK belum mengumumkan penetapan tersangka dari unsur prajurit TNI aktif; dugaan keterlibatan mereka dinyatakan masih didalami dalam penyidikan.
 
+### 2026-10-21 — KPK akui tak bisa cegah Nusron Wahid ke luar negeri karena masih berstatus saksi
+
+Perkembangan perkara dugaan suap pengurusan HGB PT Summarecon: KPK mengakui tidak dapat mencegah Menteri ATR/BPN Nusron Wahid bepergian ke luar negeri karena statusnya masih saksi — "Kalau kita merujuk ke KUHAP, pencegahan ke luar negeri hanya dapat dilakukan untuk tersangka" (Juru Bicara KPK Budi Prasetyo, Rabu 21/10/2026). Fakta resmi: Nusron sudah dua kali mangkir dari panggilan KPK (7/10/2026 dengan alasan agenda internal kementerian; 15/10/2026 karena sedang di luar negeri); catatan Ditjen Imigrasi menunjukkan ia bepergian ke Malaysia 14–17 Oktober 2026 (berangkat via TPI Pelabuhan Citra Tritunas Batam, kembali via Batam Center), terkonfirmasi oleh Dirjen Imigrasi Hendarsam Marantoko yang juga menyatakan hingga 20/10 belum ada permohonan pencekalan dari aparat penegak hukum. KPK sedang menyusun jadwal pemanggilan ulang. Artikel juga merinci 8 tersangka perkara HGB Summarecon dan menyebut 4 di antaranya (Muhammad Fakhry, Erwin, Rizal Fahlefi/Pahlefi, Fahd Arafiq) diduga orang kepercayaan Nusron — pernyataan KPK (Plt Direktur Penyidikan Achmad Taufik Husein, 15/9/2026), tetap status dugaan.
+
+### 2026-10-22 — KPK ungkap aliran Rp800 juta dari Summarecon ke Hercules terkait lahan sengketa Bogor
+
+Perkembangan penyidikan dugaan suap pengurusan HGB PT Summarecon di Kabupaten Bogor: Juru Bicara KPK Budi Prasetyo mengungkap pada Kamis 22/10/2026 bahwa aliran dana Rp800 juta yang diserahkan Ketua Umum GRIB Jaya Hercules Rosario Marshal berasal dari PT Summarecon Agung Tbk, terkait jasa pengelolaan/pengamanan lahan sengketa. Akarnya: sengketa pertanahan di kawasan ±65 hektare di Bogor — warga mengklaim kepemilikan, lalu mengajukan pemblokiran dokumen ke Kantah Kabupaten Bogor; PT Summarecon diduga menyuap oknum ATR/BPN untuk membuka blokir agar pengurusan HGB berlanjut; GRIB Jaya dilibatkan untuk pengamanan lahan. Asal dana dari Summarecon adalah keterangan resmi KPK (Budi Prasetyo). Klaim kuasa hukum GRIB Jaya (Wilson Colling) — bahwa uang dari pengacara berinisial MW mewakili Summarecon jauh sebelum OTT, dikaitkan mediasi 12 SHM vs SHGB, lalu diserahkan ke KPK pada 15/10/2026 karena dianggap tak wajar — adalah klaim pihak.
+
 ## Pola Umum
 
 Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/jasa dengan melibatkan pejabat pembuat komitmen dan pihak swasta rekanan; (2) suap perizinan di sektor agraria/pertanahan; (3) penyelewengan dana bantuan — baik bansos maupun dana kebencanaan — yang mestinya untuk masyarakat terdampak.
@@ -133,6 +141,7 @@ Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/j
 - Abadikini, "Dana untuk Korban Bencana Diduga Dikorupsi, KPK Ungkap Skema Proyek BNPB" (21 Oktober 2026).
 - AFU.id, "Prajurit Aktif Terlibat dalam Korupsi Dana Bencana BNPB, KPK Surati Panglima TNI" (21 Oktober 2026).
 - AFU.id, "KPK: Proyek Rp148 Miliar BNPB Dimenangkan Perusahaan Istri Tersangka Korupsi" (21 Oktober 2026).
+- AFU.id — https://afu.id/hukum-kriminal/uang-rp800-juta-yang-dikembalikan-hercules-berasal-dari-summarecon-terkait-pengamanan-lahan-sengketa-di-bogor-kpk-bidik-kaitan-dengan-oknum-atrbpn — 22 Oktober 2026
 
 ## Catatan presisi
 
