@@ -2,11 +2,14 @@
 title: "Reshuffle Kabinet Merah Putih"
 description: Hub living document seluruh reshuffle Kabinet Merah Putih era Prabowo Subianto, berisi entri bertanggal dan halaman milestone pelantikan.
 date: 2026-10-15
-updated: '2026-10-21'
+updated: '2026-10-24'
 entity_type: topik
 aliases:
 - "Reshuffle Kabinet Prabowo"
 - "Perombakan Kabinet Merah Putih"
+- "Update Reshuffle Kabinet"
+- "Update: Reshuffle Kabinet Merah Putih 1 Oktober 2026"
+- "peristiwa/update-reshuffle-kabinet"
 tags:
 - topik
 - pemerintahan
@@ -17,19 +20,18 @@ kategori: kinerja-pemerintahan
 
 ## Ringkasan
 
-> **Ringkasan Topik:** Hub living document untuk seluruh perombakan (reshuffle) Kabinet Merah Putih era Presiden Prabowo Subianto. Kejadian baru dicatat sebagai entri bertanggal di bawah; pelantikan resmi berskala besar didokumentasikan di halaman milestone masing-masing yang ditautkan dari kronologi.
+> **Ringkasan Topik:** Hub untuk seluruh perombakan (reshuffle) Kabinet Merah Putih era Presiden Prabowo Subianto. Ini satu-satunya halaman yang memuat kronologi lengkap; pelantikan besar punya halaman milestone sendiri yang ditautkan dari kronologi.
 
 ## Kenapa penting buat Gen Z
 
-Susunan kabinet menentukan siapa yang memutuskan kebijakan upah, harga energi, perumahan, dan pendidikan, yaitu hal-hal yang menentukan biaya hidup pembaca muda. Halaman ini mencatat setiap perombakan Kabinet Merah Putih sejak 19 Februari 2025 sampai 15 Oktober 2026 dalam satu urutan tanggal. Dari tujuh tanggal perombakan yang tercatat, kursi Menteri Keuangan berganti dua kali, pada 8 September 2025 dan 14 September 2026. Perubahan pada 1 Oktober 2026 memindahkan Kapolri, Kepala Staf Kepresidenan, dan tiga kursi menteri koordinator sekaligus.
+Susunan kabinet menentukan siapa yang memutuskan kebijakan upah, harga energi, perumahan, dan pendidikan. Dari tujuh tanggal perombakan yang tercatat, kursi Menteri Keuangan berganti dua kali (8 September 2025 dan 14 September 2026), dan 1 Oktober 2026 memindahkan Kapolri, Kepala Staf Kepresidenan, serta tiga kursi menko sekaligus.
 
 ## Fakta kunci
 
-- **Rentang catatan:** 19 Februari 2025 sampai 15 Oktober 2026.
-- **Jumlah tanggal perombakan:** 7 tanggal tercatat, dari 2025-02-19 hingga 2026-10-01.
+- **Rentang catatan:** 19 Februari 2025 sampai 15 Oktober 2026; 7 tanggal perombakan (2025-02-19 hingga 2026-10-01).
 - **Menteri Keuangan:** Purbaya Yudhi Sadewa (8 September 2025) lalu Suahasil Nazara (14 September 2026).
-- **Mutasi 1 Oktober 2026:** 7 jabatan utama berubah, termasuk Kapolri, Kepala Staf Kepresidenan, dan 3 menteri koordinator.
-- **Pelantikan 15 Oktober 2026:** 9 pejabat, terdiri atas 4 wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala BPGMN, serta 2 pati TNI.
+- **1 Oktober 2026:** 7 jabatan utama berubah, termasuk Kapolri, Kepala Staf Kepresidenan, dan 3 menko — perombakan ke-11 menurut hitungan CNBC Indonesia.
+- **15 Oktober 2026:** 9 pejabat (4 wamen, Kepala BNPB, Kepala dan Wakil Kepala BPGMN, 2 pati TNI).
 
 ## Kronologi
 
@@ -55,41 +57,35 @@ Susunan kabinet menentukan siapa yang memutuskan kebijakan upah, harga energi, p
 - Suahasil Nazara menggantikan Purbaya Yudhi Sadewa sebagai Menteri Keuangan.
 
 ### 2026-10-01 — Pelantikan Besar di Istana Negara
-- Pelantikan menteri, wakil menteri, dan pejabat tinggi negara di Istana Negara, Jakarta. Pergeseran menonjol: Listyo Sigit Prabowo menjadi Kepala Staf Kepresidenan; Suyudi Ario Seto menjadi Kapolri; Dudung Abdurachman menjadi Menko Polkam; Bahlil Lahadalia menjadi Menko Hilirisasi dan Energi; Sugiono menjadi Menko PMK; Arrmanatha Nasir menjadi Menlu; Muhammad Sarmuji menjadi Menperin.
-- Lihat halaman milestone: [[Reshuffle Kabinet Merah Putih 1 Oktober 2026]].
+- Listyo Sigit Prabowo menjadi Kepala Staf Kepresidenan; Suyudi Ario Seto menjadi Kapolri; Dudung Abdurachman menjadi Menko Polkam; Bahlil Lahadalia menjadi Menko Hilirisasi dan Energi; Sugiono menjadi Menko PMK; Arrmanatha Nasir menjadi Menlu; Muhammad Sarmuji menjadi Menperin.
+- Milestone: [[Reshuffle Kabinet Merah Putih 1 Oktober 2026]]. Proses DPR untuk Kapolri: [[Pencalonan Kapolri 2026]].
+
+### 2026-10-02 — Pelantikan Wantimpres (terkait, bukan reshuffle kabinet)
+- Presiden melantik 26 anggota Wantimpres, diketuai Pratikno. Lihat [[Pelantikan 26 Anggota Wantimpres 2 Oktober 2026]].
 
 ### 2026-10-15 — Pelantikan Sembilan Pejabat
-- Pelantikan 9 pejabat di Istana Kepresidenan, Jakarta Pusat: 4 wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala BPGMN, serta mutasi dua pati TNI (Wakil Panglima TNI dan KSAD).
-- Lihat halaman milestone: [[Pelantikan Pejabat 15 Oktober 2026]].
+- 4 wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala BPGMN, serta mutasi Wakil Panglima TNI dan KSAD.
+- Milestone: [[Pelantikan Pejabat 15 Oktober 2026]].
 
 ### 2026-10-20 — Desakan Evaluasi Menhut (Belum Ada Keputusan Reshuffle)
-
-- Juru Bicara DPP Partai Gerindra [[Kamrussamad]] menyatakan Menteri Kehutanan [[Raja Juli Antoni]] layak dievaluasi secara sungguh-sungguh, termasuk kemungkinan diganti lewat reshuffle, karena lemahnya pengawasan kawasan rawan kebakaran hutan dan lahan (karhutla). Pernyataan disampaikan dalam Debat Terbuka "2 Tahun Pemerintahan Prabowo-Gibran" di Jakarta Selatan.
-- **Status:** desakan evaluasi dari partai, **bukan keputusan reshuffle**. Per 20 Oktober 2026 belum ada tanggapan resmi dari Raja Juli Antoni maupun keputusan/pengumuman Presiden [[Prabowo Subianto]]; susunan kabinet tidak berubah pada tanggal ini.
+- Juru Bicara DPP Partai Gerindra [[Kamrussamad]] menyatakan Menteri Kehutanan [[Raja Juli Antoni]] layak dievaluasi secara sungguh-sungguh, termasuk kemungkinan diganti lewat reshuffle, karena lemahnya pengawasan kawasan rawan karhutla. Pernyataan disampaikan dalam Debat Terbuka "2 Tahun Pemerintahan Prabowo-Gibran" di Jakarta Selatan.
+- **Status:** desakan partai, **bukan keputusan reshuffle**. Per 20 Oktober 2026 belum ada tanggapan resmi Raja Juli Antoni maupun keputusan Presiden [[Prabowo Subianto]].
 
 ## Aktor yang Terlibat
 
 - [[Prabowo Subianto]] — Presiden RI; melakukan seluruh pelantikan dan perombakan dalam kronologi ini.
-- **Listyo Sigit Prabowo** — Bergeser dari Kapolri menjadi Kepala Staf Kepresidenan (1 Okt 2026).
-- **Suyudi Ario Seto** — Menjadi Kapolri (1 Okt 2026).
-- **Dudung Abdurachman** — Dari Kepala Staf Kepresidenan menjadi Menko Polkam (1 Okt 2026).
-- **Bahlil Lahadalia** — Dari Menteri ESDM menjadi Menko Hilirisasi dan Energi (1 Okt 2026).
-- **Maruli Simanjuntak** — Dari KSAD menjadi Wakil Panglima TNI merangkap Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (15 Okt 2026).
-- **Tandyo Budi Revita** — Menjadi KSAD (15 Okt 2026).
-- **Kristomei Sianturi** — Menjadi Kepala BNPB (15 Okt 2026).
+- Pejabat yang dilantik 1 dan 15 Oktober 2026 dirinci di halaman milestone masing-masing.
 
 ## Sumber
 
-- **JournalArta (20/10/2026):** "Dua Tahun Pemerintahan Prabowo, Jubir Gerindra: Menhut Layak Direshuffle Presiden" — Kamrussamad soal pengawasan karhutla; Kamrussamad menyebut empat faktor penyebab karhutla tanpa rincian. https://journalarta.com/news/2026/10/20/dua-tahun-pemerintahan-prabowo-jubir-gerindra-menhut-layak-direshuffle-presiden/
-
+- **JournalArta (20/10/2026):** "Dua Tahun Pemerintahan Prabowo, Jubir Gerindra: Menhut Layak Direshuffle Presiden." https://journalarta.com/news/2026/10/20/dua-tahun-pemerintahan-prabowo-jubir-gerindra-menhut-layak-direshuffle-presiden/
 - **2026-10-15:** Rolando Fransiscus Sihombing. "Daftar Lengkap Pejabat yang Dilantik Prabowo Hari Ini." detikNews, 15 Oktober 2026 15:51 WIB. https://news.detik.com/berita/d-8708512/daftar-lengkap-pejabat-yang-dilantik-prabowo-hari-ini
 - **2026-10-01 dan reshuffle sebelumnya:** Zhafa Yuda Rehema. "Daftar Lengkap 7 Kali Reshuffle Kabinet Merah Putih Era Prabowo-Gibran." CNBC Indonesia, 1 Oktober 2026. https://www.cnbcindonesia.com/research/20261001172953-128-772648/daftar-lengkap-7-kali-reshuffle-kabinet-merah-putih-era-prabowo-gibran
 
 ## Catatan presisi
 
-- **Terverifikasi:** tanggal dan nama jabatan bersumber CNBC Indonesia (1 Oktober 2026) dan detikNews (15 Oktober 2026).
-- **Sumber tunggal:** seluruh entri 2025-02-19 sampai 2026-09-14 bersumber satu artikel CNBC Indonesia.
-- **Bukan daftar lengkap:** beberapa entri menyebut "sejumlah wakil menteri" tanpa nama, karena sumbernya juga tidak merinci.
-- **Angka:** hitungan 7 tanggal perombakan adalah hitungan halaman ini atas entri yang tercatat, bukan angka resmi.
-- **Celah data:** nomor Keppres tiap pelantikan belum tercatat; halaman milestone baru tersedia untuk 1 Oktober dan 15 Oktober 2026.
-- **Batas interpretasi:** halaman ini tidak menilai kinerja pejabat yang dilantik maupun alasan politik tiap perombakan.
+- **Sumber tunggal:** seluruh entri 2025-02-19 sampai 2026-09-14 bersumber satu artikel CNBC Indonesia; beberapa entri menyebut "sejumlah wakil menteri" tanpa nama karena sumbernya juga tidak merinci.
+- **Angka:** "7 tanggal" adalah hitungan halaman ini; "ke-11" adalah hitungan CNBC Indonesia. Keduanya bukan angka resmi Setkab.
+- **Penggabungan:** halaman "Update: Reshuffle Kabinet Merah Putih 1 Oktober 2026" (tanpa isi mandiri) dilebur ke hub ini pada 24 Oktober 2026; URL lamanya dialihkan ke sini.
+- **Celah data:** nomor Keppres tiap pelantikan (kecuali Kapolri) belum tercatat.
+- **Batas interpretasi:** halaman ini tidak menilai kinerja pejabat maupun alasan politik tiap perombakan.

@@ -27,7 +27,6 @@ Kategori ini menagih janji pemerintahan dengan bukti: target kebijakan, capaian 
 ## Peristiwa
 
 - [[Reshuffle Kabinet Merah Putih 1 Oktober 2026]]
-- [[peristiwa/update-reshuffle-kabinet|Update: Reshuffle Kabinet Merah Putih 1 Oktober 2026]]
 - [[Pelantikan 26 Anggota Wantimpres 2 Oktober 2026]]
 - [[Pelantikan Pejabat 15 Oktober 2026]]
 - [[Pencalonan Kapolri 2026]]
