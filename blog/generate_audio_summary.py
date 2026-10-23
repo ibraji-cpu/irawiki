@@ -36,7 +36,7 @@ VOICE_NAME = "Aoede"
 
 # Fallback LLM via provider trustisgold (OpenAI-compatible)
 FALLBACK_BASE_URL = os.environ.get("BLOG_FALLBACK_BASE_URL", "https://api.trustisgold.web.id/v1")
-FALLBACK_MODEL = os.environ.get("BLOG_FALLBACK_MODEL", "tig/deepseek-v4-1-flash-UNRESTRICTED")
+FALLBACK_MODEL = os.environ.get("BLOG_FALLBACK_MODEL", "tig/grok-4.7")
 FALLBACK_KEY_ENV = "TRUSTISGOLD_API_KEY"
 
 # Batas keras durasi audio (user: maksimum 2 menit)

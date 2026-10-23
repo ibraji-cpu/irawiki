@@ -40,7 +40,7 @@ BODY_CHARS = 2200
 
 ENV_FILE = Path("/home/ubuntu/.hermes/.env")
 LLM_CHAIN = [
-    ("https://api.trustisgold.web.id/v1", "TRUSTISGOLD_API_KEY", "tig/deepseek-v4.1-flash"),
+    ("https://api.trustisgold.web.id/v1", "TRUSTISGOLD_API_KEY", "tig/grok-4.7"),
     ("https://api.groq.com/openai/v1", "GROQ_API_KEY", "openai/gpt-oss-120b"),
 ]
 
