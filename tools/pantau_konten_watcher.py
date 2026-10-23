@@ -12,9 +12,9 @@ Tiap run:
    - Jika branch uji pilot (konten/pantauan-uji): tahan entri, nol perubahan wiki, cetak laporan uji.
    - Jika branch tanggal sah (konten/pantauan-YYYY-MM-DD):
      - Dedup, validasi, terapkan entri ke ## Kronologi hub wiki.
-     - Commit ke main, push origin main.
-     - Rebuild Quartz (build_wiki.sh) + jalankan SQLite indexer.
-     - Verifikasi live URL.
+     - Commit ke branch kerja `hermes/pantauan-<tanggal>`, push.
+     - Buka PR ke main lalu **merge otomatis** (squash) — tanpa review manusia.
+     - Deploy (GitHub Actions), jalankan SQLite indexer, verifikasi live URL.
      - Push penanda proposals/pantauan-<tanggal>.PROCESSED ke branch pengirim.
      - Cetak laporan ringkas (§6) ke stdout.
 """
@@ -25,6 +25,7 @@ import re
 import sqlite3
 import subprocess
 import sys
+import time
 from datetime import datetime, timedelta, timezone
 
 REPO = "/home/ubuntu/irawiki"
@@ -103,8 +104,9 @@ def deploy_pasca_merge():
     cur = remote_main_hash()
 
     subj = sh(["git", "log", "-1", "--format=%s%n%b", cur]).stdout.strip()
-    if not (is_merge_commit(cur) and "pantauan:" in subj):
-        log(f"main maju ke {cur[:10]} tapi bukan merge PR pantauan -> tidak deploy")
+    key = BRANCH_PREFIX.rstrip("-")
+    if key not in subj.lower():
+        log(f"main maju ke {cur[:10]} tapi bukan merge PR {key} -> tidak deploy")
         return None, False
 
     log(f"deploy: main maju {built[:10] or '(null)'} -> {cur[:10]}")
@@ -142,10 +144,10 @@ def deploy_pasca_merge():
     save_deploy_state(cur)
 
     rep = []
-    rep.append("🚀 **Laporan Deploy Pasca-Merge PR Pantauan**",
+    rep.extend(["🚀 **Laporan Deploy Pasca-Merge PR Pantauan**",
            f"• **Main:** `{cur[:10]}`",
            f"• **Waktu Run:** {now_wib().strftime('%Y-%m-%d %H:%M:%S WIB')}",
-           "")
+           ""])
     b_st = "Sukses" if build_ok else "Gagal"
     i_st = f"Sukses ({page_count} halaman)" if index_ok else "Gagal"
     rep.append("**Build & Verifikasi:**")
@@ -176,6 +178,63 @@ def open_pr(tanggal, diterapkan, duplikat, ditahan, usulan_konsep):
         return None, f"gh pr create gagal: {(r.stderr or r.stdout).strip()[:200]}"
     url = r.stdout.strip().splitlines()[-1].strip() if r.stdout.strip() else ""
     return url, "ok"
+
+
+def merge_pr(url):
+    """Merge PR dengan squash (gaya merge repo ini). Return (ok, status)."""
+    try:
+        r = sh(["gh", "pr", "merge", url, "--squash"], check=False)
+    except FileNotFoundError:
+        return False, "gh tidak terpasang"
+    if r.returncode != 0:
+        return False, "merge gagal: " + (r.stderr or r.stdout).strip()[:200]
+    return True, "sukses (squash)"
+
+
+def tunggu_deploy_actions(maks=600):
+    """Tunggu workflow 'Deploy Wiki & Blog' selesai. Return (conclusion, url)."""
+    deadline = time.time() + maks
+    while time.time() < deadline:
+        r = sh(["gh", "run", "list", "--workflow", "deploy.yml", "--limit", "1",
+                "--json", "status,conclusion,url", "--jq", ".[0] // {}"], check=False)
+        try:
+            st = json.loads(r.stdout.strip() or "{}")
+        except Exception:
+            st = {}
+        if st.get("status") == "completed":
+            return st.get("conclusion"), st.get("url")
+        time.sleep(30)
+    return "timeout", None
+
+
+def deploy_setelah_merge(hubs):
+    """Deploy setelah PR di-merge otomatis.
+
+    GitHub Actions membangun + mendeploy situs pada push ke main; yang belum
+    ditangani Actions adalah indexer SQLite, jadi indexer dijalankan di sini.
+    Return dict(info deploy).
+    """
+    concl, run_url = tunggu_deploy_actions()
+    log(f"deploy Actions: {concl}")
+
+    r_i = sh([PY, "tools/irawiki_indexer.py"], check=False)
+    index_ok = r_i.returncode == 0
+    page_count = "N/A"
+    try:
+        db_p = os.path.join(REPO, "wiki_index.db")
+        if os.path.isfile(db_p):
+            conn = sqlite3.connect(db_p)
+            page_count = str(conn.execute("SELECT count(*) FROM pages").fetchone()[0])
+            conn.close()
+    except Exception:
+        pass
+
+    verifs = [(hub,) + verify_live(hub) for hub in hubs]
+
+    sh(["git", "fetch", "--all", "--prune"], check=False)
+    save_deploy_state(remote_main_hash() or "")
+    return {"actions": concl, "run_url": run_url, "index_ok": index_ok,
+            "page_count": page_count, "verifs": verifs}
 
 
 def log(msg):
@@ -406,18 +465,27 @@ def bump_frontmatter(text, tanggal):
 
 
 def verify_live(hub_rel):
-    slug = os.path.splitext(os.path.basename(hub_rel))[0]
-    live_url = f"https://wiki.iraamalia.id/{slug}"
-    try:
-        r = subprocess.run(
-            ["curl", "-k", "-Is", "--resolve", "wiki.iraamalia.id:443:127.0.0.1", live_url],
-            capture_output=True, text=True, timeout=10
-        )
-        status_line = r.stdout.splitlines()[0] if r.stdout else "unknown"
-        is_ok = "200" in status_line
-        return live_url, "200 OK" if is_ok else status_line
-    except Exception as e:
-        return live_url, f"error ({e})"
+    rel = hub_rel
+    if rel.startswith("content/"):
+        rel = rel[len("content/"):]
+    rel = os.path.splitext(rel)[0]
+    # Situs menyajikan /<path> DAN /<path>.html — coba keduanya.
+    candidates = [f"https://wiki.iraamalia.id/{rel}",
+                  f"https://wiki.iraamalia.id/{rel}.html"]
+    last = "unknown"
+    for live_url in candidates:
+        try:
+            r = subprocess.run(
+                ["curl", "-k", "-Is", "--resolve", "wiki.iraamalia.id:443:127.0.0.1", live_url],
+                capture_output=True, text=True, timeout=10
+            )
+            status_line = r.stdout.splitlines()[0] if r.stdout else "unknown"
+            if "200" in status_line:
+                return live_url, "200 OK"
+            last = status_line
+        except Exception as e:
+            last = f"error ({e})"
+    return candidates[0], last
 
 
 # ---------------------------------------------------------------- main
@@ -428,7 +496,8 @@ def main():
     sh(["git", "fetch", "--all", "--prune"])
 
     # ---------- TAHAP 2: deploy pasca-merge (SEBELUM proses branch baru) ----------
-    msg, did_work = deploy_pasca_merge()
+    msg, did_work = (None, False) if dry else deploy_pasca_merge()
+    deploy_msg = msg if did_work else None
     if did_work:
         log("deploy pasca-merge selesai")
 
@@ -560,6 +629,7 @@ def main():
 
     # Commit ke BRANCH KERJA (BUKAN main) lalu buka PR.
     pr_url, pr_status = None, "tidak ada entri diterapkan"
+    merged, merge_status, deploy_info = False, None, None
     if diterapkan and not dry:
         commit_msg = f"pantauan: {tanggal} — {len(diterapkan)} entri"
         work_branch = f"{PR_BRANCH_PREFIX}{tanggal}"
@@ -575,6 +645,11 @@ def main():
                 log(f"branch kerja di-push: {work_branch}")
                 pr_url, pr_status = open_pr(tanggal, diterapkan, duplikat, ditahan, usulan_konsep)
                 log(f"PR: {pr_url or pr_status}")
+                if pr_url:
+                    merged, merge_status = merge_pr(pr_url)
+                    log(f"merge otomatis: {merge_status}")
+                    if merged:
+                        deploy_info = deploy_setelah_merge(hubs_modified)
         sh(["git", "checkout", "-q", "main"])
 
     # Push penanda .PROCESSED ke branch pengirim.
@@ -604,6 +679,10 @@ def main():
     rep.append(f"• **Branch Kerja:** `{PR_BRANCH_PREFIX}{tanggal}`")
     if pr_url:
         rep.append(f"• **PR:** {pr_url}")
+        if merged:
+            rep.append(f"• **Merge otomatis:** ✅ {merge_status}")
+        else:
+            rep.append(f"• **Merge otomatis:** ❌ {merge_status or 'gagal'}")
     else:
         rep.append(f"• **PR:** ({pr_status})")
     rep.append("")
@@ -628,8 +707,17 @@ def main():
     rep.append("")
     rep.append("**Status:**")
     rep.append(f"• Penanda `{marker_rel}`: {marker_push_status}")
-    if pr_url:
-        rep.append("• ⏳ **Belum tayang — menunggu merge user.**")
+    if merged and deploy_info:
+        rep.append(f"• 🚀 **Deploy:** GitHub Actions {deploy_info['actions']}"
+                   + (f" — {deploy_info['run_url']}" if deploy_info['run_url'] else ""))
+        rep.append(f"• **Indexer:** {'sukses (' + deploy_info['page_count'] + ' halaman)' if deploy_info['index_ok'] else 'gagal'}")
+        for hub, url, status in deploy_info["verifs"]:
+            rep.append(f"• Live `{hub}`: {url} ({status})")
+    elif pr_url:
+        rep.append("• ⚠️ PR terbuka tapi merge otomatis gagal — perlu tindakan manual.")
+    if deploy_msg:
+        rep.append("")
+        rep.append(deploy_msg)
     print("\n".join(rep))
     return 0
 
