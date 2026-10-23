@@ -18,11 +18,9 @@
 <ul class="terms-tags">
     {{- range hugo.Data.kategori }}
     {{- $count := index $counts .slug | default 0 }}
-    {{- if gt $count 0 }}
     <li>
         <a href="/categories/{{ .slug }}/">{{ .nama }} <sup><strong><sup>{{ $count }}</sup></strong></sup></a>
     </li>
-    {{- end }}
     {{- end }}
 </ul>
 
