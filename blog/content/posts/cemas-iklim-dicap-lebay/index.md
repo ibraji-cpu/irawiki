@@ -4,13 +4,14 @@ date: 2026-10-11T14:00:00+07:00
 draft: false
 ai_generated: true
 risiko_editorial: sedang
-tags: [iklim, eco-anxiety, energi, transisi-energ, lingkungan]
+tags: ["iklim", "eco-anxiety", "energi", "transisi-energi", "lingkungan"]
 description: "Kecemasan iklim (eco anxiety) bukan lebay. Krisis iklim adalah krisis kesehatan mental generasi kita. Dari RUU EBET yang mandek hingga gugatan nelayan Pari terhadap Holcim."
 cover:
   image: "images/og-image-cemas-iklim-dicap-lebay.jpg"
   alt: "Cemas Iklim, Dicap Lebay"
   relative: false
 audio_path: "/audio/cemas-iklim-dicap-lebay.mp3"
+categories: ["Siapa Tuan Tanahnya?"]
 ---
 
 Kita scroll berita banjir rob di pesisir utara Jawa, kebakaran hutan di Sumatera, lalu menutup aplikasi dengan dada sesak. Kita bilang ke teman, "gue takut sama masa depan," dan dijawab: "lebay banget." Padahal yang kita rasakan punya nama di literatur kesehatan mental: eco anxiety — kecemasan ekologis. Bukan lebay. Bukan drama. Krisis iklim adalah krisis kesehatan mental generasi kita.

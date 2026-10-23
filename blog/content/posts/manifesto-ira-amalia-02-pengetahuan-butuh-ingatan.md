@@ -1,15 +1,16 @@
 ---
-title: "Manifesto Ira Amalia (2): Pengetahuan Butuh Ingatan"
-date: 2026-10-21T13:46:00+07:00
+title: 'Manifesto Ira Amalia (2): Pengetahuan Butuh Ingatan'
+date: 2026-10-21 13:46:00+07:00
 draft: false
 ai_generated: true
 risiko_editorial: sedang
 tags: ["manifesto", "ira-amalia", "media-sosial", "pengetahuan", "sejarah"]
-description: "Peradaban maju karena pengalaman diolah jadi pengetahuan yang diwariskan. Apa jadinya jika arsip tetap ada, tapi pelajarannya berhenti bekerja?"
-cover:
-  image: "images/og-image.jpg"
-  alt: "Manifesto Ira Amalia (2): Pengetahuan Butuh Ingatan"
-  relative: false
+description: Peradaban maju karena pengalaman diolah jadi pengetahuan yang diwariskan.
+  Apa jadinya jika arsip tetap ada, tapi pelajarannya berhenti bekerja?
+cover: {image: images/og-image.jpg, alt: 'Manifesto Ira Amalia (2): Pengetahuan Butuh
+    Ingatan', relative: false}
+audio_path: /audio/manifesto-ira-amalia-02-pengetahuan-butuh-ingatan.mp3
+categories: ["Konsep Kunci"]
 ---
 
 # Manifesto Ira Amalia (2): Pengetahuan Butuh Ingatan

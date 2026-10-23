@@ -1,15 +1,17 @@
 ---
-title: "Manifesto Ira Amalia (3): AI untuk Melawan Pembodohan"
-date: 2026-10-21T13:47:00+07:00
+title: 'Manifesto Ira Amalia (3): AI untuk Melawan Pembodohan'
+date: 2026-10-21 13:47:00+07:00
 draft: false
 ai_generated: true
 risiko_editorial: sedang
 tags: ["manifesto", "ira-amalia", "kecerdasan-buatan", "media-sosial", "pengetahuan"]
-description: "Era media sosial membengkokkan cara kita memahami dunia. Era AI bisa meluruskannya — jika dipakai untuk pengetahuan, bukan distraksi. Ini manifesto Ira Amalia."
-cover:
-  image: "images/og-image.jpg"
-  alt: "Manifesto Ira Amalia (3): AI untuk Melawan Pembodohan"
-  relative: false
+description: Era media sosial membengkokkan cara kita memahami dunia. Era AI bisa
+  meluruskannya — jika dipakai untuk pengetahuan, bukan distraksi. Ini manifesto Ira
+  Amalia.
+cover: {image: images/og-image.jpg, alt: 'Manifesto Ira Amalia (3): AI untuk Melawan
+    Pembodohan', relative: false}
+audio_path: /audio/manifesto-ira-amalia-03-ai-melawan-pembodohan.mp3
+categories: ["Konsep Kunci"]
 ---
 
 # Manifesto Ira Amalia (3): AI untuk Melawan Pembodohan

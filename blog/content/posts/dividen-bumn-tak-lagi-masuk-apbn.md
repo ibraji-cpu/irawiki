@@ -1,12 +1,17 @@
 ---
-title: "Dividen BUMN Tak Lagi Masuk APBN: Ke Mana Perginya Rp86 Triliun Itu?"
-date: 2026-10-23T11:00:00+07:00
+title: 'Dividen BUMN Tak Lagi Masuk APBN: Ke Mana Perginya Rp86 Triliun Itu?'
+date: 2026-10-23 11:00:00+07:00
 draft: false
 ai_generated: true
-author: "Ira Amalia"
+author: Ira Amalia
 tags: ["danantara", "bumn", "apbn", "kinerja-pemerintahan", "purbaya"]
-categories: ["Opini"]
-description: "Dividen BUMN yang dulu masuk APBN Rp86,4 triliun kini dikelola Danantara di luar APBN dan posnya menyusut ke Rp1,5 triliun. Uangnya tidak hilang — ruang memutuskannya yang pindah."
+categories: ["Menagih Janji dan Bukti"]
+description: Dividen BUMN yang dulu masuk APBN Rp86,4 triliun kini dikelola Danantara
+  di luar APBN dan posnya menyusut ke Rp1,5 triliun. Uangnya tidak hilang — ruang
+  memutuskannya yang pindah.
+cover: {image: images/og-image.jpg, alt: 'Dividen BUMN Tak Lagi Masuk APBN: Ke Mana
+    Perginya Rp86 Triliun Itu?', relative: false}
+audio_path: /audio/dividen-bumn-tak-lagi-masuk-apbn.mp3
 ---
 
 BAGIAN 1: ARTIKEL BLOG ===

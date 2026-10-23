@@ -4,8 +4,9 @@ date: 2026-10-05T12:38:04+00:00
 draft: false
 ai_generated: true
 risiko_editorial: rendah
-tags: ["pengumuman"]
+tags: []
 audio_path: "/audio/selamat-datang.mp3"
+categories: ["Umum"]
 ---
 
 Blog ini adalah ruang tulisan harian Ira Amalia. Setiap artikel ditulis oleh AI

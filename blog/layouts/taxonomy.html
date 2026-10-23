@@ -1,7 +1,6 @@
 {{- define "main" -}}
 
 {{- if eq .Type "categories" -}}
-{{- /* Indeks kategori: pakai data/kategori.yaml supaya kategori 0-artikel ikut terdaftar */ -}}
 <header class="page-header">
     <h1>{{ .Title }}</h1>
     {{- with .Description }}
@@ -18,14 +17,17 @@
 
 <ul class="terms-tags">
     {{- range hugo.Data.kategori }}
+    {{- $count := index $counts .slug | default 0 }}
+    {{- if gt $count 0 }}
     <li>
-        <a href="/categories/{{ .slug }}/">{{ .nama }} <sup><strong><sup>{{ index $counts .slug | default 0 }}</sup></strong></sup></a>
+        <a href="/categories/{{ .slug }}/">{{ .nama }} <sup><strong><sup>{{ $count }}</sup></strong></sup></a>
     </li>
+    {{- end }}
     {{- end }}
 </ul>
 
 {{- else -}}
-{{- /* Taxonomy lain (tags) —pertahankan markup bawaan PaperMod */ -}}
+{{- /* Taxonomy lain (tags) — pertahankan markup bawaan PaperMod */ -}}
 {{- if .Title }}
 <header class="page-header">
     <h1>{{ .Title }}</h1>

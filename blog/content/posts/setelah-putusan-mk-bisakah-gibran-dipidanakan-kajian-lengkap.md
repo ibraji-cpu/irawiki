@@ -4,13 +4,14 @@ date: 2026-10-09T08:00:00+07:00
 draft: false
 ai_generated: true
 risiko_editorial: sedang
-tags: ["gibran", "ijazah", "mk", "bareskrim", "ptun"]
+tags: ["gibran-rakabuming-raka", "ijazah", "mahkamah-konstitusi", "bareskrim", "ptun"]
 description: "MK tak menemukan bukti ijazah Gibran, lalu ada Dumas ke Bareskrim. Kenapa polisi belum bisa bertindak, dan mengapa kunci kasus ini justru ada di kasasi PTUN?"
 cover:
   image: "images/og-image.jpg"
   alt: "Setelah Putusan MK, Bisakah Gibran Dipidanakan? Ini Kajian Lengkapnya"
   relative: false
 audio_path: "/audio/setelah-putusan-mk-bisakah-gibran-dipidanakan-kajian-lengkap.mp3"
+categories: ["Adilkah Aturan Mainnya?"]
 ---
 
 **Pernah nggak sih kamu ngerasa gemas waktu ngikutin berita politik dan hukum, terus ngebatin, "Ini kan buktinya udah jelas, kok polisinya diam aja sih?"**

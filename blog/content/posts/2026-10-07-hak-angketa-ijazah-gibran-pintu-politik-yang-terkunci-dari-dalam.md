@@ -11,6 +11,7 @@ cover:
   alt: "Hak Angket Ijazah Gibran: Pintu Politik yang Terkunci dari Dalam"
   relative: false
 audio_path: "/audio/2026-10-07-hak-angketa-ijazah-gibran-pintu-politik-yang-terkunci-dari-dalam.mp3"
+categories: ["Adilkah Aturan Mainnya?"]
 ---
 # HAK ANGKET IJAZAH GIBRAN: PINTU POLITIK YANG TERKUNCI DARI DALAM
 

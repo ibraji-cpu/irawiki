@@ -11,6 +11,7 @@ cover:
   alt: "Lulusan berijazah berdiri di depan barisan pelamar kerja dengan papan bertuliskan Pengalaman Min. 2 Tahun"
   relative: true
 audio_path: "/audio/ijazah-lengkap-kerja-nggak-dapat.mp3"
+categories: ["Menagih Janji dan Bukti"]
 ---
 
 Kita lulus dengan ijazah lengkap di tangan. Tapi kalimat yang paling sering menyambut kita setelah wisuda bukan "selamat datang di kantor", melainkan "pengalaman minimal dua tahun". Lalu kita ke mana?

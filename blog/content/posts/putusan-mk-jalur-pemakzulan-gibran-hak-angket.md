@@ -12,6 +12,7 @@ cover:
   alt: "Putusan MK Buka Jalur Pemakzulan Gibran: DPR Bisa Pakai Hak Angket, tapi Apa Semudah Itu?"
   relative: false
 audio_path: "/audio/putusan-mk-jalur-pemakzulan-gibran-hak-angket.mp3"
+categories: ["Adilkah Aturan Mainnya?"]
 ---
 
 **Kamis 8 Oktober di Jakarta, Denny Indrayana menyebut putusan MK soal ijazah Gibran memberi 'hint' pemakzulan. Pakar: DPR bisa mulai dari hak angket. Tapi semudah itukah jalannya?**

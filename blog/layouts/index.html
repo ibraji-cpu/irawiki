@@ -10,21 +10,59 @@
     {{- range $kategori }}
     {{- $slug := .slug -}}
     {{- $count := index $counts $slug | default 0 -}}
-    {{- if or (gt $count 0) .paksa }}
-    <a class="kategori-card" href="/categories/{{ $slug }}/">
+    {{- /* "umum" bukan kartu beranda — hanya 6 kartu tematik */ -}}
+    {{- if ne $slug "umum" }}
+    <a class="kategori-card" href="https://wiki.iraamalia.id/kategori/{{ .wiki_slug }}.html" target="_blank" rel="noopener">
       <span class="kategori-name">{{ .nama }}</span>
       {{- if gt $count 0 }}
       <span class="kategori-count">{{ $count }} artikel</span>
       {{- end }}
       <span class="kategori-desc">{{ .deskripsi }}</span>
     </a>
-    {{- else }}
-    {{- warnf "beranda: kategori %q belum punya artikel — tidak dirender" $slug -}}
     {{- end }}
     {{- end }}
   </div>
 </section>
 
 {{- partial "wiki_updates.html" (dict "limit" 3 "showArchive" true) }}
+
+<section class="latest-posts" aria-label="Artikel Terbaru" style="margin-top: 2rem;">
+  <header class="latest-posts-head" style="margin-bottom: 1rem;">
+    <h2 style="font-size: 1.35rem; margin: 0 0 .25rem;">Artikel Terbaru</h2>
+  </header>
+  {{- $pages := where site.RegularPages "Type" "in" site.Params.mainSections }}
+  {{- $pages = where $pages "Params.hiddenInHomeList" "!=" "true" }}
+  {{- range first 3 $pages }}
+  <article class="post-entry">
+    <header class="entry-header">
+      {{- if .Params.audio_path }}
+      <span class="audio-badge">🎧 Ringkasan Audio</span>
+      {{- end }}
+      <h2 class="entry-hint-parent">
+        {{- .Title }}
+        {{- if .Draft }}
+        <span class="entry-hint" title="Draft">
+          <svg xmlns="http://www.w3.org/2000/svg" height="20" viewBox="0 -960 960 960" fill="currentColor">
+            <path
+              d="M160-410v-60h300v60H160Zm0-165v-60h470v60H160Zm0-165v-60h470v60H160Zm360 580v-123l221-220q9-9 20-13t22-4q12 0 23 4.5t20 13.5l37 37q9 9 13 20t4 22q0 11-4.5 22.5T862.09-380L643-160H520Zm300-263-37-37 37 37ZM580-220h38l121-122-18-19-19-18-122 121v38Zm141-141-19-18 37 37-18-19Z" />
+          </svg>
+        </span>
+        {{- end }}
+      </h2>
+    </header>
+    {{- if (ne (.Param "hideSummary") true) }}
+    <div class="entry-content">
+      <p>{{ .Summary | plainify | htmlUnescape }}{{ if .Truncated }}...{{ end }}</p>
+    </div>
+    {{- end }}
+    {{- if not (.Param "hideMeta") }}
+    <footer class="entry-footer">
+      {{- partial "post_meta.html" . -}}
+    </footer>
+    {{- end }}
+    <a class="entry-link" aria-label="post link to {{ .Title | plainify }}" href="{{ .Permalink }}"></a>
+  </article>
+  {{- end }}
+</section>
 
 {{- end }}{{/* end main */}}

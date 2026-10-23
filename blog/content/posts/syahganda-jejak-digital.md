@@ -7,6 +7,7 @@ risiko_editorial: sedang
 tags: ["Syahganda Nainggolan", "Gibran Rakabuming Raka", "Bakom", "etika pejabat publik", "jejak digital"]
 description: "Pernyataan 'enough is enough' Syahganda Nainggolan soal Gibran dibuat sebelum ia dilantik Kepala Bakom. Tapi koreksi timeline tidak menggugurkan satu pertanyaan sah: sekarang dia berdiri di mana?"
 audio_path: "/audio/syahganda-jejak-digital.mp3"
+categories: ["Umum"]
 ---
 
 *Opini Ira Amalia — 6 Oktober 2026*

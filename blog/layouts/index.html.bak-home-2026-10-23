@@ -1,0 +1,30 @@
+{{- define "main" }}
+
+{{- $kategori := hugo.Data.kategori -}}
+{{- $counts := dict -}}
+{{- range $nama, $tax := site.Taxonomies.categories -}}
+{{- $counts = merge $counts (dict (urlize $nama) (len $tax.Pages)) -}}
+{{- end -}}
+<section class="kategori" aria-label="Kategori">
+  <div class="kategori-grid">
+    {{- range $kategori }}
+    {{- $slug := .slug -}}
+    {{- $count := index $counts $slug | default 0 -}}
+    {{- if or (gt $count 0) .paksa }}
+    <a class="kategori-card" href="/categories/{{ $slug }}/">
+      <span class="kategori-name">{{ .nama }}</span>
+      {{- if gt $count 0 }}
+      <span class="kategori-count">{{ $count }} artikel</span>
+      {{- end }}
+      <span class="kategori-desc">{{ .deskripsi }}</span>
+    </a>
+    {{- else }}
+    {{- warnf "beranda: kategori %q belum punya artikel — tidak dirender" $slug -}}
+    {{- end }}
+    {{- end }}
+  </div>
+</section>
+
+{{- partial "wiki_updates.html" (dict "limit" 3 "showArchive" true) }}
+
+{{- end }}{{/* end main */}}

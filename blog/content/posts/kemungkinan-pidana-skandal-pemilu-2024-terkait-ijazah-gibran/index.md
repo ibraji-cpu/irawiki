@@ -5,7 +5,7 @@ date: 2026-10-09T08:00:00+07:00
 draft: false
 ai_generated: false
 risiko_editorial: tinggi
-tags: ["gibran", "pemilu 2024", "kuhp baru", "pidana", "opini tamu"]
+tags: ["gibran-rakabuming-raka", "pemilu 2024", "kuhp baru", "pidana", "opini tamu"]
 description: "Kajian pidana skandal proses Pemilu 2024 terkait ijazah Gibran: konstruksi Pasal 391 KUHP Baru bagi penerbit, pengguna, dan penikmat Suket penyetaraan."
 cover:
   image: "cover-yuntri-pidana-ijazah-gibran.jpg"
@@ -13,6 +13,7 @@ cover:
   relative: true
   hidden: false
 audio_path: "/audio/kemungkinan-pidana-skandal-pemilu-2024-terkait-ijazah-gibran.mp3"
+categories: ["Adilkah Aturan Mainnya?"]
 ---
 
 Oleh : *Dr.HC Muhammad Yuntri. SH.,MH*

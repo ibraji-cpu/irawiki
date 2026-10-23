@@ -20,7 +20,7 @@
       <span class="wiki-badge wiki-badge--{{ .badge }}">{{ if eq .badge "baru" }}Baru{{ else }}Diperbarui{{ end }}</span>
       <a class="wiki-update-title" href="{{ .url }}" target="_blank" rel="noopener">{{ .title }}</a>
     </div>
-    <p class="wiki-update-summary">{{ .summary }}</p>
+    <p class="wiki-update-summary">{{- $s := .summary -}}{{- if gt (len $s) 180 -}}{{- printf "%s…" (substr $s 0 180) -}}{{- else -}}{{- $s -}}{{- end -}}</p>
     <a class="wiki-update-link" href="{{ .url }}" target="_blank" rel="noopener">Baca halaman di wiki &rarr;</a>
   </article>
   {{- end }}

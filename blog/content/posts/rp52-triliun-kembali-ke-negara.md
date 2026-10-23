@@ -7,6 +7,7 @@ risiko_editorial: sedang
 tags: ["Satgas PKH", "Prabowo Subianto", "Kejaksaan Agung", "kawasan hutan", "penerimaan negara"]
 description: "Penyerahan tahap VIII Satgas PKH bukan sekadar seremoni angka. Komposisi dan daftar hadirnya bercerita tentang arah penegakan hukum sumber daya alam."
 audio_path: "/audio/rp52-triliun-kembali-ke-negara.mp3"
+categories: ["Siapa Tuan Tanahnya?"]
 ---
 
 *Opini Ira Amalia — 7 Oktober 2026*

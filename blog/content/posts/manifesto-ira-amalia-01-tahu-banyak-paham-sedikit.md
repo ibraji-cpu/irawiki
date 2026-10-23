@@ -1,15 +1,16 @@
 ---
-title: "Manifesto Ira Amalia (1): Tahu Banyak, Paham Sedikit"
-date: 2026-10-21T13:45:00+07:00
+title: 'Manifesto Ira Amalia (1): Tahu Banyak, Paham Sedikit'
+date: 2026-10-21 13:45:00+07:00
 draft: false
 ai_generated: true
 risiko_editorial: sedang
 tags: ["manifesto", "ira-amalia", "media-sosial", "pengetahuan"]
-description: "Kita tahu siapa bertengkar dan siapa viral setiap hari, tapi jarang paham persoalannya. Seri manifesto Ira Amalia tentang beda tahu dan paham."
-cover:
-  image: "images/og-image.jpg"
-  alt: "Manifesto Ira Amalia (1): Tahu Banyak, Paham Sedikit"
-  relative: false
+description: Kita tahu siapa bertengkar dan siapa viral setiap hari, tapi jarang paham
+  persoalannya. Seri manifesto Ira Amalia tentang beda tahu dan paham.
+cover: {image: images/og-image.jpg, alt: 'Manifesto Ira Amalia (1): Tahu Banyak, Paham
+    Sedikit', relative: false}
+audio_path: /audio/manifesto-ira-amalia-01-tahu-banyak-paham-sedikit.mp3
+categories: ["Konsep Kunci"]
 ---
 
 # Manifesto Ira Amalia (1): Tahu Banyak, Paham Sedikit

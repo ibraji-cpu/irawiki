@@ -11,6 +11,7 @@ cover:
   alt: "Bola Panas di Senayan: Putusan MK, SIM Bodong, dan Beban Etika Ketatanegaraan Kita"
   relative: false
 audio_path: "/audio/bola-panas-di-senayan-putusan-mk-sim-bodong.mp3"
+categories: ["Adilkah Aturan Mainnya?"]
 ---
 
 *Oleh: Andrianto*

@@ -11,6 +11,7 @@ cover:
   alt: "Politik Tanpa Anak Muda — Wanita denim menunjuk ke arah pemirsa, latar foto protes jalanan"
   relative: true
 audio_path: "/audio/politik-tanpa-anak-muda-1-5-bukan-takdir-ini-desain.mp3"
+categories: ["Adilkah Aturan Mainnya?"]
 ---
 
 Itu bukan takdir, tapi murni desain.

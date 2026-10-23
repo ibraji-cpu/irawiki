@@ -11,6 +11,7 @@ cover:
   alt: "Suara Terbanyak Bukan Pemutih: Pelajaran Moralitas Konstitusi"
   relative: false
 audio_path: "/audio/suara-terbanyak-bukan-pemutih-pelajaran-moralitas-konstitusi.mp3"
+categories: ["Adilkah Aturan Mainnya?"]
 ---
 
 **Kedaulatan rakyat bukan soal siapa meraup suara paling banyak, tapi apakah pemenangnya memenuhi syarat konstitusi sejak awal.**

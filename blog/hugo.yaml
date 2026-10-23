@@ -25,6 +25,9 @@ menu:
     - name: Arsip
       url: /archives/
       weight: 10
+    - name: Kategori
+      url: /categories/
+      weight: 15
     - name: Tag
       url: /tags/
       weight: 20

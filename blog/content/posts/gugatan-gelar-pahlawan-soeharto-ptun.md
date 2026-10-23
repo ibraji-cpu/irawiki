@@ -1,18 +1,21 @@
 ---
-title: "Gugatan Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli Waris"
-date: 2026-10-15T19:00:00+07:00
+title: 'Gugatan Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli
+  Waris'
+date: 2026-10-15 19:00:00+07:00
 draft: false
 ai_generated: true
-author: "Ira Amalia"
-tags: ["opini", "soeharto", "gelar-pahlawan", "ptun"]
-categories: ["Opini"]
-description: "PTUN Jakarta menyatakan gugatan gelar pahlawan Soeharto tidak diterima. Putusan 50/G/2026 mengabulkan eksepsi tergugat dan ahli waris: penggugat tak punya kedudukan hukum."
-cover:
-  image: "images/og-image-gugatan-gelar-pahlawan-soeharto-ptun.jpg"
-  alt: "Gugatan Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli Waris"
-  relative: false
+author: Ira Amalia
+tags: ["soeharto", "gelar-pahlawan", "ptun"]
+categories: ["Adilkah Aturan Mainnya?"]
+description: 'PTUN Jakarta menyatakan gugatan gelar pahlawan Soeharto tidak diterima.
+  Putusan 50/G/2026 mengabulkan eksepsi tergugat dan ahli waris: penggugat tak punya
+  kedudukan hukum.'
+cover: {image: images/og-image-gugatan-gelar-pahlawan-soeharto-ptun.jpg, alt: 'Gugatan
+    Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli Waris',
+  relative: false}
 og_width: 2560
 og_height: 1428
+audio_path: /audio/gugatan-gelar-pahlawan-soeharto-ptun.mp3
 ---
 
 # Gugatan Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli Waris
