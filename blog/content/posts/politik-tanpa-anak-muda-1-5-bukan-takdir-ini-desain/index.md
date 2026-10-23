@@ -12,6 +12,7 @@ cover:
   relative: true
 audio_path: "/audio/politik-tanpa-anak-muda-1-5-bukan-takdir-ini-desain.mp3"
 categories: ["Adilkah Aturan Mainnya?"]
+aliases: ["/posts/politik-tanpa-anak-muda-15-bukan-takdir-ini-desain/"]
 ---
 
 Itu bukan takdir, tapi murni desain.
