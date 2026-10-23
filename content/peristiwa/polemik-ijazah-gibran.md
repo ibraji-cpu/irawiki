@@ -2,33 +2,21 @@
 title: "Polemik Ijazah Gibran"
 description: 'Hub polemik ijazah Gibran: gugatan perdata di PN Jakarta Pusat, sengketa syarat pendidikan di MK, dan putusan 01/PHPU.PRES-XXIV/2026.'
 date: 2026-10-09
-updated: '2026-10-17'
+updated: '2026-10-24'
 aliases:
   - Ijazah Gibran
   - Polemik Ijazah Gibran Rakabuming Raka
   - Gugatan Ijazah Gibran
   - Sengketa Ijazah Gibran
   - Kasus Ijazah Gibran
+  - Sengketa Ijazah Wapres Gibran di MK
+  - sengketa-ijazah-gibran-2026
+  - peristiwa/sengketa-ijazah-gibran-2026
 entity_type: topik
 entity_id: "polemik-ijazah-gibran"
 status: "aktif"
 confidence: 5
-risiko_editorial: |
-  Konsolidasi 10 halaman peristiwa terkait polemik keabsahan syarat pendidikan dan ijazah Gibran Rakabuming Raka:
-  - Halaman yang digabung (10 halaman):
-    1. 2025-09-14-jokowi-berkumis-tipis-buka-bukaan-sekolah-gibran-singapura.md (dilipat ke entri 2025-09-08 & 2025-09-12: sidang perdata PN Jakpus & tanggapan santai Jokowi)
-    2. 2025-09-25-kepsek-pastikan-gibran-lulusan-smpn-1-solo.md (dilipat ke entri 2025-09-25: klarifikasi kepsek SMPN 1 Solo atas tudingan dokter Tifa)
-    3. 2025-10-03-mdis-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop.md (dilipat ke entri 2025-10-03: klarifikasi resmi MDIS Singapura & respons DPP PSI)
-    4. 2026-09-24-Jokowi-Ungkap-Riwayat-Sekolah-Gibran.md (dilipat ke entri 2026-09-24: rincian riwayat sekolah oleh Jokowi & pembelaan Raja Juli Antoni)
-    5. 2026-09-24-Tanggapan-Jokowi-Ijazah-Gibran-Disoal.md (dilipat ke entri 2026-09-24: pernyataan Jokowi menolak pembatalan pencalonan)
-    6. 2026-09-30-bambang-widjojanto-minta-mk-panggil-gibran.md (dilipat ke entri 2026-09-28 & 2026-09-30: surat permohonan pemanggilan Gibran oleh Bambang Widjojanto)
-    7. 2026-09-30-sidang-gugatan-ijazah-gibran-hakim-mk-sorot-paket-c.md (dilipat ke entri 2026-09-30: sorotan Hakim MK Enny Nurbaningsih atas Paket C & disparitas pasal UU Pemilu)
-    8. 2026-09-30-tentang-pkpu-disorot-hakim-mk-sidang-syarat-ijazah-gibran.md (dilipat ke entri 2026-09-30: pertanyaan Hakim Saldi Isra atas Pasal 18 ayat 3 PKPU 19/2023)
-    9. gugatan-ijazah-gibran.md (stub tanpa tanggal: dilipat ke entri gugatan perdata 2025-09-08 & pendaftaran gugatan PHPU 2026-09-10)
-    10. gugatan-phpu-syarat-pendidikan-gibran-rakabuming-raka.md (stub tanpa tanggal: dilipat ke entri pendaftaran PHPU 2026-09-10 & registrasi perkara 2026-09-17)
-  - Halaman yang dipertahankan (2 halaman):
-    1. 2026-10-06-putusan-mk-phpu-ijazah-gibran.md (Milestone kriteria §3: amar putusan pengadilan konstitusi tertinggi yang bersifat final dan mengikat pada Perkara Nomor 01/PHPU.PRES-XXIV/2026, ditautkan dua arah di entri 2026-10-06)
-    2. sengketa-ijazah-gibran-2026.md (Halaman analisis mendalam mengenai anatomi sengketa hukum di MK, temuan bukti pemohon, dan risiko konstitusional, ditautkan dua arah pada bagian Analisis Terkait)
+risiko_editorial: "sedang"
 relasi: []
 sumber:
   - url: "https://www.detik.com/jabar/berita/d-8111040/jokowi-berkumis-tipis-buka-bukaan-soal-sekolah-gibran-di-singapura"
@@ -47,8 +35,12 @@ sumber:
     tanggal: "2026-09-30"
   - url: "https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran"
     tanggal: "2026-09-30"
+  - url: "https://video.kompas.com/watch/1957575"
+  - url: "https://www.cnbcindonesia.com/news/20261002104005-4-772792"
+  - url: "https://www.kompas.tv/nasional/693358"
+  - url: "https://www.bbc.com/indonesia/articles/cmly4yeq6r34o"
 kategori: aturan-main-demokrasi
-last_updated: "2026-10-09"
+last_updated: "2026-10-24"
 last_verified: "2026-10-09"
 ---
 
@@ -56,152 +48,64 @@ last_verified: "2026-10-09"
 
 ## Ringkasan
 
-> **Ringkasan Topik:** Rangkaian polemik, gugatan hukum, dan sengketa konstitusi terkait keabsahan riwayat pendidikan serta syarat ijazah Wakil Presiden [[gibran-rakabuming-raka|Gibran Rakabuming Raka]]. Isu ini bergulir dari perdebatan publik dan gugatan perdata di Pengadilan Negeri Jakarta Pusat (September 2025), klarifikasi lembaga pendidikan, hingga permohonan Perselisihan Hasil Pemilihan Umum (PHPU) di [[mahkamah-konstitusi|Mahkamah Konstitusi]] perkara nomor 01/PHPU.PRES-XXIV/2026 pada September–Oktober 2026.
+> **Ringkasan Topik:** Rangkaian polemik, gugatan perdata di PN Jakarta Pusat (September 2025), klarifikasi lembaga pendidikan, hingga permohonan Perselisihan Hasil Pemilihan Umum (PHPU) di [[mahkamah-konstitusi|Mahkamah Konstitusi]] perkara nomor 01/PHPU.PRES-XXIV/2026 (September–Oktober 2026) terkait syarat pendidikan dan ijazah Wakil Presiden [[gibran-rakabuming-raka|Gibran Rakabuming Raka]].
 
 ## Apa relevansinya dengan anak muda?
 
-Yang paling konkret dari rangkaian ini adalah pintu masuknya, bukan ijazahnya. Mahkamah Konstitusi mengucapkan putusan Perkara Nomor 01/PHPU.PRES-XXIV/2026 pada 6 Oktober 2026 dengan amar permohonan tidak dapat diterima (*niet ontvankelijke verklaard*) karena alasan prosedural *legal standing* berdasarkan Peraturan MK No. 2/2024: pemohon bukan pasangan calon peserta Pilpres. Putusan itu sudah dibacakan dan mengikat, tetapi karena berhenti di ambang kedudukan hukum, materi syarat pendidikan tidak pernah diadili. Bagi pemilih muda, yang tidak berubah adalah syarat pencalonan itu sendiri; yang menjadi jelas adalah siapa yang punya jalan untuk mempersoalkannya. Warga biasa — termasuk anak muda yang menganggap syarat calon perlu diuji — tidak memperoleh forum di MK untuk itu.
-
-Karena itu isi pertimbangan perlu dibaca terpisah dari amar. Dalam pertimbangan faktual yang dibacakan Hakim Konstitusi Arsul Sani, Mahkamah mencatat tidak menemukan bukti fisik kelulusan setara SMA di luar negeri, dan penyetaraan yang ada hanya berbasis "penyetaraan pengetahuan" program Grade 12 UTS Insearch. Itu pertimbangan, bukan amar, dan bukan pernyataan bahwa dokumen dianggap sah maupun dipalsukan. Tiga "temuan" Denny Indrayana — termasuk ketiadaan dokumen dasar penyetaraan di Kemendikbud — adalah dalil pemohon dalam konferensi pers 29 September 2026, bukan temuan Mahkamah. Klaim bahwa surat penyetaraan terbit kurang dari 24 jam, dan klaim disparitas pasal antara Pilpres dan Pileg, juga tidak diputus karena perkara berhenti lebih awal. Akibatnya perkara ini tidak bisa dikutip sebagai bukti pemalsuan, dan tidak bisa dikutip sebagai bukti bahwa administrasi pencalonan bersih.
-
-Setelah jalur yudisial tertutup, pertanyaannya berpindah ke DPR lewat wacana hak angket: Deddy Sitorus dari PDI Perjuangan menyatakan fraksinya akan menggalang pansus, sementara Sugiat Santoso dari Gerindra bersama koalisi KIM Plus meminta polemik dihentikan. Keduanya pernyataan politik, dan halaman ini tidak mencatat jumlah penandatangan usulan maupun jadwal pembahasan, jadi belum ada forum yang pasti. Sampai itu terjadi, tidak ada perubahan aturan pencalonan yang tercatat, dan standar pembuktian syarat pendidikan untuk pemilu berikutnya belum memperoleh kejelasan dari jalur ini. Satu hal yang tetap terbuka: catatan Mahkamah tentang dokumen yang tidak ditemukan itu ada di dalam pertimbangan, sehingga bisa menjadi bahan pemeriksaan lanjutan hanya jika parlemen benar-benar membuka forumnya.
+Perkara 01/PHPU.PRES-XXIV/2026 berhenti di ambang *legal standing* (Peraturan MK No. 2/2024 hanya mengizinkan pasangan calon peserta Pilpres menggugat hasil), sehingga warga biasa tidak memperoleh forum di MK untuk menguji syarat calon dan pokok perkara tidak pernah diadili. Meski pertimbangan faktual MK mencatat tidak ditemukannya bukti fisik kelulusan setara SMA di luar negeri (hanya "penyetaraan pengetahuan" Grade 12 UTS Insearch), amar putusannya bersifat prosedural—bukan vonis bahwa dokumen palsu maupun sah—sementara wacana hak angket di DPR baru sebatas pernyataan politisi tanpa jadwal pembahasan.
 
 ## Fakta kunci
 
-- **Perkara MK:** Nomor 01/PHPU.PRES-XXIV/2026, diregistrasi 17 September 2026, sidang pendahuluan 21 September 2026.
-- **Pemohon:** Denny Indrayana bersama 11 pemohon lain, mendaftar 10 September 2026; kuasa hukum Bambang Widjojanto.
-- **Putusan 6 Oktober 2026:** permohonan tidak dapat diterima (*niet ontvankelijke verklaard*) karena *legal standing* berdasarkan Peraturan MK No. 2/2024; pokok perkara tidak diadili.
-- **Pertimbangan faktual:** Mahkamah tidak menemukan bukti fisik kelulusan setara SMA di luar negeri; penyetaraan yang ada berbasis program Grade 12 UTS Insearch.
-- **Klarifikasi lembaga:** MDIS Singapura mengonfirmasi Gibran sebagai alumnus (3 Oktober 2025); Kepala SMPN 1 Surakarta Wuryanti mengonfirmasi kelulusan (25 September 2025).
-- **Perdata:** gugatan warga bernama Subhan disidang perdana di PN Jakarta Pusat pada 8 September 2025.
+- **Gugatan perdata (2025):** diajukan warga bernama Subhan terhadap Gibran dan KPU RI di PN Jakarta Pusat (sidang perdana 8 September 2025).
+- **Klarifikasi sekolah (2025):** Kepala SMPN 1 Surakarta Wuryanti memastikan kelulusan SMP Gibran (25 September 2025); MDIS Singapura mengonfirmasi Gibran sebagai alumnus diploma dan sarjana (3 Oktober 2025).
+- **Perkara MK 01/PHPU.PRES-XXIV/2026:** diajukan [[denny-indrayana|Denny Indrayana]] bersama 11 pemohon lain (kuasa hukum [[bambang-widjojanto|Bambang Widjojanto]]) pada 10 September 2026; diregistrasi 17 September 2026.
+- **Putusan MK (6 Oktober 2026):** permohonan tidak dapat diterima (*niet ontvankelijke verklaard*) karena pemohon bukan paslon peserta Pilpres. Rincian amar dan pertimbangan ada di [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026]].
 
 ## Kronologi
 
-### 2025-09-08 — Sidang Perdana Gugatan Perdata di PN Jakarta Pusat
-Sidang perdana gugatan perdata terhadap Wakil Presiden [[gibran-rakabuming-raka|Gibran Rakabuming Raka]] dan KPU RI digelar di Pengadilan Negeri Jakarta Pusat. Gugatan tersebut diajukan oleh seorang warga bernama Subhan terkait urusan ijazah SMA berdasarkan hukum di Indonesia, yang memohon majelis hakim menyatakan keterpilihan Gibran tidak sah sebagai Wakil Presiden RI periode 2024–2029.
+### 2025-09-08 s.d. 2025-10-03 — Gugatan Perdata PN Jakpus dan Klarifikasi Lembaga Pendidikan
+- **2025-09-08:** Sidang perdana gugatan perdata warga bernama Subhan terhadap Gibran dan KPU RI di PN Jakarta Pusat terkait syarat ijazah SMA.
+- **2025-09-12:** Presiden ke-7 RI [[joko-widodo|Joko Widodo]] di Solo merespons santai gugatan tersebut namun menegaskan akan mengikuti proses hukum.
+- **2025-09-25:** Kepala SMPN 1 Surakarta Wuryanti mengklarifikasi tudingan dokter Tifa (Tifauzia Tyassuma) di X dan memastikan Gibran lulus resmi serta memiliki ijazah SMPN 1 Solo.
+- **2025-10-03:** Management Development Institute of Singapore (MDIS) mengonfirmasi Gibran telah menyelesaikan studi diploma dan sarjana; Ketua DPP PSI Andy Budiman meminta polemik dihentikan.
 
-Perkara ini menandai masuknya polemik ijazah Gibran ke ranah peradilan formal pasca-Pilpres 2024, yang menuntut pembuktian legalitas administrasi pencalonan di hadapan majelis hakim.
+### 2026-09-10 s.d. 2026-09-24 — Pendaftaran dan Sidang Awal PHPU di MK
+- **2026-09-10:** Denny Indrayana bersama 11 pemohon mendaftarkan gugatan sengketa syarat pendidikan Wapres Gibran ke MK.
+- **2026-09-17:** MK meregistrasi perkara dengan nomor **01/PHPU.PRES-XXIV/2026** dan meneruskan berkas ke KPU serta Bawaslu.
+- **2026-09-21:** Sidang pendahuluan mendengarkan pokok permohonan: pemohon mempersoalkan Pasal 18 ayat (3) PKPU No. 19/2023 (pengecualian bukti kelulusan SMA bagi lulusan luar negeri) dan penerbitan surat penyetaraan Grade 12 UTS Insearch yang diklaim kurang dari 24 jam.
+- **2026-09-23:** Sidang mendengarkan jawaban KPU dan Bawaslu RI yang menegaskan verifikasi pendaftaran Pilpres 2024 telah sesuai regulasi.
+- **2026-09-24:** Di Surakarta, Joko Widodo memaparkan urutan sekolah Gibran (SDN 16 Surakarta, SMPN 1 Surakarta, Orchid Park Secondary School Singapura, UTS Insearch Sydney, MDIS Singapura). Menhut/Sekjen PSI [[raja-juli-antoni|Raja Juli Antoni]] mengecam gugatan sebagai manuver politik.
 
-### 2025-09-12 — Respons Santai Joko Widodo atas Gugatan Perdata
-Presiden ke-7 RI [[joko-widodo|Joko Widodo]] menanggapi santai gugatan perdata ijazah Gibran saat berada di Solo. Joko Widodo berseloroh bahwa jika ijazah miliknya dan Gibran terus dipersoalkan, terbuka kemungkinan ijazah cucunya, Jan Ethes Srinarendra, kelak juga akan dipermasalahkan.
+### 2026-09-28 s.d. 2026-10-05 — Putusan Sela, Sidang Pembuktian, dan RPH
+- **2026-09-28:** MK membacakan putusan sela kelanjutan perkara. Kuasa hukum pemohon Bambang Widjojanto menyurati Ketua MK meminta pemanggilan langsung Gibran, Mendikbud, dan Menkumham.
+- **2026-09-29:** Tahap pembuktian (dokumen, saksi, ahli) dimulai. Dalam konferensi pers usai sidang, Denny Indrayana mengklaim tiga temuan: ketiadaan dokumen dasar penyetaraan di Kemendikbud, tidak dilampirkannya bukti kelulusan SMA oleh KPU, dan dugaan manipulasi administratif.
+- **2026-09-30:** Hakim Konstitusi Saldi Isra mempertanyakan Pasal 18 ayat (3) PKPU 19/2023 yang belum pernah ada di PKPU 2019 serta menyatakan surat pemanggilan Gibran menunggu Rapat Permusyawaratan Hakim (RPH). Hakim Enny Nurbaningsih menyoroti disparitas aturan Pilpres (Pasal 227 huruf l) vs Pileg (Pasal 240 ayat 2 huruf b) dan maraknya calon lulusan Paket C.
+- **2026-10-01 s.d. 10-05:** Lanjutan pembuktian (1 Okt), RPH dimulai (2 Okt), dan jadwal awal pembacaan putusan 5 Oktober ditunda ke hari berikutnya.
 
-Meski merespons dengan nada kelakar, Joko Widodo menegaskan pihaknya menghormati dan akan melayani seluruh gugatan sesuai proses hukum yang berlaku.
-
-### 2025-09-25 — Kepala Sekolah SMPN 1 Solo Pastikan Keabsahan Kelulusan Gibran
-Kepala Sekolah SMP Negeri 1 Surakarta, Wuryanti, memberikan klarifikasi menyusul tudingan dokter Tifa di media sosial X yang mempertanyakan apakah SMPN 1 Solo mengeluarkan ijazah Gibran. Wuryanti memastikan bahwa [[gibran-rakabuming-raka|Gibran Rakabuming Raka]] benar merupakan siswa yang bersekolah dan telah lulus resmi dari SMP Negeri 1 Solo serta memiliki ijazahnya.
-
-Klarifikasi ini mengonfirmasi keaslian riwayat pendidikan dasar Gibran di Surakarta, meskipun pihak sekolah menyatakan rincian dokumen kelulusan membutuhkan prosedur perizinan lebih lanjut.
-
-### 2025-10-03 — Klarifikasi MDIS Singapura dan Permintaan Penghentian Polemik oleh PSI
-Lembaga pendidikan asal Singapura, Management Development Institute of Singapore (MDIS), secara resmi mengonfirmasi bahwa [[gibran-rakabuming-raka|Gibran Rakabuming Raka]] adalah alumnus mereka yang telah menyelesaikan studi dan memperoleh gelar diploma serta sarjana. Menyikapi konfirmasi tersebut, Ketua DPP PSI Andy Budiman meminta publik menyudahi polemik ijazah dan menduga isu tersebut sengaja terus digulirkan untuk memicu instabilitas politik.
-
-Pernyataan resmi MDIS memperkuat status legalitas gelar akademik luar negeri Gibran, kendati perdebatan mengenai penyetaraan tingkat sekolah menengah tetap berlanjut di kelompok oposisi.
-
-### 2026-09-10 — Denny Indrayana dan 11 Pemohon Daftarkan Gugatan PHPU ke MK
-Mantan Wakil Menteri Hukum dan HAM [[denny-indrayana|Denny Indrayana]] bersama 11 pemohon lainnya secara resmi mendaftarkan gugatan sengketa syarat pendidikan pencalonan Wapres Gibran ke [[mahkamah-konstitusi|Mahkamah Konstitusi]]. Pemohon mendalilkan adanya cacat administratif pencalonan dan penyetaraan ijazah luar negeri.
-
-Langkah ini membawa sengketa syarat pendidikan Gibran ke tingkat konstitusi tertinggi menjelang pembacaan evaluasi tahunan pemerintahan.
-
-### 2026-09-17 — MK Registrasi Perkara 01/PHPU.PRES-XXIV/2026
-Mahkamah Konstitusi secara resmi meregistrasi permohonan Denny Indrayana dkk dengan nomor perkara 01/PHPU.PRES-XXIV/2026. Salinan berkas permohonan diteruskan kepada Komisi Pemilihan Umum (KPU) dan Badan Pengawas Pemilu (Bawaslu).
-
-Registrasi ini mengaktifkan jadwal persidangan cepat PHPU di Mahkamah Konstitusi, dengan sidang pendahuluan dijadwalkan pada 21 September 2026.
-
-### 2026-09-21 — Sidang Pendahuluan PHPU di Mahkamah Konstitusi
-Mahkamah Konstitusi menggelar sidang pemeriksaan pendahuluan untuk mendengarkan pokok permohonan para pemohon. Pemohon mendalilkan indikasi cacat syarat pendidikan, regulasi Peraturan KPU No. 19/2023 Pasal 18 ayat (3) yang dinilai bermasalah karena mengecualikan bukti kelulusan SMA bagi calon yang bersekolah di luar negeri, serta penerbitan surat penyetaraan Grade 12 UTS Insearch yang diterbitkan superkilat dalam waktu kurang dari 24 jam.
-
-Persidangan membuka babak adu argumen antara kubu pemohon dengan KPU dan Bawaslu di hadapan panel hakim konstitusi.
-
-### 2026-09-23 — Jawaban Termohon KPU dan Bawaslu di Sidang MK
-Sidang pleno MK mendengarkan jawaban resmi dari pihak termohon, yaitu KPU dan Bawaslu RI, terhadap dalil-dalil permohonan perkara nomor 01/PHPU.PRES-XXIV/2026. KPU menegaskan seluruh proses verifikasi pendaftaran pasangan calon telah dilakukan sesuai ketentuan regulasi yang berlaku pada masa pendaftaran Pilpres 2024.
-
-Pemeriksaan memasuki persiapan fase pembuktian dokumen dan pemeriksaan saksi serta ahli.
-
-### 2026-09-24 — Jokowi Ungkap Rincian Riwayat Pendidikan Gibran di Solo
-Menanggapi persidangan di MK, [[joko-widodo|Joko Widodo]] memberikan klarifikasi publik di kediamannya di Sumber, Banjarsari, Surakarta. Joko Widodo membeberkan secara runut riwayat sekolah putranya: SDN 16 Surakarta, SMPN 1 Surakarta, Orchid Park Secondary School di Singapura, program UTS Insearch di Sydney Australia, dan MDIS Singapura. Joko Widodo menegaskan bahwa syarat pendidikan Gibran sudah diverifikasi dan diterima KPU, sehingga menolak desakan pembatalan jabatan wapres.
-
-Pada saat yang sama, Menhut sekaligus Sekjen PSI [[raja-juli-antoni|Raja Juli Antoni]] membela Gibran dan mengecam gugatan tersebut sebagai manuver politik tak beradab di tengah fokus pemerintah menangani kebakaran hutan dan lahan.
-
-### 2026-09-28 — Permohonan Pemanggilan Gibran oleh Kuasa Hukum Pemohon
-Kuasa hukum pemohon, [[bambang-widjojanto|Bambang Widjojanto]], melayangkan surat resmi kepada Ketua Mahkamah Konstitusi untuk meminta pemanggilan langsung Gibran Rakabuming Raka, Menteri Pendidikan, dan Menteri Hukum dan HAM ke ruang sidang pembuktian.
-
-Permohonan ini ditujukan untuk menguji dokumen fisik ijazah dan proses penerbitan surat penyetaraan secara langsung di hadapan majelis hakim.
-
-### 2026-09-29 — Sidang Pembuktian dan Pernyataan Temuan Manipulasi Dokumen
-Tahap pembuktian perkara 01/PHPU.PRES-XXIV/2026 dimulai di MK dengan pemeriksaan dokumen, saksi, dan ahli. Usai sidang, pemohon Denny Indrayana menggelar konferensi pers memaparkan 3 temuan kunci: ketiadaan dokumen dasar penerbitan surat keterangan penyetaraan di Kemendikbud, tidak dilampirkannya bukti kelulusan SMA oleh KPU, serta penegasan bahwa isu mendasar adalah manipulasi administratif.
-
-Sidang berlanjut dalam atmosfer ketegangan politik tinggi antara pemohon dan otoritas penyelenggara pemilu.
-
-### 2026-09-30 — Hakim MK Sorot Norma Pengecualian PKPU dan Lulusan Paket C
-Sidang lanjutan MK pada 30 September 2026 diwarnai sorotan tajam majelis hakim terhadap regulasi pemilu. Hakim Konstitusi Saldi Isra mempertanyakan keabsahan norma Pasal 18 ayat (3) PKPU 19/2023 yang mengecualikan bukti kelulusan SMA bagi calon berijazah perguruan tinggi—yang diakui KPU belum pernah ada pada PKPU 2019. Sementara itu, Hakim Konstitusi Enny Nurbaningsih menyoroti disparitas regulasi pembuktian antara Pilpres (Pasal 227 huruf l) dan Pileg (Pasal 240 ayat 2 huruf b) serta fenomena maraknya calon lulusan Paket C dalam sengketa pemilu.
-
-Pada persidangan yang sama, Bambang Widjojanto kembali mendesak pemanggilan Gibran, yang direspons Hakim Saldi Isra bahwa surat permohonan telah diterima namun masih menunggu pembahasan Rapat Permusyawaratan Hakim (RPH).
-
-### 2026-10-06 — Putusan MK Nomor 01/PHPU.PRES-XXIV/2026 Menyatakan Permohonan Tidak Dapat Diterima
-Mahkamah Konstitusi membacakan putusan akhir perkara Nomor 01/PHPU.PRES-XXIV/2026 dalam sidang pleno yang dipimpin Ketua MK [[suhartoyo|Suhartoyo]]. Mahkamah memutuskan permohonan para pemohon tidak dapat diterima (*niet ontvankelijke verklaard*) dengan alasan prosedural *legal standing* berdasarkan Peraturan MK No. 2/2024, di mana pemohon bukan pasangan calon peserta Pilpres. Meski demikian, pertimbangan faktual yang dibacakan Hakim Konstitusi Arsul Sani mencatat bahwa Mahkamah tidak menemukan bukti fisik kelulusan setara SMA di luar negeri dan penyetaraan yang ada hanya berbasis "penyetaraan pengetahuan" program Grade 12 UTS Insearch Ditjen Dikdasmen.
-
-Putusan resmi ini mengakhiri sengketa di ranah yudisial, namun pertimbangan faktualnya memicu dinamika politik baru terkait wacana Hak Angket di DPR RI. Rincian selengkapnya terdokumentasi dalam halaman milestone [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima]].
-
-### 2026-10-07 — Reaksi Lintas Partai Pasca-Putusan MK dan Wacana Penggunaan Hak Angket DPR
-Menyikapi pertimbangan faktual Mahkamah Konstitusi terkait ketiadaan dokumen fisik ijazah SMA, politisi PDI Perjuangan [[deddy-sitorus|Deddy Sitorus]] menyatakan komitmen fraksinya untuk menggalang pembentukan Panitia Khusus (Pansus) Hak Angket di [[dpr-ri|DPR RI]] guna mengusut tuntas mekanisme verifikasi syarat pencalonan di KPU dan Ditjen Dikdasmen.
-
-Sebaliknya, Juru Bicara Partai Gerindra [[sugiat-santoso|Sugiat Santoso]] bersama koalisi KIM Plus mendesak seluruh pihak menghentikan polemik dan *move on* menghormati putusan MK demi menjaga kepastian hukum, stabilitas pasar keuangan, serta iklim investasi internasional. Wacana pergeseran sengketa dari ranah hukum ke arena parlemen ini dianalisis secara komprehensif dalam [[hak-angket-ijazah-gibran|Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR]].
+### 2026-10-06 s.d. 2026-10-07 — Putusan MK dan Wacana Hak Angket DPR
+- **2026-10-06:** MK membacakan putusan akhir (dipimpin Ketua MK [[suhartoyo|Suhartoyo]]): permohonan **tidak dapat diterima** karena *legal standing* (PMK No. 2/2024), sedangkan pertimbangan faktual (dibacakan Hakim Arsul Sani) mencatat tidak ditemukannya bukti fisik kelulusan setara SMA di luar negeri. Lihat halaman milestone [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026]].
+- **2026-10-07:** Politisi PDIP [[deddy-sitorus|Deddy Sitorus]] menyatakan komitmen menggalang Pansus Hak Angket di [[dpr-ri|DPR RI]], sedangkan Jubir Gerindra [[sugiat-santoso|Sugiat Santoso]] bersama koalisi KIM Plus mendesak polemik dihentikan demi kepastian hukum dan stabilitas investasi.
 
 ## Aktor yang Terlibat
 
-- [[gibran-rakabuming-raka|Gibran Rakabuming Raka]] — Wakil Presiden RI periode 2024–2029; pihak yang syarat keabsahan riwayat pendidikan dan ijazahnya dipersoalkan.
-- [[joko-widodo|Joko Widodo]] — Presiden ke-7 RI; ayah Gibran Rakabuming Raka yang merespons gugatan dan membeberkan riwayat sekolah putranya.
-- [[denny-indrayana|Denny Indrayana]] — Mantan Wakil Menteri Hukum dan HAM, pakar hukum tata negara; pemohon utama perkara PHPU No. 01/PHPU.PRES-XXIV/2026 di Mahkamah Konstitusi.
-- [[bambang-widjojanto|Bambang Widjojanto]] — Kuasa hukum para pemohon yang mengajukan permohonan pemanggilan Gibran ke sidang pembuktian MK.
-- [[mahkamah-konstitusi|Mahkamah Konstitusi (MK)]] — Lembaga peradilan konstitusi yang memeriksa dan memutus perkara sengketa PHPU No. 01/PHPU.PRES-XXIV/2026.
-- [[kpu|Komisi Pemilihan Umum (KPU RI)]] — Lembaga penyelenggara pemilu selaku termohon yang menerbitkan PKPU No. 19/2023 dan memverifikasi berkas pendaftaran calon.
-- Saldi Isra — Hakim Konstitusi yang menyoroti norma Pasal 18 ayat (3) PKPU 19/2023 dan merespons surat pemanggilan saksi.
-- Enny Nurbaningsih — Hakim Konstitusi yang menyoroti fenomena Paket C dan disparitas syarat kelulusan antara Pilpres dan Pileg.
-- [[suhartoyo|Suhartoyo]] — Ketua Mahkamah Konstitusi yang memimpin sidang pembacaan putusan perkara 01/PHPU.PRES-XXIV/2026.
-- Arsul Sani — Hakim Konstitusi yang membacakan pertimbangan faktual terkait ketiadaan dokumen fisik ijazah SMA.
-- Wuryanti — Kepala Sekolah SMP Negeri 1 Surakarta yang mengonfirmasi keaslian kelulusan dan ijazah SMP Gibran.
-- [[raja-juli-antoni|Raja Juli Antoni]] — Menteri Kehutanan dan Sekjen DPP PSI yang mengecam gugatan syarat pendidikan Gibran.
-- Andy Budiman — Ketua DPP PSI yang meminta penghentian polemik pasca-klarifikasi resmi dari MDIS Singapura.
-- Subhan — Warga penggugat perdata terhadap Gibran dan KPU di Pengadilan Negeri Jakarta Pusat (September 2025).
-- Tifauzia Tyassuma (Dokter Tifa) — Pegiat media sosial yang melontarkan tudingan terkait ijazah SMP Gibran di platform X.
-- Management Development Institute of Singapore (MDIS) — Lembaga pendidikan tinggi di Singapura tempat Gibran menempuh studi diploma dan sarjana.
-
-## Analisis Terkait
-
-- [[sengketa-ijazah-gibran-2026|Sengketa Ijazah Wapres Gibran di MK]] — Analisis komprehensif mengenai jalannya perkara konstitusi, temuan bukti pemohon, dinamika persidangan, serta implikasi yuridis-politik putusan sela hingga putusan akhir.
-- [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026]] — Dokumen peristiwa milestone pengadilan konstitusi resmi beserta amar putusan dan pertimbangan faktualnya.
+- [[gibran-rakabuming-raka|Gibran Rakabuming Raka]] — Wapres RI 2024–2029; pihak yang syarat pendidikannya dipersoalkan.
+- [[joko-widodo|Joko Widodo]] — Presiden ke-7 RI; memaparkan riwayat sekolah Gibran.
+- [[denny-indrayana|Denny Indrayana]] & [[bambang-widjojanto|Bambang Widjojanto]] — pemohon utama (bersama 11 pemohon lain) dan kuasa hukum perkara 01/PHPU.PRES-XXIV/2026.
+- [[mahkamah-konstitusi|Mahkamah Konstitusi (MK)]] — Ketua MK [[suhartoyo|Suhartoyo]] serta Hakim Konstitusi Saldi Isra, Enny Nurbaningsih, dan Arsul Sani.
+- [[kpu|KPU RI]] & Bawaslu RI — termohon penyelenggara dan pengawas pemilu.
+- Wuryanti (Kepsek SMPN 1 Surakarta) & Management Development Institute of Singapore (MDIS) — pemberi klarifikasi riwayat studi.
+- Subhan (penggugat perdata di PN Jakpus) & Tifauzia Tyassuma / Dokter Tifa (penuding di media sosial X).
+- [[deddy-sitorus|Deddy Sitorus]] (PDIP), [[sugiat-santoso|Sugiat Santoso]] (Gerindra), [[raja-juli-antoni|Raja Juli Antoni]] & Andy Budiman (PSI) — pemberi tanggapan politik.
 
 ## Sumber
 
-### Sumber Peristiwa 2025-09-14
-- [Jokowi Berkumis Tipis, Buka-bukaan Soal Sekolah Gibran di Singapura](https://www.detik.com/jabar/berita/d-8111040/jokowi-berkumis-tipis-buka-bukaan-soal-sekolah-gibran-di-singapura) — detikJabar, 14 September 2025.
-
-### Sumber Peristiwa 2025-09-25
-- [Kepsek Pastikan Gibran Lulusan SMPN 1 Solo: Ada Ijazahnya](https://www.detik.com/jateng/berita/d-8130339/kepsek-pastikan-gibran-lulusan-smpn-1-solo-ada-ijazahnya) — detikJateng, 25 September 2025.
-
-### Sumber Peristiwa 2025-10-03
-- [MDIS Sudah Angkat Bicara, PSI Minta Polemik Ijazah Gibran Disetop](https://news.detik.com/berita/d-8143557/mdis-sudah-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop) — detikNews, 3 Oktober 2025.
-
-### Sumber Peristiwa 2026-09-24
-- [Syarat Pendidikan Gibran Digugat ke MK, Jokowi Ungkap Riwayat Sekolah](https://news.detik.com/berita/d-8677899/syarat-pendidikan-gibran-digugat-ke-mk-jokowi-ungkap-riwayat-sekolah) — detikNews, 24 September 2026.
-- [Tanggapan Jokowi Mengenai Ijazah Gibran Kini Disoal](https://www.detik.com/sumut/berita/d-8677439/tanggapan-jokowi-mengenai-ijazah-gibran-kini-disoal) — detikSumut, 24 September 2026.
-
-### Sumber Peristiwa 2026-09-30
-- [Bambang Widjojanto Minta MK Panggil Gibran di Sidang Pembuktian Besok](https://news.detik.com/berita/d-8686883/bambang-widjojanto-minta-mk-panggil-gibran-di-sidang-pembuktian-besok) — detikNews, 30 September 2026.
-- [Sidang Gugatan Ijazah Gibran, Hakim MK Sorot Banyak Calon Lulusan Paket C](https://news.detik.com/berita/d-8686933/sidang-gugatan-ijazah-gibran-hakim-mk-sorot-banyak-calon-lulusan-paket-c) — detikNews, 30 September 2026.
-- [Tentang PKPU yang Disorot Hakim MK di Sidang Syarat Ijazah Pencalonan Gibran](https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran) — detikNews, 30 September 2026.
-
-### Sumber Peristiwa 2026-10-06
-- Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES-XXIV/2026, diucapkan 6 Oktober 2026.
-- Laporan Analisis Politik dan Hukum: Peluang dan Hambatan DPR RI dalam Penggunaan Hak Angket Kasus Ijazah Wakil Presiden Gibran Rakabuming Raka, Oktober 2026.
+- **2025:** detikJabar (14 Sept 2025, [tanggapan Jokowi](https://www.detik.com/jabar/berita/d-8111040/jokowi-berkumis-tipis-buka-bukaan-soal-sekolah-gibran-di-singapura)); detikJateng (25 Sept 2025, [klarifikasi SMPN 1 Solo](https://www.detik.com/jateng/berita/d-8130339/kepsek-pastikan-gibran-lulusan-smpn-1-solo-ada-ijazahnya)); detikNews (3 Okt 2025, [klarifikasi MDIS & respons PSI](https://news.detik.com/berita/d-8143557/mdis-sudah-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop)).
+- **September 2026 (Sidang MK):** detikNews (24 Sept 2026, [riwayat sekolah](https://news.detik.com/berita/d-8677899/syarat-pendidikan-gibran-digugat-ke-mk-jokowi-ungkap-riwayat-sekolah)); detikSumut (24 Sept 2026, [tanggapan Jokowi](https://www.detik.com/sumut/berita/d-8677439/tanggapan-jokowi-mengenai-ijazah-gibran-kini-disoal)); detikNews (30 Sept 2026: [permohonan panggil Gibran](https://news.detik.com/berita/d-8686883/bambang-widjojanto-minta-mk-panggil-gibran-di-sidang-pembuktian-besok), [sorotan Paket C](https://news.detik.com/berita/d-8686933/sidang-gugatan-ijazah-gibran-hakim-mk-sorot-banyak-calon-lulusan-paket-c), [sorotan PKPU 19/2023](https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran)); Kompas Video, Kompas TV, CNBC Indonesia, dan BBC Indonesia.
+- **Oktober 2026:** Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES-XXIV/2026 (6 Oktober 2026).
 
 ## Catatan presisi
 
-- **Terverifikasi:** nomor perkara, tanggal registrasi, jadwal sidang, dan amar "tidak dapat diterima" bersumber pada dokumen putusan yang dirujuk di bagian Sumber serta pemberitaan detikNews.
-- **Beda jenis putusan:** *niet ontvankelijke verklaard* berarti permohonan tidak dapat diterima secara prosedural. Itu bukan penolakan pokok perkara, bukan pengabulan, dan bukan pernyataan bahwa ijazah palsu.
-- **Dalil, bukan temuan:** tiga temuan Denny Indrayana (termasuk ketiadaan dokumen dasar penyetaraan di Kemendikbud) adalah dalil pemohon dalam konferensi pers, bukan temuan Mahkamah.
-- **Belum diuji:** klaim bahwa surat penyetaraan Grade 12 UTS Insearch terbit kurang dari 24 jam, dan klaim disparitas pasal antara Pilpres dan Pileg, disampaikan dalam persidangan tetapi tidak diputus karena perkara berhenti di ambang *legal standing*.
-- **Dilaporkan:** komposisi 11 pemohon lain dan rincian surat permohonan pemanggilan Gibran bersumber pemberitaan, bukan salinan berkas perkara.
-- **Celah data:** salinan resmi putusan MK (PDF) belum ditautkan di halaman ini; tidak ada catatan tanggal pembahasan hak angket di DPR.
-- **Batas interpretasi:** halaman ini tidak menyimpulkan adanya pemalsuan dokumen oleh pihak mana pun.
-
+- **Beda jenis putusan:** *niet ontvankelijke verklaard* berarti permohonan tidak dapat diterima secara prosedural (*legal standing*); pokok perkara tidak diuji dan bukan vonis bahwa ijazah palsu maupun sah.
+- **Dalil vs pertimbangan:** klaim 3 temuan Denny Indrayana dan penerbitan surat penyetaraan <24 jam adalah dalil pemohon, bukan temuan MK.
+- **Penggabungan halaman:** halaman duplikat `peristiwa/sengketa-ijazah-gibran-2026.md` telah dilebur ke hub ini pada 24 Oktober 2026; URL lamanya dialihkan ke sini.
+- **Celah data:** salinan resmi PDF putusan MK dan risalah sidang belum ditautkan; belum ada jadwal pembahasan hak angket di DPR.

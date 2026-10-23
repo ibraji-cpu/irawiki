@@ -2,7 +2,7 @@
 title: "Pelantikan Pejabat 15 Oktober 2026"
 description: 'Pelantikan sembilan pejabat oleh Presiden Prabowo pada 15 Oktober 2026: empat wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala BPGMN, serta dua pejabat lain.'
 date: 2026-10-15
-updated: '2026-10-20'
+updated: '2026-10-24'
 entity_type: peristiwa
 entity_id: "2026-10-15-pelantikan-pejabat"
 aliases:
@@ -39,7 +39,7 @@ peristiwa_terkait:
 confidence: 5
 risiko_editorial: "sedang"
 kategori: kinerja-pemerintahan
-last_updated: "2026-10-20"
+last_updated: "2026-10-24"
 last_verified: "2026-10-15"
 ---
 
@@ -47,60 +47,33 @@ last_verified: "2026-10-15"
 
 ## Ringkasan
 
-> **Ringkasan Topik:** Pada 15 Oktober 2026, Presiden Prabowo Subianto melantik sembilan pejabat di Istana Kepresidenan, Jakarta Pusat — empat wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala Badan Pengelolaan Gambut dan Mangrove Nasional (BPGMN), serta dua perwira tinggi TNI (Wakil Panglima TNI dan KSAD).
+> **Ringkasan Topik:** Pada 15 Oktober 2026, Presiden Prabowo Subianto melantik sembilan pejabat di Istana Kepresidenan, Jakarta Pusat — empat wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala Badan Pengelolaan Gambut dan Mangrove Nasional (BPGMN), serta dua perwira tinggi TNI. Berbeda dengan [[Reshuffle Kabinet Merah Putih 1 Oktober 2026|1 Oktober]] yang menyasar menko dan Kapolri, pelantikan ini mengisi pos wamen, kepala badan, dan pucuk TNI AD.
 
 Bagian dari: [[Reshuffle Kabinet Merah Putih]]
 
 ## Apa relevansinya dengan anak muda?
 
-Halaman ini mencatat sebuah peristiwa pelantikan: 15 Oktober 2026 di Istana Kepresidenan, sembilan pejabat — empat wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala BPGMN, serta dua perwira tinggi TNI. Yang tidak ada di halaman adalah nomor Keputusan Presiden tiap pengangkatan, arah kebijakan pejabat baru, perubahan anggaran, program, atau target layanan. Catatan presisi juga menyatakan halaman ini tidak menilai latar politik pengangkatan.
+Belum ada keputusan, anggaran, atau program pejabat baru yang tercatat, jadi dampaknya bagi pengguna layanan BNPB, imigrasi, atau pengelolaan gambut dan mangrove belum bisa dinilai dari halaman ini.
 
-Tanpa satu pun keputusan, anggaran, atau program yang tercatat, tidak ada mekanisme yang bisa ditelusuri sampai ke kehidupan anak muda; menyambungkannya hanya dari nama lembaga akan menjadi tebakan, bukan pembacaan halaman. Karena itu bagian ini sengaja tidak membuat klaim dampak. Pengguna layanan lembaga-lembaga tersebut — pelamar paspor, warga di daerah rawan bencana, atau orang yang berurusan dengan pengelolaan gambut dan mangrove — belum mendapat satu pun keterangan di halaman ini untuk menilai apakah layanan yang mereka pakai berubah.
+## Pejabat yang Dilantik
 
-## Fakta kunci
+| Pejabat | Jabatan baru |
+|---|---|
+| Yusuf Jauhari (Marsekal TNI) | Wamenhan Bidang Logistik, Industri Pertahanan dan Teknologi |
+| Richard Tampubolon (Jenderal TNI) | Wamenhan Bidang Strategi, Doktrin dan Pembangunan Kekuatan¹ |
+| Alim Setiawan Slamet (Dr.) | Wakil Menteri Pertanian |
+| M Maulana Bungaran | Wakil Menteri Imigrasi dan Pemasyarakatan |
+| Kristomei Sianturi (Letjen TNI) | Kepala BNPB |
+| Satyawan Pudyatmoko | Kepala BPGMN |
+| Sriyanto (Mayjen TNI) | Wakil Kepala BPGMN |
+| Maruli Simanjuntak (Jenderal) | Wakil Panglima TNI merangkap Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil (sebelumnya KSAD) |
+| Tandyo Budi Revita (Jenderal TNI) | KSAD |
 
-- **Tanggal:** 15 Oktober 2026, Istana Kepresidenan, Jakarta Pusat.
-- **Jumlah pejabat:** 9 orang, terdiri atas 4 wakil menteri, Kepala BNPB, Kepala dan Wakil Kepala BPGMN, serta 2 pati TNI.
-- **Estafet KSAD:** Tandyo Budi Revita menjadi KSAD, Maruli Simanjuntak menjadi Wakil Panglima TNI pada 15 Oktober 2026.
-- **Kepala BNPB:** Kristomei Sianturi, dilantik 15 Oktober 2026.
-- **Formasi wakil menteri:** bertambah di Pertahanan (2 pos bidang), Pertanian, serta Imigrasi dan Pemasyarakatan.
-
-## Latar Belakang
-
-Pelantikan ini melanjutkan rangkaian perombakan Kabinet Merah Putih yang puncaknya terjadi dua pekan sebelumnya pada 1 Oktober 2026 (lihat [[Reshuffle Kabinet Merah Putih 1 Oktober 2026]]). Berbeda dengan 1 Oktober yang menitikberatkan menteri koordinator dan Kapolri, pelantikan 15 Oktober mengisi pos wakil menteri, kepala badan, dan memutasi pucuk pimpinan TNI Angkatan Darat.
+¹ Artikel sumber menulis "Wakil Menteri Pertanahan"; kemungkinan salah ketik untuk Pertahanan.
 
 ## Kronologi
 
-### 2026-10-15 — Upacara Pelantikan Sembilan Pejabat
-Upacara di Istana Kepresidenan, Jakarta Pusat: diawali lagu Indonesia Raya, pembacaan Keputusan Presiden terkait, kemudian para pejabat mengucap sumpah/janji dipandu Presiden Prabowo Subianto.
-
-### 2026-10-15 — Mutasi Dua Pati TNI Dibacakan
-Sekretaris Militer Presiden Jenderal TNI Wahyu Yudhayana membacakan pemberhentian dan pengangkatan Maruli Simanjuntak dan Tandyo Budi Revita sebagai bagian lanjutan upacara.
-
-## Aktor yang Terlibat
-
-- **Prabowo Subianto** — Presiden yang memandu sumpah dan melakukan pelantikan.
-- **Yusuf Jauhari** (Marsekal TNI) — Dilantik sebagai Wakil Menteri Pertahanan Bidang Logistik, Industri Pertahanan dan Teknologi.
-- **Richard Tampubolon** (Jenderal TNI) — Dilantik sebagai Wakil Menteri Pertahanan Bidang Strategi, Doktrin dan Pembangunan Kekuatan. (Catatan: artikel sumber menulis "Wakil Menteri Pertanahan"; kemungkinan salah ketik, maksudnya Pertahanan.)
-- **Alim Setiawan Slamet** (Dr.) — Dilantik sebagai Wakil Menteri Pertanian.
-- **M Maulana Bungaran** — Dilantik sebagai Wakil Menteri Imigrasi dan Pemasyarakatan.
-- **Kristomei Sianturi** (Letnan Jenderal TNI) — Dilantik sebagai Kepala Badan Nasional Penanggulangan Bencana (BNPB).
-- **Satyawan Pudyatmoko** — Dilantik sebagai Kepala Badan Pengelolaan Gambut dan Mangrove Nasional (BPGMN).
-- **Sriyanto** (Mayor Jenderal TNI) — Dilantik sebagai Wakil Kepala BPGMN.
-- **Maruli Simanjuntak** (Jenderal) — Dilantik sebagai Wakil Panglima TNI merangkap Kepala Badan Nasional Pengelola Perbatasan dan Daerah Terpencil; sebelumnya menjabat KSAD.
-- **Tandyo Budi Revita** (Jenderal TNI) — Dilantik sebagai Kepala Staf Angkatan Darat (KSAD).
-- **Wahyu Yudhayana** (Jenderal TNI) — Sekretaris Militer Presiden; membacakan pemberhentian/pengangkatan dua tokoh TNI dalam upacara.
-
-## Dampak Langsung
-
-- Formasi wakil menteri bertambah di empat kementerian/lembaga: Pertahanan (2 pos bidang), Pertanian, serta Imigrasi dan Pemasyarakatan.
-- Kepemimpinan BNPB dan BPGMN berganti.
-- Estafet KSAD: Maruli Simanjuntak naik menjadi Wakil Panglima TNI dengan rangkap jabatan kepala badan perbatasan/daerah terpencil; Tandyo Budi Revita naik menjadi KSAD.
-
-## Relasi yang Terdokumentasi
-
-- [[Reshuffle Kabinet Merah Putih]] — halaman hub; pelantikan ini entri kronologi 2026-10-15.
-- [[Reshuffle Kabinet Merah Putih 1 Oktober 2026]] — milestone pelantikan sebelumnya dalam rangkaian yang sama.
+- **2026-10-15** — Upacara di Istana Kepresidenan: lagu Indonesia Raya, pembacaan Keppres, lalu sumpah/janji dipandu [[Prabowo Subianto]]. Sekretaris Militer Presiden Jenderal TNI Wahyu Yudhayana kemudian membacakan pemberhentian dan pengangkatan Maruli Simanjuntak dan Tandyo Budi Revita.
 
 ## Sumber
 
@@ -108,8 +81,6 @@ Sekretaris Militer Presiden Jenderal TNI Wahyu Yudhayana membacakan pemberhentia
 
 ## Catatan presisi
 
-- **Terverifikasi:** tanggal, jumlah 9 pejabat, dan komposisi jabatan bersumber detikNews seperti tercantum di Sumber.
-- **Rincian nama:** hanya sebagian nama pejabat tercatat di Aktor yang Terlibat; sisanya disebut per jabatan.
-- **Urutan acara:** dua entri bertanggal sama memisahkan upacara utama dan pembacaan mutasi TNI, sesuai urutan sumber.
-- **Celah data:** nomor Keputusan Presiden tiap pengangkatan belum tercatat.
+- **Terverifikasi:** tanggal, jumlah 9 pejabat, dan jabatan bersumber detikNews.
+- **Celah data:** nomor Keppres tiap pengangkatan belum tercatat.
 - **Batas interpretasi:** halaman ini tidak menilai latar politik pengangkatan.

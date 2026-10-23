@@ -32,7 +32,7 @@ relasi: []
 ## Perkembangan Terakhir
 
 - **2026-10-08** — Merespons beredarnya surat usulan pemakzulan atas nama kadernya Tonny Tesar: menyebut surat tersebut "Hoaks, hoaks. Enggak ada, enggak ada." Menyebut Surya Paloh belum memberi arahan apa pun soal sikap NasDem terkait wacana hak angket ijazah Gibran.
-- Lihat [[hak-angket-ijazah-gibran|Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR]].
+- Lihat [[peristiwa/polemik-ijazah-gibran|Polemik Ijazah Gibran]].
 
 ## Sumber
 

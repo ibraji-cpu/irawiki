@@ -147,7 +147,7 @@ Badan Legislasi DPR menyepakati 16 poin perubahan sebelum RUU dibawa ke paripurn
 Komisi IX DPR menyepakati hasil pembahasan bersama pemerintah agar RUU dibawa ke Rapat Paripurna. Menaker Yassierli menyatakan persetujuan pemerintah atas rancangan tersebut.
 
 ### 2026-10-06 — DPR RI Mengesahkan UU Pelindungan Ketenagakerjaan
-Rapat Paripurna DPR RI mengesahkan RUU Pelindungan Ketenagakerjaan menjadi undang-undang. UU dinyatakan terdiri atas 23 bab dan 313 pasal, dan belum diundangkan pada saat pemberitaan.
+Rapat Paripurna DPR RI mengesahkan RUU Pelindungan Ketenagakerjaan menjadi undang-undang. UU dinyatakan terdiri atas 23 bab dan 313 pasal, dan belum diundangkan pada saat pemberitaan. Proses rapatnya: [[Pengesahan UU Pelindungan Ketenagakerjaan 2026]].
 
 ## Aktor yang Terlibat
 

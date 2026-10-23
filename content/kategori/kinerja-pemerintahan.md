@@ -27,15 +27,10 @@ Kategori ini menagih janji pemerintahan dengan bukti: target kebijakan, capaian 
 ## Peristiwa
 
 - [[Reshuffle Kabinet Merah Putih 1 Oktober 2026]]
-- [[peristiwa/update-reshuffle-kabinet|Update: Reshuffle Kabinet Merah Putih 1 Oktober 2026]]
 - [[Pelantikan 26 Anggota Wantimpres 2 Oktober 2026]]
 - [[Pelantikan Pejabat 15 Oktober 2026]]
 - [[Pencalonan Kapolri 2026]]
 - [[Pengesahan UU Pelindungan Ketenagakerjaan 2026]]
-
-## Analisis
-
-- [[analisis/krisis-makna-subsidi-silang-pertamina-kelas-menangah|Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026]]
 
 ## Aktor
 

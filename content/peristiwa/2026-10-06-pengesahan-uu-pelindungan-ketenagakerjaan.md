@@ -2,7 +2,7 @@
 title: "Pengesahan UU Pelindungan Ketenagakerjaan 2026"
 description: 'DPR mengesahkan RUU Pelindungan Ketenagakerjaan menjadi UU dalam paripurna 6 Oktober 2026: 23 bab, 313 pasal, lanjutan Putusan MK 168/PUU-XXI/2023.'
 date: 2026-10-06
-updated: '2026-10-20'
+updated: '2026-10-24'
 aliases:
 - "Pengesahan UU Pelindungan Ketenagakerjaan 2026"
 - "Pengesahan UU Pelindungan Ketenagakerjaan"
@@ -56,12 +56,13 @@ aktor_terlibat:
 - "Yassierli"
 - "Felly Estelita Runtuwene"
 
-peristiwa_terkait: []
+peristiwa_terkait:
+- "UU Pelindungan Ketenagakerjaan"
 
 confidence: 6
 risiko_editorial: "rendah"
 kategori: kinerja-pemerintahan
-last_updated: "2026-10-20"
+last_updated: "2026-10-24"
 last_verified: "2026-10-06"
 ---
 
@@ -69,72 +70,44 @@ last_verified: "2026-10-06"
 
 ## Ringkasan
 
-> **Ringkasan Topik:** DPR RI mengesahkan RUU Pelindungan Ketenagakerjaan menjadi undang-undang dalam Rapat Paripurna di Gedung Parlemen Senayan, Jakarta, Selasa 6 Oktober 2026. UU ini terdiri atas 23 bab dan 313 pasal, dan disusun sebagai tindak lanjut Putusan Mahkamah Konstitusi No. 168/PUU-XXI/2023.
+> **Ringkasan Topik:** DPR RI mengesahkan RUU Pelindungan Ketenagakerjaan menjadi undang-undang dalam Rapat Paripurna di Senayan, Jakarta, Selasa 6 Oktober 2026. UU ini terdiri atas 23 bab dan 313 pasal, sebagai tindak lanjut Putusan MK No. 168/PUU-XXI/2023.
+
+Halaman ini mencatat **proses pengesahannya**. Latar pembentukan, substansi pasal (PKWT, alih daya, pesangon, pekerja platform), dan posisi Apindo/serikat pekerja ada di [[uu-pelindungan-ketenagakerjaan-2026|UU Pelindungan Ketenagakerjaan]].
 
 ## Apa relevansinya dengan anak muda?
 
-Yang paling dekat dengan anak muda di halaman ini bukan nomor UU-nya, melainkan dua hal yang biasa ditemui pada tahun-tahun pertama bekerja: perjanjian kerja waktu tertentu (PKWT) dan alih daya. DPR mengesahkan RUU Pelindungan Ketenagakerjaan menjadi undang-undang dalam rapat paripurna 6 Oktober 2026 sebagai tindak lanjut Putusan Mahkamah Konstitusi No. 168/PUU-XXI/2023; strukturnya 23 bab dan 313 pasal menurut Ketua Panja Putih Sari. Bagi pekerja muda yang masuk lewat kontrak berjangka atau bekerja sebagai pekerja alih daya, kerangka aturan yang menentukan status kerja mereka sedang dipindahkan ke undang-undang baru ini. Statusnya perlu dinyatakan tepat: sudah disahkan, belum diundangkan. Nomor dan tahun UU belum tersedia, dan halaman mencatat substansi pasalnya belum dicek ke teks resmi — jadi ini belum bisa disebut hak yang sudah berlaku.
-
-Siapa yang diuntungkan masih diperdebatkan oleh pihak-pihak yang mengaku mewakili mereka. Ketua Bidang Ketenagakerjaan Apindo Bob Azzam menyoroti ketentuan PKWT dan alih daya dan menilai pengetatan serta pembatasan alih daya berpotensi memperlebar posisi pekerja informal yang rentan terhadap perlindungan ketenagakerjaan. Ketua Umum PP FSP KEP SPSI R. Abdullah menyatakan sekitar 95–96 persen aspirasi serikat pekerja telah diakomodasi dan meyakini UU ini lebih baik daripada UU Cipta Kerja. Keduanya klaim pihak, bukan pengukuran; halaman sendiri menegaskan bahwa atribusi sikap itu bukan hasil voting pekerja. Bagi pembaca muda, konsekuensinya sederhana: belum ada angka yang bisa dipakai untuk memastikan apakah perlindungan bagi pekerja kontrak menguat atau melemah.
-
-Halaman juga mencatat belum ada laporan mengenai dampak penerapan, dan itu wajar karena UU baru disahkan pada hari yang sama. Dampak baru bisa dinilai setelah teks resmi terbit, nomor UU diketahui, dan aturan turunannya ada. Sampai titik itu, dua hal konkret yang layak dipantau adalah batas waktu PKWT dan cakupan pekerja alih daya di dalam pasal-pasalnya, serta apakah ketentuan itu benar-benar mengubah isi kontrak kerja yang ditandatangani pekerja muda.
+Aturan soal kontrak kerja waktu tertentu (PKWT) dan alih daya — dua bentuk kerja yang umum di tahun-tahun pertama bekerja — kini dipindah ke UU ini. Statusnya sudah disahkan tetapi belum diundangkan, jadi belum menjadi hak yang berlaku. Yang perlu dipantau adalah batas waktu PKWT dan cakupan alih daya di teks resmi nanti.
 
 ## Fakta kunci
 
-- **Pengesahan:** Rapat Paripurna DPR RI, 6 Oktober 2026, di Gedung Parlemen Senayan, Jakarta.
+- **Pengesahan:** Rapat Paripurna DPR RI, 6 Oktober 2026; seluruh fraksi yang hadir setuju.
 - **Struktur:** 23 bab dan 313 pasal menurut Ketua Panja Putih Sari.
-- **Dasar:** Putusan Mahkamah Konstitusi No. 168/PUU-XXI/2023 tentang pemisahan pengaturan ketenagakerjaan dari UU Cipta Kerja.
-- **Tahap sebelumnya:** 16 poin perubahan disepakati Panja Harmonisasi Baleg pada 26-27 Agustus 2026.
-- **Sikap pihak:** Apindo menolak ketentuan PKWT dan alih daya; FSP KEP SPSI menyebut 95-96 persen aspirasi pekerja terakomodasi.
-- **Catatan sejarah regulasi:** UU No. 13/2003 telah 43 kali diuji di MK dengan 11 permohonan dikabulkan.
-
-## Latar Belakang
-
-Pembentukan UU ini merupakan tindak lanjut Putusan Mahkamah Konstitusi No. 168/PUU-XXI/2023 atas uji materiil UU Cipta Kerja, yang memerintahkan pemisahan pengaturan ketenagakerjaan dari UU Cipta Kerja ke dalam undang-undang tersendiri (Bloomberg Technoz; Akurat.co).
-
-Ketua Panja Putih Sari menyatakan pembentukan UU baru dilatarbelakangi kondisi regulasi ketenagakerjaan yang tersebar dalam berbagai peraturan perundang-undangan, termasuk UU No. 13 Tahun 2003 tentang Ketenagakerjaan yang telah beberapa kali diubah, sehingga diperlukan konsolidasi dan harmonisasi (Infonasional, 5 Oktober 2026).
-
-Menurut Kepala Badan Keahlian DPR Bayu Dwi Anggono, UU No. 13/2003 telah 43 kali diuji di MK dengan 11 permohonan dikabulkan; sembilan di antaranya telah diakomodasi dalam UU No. 6 Tahun 2023 (Hukumonline).
+- **Status:** disahkan, belum diundangkan; nomor UU belum tersedia.
+- **Respons:** Apindo keberatan atas PKWT dan alih daya; FSP KEP SPSI menyebut 95–96 persen aspirasi pekerja terakomodasi (rincian di halaman UU).
 
 ## Kronologi
 
-### 2026-08-26 — Panja Harmonisasi Baleg Menyepakati 16 Poin Perubahan
-Panja Harmonisasi Badan Legislasi DPR menyepakati 16 poin perubahan penting RUU Pelindungan Ketenagakerjaan, dan pleno Baleg menyetujui hasil harmonisasi tersebut.
+### 2026-08-26 — Panja Harmonisasi Baleg Sepakati 16 Poin
+Panja Harmonisasi Badan Legislasi DPR menyepakati 16 poin perubahan, dan pleno Baleg menyetujui hasil harmonisasi.
 
 ### 2026-08-27 — RUU Menjadi Usul Inisiatif DPR
-Rapat paripurna DPR menyetujui RUU Pelindungan Ketenagakerjaan menjadi RUU usul inisiatif DPR, sebagai tindak lanjut amanat Putusan MK No. 168/PUU-XXI/2023.
+Rapat paripurna menyetujui RUU sebagai usul inisiatif DPR.
 
-### 2026-10-05 — Rapat Kerja Tingkat I Komisi IX Menyepakati ke Paripurna
-Rapat kerja tingkat I Komisi IX DPR bersama pemerintah menyepakati RUU dibawa ke pembicaraan tingkat II. Rapat dipimpin Wakil Ketua DPR Sufmi Dasco Ahmad; hadir Ketua Komisi IX Felly Estelita Runtuwene, Menaker Yassierli, Menteri PPPA Arifah Fauzi, dan Menteri UMKM Maman Abdurrahman.
+### 2026-10-05 — Raker Tingkat I Komisi IX
+Komisi IX dan pemerintah sepakat membawa RUU ke pembicaraan tingkat II. Rapat dipimpin Wakil Ketua DPR Sufmi Dasco Ahmad; hadir Ketua Komisi IX Felly Estelita Runtuwene, Menaker Yassierli, Menteri PPPA Arifah Fauzi, dan Menteri UMKM Maman Abdurrahman.
 
 ### 2026-10-06 — Rapat Paripurna Mengesahkan UU
-Rapat Paripurna DPR mengesahkan RUU Pelindungan Ketenagakerjaan menjadi undang-undang. Ketua DPR Puan Maharani mengajukan pertanyaan persetujuan; seluruh fraksi yang hadir menyatakan setuju. Ketua Panja Putih Sari menyatakan UU terdiri atas 23 bab dan 313 pasal. Lihat [[uu-pelindungan-ketenagakerjaan-2026|UU Pelindungan Ketenagakerjaan]] untuk rincian substansi.
+Ketua DPR Puan Maharani mengajukan pertanyaan persetujuan; seluruh fraksi yang hadir setuju. Ketua Panja Putih Sari menyampaikan struktur 23 bab dan 313 pasal.
 
 ## Aktor yang Terlibat
 
-- [[Puan Maharani]] — Ketua DPR RI; memimpin dan mengajukan pertanyaan persetujuan dalam Rapat Paripurna pengesahan.
-- [[Putih Sari]] — Ketua Panja RUU Pelindungan Ketenagakerjaan; menyampaikan struktur 23 bab/313 pasal.
-- [[Sufmi Dasco Ahmad]] — Wakil Ketua DPR RI; memimpin rapat kerja tingkat I Komisi IX (5 Oktober 2026).
-- [[Yassierli]] — Menteri Ketenagakerjaan; menyatakan persetujuan pemerintah dan menilai RUU memperkuat perlindungan ketenagakerjaan.
-- [[Felly Estelita Runtuwene]] — Ketua Komisi IX DPR RI; hadir dalam rapat kerja tingkat I.
-- [[Komisi IX DPR]] — Komisi pengusul inisiatif RUU.
-- [[DPR RI]] — Institusi yang mengesahkan.
-- [[Apindo]] — Asosiasi Pengusaha Indonesia; menyampaikan keberatan atas ketentuan PKWT dan alih daya (lihat bagian Dampak Langsung).
-- [[FSP KEP SPSI]] — Federasi serikat pekerja yang mengawal proses pengesahan.
-
-## Dampak Langsung
-
-- **Pihak yang menyatakan keberatan.** Ketua Bidang Ketenagakerjaan Apindo Bob Azzam menyoroti ketentuan Perjanjian Kerja Waktu Tertentu (PKWT) dan pekerja alih daya (outsourcing). Ia menilai pengetatan dan pembatasan alih daya berpotensi memperlebar posisi pekerja informal yang rentan terhadap perlindungan ketenagakerjaan (Bloomberg Technoz, 6 Oktober 2026). Apindo sebelumnya juga mengusulkan penambahan frasa "perluasan kesempatan kerja" pada nomenklatur RUU, yang menurut Bisnis.com belum diadopsi.
-- **Pihak yang menyatakan dukungan dengan catatan.** Ketua Umum PP FSP KEP SPSI R. Abdullah menyatakan sekitar 95–96 persen aspirasi serikat pekerja telah diakomodasi, dan meyakini UU ini lebih baik dibandingkan UU Cipta Kerja. Ia menekankan perlunya pengawalan hingga tahap akhir agar substansi tidak kembali seperti regulasi sebelumnya (Akurat.co, 4 Oktober 2026; Todaynews.id, 5 Oktober 2026).
-- Belum ada laporan mengenai dampak penerapan; UU baru disahkan pada hari yang sama.
-
-## Relasi yang Terdokumentasi
-
-- [[Komisi IX DPR]] — [[DPR RI]]: Komisi IX mengusulkan RUU sebagai usul inisiatif dan membawanya ke pembicaraan tingkat II (disebut eksplisit oleh sumber).
-- [[Sufmi Dasco Ahmad]] — memimpin rapat kerja tingkat I Komisi IX DPR, 5 Oktober 2026 (disebut eksplisit oleh sumber).
-- [[Puan Maharani]] — memimpin Rapat Paripurna pengesahan, 6 Oktober 2026 (disebut eksplisit oleh sumber).
-- [[Apindo]] — menyatakan keberatan atas ketentuan PKWT dan alih daya (posisi yang disebut eksplisit oleh sumber).
-- [[FSP KEP SPSI]] — mengawal proses pengesahan dan menyatakan dukungan dengan catatan (posisi yang disebut eksplisit oleh sumber).
+- [[Puan Maharani]] — Ketua DPR; memimpin Paripurna pengesahan.
+- [[Putih Sari]] — Ketua Panja; menyampaikan struktur UU.
+- [[Sufmi Dasco Ahmad]] — Wakil Ketua DPR; memimpin raker tingkat I (5 Oktober 2026).
+- [[Yassierli]] — Menaker; menyatakan persetujuan pemerintah.
+- [[Felly Estelita Runtuwene]] — Ketua Komisi IX.
+- [[Komisi IX DPR]] — komisi pengusul inisiatif RUU dan pembawa ke tingkat II.
+- [[DPR RI]] — lembaga yang mengesahkan.
 
 ## Sumber
 
@@ -145,14 +118,11 @@ Rapat Paripurna DPR mengesahkan RUU Pelindungan Ketenagakerjaan menjadi undang-u
 - Bisnis.com. "Poin-poin Penting RUU Pelindungan Ketenagakerjaan yang Akan Disahkan Jadi UU Hari Ini". Penulis: Reyhan Fernanda Fajarihza. 6 Oktober 2026. https://ekonomi.bisnis.com/read/20261006/12/2010068/poin-poin-penting-ruu-pelindungan-ketenagakerjaan-yang-akan-disahkan-jadi-uu-hari-ini
 - Akurat.co. "Kawal RUU Pelindungan Ketenagakerjaan, Buruh Optimistis Regulasi Baru Lebih Baik dari UU Cipta Kerja". 4 Oktober 2026. https://akurat.co/nasional/896052/kawal-ruu-pelindungan-ketenagakerjaan-buruh-optimistis-regulasi-baru-lebih-baik-dari-uu-cipta-kerja
 - Todaynews.id. "RUU Pelindungan Ketenagakerjaan Bakal Disahkan Besok, Buruh Diminta Kawal hingga Pengesahan". Penulis: Akbar Budi Prasetia. 5 Oktober 2026. https://todaynews.id/ruu-pelindungan-ketenagakerjaan-bakal-disahkan-besok-buruh-diminta-kawal-hingga-pengesahan/
-- Hukumonline. "Begini 5 Materi Pokok dan 19 Poin yang Diatur RUU Ketenagakerjaan Teranyar". 22 Juni 2026. https://www.hukumonline.com/berita/a/begini-5-materi-pokok-dan-19-poin-yang-diatur-ruu-ketenagakerjaan-teranyar-lt6a38f04db3e99
 
 ## Catatan presisi
 
-- **Terverifikasi:** tanggal pengesahan, struktur 23 bab/313 pasal, dan tahapan rapat bersumber pemberitaan yang dirujuk di bagian Sumber.
-- **Belum diverifikasi:** substansi pasal belum dicek ke teks resmi UU; nomor dan tahun UU belum tersedia.
+- **Terverifikasi:** tanggal pengesahan, struktur 23 bab/313 pasal, dan tahapan rapat bersumber pemberitaan di atas.
 - **Dua versi angka:** halaman UU mencatat klaim "sekitar 1.290-an" pasal dari anggota Komisi IX; halaman ini memakai 313 pasal.
-- **Atribusi sikap:** keberatan Apindo dan dukungan FSP KEP SPSI adalah pernyataan pejabat organisasi, bukan hasil voting pekerja.
-- **Batas waktu:** "belum ada laporan dampak penerapan" berlaku pada 6 Oktober 2026, hari pengesahan.
-- **Celah data:** salinan risalah paripurna dan naskah UU final belum ditautkan.
+- **Pembagian isi:** latar belakang, posisi para pihak, dan substansi dipindah ke halaman UU pada 24 Oktober 2026 agar tidak dobel.
+- **Celah data:** risalah paripurna dan naskah UU final belum ditautkan.
 - **Batas interpretasi:** halaman ini tidak menilai apakah UU memperlemah atau memperkuat hak pekerja.
