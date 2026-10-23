@@ -12,10 +12,18 @@
     {{- $count := index $counts $slug | default 0 -}}
     {{- /* "umum" bukan kartu beranda — hanya 6 kartu tematik */ -}}
     {{- if ne $slug "umum" }}
-    <a class="kategori-card" href="https://wiki.iraamalia.id/kategori/{{ .wiki_slug }}.html" target="_blank" rel="noopener">
+    {{- $targetUrl := printf "/categories/%s/" $slug -}}
+    {{- $isExternal := false -}}
+    {{- if eq $count 0 -}}
+      {{- $targetUrl = printf "https://wiki.iraamalia.id/kategori/%s.html" .wiki_slug -}}
+      {{- $isExternal = true -}}
+    {{- end -}}
+    <a class="kategori-card" href="{{ $targetUrl }}"{{ if $isExternal }} target="_blank" rel="noopener"{{ end }}>
       <span class="kategori-name">{{ .nama }}</span>
       {{- if gt $count 0 }}
       <span class="kategori-count">{{ $count }} artikel</span>
+      {{- else }}
+      <span class="kategori-count" style="opacity: 0.65;">di wiki</span>
       {{- end }}
       <span class="kategori-desc">{{ .deskripsi }}</span>
     </a>
