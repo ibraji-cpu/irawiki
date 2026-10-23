@@ -94,7 +94,7 @@ relasi: []
 ### 2026-10-03
 
 - Gugatan syarat pendidikan (ijazah SMA) sebagai calon Wapres di MK memasuki tahap pembuktian. Perkara No. 01/PHPU.PRES-XXIV/2026.
-- [[peristiwa/sengketa-ijazah-gibran-2026|Sengketa Ijazah Wapres Gibran di MK]]
+- [[peristiwa/polemik-ijazah-gibran|Polemik Ijazah Gibran]]
 
 ## Catatan
 

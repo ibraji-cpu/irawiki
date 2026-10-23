@@ -22,7 +22,6 @@ Kategori ini membahas aturan yang menentukan siapa boleh berkuasa dan dengan car
 
 - [[milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr|Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR]]
 - [[peristiwa/polemik-ijazah-gibran|Polemik Ijazah Gibran]]
-- [[peristiwa/sengketa-ijazah-gibran-2026|Sengketa Ijazah Wapres Gibran di MK]]
 - [[peristiwa/2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: Permohonan Ijazah Gibran Tidak Dapat Diterima]]
 - [[peristiwa/soeharto-pahlawan-nasional|Soeharto Pahlawan Nasional]]
 - [[peristiwa/rencana-pengesahan-ruu-satu-data-indonesia-2026|Rencana Pengesahan RUU Satu Data Indonesia]]
