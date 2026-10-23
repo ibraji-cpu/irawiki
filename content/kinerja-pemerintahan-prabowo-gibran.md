@@ -2,7 +2,7 @@
 title: "Kinerja Pemerintahan Prabowo-Gibran"
 description: "Ringkasan terverifikasi dua tahun pemerintahan Prabowo Subianto–Gibran Rakabuming Raka (20 Oktober 2024–20 Oktober 2026): indikator makro, laba BUMN, dan kebijakan per bidang — dengan koreksi dan catatan presisi atas daftar '200 fakta' yang beredar."
 date: 2026-10-20
-updated: '2026-10-22'
+updated: "2026-10-23T20:15:38+07:00"
 entity_type: topik
 entity_id: "kinerja-pemerintahan-prabowo-gibran"
 aliases:
@@ -431,7 +431,17 @@ Program Magang Nasional membuka 100.000 kursi pada 2025 dan 150.000 pada 2026 un
 - **tunjuk.id (20/10/2026, mengutip Okezone):** Kinerja 42 menteri dan wamen tak optimal. https://tunjuk.id/detail/2-tahun-pemerintah-prabowo-gibran-gerindra-kinerja-42-menteri-dan-wamen-tak-optimal
 - Laporan verifikasi per klaster (arsip kerja internal, 20/10/2026): 10 berkas di `verifikasi-200-fakta/` — tabel per klaim #1–200 dengan status TERVERIFIKASI / KOREKSI / RISIKO / BELUM TERVERIFIKASI, temuan, dan URL sumber per klaim.
 
-## Catatan presisi
+
+
+### 2026-10-16
+- Saiful Mujani Research and Consulting (SMRC) merilis survei kepuasan publik terhadap pemerintahan Prabowo-Gibran (periode survei 1–10 Oktober 2026; 1.213 responden; margin of error ±2,9%): **44,5% responden puas, 53,4% tidak/kurang puas**. Angka ini melanjutkan tren penurunan kepuasan yang dicatat SMRC: 81,2% (November 2025), 66,4% (Februari–Maret 2026), 51,1% (Juli 2026), 44,5% (Oktober 2026). Keluhan utama responden: kesulitan ekonomi dan mahalnya harga kebutuhan pokok.
+
+### 2026-10-18
+- Parameter Politik Indonesia (PPI) merilis survei kepuasan (periode survei 26 September–6 Oktober 2026; 1.200 responden di 38 provinsi; wawancara tatap muka; margin of error ±2,83%): **65,2% responden puas dengan kinerja Presiden Prabowo** dan **65,4% puas dengan kinerja pemerintahan secara umum**; kepuasan terhadap Wakil Presiden Gibran Rakabuming Raka 49,0%. Menurut PPI, pendorong kepuasan antara lain bantuan sosial, Sekolah Rakyat, program Makan Bergizi Gratis, dan pemberantasan korupsi; responden Gen Z yang puas 60,6% dan milenial 63,4%. Keluhan utama sama dengan temuan SMRC: kesulitan ekonomi dan harga kebutuhan pokok.
+
+### 2026-10-22
+- Voxpol Center Research and Consulting merilis survei **elektabilitas partai politik** — pertanyaan "jika pemilu dilaksanakan hari ini" (periode survei 3–12 Oktober 2026; 1.200 responden dari semua provinsi; multistage random sampling; wawancara tatap muka; tingkat kepercayaan 95%; margin of error ±2,83%): **Gerindra 21,1%, PDIP 16,1%, Golkar 11,7%, PKB 9,8%, PKS 9,7%, Partai Demokrat 9,1%, Partai NasDem 5,0%, PAN 3,3%, PPP 3,3%, PSI 2,4%**, PBB 0,8%, Partai Perindo 0,8%, Partai Hanura 0,3%, Partai Ummat 0,3%, Partai Buruh 0,2%, Partai Gelora 0,1%, Partai Garuda 0,1%, Partai PKN 0,1%, tidak tahu/tidak jawab 5,8%.
+- Direktur Eksekutif Voxpol Pangi Syarwi Chaniago memaparkan keunggulan per wilayah: Gerindra unggul di Bali-NTB-NTT (35%), Sumatera (33%), Jawa Barat (25,2%), Sulawesi (24,4%), dan DKI Jakarta-Banten (15,6%); PDIP unggul di Jawa Tengah (40%) dan Maluku-Papua (28,8%); PKB unggul di Jawa Timur (22,9%).## Catatan presisi
 
 - **Angka 42 menteri/wamen:** klaim **data sementara internal Partai Gerindra** (Kamrussamad), bukan temuan audit resmi; daftar nama tidak dipublikasikan di sumber mana pun — jangan pernah mengarang atau menyebut nama tertentu.
 - **Sorotan Menhut:** penilaian/posisi Partai Gerindra, bukan putusan atau temuan resmi; per 20/10/2026 belum ada tanggapan Raja Juli Antoni maupun keputusan/ pengumuman reshuffle dari Presiden.
