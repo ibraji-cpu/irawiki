@@ -27,10 +27,6 @@ Kategori ini menelusuri siapa yang berdiri di balik kepemilikan saham di pasar m
 - [[Sepak Terjang Haji Isam]]
 - [[Haji Isam Sepakat Beli 30% Saham BYAN dari Low Tuck Kwong]]
 
-## Analisis
-
-- [[Dari 'Sembilan Naga' to 'Sembilan Haji']]
-
 ## Aktor
 
 - [[Andi Syamsuddin Arsyad (Haji Isam)]]

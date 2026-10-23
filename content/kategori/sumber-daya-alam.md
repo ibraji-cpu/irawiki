@@ -22,10 +22,6 @@ Halaman ini mengumpulkan jejak penguasaan sumber daya alam Indonesia: lahan, tam
 
 - [[peristiwa/2026-10-06-penyerahan-tahap-viii-satgas-pkh|Penyerahan Tahap VIII Satgas PKH ke Negara]]
 
-## Analisis
-
-- [[analisis/analisis-satgas-pkh-uang-vs-nilai|Analisis: Membaca Angka Satgas PKH — Rp52 T Kas vs Rp400 T Valuasi]]
-
 ## Aktor
 
 - [[Satgas PKH]]

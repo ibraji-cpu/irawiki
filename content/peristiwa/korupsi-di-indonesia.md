@@ -119,10 +119,6 @@ Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/j
 
 - [[kepala-kantah-kabupaten-bogor-menjadi-tersangka|Kepala Kantah Kabupaten Bogor Menjadi Tersangka]] — OTT KPK ATR/BPN Bogor, September 2026
 
-## Analisis Terkait
-
-- [[analisis-satgas-pkh-uang-vs-nilai|Analisis Satgas PKH: Uang vs Nilai]] — analisis terkait pemulihan aset negara
-
 ## Sumber
 
 - Undang-Undang Nomor 30 Tahun 2002 tentang Komisi Pemberantasan Tindak Pidana Korupsi (27 Desember 2002).

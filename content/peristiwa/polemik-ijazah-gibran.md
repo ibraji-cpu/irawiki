@@ -145,7 +145,7 @@ Putusan resmi ini mengakhiri sengketa di ranah yudisial, namun pertimbangan fakt
 ### 2026-10-07 — Reaksi Lintas Partai Pasca-Putusan MK dan Wacana Penggunaan Hak Angket DPR
 Menyikapi pertimbangan faktual Mahkamah Konstitusi terkait ketiadaan dokumen fisik ijazah SMA, politisi PDI Perjuangan [[deddy-sitorus|Deddy Sitorus]] menyatakan komitmen fraksinya untuk menggalang pembentukan Panitia Khusus (Pansus) Hak Angket di [[dpr-ri|DPR RI]] guna mengusut tuntas mekanisme verifikasi syarat pencalonan di KPU dan Ditjen Dikdasmen.
 
-Sebaliknya, Juru Bicara Partai Gerindra [[sugiat-santoso|Sugiat Santoso]] bersama koalisi KIM Plus mendesak seluruh pihak menghentikan polemik dan *move on* menghormati putusan MK demi menjaga kepastian hukum, stabilitas pasar keuangan, serta iklim investasi internasional. Wacana pergeseran sengketa dari ranah hukum ke arena parlemen ini dianalisis secara komprehensif dalam [[hak-angket-ijazah-gibran|Hak Angket Ijazah Gibran: Peluang dan Hambatan di DPR]].
+Sebaliknya, Juru Bicara Partai Gerindra [[sugiat-santoso|Sugiat Santoso]] bersama koalisi KIM Plus mendesak seluruh pihak menghentikan polemik dan *move on* menghormati putusan MK demi menjaga kepastian hukum, stabilitas pasar keuangan, serta iklim investasi internasional.
 
 ## Aktor yang Terlibat
 

@@ -32,10 +32,6 @@ Kategori ini menagih janji pemerintahan dengan bukti: target kebijakan, capaian 
 - [[Pencalonan Kapolri 2026]]
 - [[Pengesahan UU Pelindungan Ketenagakerjaan 2026]]
 
-## Analisis
-
-- [[analisis/krisis-makna-subsidi-silang-pertamina-kelas-menangah|Dinamika Kompensasi Eksekutif BUMN dan Beban Subsidi Silang Energi: Menyoroti Kinerja Pertamina dan Kelas Menengah di Tahun 2026]]
-
 ## Aktor
 
 - [[Suyudi Ario Seto]]
