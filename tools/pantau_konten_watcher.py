@@ -85,7 +85,12 @@ def is_merge_commit(commit):
 
 
 def deploy_pasca_merge():
-    """Tahap deploy pasca-merge. Return (message, did_work)."""
+    """Tahap deploy pasca-merge. Return (message, did_work).
+
+    Deploy HANYA bila main maju dan commit terbaru adalah merge PR pantauan
+    (`pantauan: ...`). Commit/merge main lain dilewati: tidak di-deploy,
+    tidak ditandai sudah ter-deploy.
+    """
     saved = load_deploy_state()
     built = saved.get("built_main_hash", "")
     cur = remote_main_hash()
@@ -97,12 +102,10 @@ def deploy_pasca_merge():
     sh(["git", "fetch", "--all", "--prune"])
     cur = remote_main_hash()
 
-    # Abaikan merge main yang BUKAN dari PR pantauan.
-    if is_merge_commit(cur):
-        subj = sh(["git", "log", "-1", "--format=%s", cur]).stdout.strip()
-        if "pantauan:" not in subj:
-            log(f"merge main non-pantauan dilewati: {cur[:10]} {subj}")
-            return None, False
+    subj = sh(["git", "log", "-1", "--format=%s%n%b", cur]).stdout.strip()
+    if not (is_merge_commit(cur) and "pantauan:" in subj):
+        log(f"main maju ke {cur[:10]} tapi bukan merge PR pantauan -> tidak deploy")
+        return None, False
 
     log(f"deploy: main maju {built[:10] or '(null)'} -> {cur[:10]}")
     sh(["git", "checkout", "-q", "main"])
