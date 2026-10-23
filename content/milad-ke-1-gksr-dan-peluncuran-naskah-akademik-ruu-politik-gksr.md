@@ -2,9 +2,18 @@
 title: "Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR"
 description: Kronologi Milad ke-1 GKSR dan peluncuran Naskah Akademik serta Draf RUU Politik versi delapan partai nonparlemen, September 2026.
 date: 2026-10-01
-updated: '2026-10-20'
+updated: '2026-10-24'
+aliases:
+- "Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR"
+- "Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR"
+- "peristiwa/milad-ke-1-gksr-dan-peluncuran-draf-ruu-politik-versi-gksr"
+- "milad-ke-1-gksr-dan-peluncuran-draf-ruu-politik-versi-gksr"
+- "milad-1-gksr-dan-ruu-politik"
 tags:
 - peristiwa
+- pemilu
+- parliamentary-threshold
+- gksr
 entity_type: peristiwa
 entity_id: "milad-ke-1-gksr-dan-peluncuran-naskah-akademik-ruu-politik-gksr"
 sumber:
@@ -46,41 +55,11 @@ relasi:
     confidence: "low"
     sumber: null
     keterangan: "Badan Pekerja GKSR / Wakil Presiden Partai Buruh; menyampaikan posisi teknis stembus accord."
-  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
-    objek_id: "aktor/muhammad-said-iqbal"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "Ketua Umum GKSR dan Presiden Partai Buruh (pernyataan resmi siaran pers)."
-  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
-    objek_id: "aktor/partai-ummat"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "Partai Ummat merupakan tuan rumah Milad ke-1 GKSR (pernyataan DPP Partai Ummat dalam siaran pers)."
-  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
-    objek_id: "aktor/partai-buruh"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "Partai Buruh adalah salah satu dari delapan partai anggota GKSR dan Partai Buruh menempatkan Said Iqbal sebagai Presidennya."
-  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
-    objek_id: "aktor/feri-kurnia-rizkiansyah"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "Sekjen GKSR dan Waketum Partai Perindo."
-  - subjek_id: "gksr-gerakan-kedaulatan-suara-rakyat"
-    objek_id: "aktor/said-salahuddin"
-    predikat: "terkait_dengan"
-    confidence: "low"
-    sumber: null
-    keterangan: "Badan Pekerja GKSR dan Wakil Presiden Partai Buruh."
 tanggal:
 - "2026-09-26"
 lokasi:
-- "Menteng, Jakarta Pusat, DKI Jakarta"
-status_hukum_politik: "Berjalan — dokumen naskah akademik dan draf RUU telah diluncurkan; tuntutan kepada DPR dan pembentuk UU masih dalam proses"
+- "Markas DPP Partai Ummat, Menteng, Jakarta Pusat"
+status_hukum_politik: "Usulan naskah akademik & draf RUU oleh partai nonparlemen; ancaman judicial review bila DPR mengabaikan Putusan MK"
 kategori_isu:
 - "Pemilu dan Reformasi Politik"
 - "Parliamentary Threshold"
@@ -99,78 +78,54 @@ peristiwa_terkait:
 confidence: 5
 risiko_editorial: "sedang"
 kategori: aturan-main-demokrasi
-last_updated: "2026-10-20"
+last_updated: "2026-10-24"
+last_verified: "2026-10-09"
 ---
 
 # Milad ke-1 GKSR dan Peluncuran Naskah Akademik RUU Politik Versi GKSR
 
 ## Ringkasan
 
-> **Ringkasan Topik:** Pada peringatan Milad ke-1 Gerakan Kedaulatan Suara Rakyat (GKSR), delapan partai politik nonparlemen — Partai Buruh, Partai Ummat, Partai Hanura, Partai Perindo, PPP, PBB, PKN, dan Partai Berkarya — secara resmi meluncurkan Naskah Akademik dan Draf Rancangan Undang-Undang (RUU) Pemilu/Politik versi GKSR. Dokumen setebal lebih dari 200 halaman disusun berdasarkan kajian 406 Putusan Mahkamah Konstitusi (MK) yang berkaitan dengan empat undang-undang politik utama (UU Pemilu, UU MD3, UU Pilkada, dan UU Parpol). Acara berlangsung di Menteng, Jakarta Pusat, dengan Partai Ummat sebagai tuan rumah.
+> **Ringkasan Topik:** Pada peringatan Milad ke-1 [[gksr-gerakan-kedaulatan-suara-rakyat|Gerakan Kedaulatan Suara Rakyat (GKSR)]] di markas DPP [[partai-ummat|Partai Ummat]], Menteng, Jakarta Pusat (26 September 2026), delapan partai politik nonparlemen — Partai Buruh, Partai Ummat, Partai Hanura, Partai Perindo, PPP, PBB, PKN, dan Partai Berkarya — meluncurkan Naskah Akademik dan Draf RUU Pemilu/Politik versi GKSR setebal 200+ halaman. Dokumen yang disusun dari kajian atas 406 Putusan Mahkamah Konstitusi (terkait UU Pemilu, UU MD3, UU Pilkada, dan UU Parpol) ini menuntut ambang batas parlemen (*parliamentary threshold*) diturunkan dari 4% menjadi maksimal 1% serta pemberlakuan mekanisme *stembus accord* pra-pemilu.
 
-## Kenapa penting buat Gen Z
+## Apa relevansinya dengan anak muda?
 
-Ambang batas parlemen 4 persen membuat suara partai kecil sering tidak berubah menjadi kursi, dan GKSR menuntut angka itu turun menjadi maksimal 1 persen. Pada 26 September 2026, delapan partai nonparlemen memperingati Milad ke-1 GKSR di Jakarta Pusat, sekaligus meluncurkan Naskah Akademik dan Draf RUU Politik versi mereka. Dasar tuntutan adalah Putusan MK Nomor 116/PUU-XXI/2023 yang memerintahkan pembentuk undang-undang merevisi aturan pemilu.
+Ambang batas parlemen 4% membuat sekitar 17,3 juta suara sah pada Pemilu 2024 tidak berubah menjadi kursi (menurut bahan GKSR). Putusan MK Nomor 116/PUU-XXI/2023 telah mewajibkan revisi ambang batas sebelum Pemilu 2029 tanpa menetapkan angka pasti; draf GKSR menuntut maksimal 1% dan mekanisme *stembus accord*, namun statusnya masih usulan nonparlemen sementara sisi lain diskusi juga menyoroti risiko fragmentasi dan stabilitas sistem presidensial.
 
 ## Fakta kunci
 
-- **Tanggal:** 26 September 2026, Jakarta Pusat, dengan Partai Ummat sebagai tuan rumah.
-- **Peserta:** 8 partai politik nonparlemen.
-- **Tuntutan:** ambang batas parlemen maksimal 1 persen, dari 4 persen.
-- **Dasar hukum:** Putusan MK Nomor 116/PUU-XXI/2023.
-- **Dokumen:** Naskah Akademik dan Draf RUU Politik versi GKSR, 200+ halaman, diluncurkan 26 September 2026.
-
-## Kronologi
-
-### 2026-09-26 — Milad ke-1 GKSR dan Peluncuran Naskah Akademik
-Delapan partai politik nonparlemen meluncurkan Naskah Akademik dan Draf RUU Pemilu/Politik versi GKSR setebal 200+ halaman pada peringatan Milad ke-1 di Jakarta Pusat.
-
-### 2026-09-26 — Said Iqbal Menegaskan Tuntutan Ambang Batas 1 Persen
-Ir. H. Muhammad Said Iqbal, M.E. (Ketua Umum GKSR / Presiden Partai Buruh) meresmikan dokumen dan menegaskan tuntutan ambang batas parlemen maksimal 1 persen.
-
-### 2026-09-26 — Partai Ummat Mendukung Tuntutan Nol Persen
-Partai Ummat sebagai tuan rumah menyampaikan dukungan pada tuntutan nol persen dan mekanisme stembus accord.
-
-### 2026-09-26 — Diskusi Publik "Kedaulatan Rakyat versus Parliamentary Threshold"
-Diskusi publik digelar dengan menghadirkan pimpinan GKSR serta akademisi hukum tata negara.
-
-## Aktor yang Terlibat
-
-- [[GKSR - Gerakan Kedaulatan Suara Rakyat]] — Pengusul utama dan penyelenggara acara; koordinator delapan partai nonparlemen.
-- [[Ir. H. Muhammad Said Iqbal, M.E.]] — Ketua Umum GKSR, Presiden Partai Buruh; pemberi pernyataan utama.
-- [[Partai Ummat]] — Tuan rumah Milad ke-1 GKSR; DPP diwakili Ustaz Sambo dan Dr. Ing. H. Ridho Rahmadi.
-- [[Feri Kurnia Rizkiansyah]] — Sekretaris Jenderal GKSR / Waketum Partai Perindo; menyampaikan argumen matematis.
-- [[Dr. Titi Anggraini, S.H., M.H.]] — Pembina Perludem & Dosen HTN Universitas Indonesia; pemberi perspektif akademik.
-- [[Dr. Jamaludin Gafur, S.H., M.H.]] — Pakar Hukum Tata Negara UII; pemberi perspektif konstitusional.
-- [[Said Salahuddin, M.H.]] — Badan Pekerja GKSR / Wakil Presiden Partai Buruh; menyampaikan posisi teknis stembus accord.
+- **Waktu & lokasi:** 26 September 2026 di markas DPP Partai Ummat, Menteng, Jakarta Pusat (sebagian arsip internal sempat mencatat 27 September 2026).
+- **Peserta:** 8 partai nonparlemen yang tergabung dalam GKSR (Partai Buruh, Partai Ummat, Hanura, Perindo, PPP, PBB, PKN, Partai Berkarya).
+- **Dokumen:** Naskah Akademik dan Draf RUU Politik versi GKSR (200+ halaman), disusun dari kajian 406 Putusan MK atas 4 UU politik.
+- **Tuntutan utama:** penurunan *parliamentary threshold* dari 4% menjadi maksimal 1% (Partai Ummat juga menyuarakan opsi 0%), *stembus accord* pra-pemilu, dan penyederhanaan verifikasi parpol.
+- **Dasar & sikap lanjutan:** tindak lanjut Putusan MK No. 116/PUU-XXI/2023; GKSR menyatakan siap mengajukan *judicial review* dan aksi publik bila DPR memaksakan ambang batas tinggi (mis. 5% atau 7%).
 
 ## Latar Belakang
 
-Langkah ini diambil sebagai bentuk pengawalan nyata terhadap Putusan MK Nomor 116/PUU-XXI/2023 yang memerintahkan pembentuk undang-undang untuk mengubah ketentuan ambang batas parlemen (parliamentary threshold) 4 persen sebelum Pemilu 2029, guna menjamin proporsionalitas hasil pemilu dan mencegah terbuangnya jutaan suara sah rakyat.
+Langkah GKSR diambil untuk mengawal Putusan MK Nomor 116/PUU-XXI/2023 yang memerintahkan pembentuk undang-undang mengubah ketentuan ambang batas parlemen 4% sebelum Pemilu 2029. Menurut catatan GKSR, pada Pemilu 2024 terdapat sekitar 17,3 juta suara sah yang terbuang (*wasted votes*) karena partai pengusungnya tidak melewati ambang 4%.
 
-## Dampak Langsung
+## Kronologi (26 September 2026)
 
-- Delapan partai nonparlemen resmi menyatakan posisi bersama terkait ambang batas parlemen dan verifikasi parpol.
-- Dokumen Naskah Akademik dan Draf RUU menjadi bahan referensi formal yang dapat diajukan dalam proses legislasi atau judicial review.
-- Ada ancaman terbuka dari GKSR untuk melakukan judicial review dan perlawanan publik jika DPR mengabaikan putusan MK.
+- **Peluncuran Naskah Akademik & Draf RUU:** Delapan partai nonparlemen meresmikan Naskah Akademik dan Draf RUU Pemilu/Politik versi GKSR (200+ halaman) pada peringatan Milad ke-1.
+- **Pernyataan Sikap Pimpinan GKSR:** Ketua Umum GKSR / Presiden Partai Buruh [[muhammad-said-iqbal|Muhammad Said Iqbal]] menegaskan tuntutan ambang batas maksimal 1% dan kesiapan menempuh *judicial review*; tuan rumah Partai Ummat menyampaikan dukungan opsi 0%, *stembus accord*, serta penyederhanaan verifikasi parpol.
+- **Diskusi Publik *"Kedaulatan Rakyat versus Parliamentary Threshold"*:** Menghadirkan pimpinan GKSR dan akademisi hukum tata negara untuk membedah kalkulasi matematis ambang batas, rumus Taagepera/ambang batas fraksi, syarat transparansi *stembus accord*, serta perdebatan kartel politik versus stabilitas presidensial.
 
-## Relasi yang Terdokumentasi
+## Aktor yang Terlibat
 
-- [[GKSR - Gerakan Kedaulatan Suara Rakyat]] — [[Ir. H. Muhammad Said Iqbal, M.E.]]: Ketua Umum GKSR dan Presiden Partai Buruh (pernyataan resmi siaran pers).
-- [[GKSR - Gerakan Kedaulatan Suara Rakyat]] — [[Partai Ummat]]: Partai Ummat merupakan tuan rumah Milad ke-1 GKSR (pernyataan DPP Partai Ummat dalam siaran pers).
-- [[GKSR - Gerakan Kedaulatan Suara Rakyat]] — [[Partai Buruh]]: Partai Buruh adalah salah satu dari delapan partai anggota GKSR dan Partai Buruh menempatkan Said Iqbal sebagai Presidennya.
-- [[GKSR - Gerakan Kedaulatan Suara Rakyat]] — [[Feri Kurnia Rizkiansyah]]: Sekjen GKSR dan Waketum Partai Perindo.
-- [[GKSR - Gerakan Kedaulatan Suara Rakyat]] — [[Said Salahuddin, M.H.]]: Badan Pekerja GKSR dan Wakil Presiden Partai Buruh.
-- [[GKSR - Gerakan Kedaulatan Suara Rakyat]] — [[Partai Ummat]]: koalisi dalam GKSR bersama Partai Buruh, Hanura, Perindo, PPP, PBB, PKN, dan Partai Berkarya.
+- [[gksr-gerakan-kedaulatan-suara-rakyat|GKSR - Gerakan Kedaulatan Suara Rakyat]] — koalisi 8 parpol nonparlemen perumus naskah akademik dan draf RUU.
+- [[muhammad-said-iqbal|Ir. H. Muhammad Said Iqbal, M.E.]] — Ketua Umum GKSR / Presiden [[partai-buruh|Partai Buruh]]; meresmikan dokumen dan menyampaikan tuntutan PT maksimal 1%.
+- [[partai-ummat|Partai Ummat]] & [[ridho-rahmadi|Dr. Ing. H. Ridho Rahmadi]] (bersama Ustaz Sambo) — tuan rumah Milad ke-1; menyuarakan penyederhanaan verifikasi parpol, opsi PT 0%, dan penggabungan suara.
+- [[feri-kurnia-rizkiansyah|Feri Kurnia Rizkiansyah]] — Sekjen GKSR / Waketum Partai Perindo; memaparkan argumen matematis kalkulasi PT 1%.
+- [[said-salahuddin|Said Salahuddin, M.H.]] — Badan Pekerja GKSR / Wakil Presiden Partai Buruh; memaparkan syarat teknis dan transparansi *stembus accord* pra-pemilu.
+- [[titi-anggraini|Dr. Titi Anggraini, S.H., M.H.]] — Pembina Perludem & Dosen HTN UI; memaparkan rumus Taagepera dan konsep ambang batas fraksi.
+- [[jamaludin-gafur|Dr. Jamaludin Gafur, S.H., M.H.]] — Pakar HTN UII; menyoroti perspektif konstitusional, bahaya kartel politik, dan stabilitas sistem presidensial.
 
 ## Sumber
 
-- `doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx` (siaran pers GKSR, Diserahkan GKSR / Media Center GKSR, 2026-09-26)
+- Siaran Pers Resmi GKSR: *Partai Nonparlemen Minta Ambang Batas Parlemen Menjadi 1%, Partai Ummat Menjadi Tuan Rumah Milad 1 GKSR* (`doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx`, Media Center GKSR, 26 September 2026).
 
 ## Catatan presisi
 
-- **Terverifikasi:** tanggal 26 September 2026, jumlah delapan partai, dan angka ambang batas 1 persen tercatat di halaman ini.
-- **Sumber internal:** bagian Sumber memakai siaran pers GKSR, bukan pemberitaan independen.
-- **Halaman ganda:** ada halaman kedua untuk peristiwa yang sama di `content/peristiwa/Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR.md` dengan `entity_id` berbeda dan tanggal 27 September 2026; keduanya belum digabung.
-- **Bagian dilebur:** Perkembangan Terbaru memuat peristiwa yang sama dengan Kronologi.
-- **Batas interpretasi:** halaman ini tidak menilai apakah DPR akan membahas draf tersebut.
+- **Sumber tunggal internal:** seluruh rincian acara dan angka 17,3 juta suara terbuang bersumber dari siaran pers GKSR, belum diverifikasi ke pemberitaan/hitungan independen.
+- **Penggabungan halaman:** halaman duplikat `peristiwa/Milad ke-1 GKSR dan Peluncuran Draf RUU Politik versi GKSR.md` (yang sempat mencatat tanggal 27 September 2026) telah dilebur ke halaman ini pada 24 Oktober 2026; URL lamanya dialihkan ke sini.
+- **Batas interpretasi:** halaman ini tidak menilai peluang draf RUU versi GKSR diadopsi oleh DPR RI.
