@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "pendidikan", "pp-tunas", "sekolah-rakyat", "anak
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/dua-tahun-kinerja-2-kelas-layar-dan-akun.mp3"
 ---
 
 # Dua Tahun Prabowo-Gibran (2): Kelas, Layar, dan Akun — Negara Masuk ke Ruang Anak Muda

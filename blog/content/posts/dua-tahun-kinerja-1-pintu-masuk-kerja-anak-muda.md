@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "prabowo", "gibran", "magang-nasional", "ketenaga
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/dua-tahun-kinerja-1-pintu-masuk-kerja-anak-muda.mp3"
 ---
 
 # Dua Tahun Prabowo-Gibran (1): Pintu Masuk Kerja Anak Muda

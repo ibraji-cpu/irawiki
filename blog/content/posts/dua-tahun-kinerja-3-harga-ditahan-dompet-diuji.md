@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "harga", "bbm-subsidi", "survei", "gen-z", "biaya
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/dua-tahun-kinerja-3-harga-ditahan-dompet-diuji.mp3"
 ---
 
 # Dua Tahun Prabowo-Gibran (3): Harga Ditahan, Dompet Diuji — dan Apa Kata Anak Muda Sendiri
