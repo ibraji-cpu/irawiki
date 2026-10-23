@@ -1,0 +1,28 @@
+CATATAN HASIL — paket 2026-10-23-kinerja-pemerintahan-prabowo-gibran
+Branch: konten/turunan-2026-10-23-kinerja-pemerintahan-prabowo-gibran
+Tanggal produksi: 2026-10-23 (klaim TAKEN 11:11 WIB, selesai 16:00 WIB)
+
+VIDEO (video.mp4)
+- Template: Video Anak Muda (default keputusan Ibrahim 2026-10-23)
+- 1080x1920 vertikal, 83,47 detik (target 60-90 dtk terpenuhi)
+- 9 scene: hook + 7 narasi + outro; naskah 100% dari narasi-vo.txt (tidak diubah)
+- VO: Gemini Aoede, prompt gaya wajib bawaan helper, teks persis naskah
+- Caption kinetik burned-in textScale 2.0, sinkron per scene (durasi scene = VO + 0,8 dtk)
+- Background: assets/bg-dividen-bumn-anak-muda.jpg (varian topik seri anak muda); watermark false (badge iraamalia.id tertanam di background)
+- Kendala: kuota Gemini 429 untuk scene VO 06-09 (pagi); pulih sendiri ~13:54-15:05 WIB, scene 06 selesai 15:46 WIB setelah loop sabar 35 mnt. Tidak ada kata yang diubah selama menunggu.
+- Verifikasi: npm run check 0 error (13 warning kontras aksen emas di area terang, diterima); ffprobe 1080x1920 h264+aac; frame t=3/30/55/75 dtk dicek visual — caption memenuhi layar, terbaca di ponsel.
+
+CAROUSEL (carousel-1.png s.d. carousel-5.png)
+- Template: Ira Kafe (default keputusan Ibrahim 2026-10-23), 1025x1366 (3:4)
+- Slide 1 = cover (teks putih #ffffff di area coklat atas, aksen kuning terang #ffd83d)
+- Slide 2-5 = isi (background coklat gelap, teks krem #fff6e8, aksen emas)
+- Teks 100% dari carousel.md (tidak diubah, tidak ditambah markup)
+- Ukuran 1025x1366 menyimpang dari 1080x1350 di prompt setup §4 — atas keputusan pemilik 2026-10-23.
+- Verifikasi visual tiap PNG: teks tidak keluar area, tidak menabrak logo/wajah.
+
+PENYIMPANGAN DARI BAWAAN (tercatat sesuai aturan)
+- Carousel 1025x1366 (bukan 1080x1350) — keputusan pemilik.
+- File biner tidak di-push ke repo (GitHub MCP hanya menerima UTF-8): video.mp4 + 5 PNG di-host di Google Drive, tautan unduh di LINK-VIDEO.txt dan LINK-CAROUSEL.txt.
+
+SUARA: Aoede (Gemini), Bahasa Indonesia, sesuai naskah persis.
+MUSIK: tidak dipakai.
