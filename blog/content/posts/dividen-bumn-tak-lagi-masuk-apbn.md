@@ -11,7 +11,7 @@ description: Dividen BUMN yang dulu masuk APBN Rp86,4 triliun kini dikelola Dana
   memutuskannya yang pindah.
 cover: {image: images/og-image.jpg, alt: 'Dividen BUMN Tak Lagi Masuk APBN: Ke Mana
     Perginya Rp86 Triliun Itu?', relative: false}
-audio_path: /audio/dividen-bumn-tak-lagi-masuk-apbn.mp3
+audio_path: "/audio/dividen-bumn-tak-lagi-masuk-apbn.mp3"
 ---
 
 BAGIAN 1: ARTIKEL BLOG ===

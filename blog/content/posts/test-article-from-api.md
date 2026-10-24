@@ -10,6 +10,7 @@ cover:
   image: "images/og-image.jpg"
   alt: "Test Article from API"
   relative: false
+audio_path: "/audio/test-article-from-api.mp3"
 ---
 # Test
 

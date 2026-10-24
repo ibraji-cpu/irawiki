@@ -9,7 +9,7 @@ description: Peradaban maju karena pengalaman diolah jadi pengetahuan yang diwar
   Apa jadinya jika arsip tetap ada, tapi pelajarannya berhenti bekerja?
 cover: {image: images/og-image.jpg, alt: 'Manifesto Ira Amalia (2): Pengetahuan Butuh
     Ingatan', relative: false}
-audio_path: /audio/manifesto-ira-amalia-02-pengetahuan-butuh-ingatan.mp3
+audio_path: "/audio/manifesto-ira-amalia-02-pengetahuan-butuh-ingatan.mp3"
 categories: ["Konsep Kunci"]
 ---
 

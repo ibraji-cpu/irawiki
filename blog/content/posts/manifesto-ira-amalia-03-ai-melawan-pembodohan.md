@@ -10,7 +10,7 @@ description: Era media sosial membengkokkan cara kita memahami dunia. Era AI bis
   Amalia.
 cover: {image: images/og-image.jpg, alt: 'Manifesto Ira Amalia (3): AI untuk Melawan
     Pembodohan', relative: false}
-audio_path: /audio/manifesto-ira-amalia-03-ai-melawan-pembodohan.mp3
+audio_path: "/audio/manifesto-ira-amalia-03-ai-melawan-pembodohan.mp3"
 categories: ["Konsep Kunci"]
 ---
 

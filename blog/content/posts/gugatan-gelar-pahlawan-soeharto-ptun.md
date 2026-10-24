@@ -15,7 +15,7 @@ cover: {image: images/og-image-gugatan-gelar-pahlawan-soeharto-ptun.jpg, alt: 'G
   relative: false}
 og_width: 2560
 og_height: 1428
-audio_path: /audio/gugatan-gelar-pahlawan-soeharto-ptun.mp3
+audio_path: "/audio/gugatan-gelar-pahlawan-soeharto-ptun.mp3"
 ---
 
 # Gugatan Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli Waris

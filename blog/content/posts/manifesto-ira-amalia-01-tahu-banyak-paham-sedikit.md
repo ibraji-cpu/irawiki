@@ -9,7 +9,7 @@ description: Kita tahu siapa bertengkar dan siapa viral setiap hari, tapi jarang
   persoalannya. Seri manifesto Ira Amalia tentang beda tahu dan paham.
 cover: {image: images/og-image.jpg, alt: 'Manifesto Ira Amalia (1): Tahu Banyak, Paham
     Sedikit', relative: false}
-audio_path: /audio/manifesto-ira-amalia-01-tahu-banyak-paham-sedikit.mp3
+audio_path: "/audio/manifesto-ira-amalia-01-tahu-banyak-paham-sedikit.mp3"
 categories: ["Konsep Kunci"]
 ---
 
