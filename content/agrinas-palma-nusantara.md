@@ -19,7 +19,7 @@ status_belum: "Perlu verifikasi (BUMN?)"
 confidence: 3
 risiko_editorial: "sedang"
 kategori: sumber-daya-alam
-last_updated: "2026-10-20"
+last_updated: "2026-10-23"
 ---
 
 # Agrinas Palma Nusantara
@@ -48,6 +48,10 @@ Agrinas Palma Nusantara mengelola 140.762,04 hektare kebun yang sebelumnya dikua
 
 ### 2026-10-06
 - Menerima pengelolaan 140.762,04 ha kebun dari Kemenhut hasil penertiban [[Satgas PKH]]
+
+### 2026-10-23 — Agrinas Palma ditetapkan pelaksana PSN sawit; siapkan peremajaan 48.000 ha eks Torganda
+
+PT Agrinas Palma Nusantara (Persero) ditetapkan sebagai pelaksana Proyek Strategis Nasional (PSN) sawit berdasarkan Perpres 68/2026; surat keterangan penugasan diserahkan di Gedung Bappenas, Jakarta, Jumat 23/10/2026 — diterbitkan Bappenas bersama Kemenko Perekonomian. Dirut Agrinas Mohammad Abdul Ghani menyampaikan rencana peremajaan kebun sawit eks Torganda di Padang Lawas, Sumatera Utara, seluas ±48.000 hektare dengan skema kebun inti + plasma. Lahan itu masih berstatus hutan produksi; Agrinas mengajukan perubahan alas hak menjadi APL/HGU di Kementerian Kehutanan dan tim terpadu sudah dibentuk untuk pemeriksaan lapangan — penandatanganan dokumen akhir menunggu Menteri Kehutanan. Lahan eks Torganda sebelumnya diambil alih negara melalui Satgas PKH dan pengelolaannya diserahkan ke Agrinas. Ghani juga menargetkan Agrinas memasok 600.000 kiloliter biodiesel paling lambat Desember 2027 untuk mendukung program B50.
 
 ## Aktor yang Terlibat
 
