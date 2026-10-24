@@ -7,6 +7,7 @@ risiko_editorial: sedang
 tags: ["survei", "Prabowo Subianto", "Gerindra", "Voxpol", "SMRC", "PPI"]
 description: "SMRC 44,5% puas, PPI 65,2% puas dengan kinerja Presiden. Ditambah klaim 42 menteri Gerindra dan elektabilitas 21,1% — apa yang ditagih dari semua angka ini?"
 categories: ["Menagih Janji dan Bukti"]
+audio_path: "/audio/angka-yang-berlayar-dua-arah-dua-tahun-prabowo-gibran-di-mata-survei.mp3"
 ---
 
 Dua tahun pemerintahan Prabowo-Gibran berjalan, dan dua lembaga survei merilis angka yang seperti bicara dua arah. **SMRC** mencatat hanya 44,5 persen responden yang puas — turun jauh dari 81,2 persen pada November 2025. Berselang dua hari, **Parameter Politik Indonesia (PPI)** merilis angka yang berbeda: 65,2 persen responden puas dengan kinerja Presiden Prabowo. *Guys*, kok bisa selisihnya sejauh itu?
