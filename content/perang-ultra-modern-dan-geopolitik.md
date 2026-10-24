@@ -19,7 +19,7 @@ confidence: 7
 risiko_editorial: "sedang"
 kategori: pasar-dan-kepemilikan
 kategori_tambahan: [sumber-daya-alam]
-last_updated: "2026-10-20"
+last_updated: "2026-10-23"
 ---
 
 # Perang Ultra Modern dan Geopolitik
@@ -73,6 +73,14 @@ Tipologi di bawah dirumuskan dari kajian Agus M. Maksum ("Serangan Susulan dari 
 - IHSG rontok 11,57% (−678,67 poin) ke 5.185,11 — penurunan harian terdalam sejak krisis 1998. Perdagangan sempat dihentikan sementara (*trading halt*) 30 menit saat indeks jatuh 8,01% di pembukaan. Investor asing mencatat *net sell* besar di saham perbankan (BBCA Rp2,3 triliun; BBRI Rp1,15 triliun; BMRI Rp868 miliar).
 - Beredar konten video berjudul "Indonesia is Collapsing!!!!" bertag #1M65 (ekosistem gerakan edukasi keuangan Singapura 1M65 yang dirintis Loo Cheng Chuan): deskripsinya merangkai kebakaran hutan/asap (kebakaran di kawasan Bromo, kabut asap sampai ke Singapura–Malaysia), kejatuhan IHSG 11,6%, dan konsultasi MSCI menjadi satu kesimpulan "Indonesia runtuh", diakhiri ajakan berlangganan (*subscribe*).
 
+### 2026-10-23 — OJK: total denda pasar modal s.d. 16/10/2026 mencapai Rp2,52 triliun
+
+Kepala Eksekutif Pengawas Pasar Modal OJK Hasan Fawzi menyampaikan (23/10/2026) bahwa total denda administratif di pasar modal s.d. 16 Oktober 2026 mencapai Rp2,52 triliun: Rp2,23 triliun denda hasil pemeriksaan terhadap 166 pihak, plus Rp293,78 miliar denda keterlambatan terhadap 805 pihak. Perkara terbaru di dalamnya adalah sanksi Rp2,1 triliun untuk kasus perdagangan saham DSSA (Rp1,5 triliun), penjatahan IPO BREN (Rp500 miliar), dan IPO CUAN (Rp100 miliar) — surat sanksinya diserahkan langsung 21/10/2026. Sanksi non-denda: 28 peringatan tertulis, 8 pembekuan izin, 6 pencabutan izin, 1 pembatalan STTD, 13 larangan, 6 perintah tertulis. Pipeline penanganan per 1/10/2026: 122 kasus (28 perencanaan, 54 penelaahan awal, 40 pemeriksaan). Fawzi menyebut denda ini "menandai tonggak bersejarah... denda terbesar sepanjang sejarah OJK" dan menegaskan penegakan BUKAN respons reaktif terhadap tinjauan MSCI (November 2026).
+
+### 2026-10-23 — IHSG rebound 4,9% sepekan, tutup di 5.439,25
+
+Indeks Harga Saham Gabungan (IHSG) menutup perdagangan Jumat 23/10/2026 naik 0,95% (+51,35 poin) ke level 5.439,25 — rebound empat hari beruntun dengan kenaikan sepekan 4,9%, membalikkan anjlok lebih dari 11% sepekan sebelumnya imbas usulan MSCI soal reklasifikasi Indonesia. Data bursa: volume 43,45 miliar saham, nilai transaksi Rp15,31 triliun (477 saham naik, 187 turun, 129 stagnan). Investor asing justru mencatat net sell Rp8,72 triliun sepekan (Rp1,29 triliun pada Jumat saja) — data pasar yang dikutip media sekunder. Penggerak indeks antara lain DSSA (+6,16%, kontribusi 4,29 poin indeks). Rupiah melemah ke Rp18.080/USD.
+
 ## Aktor yang Terlibat
 
 - **MSCI (Morgan Stanley Capital International)** — Penyedia indeks global; membuka konsultasi penurunan klasifikasi Indonesia ke *Standalone Market* (15 Okt 2026).
@@ -90,6 +98,7 @@ Tipologi di bawah dirumuskan dari kajian Agus M. Maksum ("Serangan Susulan dari 
 - **DSI:** Indonesia at Melbourne (Universitas Melbourne). "Indonesia's economic centralisation under Prabowo." https://indonesiaatmelbourne.unimelb.edu.au/indonesias-economic-centralisation-under-prabowo/
 - **Konten 1M65:** "Indonesia is Collapsing!!!!" (YouTube Short, bertag #1M65). https://www.youtube.com/shorts/cxHtfLTjUmI
 - **Liputan The Economist:** Lowy Institute. "What The Economist missed about Indonesia." https://www.lowyinstitute.org/the-interpreter/what-the-economist-missed-about-indonesia
+- ActaIndonesia.com — https://actaindonesia.com/ojk-jatuhkan-denda-rp252-triliun-kepada-pelaku-pelanggaran-pasar-modal/ — 23 Oktober 2026
 
 ## Catatan presisi
 

@@ -46,7 +46,7 @@ sumber:
   - url: "https://afu.id/hukum-kriminal/kpk-proyek-rp148-miliar-bnpb-dimenangkan-perusahaan-istri-tersangka-korupsi"
     tanggal: "2026-10-21"
 kategori: hukum-dan-pertanahan
-last_updated: "2026-10-21"
+last_updated: "2026-10-22"
 last_verified: "2026-10-21"
 ---
 
@@ -107,6 +107,22 @@ Latar belakangnya: mantan Kepala BNPB Suharyanto masih berstatus prajurit TNI ak
 
 Hingga 21 Oktober 2026, KPK belum mengumumkan penetapan tersangka dari unsur prajurit TNI aktif; dugaan keterlibatan mereka dinyatakan masih didalami dalam penyidikan.
 
+### 2026-10-22 — KPK geledah kantor BPK Perwakilan Jateng terkait dugaan suap hapus temuan audit Pemkab Klaten
+
+Tim KPK menggeledah kantor BPK Perwakilan Jawa Tengah dan dua rumah pihak terkait, Kamis 22/10/2026. Jubir KPK Budi Prasetyo (Jumat 23/10) menyebut disita uang tunai "ratusan juta rupiah", dokumen, dan barang bukti elektronik terkait dugaan suap untuk menghapus temuan audit BPK terhadap Pemkab Klaten. Kasus ini kelanjutan OTT Bupati Klaten Hamenang Wajar Ismoyo (tersangka 16/10 bersama Kepala BPK Perwakilan Jateng Ahmad Luthfi dan MAW/PT MWC). Dugaan suap versi KPK: bermula dari temuan tim pemeriksa BPK soal kelebihan pembayaran honorarium di Pemkab Klaten senilai total Rp5 miliar; suap Rp400 juta disepakati dengan kode khusus agar temuan itu dihapus dari Laporan Hasil Pemeriksaan (LHP).
+
+### 2026-10-22 — Kapuspen TNI: TNI tindaklanjuti informasi KPK soal dugaan keterlibatan dua prajurit aktif dalam korupsi dana BNPB
+
+Kapuspen TNI Brigjen TNI Muhammad Nas menyatakan Kamis 22/10/2026 bahwa TNI akan menindaklanjuti informasi KPK terkait dugaan keterlibatan dua prajurit aktif dalam kasus korupsi dana siap pakai (DSP) BNPB, menghormati proses hukum, dan berkoordinasi dengan KPK sesuai mekanisme. Ini respons resmi atas surat KPK kepada Panglima TNI Jenderal TNI Agus Subiyanto. Konteks: OTT KPK di BNPB 13/10/2026 (15 orang ditangkap), 5 tersangka ditetapkan (BMS/Bima Setiawan — adik mantan Kepala BNPB; RIC; GPS; SNG; GER).
+
+### 2026-10-22 — Kepala Kantor Pertanahan Kota Surabaya dipanggil KPK sebagai saksi kasus ATR/BPN
+
+Kepala Kantor Pertanahan Kota Surabaya I Wida Rihardyan Adjie beserta lima orang lainnya dipanggil KPK sebagai saksi dalam kasus dugaan korupsi di lingkungan ATR/BPN (rangkaian kasus HGB Summarecon Bogor). Lima lainnya: MS dan ISW (staf PT Buana Aman Arsyad), AMI (Head of Finance Regional 8 PT Summarecon Property Development), IWA (Dirut PT Kencana Jayaproperti Agung), SNG (swasta). Menurut Jubir KPK Budi Prasetyo, hingga pukul 16.26 WIB Kamis 22/10 hanya AMI dan IWA yang memenuhi panggilan; empat lainnya belum tercatat hadir. Sehari sebelumnya (Rabu 21/10) KPK juga memeriksa YSR, YUL (Corporate Accounting Manager PT Summarecon Agung Tbk), JDP, dan YYR sebagai saksi.
+
+### 2026-10-23 — KPK periksa lima petinggi PT Bela Parahiyangan Investindo terkait dugaan suap ATR/BPN Bogor
+
+KPK memeriksa lima orang dari PT Bela Parahiyangan Investindo sebagai SAKSI di Gedung Merah Putih KPK, Jumat 23/10/2026, dalam penyidikan dugaan suap dan penerimaan lainnya di lingkungan ATR/BPN wilayah Bogor: Ryan Brasali (direktur), Yunan Mahastra Satria (manager humas), Ari Awan Nuryatmi (manager legal), Evelin Lili (manager accounting), dan Albertus Pratomo (dirut). Pemeriksaan ini lanjutan penggeledahan kantor perusahaan di Bandung Barat pada 29/9 (disita dokumen perpanjangan HGB). Jubir KPK Budi Prasetyo: pihak perusahaan diduga memberi sejumlah uang kepada oknum ATR/BPN dalam pengurusan HGB; KPK menilai positioning perkara ini "mirip dengan PT Summarecon Agung Tbk". KPK juga mengusut dugaan penerimaan lain terkait rotasi/promosi/mutasi jabatan di ATR/BPN.
+
 ## Pola Umum
 
 Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/jasa dengan melibatkan pejabat pembuat komitmen dan pihak swasta rekanan; (2) suap perizinan di sektor agraria/pertanahan; (3) penyelewengan dana bantuan — baik bansos maupun dana kebencanaan — yang mestinya untuk masyarakat terdampak.
@@ -129,6 +145,9 @@ Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/j
 - Abadikini, "Dana untuk Korban Bencana Diduga Dikorupsi, KPK Ungkap Skema Proyek BNPB" (21 Oktober 2026).
 - AFU.id, "Prajurit Aktif Terlibat dalam Korupsi Dana Bencana BNPB, KPK Surati Panglima TNI" (21 Oktober 2026).
 - AFU.id, "KPK: Proyek Rp148 Miliar BNPB Dimenangkan Perusahaan Istri Tersangka Korupsi" (21 Oktober 2026).
+- Literasi Online — https://literasi-online.com/2026/10/23/kasus-ott-bupati-klaten-kpk-geledah-kantor-badan-pemeriksa-keuangan-jateng-sita-uang-jutaan-rupiah — 23 Oktober 2026
+- Astakom — https://astakom.com/2026/10/23/tni-bakal-tindaklanjuti-informasi-kpk-terkait-dugaan-prajurit-terlibat-korupsi-dana-bnpb — 23 Oktober 2026
+- Bsinnews.id — https://bsinews.id/kpk-periksa-petinggi-bela-parahiyangan — 23 Oktober 2026
 
 ## Catatan presisi
 

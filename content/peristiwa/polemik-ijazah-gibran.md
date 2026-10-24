@@ -40,7 +40,7 @@ sumber:
   - url: "https://www.kompas.tv/nasional/693358"
   - url: "https://www.bbc.com/indonesia/articles/cmly4yeq6r34o"
 kategori: aturan-main-demokrasi
-last_updated: "2026-10-24"
+last_updated: "2026-10-22"
 last_verified: "2026-10-09"
 ---
 
@@ -85,6 +85,10 @@ Perkara 01/PHPU.PRES-XXIV/2026 berhenti di ambang *legal standing* (Peraturan MK
 ### 2026-10-06 s.d. 2026-10-07 — Putusan MK dan Wacana Hak Angket DPR
 - **2026-10-06:** MK membacakan putusan akhir (dipimpin Ketua MK [[suhartoyo|Suhartoyo]]): permohonan **tidak dapat diterima** karena *legal standing* (PMK No. 2/2024), sedangkan pertimbangan faktual (dibacakan Hakim Arsul Sani) mencatat tidak ditemukannya bukti fisik kelulusan setara SMA di luar negeri. Lihat halaman milestone [[2026-10-06-putusan-mk-phpu-ijazah-gibran|Putusan MK Nomor 01/PHPU.PRES-XXIV/2026]].
 - **2026-10-07:** Politisi PDIP [[deddy-sitorus|Deddy Sitorus]] menyatakan komitmen menggalang Pansus Hak Angket di [[dpr-ri|DPR RI]], sedangkan Jubir Gerindra [[sugiat-santoso|Sugiat Santoso]] bersama koalisi KIM Plus mendesak polemik dihentikan demi kepastian hukum dan stabilitas investasi.
+
+### 2026-10-22 — PKS jalin komunikasi antarpartai soal tindak lanjut polemik ijazah Gibran; hak angket masih dijajaki
+
+Ketua DPP PKS Mardani Ali Sera menyatakan di Kompleks Parlemen, Senayan, Kamis 22/10/2026, bahwa PKS sedang berkomunikasi dengan beberapa partai untuk menindaklanjuti polemik ijazah Gibran Rakabuming Raka; hak angket menjadi salah satu opsi, tetapi BELUM diputuskan untuk diajukan. PKS belum mengungkap partai mana yang diajak bicara; belum ada pengumuman kesepakatan antarfraksi maupun pengajuan resmi hak angket. Sekjen PKS Muhammad Kholid menyebut tindak lanjut menunggu masa sidang setelah reses. (Pernyataan 20/10/2026 PKS yang mengajak fraksi lain menindaklanjuti polemik sudah tercatat di pantauan sebelumnya — ini pernyataan baru 22/10 dengan isi spesifik komunikasi antarpartai.)
 
 ## Aktor yang Terlibat
 

@@ -70,7 +70,7 @@ status_hukum: "tidak diketahui"
 risiko_editorial: "sedang"
 confidence: 5
 kategori: aturan-main-demokrasi
-last_updated: "2026-10-20"
+last_updated: "2026-10-23"
 ---
 
 # GKSR - Gerakan Kedaulatan Suara Rakyat
@@ -124,6 +124,10 @@ Tuntutan GKSR berlandaskan Putusan MK Nomor 116/PUU-XXI/2023 yang memerintahkan 
 - Tuntutan utama diulang: parliamentary threshold maksimal 1 persen (Partai Ummat mengusulkan 0 persen), verifikasi parpol disederhanakan, dan mekanisme stembus accord sebelum pemilu.
 - GKSR mengancam judicial review dan perlawanan publik jika DPR mengabaikan putusan MK dan tidak melibatkan parpol nonparlemen.
 
+### 2026-10-23 — Komisi II wacanakan komisioner KPU RI ditambah 7 menjadi 9 dalam RUU Pemilu
+
+Anggota Komisi II DPR RI Ahmad Irawan (Golkar) menyatakan di Kompleks Parlemen, Senayan, Jumat 23/10/2026, bahwa Panja RUU Pemilu mewacanakan penambahan jumlah komisioner KPU RI dari 7 menjadi 9 orang, dengan dasar evaluasi beban kerja Pemilu 2024 serentak (logistik, pemungutan, penghitungan, rekapitulasi). Selain penambahan di pusat, dikaji juga PENGURANGAN jumlah komisioner KPU di daerah berdasarkan jumlah pemilih, luas wilayah, geografis, dan beban kerja ("tidak hanya menambah, tapi juga akan mengurangi"). Substansi RUU masih dinamis sebelum persetujuan bersama.
+
 ## Aktor yang Terlibat
 
 - [[muhammad-said-iqbal|Ir. H. Muhammad Said Iqbal, M.E.]] — Ketua GKSR.
@@ -133,6 +137,7 @@ Tuntutan GKSR berlandaskan Putusan MK Nomor 116/PUU-XXI/2023 yang memerintahkan 
 ## Sumber
 
 - `doc_adf9c8382a0f_siaran-pers-gksr-milad-1.docx` (siaran pers GKSR, Diserahkan GKSR / Media Center GKSR, 2026-09-26)
+- Forensik Narasi — https://www.forensiknarasi.com/politik/767/pks-komunikasi-dengan-sejumlah-partai-angket-ijazah-gibran-masih-dijajaki — 23 Oktober 2026
 
 ## Catatan presisi
 
