@@ -31,7 +31,22 @@ BLOG_ROOT = Path("/home/ubuntu/irawiki/blog")
 SUMMARY_MODEL = os.environ.get("BLOG_SUMMARY_MODEL", "gemini-flash-latest")
 TTS_MODEL = os.environ.get("BLOG_TTS_MODEL", "gemini-3.8-flash-tts")
 # Rantai model TTS: 2.5-preview kuotanya cepat habis (429) -> jangan langsung jatuh ke edge-tts.
-TTS_MODELS = [TTS_MODEL, "gemini-3.8-flash-tts", "gemini-3.1-flash-tts-preview", "gemini-2.5-flash-preview-tts"]
+# Urutan = prioritas. Diuji langsung thd API (Okt 2026):
+#   gemini-3.8-flash-tts          OK
+#   gemini-3.8-flash-lite-tts     OK  (tier lite, limit biasanya lebih longgar)
+#   gemini-3.1-flash-tts-preview  OK
+#   gemini-2.5-flash-preview-tts  OK
+#   gemini-2.5-pro-preview-tts    kuota pro cepat habis -> taruh paling akhir
+# JANGAN tambahkan model *native-audio*: hanya jalan via Live API (WebSocket
+# bidirectional streaming), generate_content menolak dengan 400 INVALID_ARGUMENT.
+TTS_MODELS = [
+    TTS_MODEL,
+    "gemini-3.8-flash-tts",
+    "gemini-3.8-flash-lite-tts",
+    "gemini-3.1-flash-tts-preview",
+    "gemini-2.5-flash-preview-tts",
+    "gemini-2.5-pro-preview-tts",
+]
 VOICE_NAME = "Aoede"
 
 # Fallback LLM via provider trustisgold (OpenAI-compatible)
