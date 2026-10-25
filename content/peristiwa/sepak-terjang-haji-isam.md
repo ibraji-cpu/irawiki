@@ -68,7 +68,7 @@ sumber:
     tanggal: "2026-10"
 kategori: pasar-dan-kepemilikan
 kategori_tambahan: [sumber-daya-alam]
-last_updated: "2026-10-20"
+last_updated: "2026-10-24"
 last_verified: "2026-10-19"
 relasi:
   - tipe: terlibat_dalam
@@ -208,6 +208,10 @@ Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saha
 - Rumor akuisisi BCA oleh [[andi-syamsuddin-arsyad|Haji Isam]] kembali menjadi perhatian setelah OJK memberi penjelasan tertulis (Kamis, 15 Oktober 2026) mengenai pengawasan perubahan kepemilikan dan pengendalian bank.
 - Kepala Eksekutif Pengawas Perbankan OJK Dian Ediana Rae: "Dalam hal terdapat transaksi yang berpotensi mengakibatkan perubahan pemegang saham pengendali bank, OJK akan melakukan penilaian sesuai dengan ketentuan peraturan perundang-undangan." Penilaian mencakup prinsip kehati-hatian, GCG, profil risiko bank, konsentrasi eksposur, transaksi pihak terkait, kualitas tata kelola, dan hubungan bank dengan kelompok usaha pemegang saham.
 - Catatan verifikasi: korelasi harga–rumor tidak terbukti. Penurunan BBCA terjadi di tengah tekanan pasar luas (IHSG/LQ45), dan tidak ada pengumuman resmi BEI/OJK/BCA yang mengonfirmasi transaksi akuisisi. Status: **rumor, belum terverifikasi**.
+
+### 2026-10-24 — Analis Gema Goeyardi: akuisisi BYAN bukan penyebab ancaman MSCI; keterangan MSCI tak sebut BYAN atau Haji Isam
+
+Founder dan CEO Astronacci International Gema Goeyardi menilai tudingan bahwa akuisisi 30,25 persen saham PT Bayan Resources Tbk (BYAN) oleh Andi Syamsuddin Arsyad (Haji Isam) menjadi penyebab ancaman Morgan Stanley Capital International (MSCI) menurunkan status pasar modal Indonesia ke standalone market sebagai "spekulasi liar" — disampaikan dalam video podcast yang diunggah Rabu 21/10/2026 dan diberitakan Tebaran pada 24/10/2026. Menurut Gema, tidak ada bukti, dokumen, atau pernyataan resmi MSCI yang mengaitkan transaksi itu dengan usulan reklasifikasi. Keterangan MSCI dalam pengumuman konsultasi 15/10/2026, sebagaimana dikutip sejumlah laporan, menyoroti kekhawatiran investor mengenai struktur kepemilikan yang tidak transparan, konsentrasi kepemilikan saham, dugaan perdagangan terkoordinasi, serta penegakan aturan yang dinilai belum memadai — tanpa menyebut akuisisi BYAN atau nama Haji Isam sebagai penyebab. Konsultasi MSCI dijadwalkan berlangsung hingga 30 April 2027, keputusan final diperkirakan diumumkan paling lambat 30 Juni 2027; selama proses itu MSCI mempertahankan pembekuan sejumlah perubahan indeks saham Indonesia, termasuk kenaikan foreign inclusion factor dan penambahan saham ke MSCI Indonesia Investable Market Index. Konteks transaksi dari artikel yang sama: PT Jhonlin Baratama mengalihkan 10.084.088.370 saham BYAN (30,25 persen) dengan harga Rp2.588 per saham (nilai matematis sekitar Rp26,1 triliun); saham BYAN ditutup Rp11.100 pada 15/10/2026, sementara Dato' Low Tuck Kwong tercatat membeli saham BYAN di pasar reguler Rp11.200 per saham pada 14/10/2026; BEI meminta penjelasan dasar penetapan harga dan Perjanjian Jual Beli Saham Bersyarat (PJBS); manajemen BYAN menyatakan perseroan bukan pihak dalam transaksi dan belum ada perubahan pengendalian — berdasarkan laporan kepemilikan KSEI per 19/10/2026, Low Tuck Kwong 8,30 persen dan Elaine Low 22,00 persen (gabungan 30,30 persen) berbanding Jhonlin Baratama 30,25 persen.
 
 ## Aktor yang Terlibat
 

@@ -46,7 +46,7 @@ sumber:
   - url: "https://afu.id/hukum-kriminal/kpk-proyek-rp148-miliar-bnpb-dimenangkan-perusahaan-istri-tersangka-korupsi"
     tanggal: "2026-10-21"
 kategori: hukum-dan-pertanahan
-last_updated: "2026-10-22"
+last_updated: "2026-10-23"
 last_verified: "2026-10-21"
 ---
 
@@ -122,6 +122,10 @@ Kepala Kantor Pertanahan Kota Surabaya I Wida Rihardyan Adjie beserta lima orang
 ### 2026-10-23 — KPK periksa lima petinggi PT Bela Parahiyangan Investindo terkait dugaan suap ATR/BPN Bogor
 
 KPK memeriksa lima orang dari PT Bela Parahiyangan Investindo sebagai SAKSI di Gedung Merah Putih KPK, Jumat 23/10/2026, dalam penyidikan dugaan suap dan penerimaan lainnya di lingkungan ATR/BPN wilayah Bogor: Ryan Brasali (direktur), Yunan Mahastra Satria (manager humas), Ari Awan Nuryatmi (manager legal), Evelin Lili (manager accounting), dan Albertus Pratomo (dirut). Pemeriksaan ini lanjutan penggeledahan kantor perusahaan di Bandung Barat pada 29/9 (disita dokumen perpanjangan HGB). Jubir KPK Budi Prasetyo: pihak perusahaan diduga memberi sejumlah uang kepada oknum ATR/BPN dalam pengurusan HGB; KPK menilai positioning perkara ini "mirip dengan PT Summarecon Agung Tbk". KPK juga mengusut dugaan penerimaan lain terkait rotasi/promosi/mutasi jabatan di ATR/BPN.
+
+### 2026-10-23 — KPK sita BMW milik tersangka Richard Erlangga; total 4 mobil disita dalam perkara DSP BNPB
+
+Komisi Pemberantasan Korupsi (KPK) menyita satu unit mobil BMW dari Richard Erlangga — tersangka yang disebut sebagai tenaga ahli mantan Kepala BNPB Suharyanto — pada Jumat 23/10/2026, dalam penyidikan dugaan korupsi pengadaan yang menggunakan dana siap pakai (DSP) di Badan Nasional Penanggulangan Bencana (BNPB). Dengan penyitaan ini, total kendaraan yang diamankan penyidik dalam perkara tersebut mencapai empat unit: dua BMW, satu AION, dan satu BYD Atto 3 Superior; tiga unit sebelumnya disita dari penggeledahan rumah Bima Setyawan (adik mantan Kepala BNPB Suharyanto) dan lokasi pihak terkait di Jakarta. Juru Bicara KPK Budi Prasetyo menyampaikan penyitaan itu bagian dari rangkaian penyidikan dan temuan dari upaya paksa penggeledahan akan dianalisis lebih lanjut untuk memperkuat pembuktian. Konteks perkara: KPK telah menetapkan lima tersangka setelah operasi tangkap tangan Selasa 13/10/2026 — Bima Setyawan; Richard Erlangga; Gabriel Purwaka Sigit (Kepala Subdirektorat Pengelolaan Bantuan dan Kedaruratan BNPB sekaligus pejabat pembuat komitmen/PPK); serta dua pihak swasta, Gery Prasetiawan dan Syifa Nrika Ghifarian — ditahan 20 hari pertama terhitung 14/10 hingga 2/11/2026 di Rutan Cabang Gedung Merah Putih KPK. Dugaan perkara menurut KPK: konflik kepentingan dan suap dalam pengadaan DSP BNPB.
 
 ## Pola Umum
 

@@ -33,7 +33,7 @@ confidence: 7
 risiko_editorial: "rendah"
 jenis_lembaga: "Satuan Tugas Pemerintah"
 kategori: sumber-daya-alam
-last_updated: "2026-10-20"
+last_updated: "2026-10-24"
 ---
 
 # Satgas PKH
@@ -61,6 +61,10 @@ Dasar hukum pembentukan Satgas PKH. Tanggal operasional Februari 2025 masih perl
 
 ### 2026-10-06 — Penyerahan Tahap VIII di Kejaksaan Agung
 Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan Presiden Prabowo Subianto di Gedung Bundar Kejaksaan Agung, Jakarta. Nilainya Rp13,24 triliun tunai dan 259.230,73 hektare lahan.
+
+### 2026-10-24 — Satgas PKH: lahan bekas karhutla di hutan lindung dan konservasi wajib dipulihkan, tidak boleh dialihfungsi
+
+Juru Bicara Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH) Barita Simanjuntak menegaskan di Jakarta, Sabtu 24/10/2026, bahwa lahan bekas kebakaran hutan dan lahan (karhutla) di kawasan hutan lindung dan hutan konservasi wajib dipulihkan menjadi hutan dan tidak boleh dialihfungsikan — menanggapi informasi lahan bekas karhutla akan ditanami pohon sawit. Barita mengingatkan adanya ancaman pidana atas pengalihfungsian kawasan hutan: lahan yang terbakar, bila semula hutan, harus dikembalikan seperti sebelumnya. Pemulihan kawasan menjadi kewenangan Kementerian Kehutanan bersama kementerian/lembaga terkait serta pemerintah provinsi dan kabupaten setempat. Untuk kawasan hutan produksi, pemanfaatan pascakebakaran kembali ke tata kelola yang diatur kewenangan sektoral Kementerian Kehutanan. Konteks temuan yang disorot artikel: Kementerian Kehutanan dan kepolisian menemukan lokasi karhutla yang baru padam langsung ditanami sawit di Desa Sungai Awan Kiri, Kecamatan Muara Pawan, Kabupaten Ketapang, Kalimantan Barat; temuan serupa di Kecamatan Timpeh, Dharmansraya, Sumatera Barat.
 
 ## Aktor yang Terlibat
 
