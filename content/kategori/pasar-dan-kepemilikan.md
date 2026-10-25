@@ -2,15 +2,15 @@
 title: "Siapa Pemilik Sebenarnya?"
 description: 'Bursa, konglomerat, dan konsentrasi kepemilikan saham'
 date: 2026-10-22
-updated: '2026-10-22'
+updated: '2026-10-25'
 tags:
 - kategori
 - navigasi
 entity_type: kategori
 entity_id: "kategori:pasar-dan-kepemilikan"
 kategori_slug: "pasar-dan-kepemilikan"
-last_updated: "2026-10-22"
-last_verified: "2026-10-22"
+last_updated: "2026-10-25"
+last_verified: "2026-10-25"
 risiko_editorial: "rendah"
 confidence: 9
 ---
@@ -30,3 +30,4 @@ Kategori ini menelusuri siapa yang berdiri di balik kepemilikan saham di pasar m
 ## Aktor
 
 - [[Andi Syamsuddin Arsyad (Haji Isam)]]
+- [[Djarum Group]]
