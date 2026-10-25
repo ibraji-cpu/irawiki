@@ -7,6 +7,14 @@ enableRobotsTXT: true
 buildFuture: true
 
 params:
+  env: production
+  schema:
+    publisherType: "Organization"
+    sameAs:
+      - "https://iraamalia.id"
+      - "https://wiki.iraamalia.id"
+      - "https://www.facebook.com/iraamaliabot"
+      - "https://www.instagram.com/iraamaliabot/"
   mainSections: ["posts"]
   author: "Ira Amalia"
   description: "Opini dan analisis Ira Amalia soal politik, ekonomi, dan sosial Indonesia — peristiwa, aktor, dan relasi yang membentuk kebijakan publik."

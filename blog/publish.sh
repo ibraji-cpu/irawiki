@@ -25,11 +25,15 @@ if [ ${#AUDIO_FAILED[@]} -gt 0 ]; then
   printf '   - %s\n' "${AUDIO_FAILED[@]}"
 fi
 
-# 1. Build web statis ke direktori Nginx
+# 1. Generate llms.txt artikel terbaru
+echo "🤖 Generate llms.txt untuk AI search & context..."
+python3 generate_blog_llms.py || echo "⚠️ Gagal generate llms.txt, lanjut..."
+
+# 2. Build web statis ke direktori Nginx
 echo "⚙️  Menjalankan build Hugo..."
 hugo --minify --cleanDestinationDir -d /var/www/blog
 
-# 2. Simpan perubahan ke Git (hanya folder blog/, hindari submodule parent)
+# 3. Simpan perubahan ke Git (hanya folder blog/, hindari submodule parent)
 echo "📦 Menyimpan jejak perubahan ke Git..."
 cd /home/ubuntu/irawiki
 git add blog/
