@@ -13,8 +13,13 @@ const SchemaOrg: QuartzComponent = ({ cfg, fileData }: QuartzComponentProps) => 
   // Determine entity type from tags
   const personTags = ['tokoh', 'aktor', 'politikus', 'pengusaha', 'menteri', 'presiden', 'gubernur']
   const orgTags = ['partai', 'organisasi', 'perusahaan', 'bumn', 'yayasan']
+  const techTags = ['analisis', 'geopolitik', 'kebijakan', 'ekonomi', 'riset', 'perang-modern', 'tipologi']
+  const termTags = ['glosarium', 'istilah', 'definisi', 'konsep']
+  
   const isPerson = tags.some(t => personTags.includes(t.toLowerCase()))
   const isOrg = tags.some(t => orgTags.includes(t.toLowerCase()))
+  const isTech = tags.some(t => techTags.includes(t.toLowerCase()))
+  const isTerm = tags.some(t => termTags.includes(t.toLowerCase()))
   
   // Generate main entity schema
   let mainSchema: Record<string, any> = {}
@@ -41,21 +46,32 @@ const SchemaOrg: QuartzComponent = ({ cfg, fileData }: QuartzComponentProps) => 
         `https://id.wikipedia.org/wiki/${slug.replace(/-/g, '_')}`
       ]
     }
-  } else {
-    // Default: NewsArticle
+  } else if (isTerm) {
     mainSchema = {
       "@context": "https://schema.org",
-      "@type": "NewsArticle",
+      "@type": "DefinedTerm",
+      "name": title,
+      "description": description,
+      "url": pageUrl,
+      "inDefinedTermSet": `${baseUrl}/`
+    }
+  } else {
+    // TechArticle / Article for technical analytical entries
+    mainSchema = {
+      "@context": "https://schema.org",
+      "@type": isTech ? "TechArticle" : "NewsArticle",
       "headline": title,
       "url": pageUrl,
       "datePublished": date,
       "author": {
         "@type": "Person",
-        "name": "Ira Amalia"
+        "name": "Ira Amalia",
+        "url": "https://iraamalia.id/"
       },
       "publisher": {
         "@type": "Organization",
         "name": cfg.pageTitle,
+        "url": "https://iraamalia.id/",
         "logo": {
           "@type": "ImageObject",
           "url": `${baseUrl}/static/covers/ira-amalia-cover.jpg`

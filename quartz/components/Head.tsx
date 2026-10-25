@@ -50,6 +50,8 @@ export default (() => {
     const orgTags = ['partai', 'organisasi', 'perusahaan', 'bumn', 'yayasan']
     const isPerson = tags.some((t: string) => personTags.includes(t.toLowerCase()))
     const isOrg = tags.some((t: string) => orgTags.includes(t.toLowerCase()))
+    const techTags = ['analisis', 'geopolitik', 'kebijakan', 'ekonomi', 'riset', 'perang-modern', 'tipologi', 'wiki', 'peristiwa']
+    const isTech = tags.some((t: string) => techTags.includes(t.toLowerCase())) || slugStr.includes('perang') || slugStr.includes('analisis')
     
     let mainSchema: Record<string, any> = {}
     
@@ -78,7 +80,7 @@ export default (() => {
     } else {
       mainSchema = {
         "@context": "https://schema.org",
-        "@type": "NewsArticle",
+        "@type": isTech ? "TechArticle" : "NewsArticle",
         "headline": title,
         "url": pageUrl,
         "description": description,
@@ -86,11 +88,13 @@ export default (() => {
         "dateModified": modifiedIso ?? date,
         "author": {
           "@type": "Person",
-          "name": "Ira Amalia"
+          "name": "Ira Amalia",
+          "url": "https://iraamalia.id/"
         },
         "publisher": {
           "@type": "Organization",
           "name": cfg.pageTitle,
+          "url": "https://iraamalia.id/",
           "logo": {
             "@type": "ImageObject",
             "url": `${baseUrl}/static/covers/ira-amalia-cover.jpg`
