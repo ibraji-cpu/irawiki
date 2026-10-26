@@ -42,6 +42,9 @@ menu:
     - name: Update Wiki
       url: /update/
       weight: 30
+    - name: Tentang
+      url: /tentang/
+      weight: 40
 
 outputs:
   home: ["HTML", "RSS", "JSON"]
