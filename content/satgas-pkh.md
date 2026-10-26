@@ -33,7 +33,7 @@ confidence: 7
 risiko_editorial: "rendah"
 jenis_lembaga: "Satuan Tugas Pemerintah"
 kategori: sumber-daya-alam
-last_updated: "2026-10-24"
+last_updated: "2026-10-22"
 ---
 
 # Satgas PKH
@@ -61,6 +61,10 @@ Dasar hukum pembentukan Satgas PKH. Tanggal operasional Februari 2025 masih perl
 
 ### 2026-10-06 — Penyerahan Tahap VIII di Kejaksaan Agung
 Penyerahan tahap VIII hasil kerja Satgas PKH ke negara, disaksikan Presiden Prabowo Subianto di Gedung Bundar Kejaksaan Agung, Jakarta. Nilainya Rp13,24 triliun tunai dan 259.230,73 hektare lahan.
+
+### 2026-10-22 — Satgas PKH tutup tambang emas tanpa izin di Nabire
+
+Satgas Penertiban Kawasan Hutan (Satgas PKH) menutup tambang emas tanpa izin milik PT Kristalin Eka Lestari di Distrik Makimi, Nabire, Papua Tengah. Lahan seluas 275,36 hektare kini dikuasai negara dan Izin Usaha Pertambangan (IUP) perusahaan tersebut dicabut, menurut pemberitaan yang melansir informasi Badan Komunikasi Republik Indonesia. Menteri Pertahanan Sjafrie Sjamsoeddin, selaku Ketua Pengarah Satgas PKH, menyatakan penertiban tambang di kawasan hutan akan terus berlanjut dan lahan yang diambil alih negara rencananya dikelola BUMN agar manfaatnya dirasakan masyarakat.
 
 ### 2026-10-24 — Satgas PKH: lahan bekas karhutla di hutan lindung dan konservasi wajib dipulihkan, tidak boleh dialihfungsi
 
