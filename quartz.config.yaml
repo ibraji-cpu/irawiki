@@ -274,6 +274,7 @@ layout:
         right:
           - BrowseAll
           - LandingLink
+          - TentangLink
     folder:
       exclude:
         - reader-mode
