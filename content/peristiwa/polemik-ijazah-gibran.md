@@ -40,7 +40,7 @@ sumber:
   - url: "https://www.kompas.tv/nasional/693358"
   - url: "https://www.bbc.com/indonesia/articles/cmly4yeq6r34o"
 kategori: aturan-main-demokrasi
-last_updated: "2026-10-22"
+last_updated: "2026-10-25"
 last_verified: "2026-10-09"
 ---
 
@@ -89,6 +89,10 @@ Perkara 01/PHPU.PRES-XXIV/2026 berhenti di ambang *legal standing* (Peraturan MK
 ### 2026-10-22 — PKS jalin komunikasi antarpartai soal tindak lanjut polemik ijazah Gibran; hak angket masih dijajaki
 
 Ketua DPP PKS Mardani Ali Sera menyatakan di Kompleks Parlemen, Senayan, Kamis 22/10/2026, bahwa PKS sedang berkomunikasi dengan beberapa partai untuk menindaklanjuti polemik ijazah Gibran Rakabuming Raka; hak angket menjadi salah satu opsi, tetapi BELUM diputuskan untuk diajukan. PKS belum mengungkap partai mana yang diajak bicara; belum ada pengumuman kesepakatan antarfraksi maupun pengajuan resmi hak angket. Sekjen PKS Muhammad Kholid menyebut tindak lanjut menunggu masa sidang setelah reses. (Pernyataan 20/10/2026 PKS yang mengajak fraksi lain menindaklanjuti polemik sudah tercatat di pantauan sebelumnya — ini pernyataan baru 22/10 dengan isi spesifik komunikasi antarpartai.)
+
+### 2026-10-25 — Wacana kajian pemakzulan Gibran: Forum Dekan FH Muhammadiyah diberitakan dorong kajian putusan MK
+
+Pena Bersayap memberitakan wacana pemakzulan Wakil Presiden Gibran Rakabuming Raka kembali mencuat setelah kanal Refly Harun mengangkat dorongan Forum Dekan Fakultas Hukum Muhammadiyah se-Indonesia untuk mengkaji putusan Mahkamah Konstitusi (MK) Nomor 01/PHPU.PRES-XXIV/2026 (diucapkan 6 Oktober 2026). Editorial itu menegaskan dorongan kajian hukum bukanlah keputusan pemakzulan dan wacana pemakzulan bukan berarti proses pemberhentian telah berjalan. Putusan MK sendiri menyatakan permohonan tidak dapat diterima karena para pemohon tidak memiliki kedudukan hukum, sementara dalam pertimbangannya MK menyatakan tidak menemukan bukti meyakinkan ijazah, sertifikat, atau diploma luar negeri Gibran yang menjadi dasar penyetaraan pendidikan.
 
 ## Aktor yang Terlibat
 

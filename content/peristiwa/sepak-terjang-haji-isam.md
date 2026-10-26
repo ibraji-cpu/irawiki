@@ -68,7 +68,7 @@ sumber:
     tanggal: "2026-10"
 kategori: pasar-dan-kepemilikan
 kategori_tambahan: [sumber-daya-alam]
-last_updated: "2026-10-24"
+last_updated: "2026-10-23"
 last_verified: "2026-10-19"
 relasi:
   - tipe: terlibat_dalam
@@ -208,6 +208,10 @@ Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saha
 - Rumor akuisisi BCA oleh [[andi-syamsuddin-arsyad|Haji Isam]] kembali menjadi perhatian setelah OJK memberi penjelasan tertulis (Kamis, 15 Oktober 2026) mengenai pengawasan perubahan kepemilikan dan pengendalian bank.
 - Kepala Eksekutif Pengawas Perbankan OJK Dian Ediana Rae: "Dalam hal terdapat transaksi yang berpotensi mengakibatkan perubahan pemegang saham pengendali bank, OJK akan melakukan penilaian sesuai dengan ketentuan peraturan perundang-undangan." Penilaian mencakup prinsip kehati-hatian, GCG, profil risiko bank, konsentrasi eksposur, transaksi pihak terkait, kualitas tata kelola, dan hubungan bank dengan kelompok usaha pemegang saham.
 - Catatan verifikasi: korelasi harga–rumor tidak terbukti. Penurunan BBCA terjadi di tengah tekanan pasar luas (IHSG/LQ45), dan tidak ada pengumuman resmi BEI/OJK/BCA yang mengonfirmasi transaksi akuisisi. Status: **rumor, belum terverifikasi**.
+
+### 2026-10-23 — PACK (afiliasi Haji Isam) umumkan rencana akuisisi tambang nikel Bumanik
+
+PT Abadi Nusantara Hijau Investama Tbk (PACK), emiten yang disebut FORTUNE Indonesia sebagai afiliasi Haji Isam, mengumumkan rencana mengambil alih 100% saham PT Bukit Makmur Istindo Nikeltama (Bumanik), perusahaan tambang bijih nikel di Morowali, Sulawesi Tengah, dengan nilai transaksi US$79 juta. Pengambilalihan akan dilakukan melalui dua anak usaha PACK, PT Daya Unggul Raya dan PT Gemilang Padma Raya, dari PT Merlot Grup Indonesia dan Pure Venture Capitol Limited. Bumanik memiliki konsesi 4.778 hektare. Rencana ini masih memerlukan persetujuan pemegang saham (RUPSLB dijadwalkan 30 November 2026 menurut pemberitaan keterbukaan informasi) dan karena itu ditulis sebagai rencana, bukan akuisisi yang sudah rampung. Bersamaan dengan itu PACK mengumumkan rencana rights issue (PMHMETD II) hingga US$463 juta atau sekitar Rp8,19 triliun, yang antara lain akan dipakai untuk akuisisi dan pelunasan pinjaman.
 
 ### 2026-10-24 — Analis Gema Goeyardi: akuisisi BYAN bukan penyebab ancaman MSCI; keterangan MSCI tak sebut BYAN atau Haji Isam
 
