@@ -68,7 +68,7 @@ sumber:
     tanggal: "2026-10"
 kategori: pasar-dan-kepemilikan
 kategori_tambahan: [sumber-daya-alam]
-last_updated: "2026-10-23"
+last_updated: "2026-10-26"
 last_verified: "2026-10-19"
 relasi:
   - tipe: terlibat_dalam
@@ -216,6 +216,10 @@ PT Abadi Nusantara Hijau Investama Tbk (PACK), emiten yang disebut FORTUNE Indon
 ### 2026-10-24 — Analis Gema Goeyardi: akuisisi BYAN bukan penyebab ancaman MSCI; keterangan MSCI tak sebut BYAN atau Haji Isam
 
 Founder dan CEO Astronacci International Gema Goeyardi menilai tudingan bahwa akuisisi 30,25 persen saham PT Bayan Resources Tbk (BYAN) oleh Andi Syamsuddin Arsyad (Haji Isam) menjadi penyebab ancaman Morgan Stanley Capital International (MSCI) menurunkan status pasar modal Indonesia ke standalone market sebagai "spekulasi liar" — disampaikan dalam video podcast yang diunggah Rabu 21/10/2026 dan diberitakan Tebaran pada 24/10/2026. Menurut Gema, tidak ada bukti, dokumen, atau pernyataan resmi MSCI yang mengaitkan transaksi itu dengan usulan reklasifikasi. Keterangan MSCI dalam pengumuman konsultasi 15/10/2026, sebagaimana dikutip sejumlah laporan, menyoroti kekhawatiran investor mengenai struktur kepemilikan yang tidak transparan, konsentrasi kepemilikan saham, dugaan perdagangan terkoordinasi, serta penegakan aturan yang dinilai belum memadai — tanpa menyebut akuisisi BYAN atau nama Haji Isam sebagai penyebab. Konsultasi MSCI dijadwalkan berlangsung hingga 30 April 2027, keputusan final diperkirakan diumumkan paling lambat 30 Juni 2027; selama proses itu MSCI mempertahankan pembekuan sejumlah perubahan indeks saham Indonesia, termasuk kenaikan foreign inclusion factor dan penambahan saham ke MSCI Indonesia Investable Market Index. Konteks transaksi dari artikel yang sama: PT Jhonlin Baratama mengalihkan 10.084.088.370 saham BYAN (30,25 persen) dengan harga Rp2.588 per saham (nilai matematis sekitar Rp26,1 triliun); saham BYAN ditutup Rp11.100 pada 15/10/2026, sementara Dato' Low Tuck Kwong tercatat membeli saham BYAN di pasar reguler Rp11.200 per saham pada 14/10/2026; BEI meminta penjelasan dasar penetapan harga dan Perjanjian Jual Beli Saham Bersyarat (PJBS); manajemen BYAN menyatakan perseroan bukan pihak dalam transaksi dan belum ada perubahan pengendalian — berdasarkan laporan kepemilikan KSEI per 19/10/2026, Low Tuck Kwong 8,30 persen dan Elaine Low 22,00 persen (gabungan 30,30 persen) berbanding Jhonlin Baratama 30,25 persen.
+
+### 2026-10-26 — Bank Mandiri klarifikasi fasilitas kredit Rp40 triliun ke Jhonlin Baratama; Rp17 triliun sudah ditarik
+
+PT Bank Mandiri (Persero) Tbk menyampaikan klarifikasi lanjutan kepada Bursa Efek Indonesia (BEI) atas fasilitas kredit kepada PT Jhonlin Baratama, entitas grup Haji Isam. Senior Vice President of Corporate Secretary Bank Mandiri Adhika Vista menyebut plafon fasilitas Rp40 triliun, dengan Rp17 triliun sudah ditarik. Menurut Adhika, fasilitas itu dialokasikan untuk belanja modal dan kebutuhan pembiayaan grup Haji Isam serta mendukung ekspansi grup "di industri batu bara dan sektor pendukungnya". Bank Mandiri menyatakan penilaian agunan saham mematuhi POJK 40/POJK.03/2017, agunan saham hanya sumber pembayaran sekunder yang dinilai konservatif, dan — dengan memakai harga intraday terendah JARR dan PGUN selama sebulan terakhir — rasio cakupan agunan (collateral coverage ratio) tetap 150%. Perjanjian kredit juga memuat klausul kewajiban tambahan agunan bila rasio cakupan turun di bawah ambang minimum. IDNFinancials melaporkan sebelumnya bahwa grup Haji Isam menggadaikan seluruh saham PGUN dan JARR kepada Bank Mandiri untuk mendanai akuisisi lebih dari 30% saham PT Bayan Resources Tbk (BYAN); klarifikasi Bank Mandiri sendiri tidak menyatakan fasilitas itu dipakai untuk pembelian BYAN.
 
 ## Aktor yang Terlibat
 

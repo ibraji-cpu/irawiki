@@ -46,7 +46,7 @@ sumber:
   - url: "https://afu.id/hukum-kriminal/kpk-proyek-rp148-miliar-bnpb-dimenangkan-perusahaan-istri-tersangka-korupsi"
     tanggal: "2026-10-21"
 kategori: hukum-dan-pertanahan
-last_updated: "2026-10-23"
+last_updated: "2026-10-27"
 last_verified: "2026-10-21"
 ---
 
@@ -126,6 +126,10 @@ KPK memeriksa lima orang dari PT Bela Parahiyangan Investindo sebagai SAKSI di G
 ### 2026-10-23 — KPK sita BMW milik tersangka Richard Erlangga; total 4 mobil disita dalam perkara DSP BNPB
 
 Komisi Pemberantasan Korupsi (KPK) menyita satu unit mobil BMW dari Richard Erlangga — tersangka yang disebut sebagai tenaga ahli mantan Kepala BNPB Suharyanto — pada Jumat 23/10/2026, dalam penyidikan dugaan korupsi pengadaan yang menggunakan dana siap pakai (DSP) di Badan Nasional Penanggulangan Bencana (BNPB). Dengan penyitaan ini, total kendaraan yang diamankan penyidik dalam perkara tersebut mencapai empat unit: dua BMW, satu AION, dan satu BYD Atto 3 Superior; tiga unit sebelumnya disita dari penggeledahan rumah Bima Setyawan (adik mantan Kepala BNPB Suharyanto) dan lokasi pihak terkait di Jakarta. Juru Bicara KPK Budi Prasetyo menyampaikan penyitaan itu bagian dari rangkaian penyidikan dan temuan dari upaya paksa penggeledahan akan dianalisis lebih lanjut untuk memperkuat pembuktian. Konteks perkara: KPK telah menetapkan lima tersangka setelah operasi tangkap tangan Selasa 13/10/2026 — Bima Setyawan; Richard Erlangga; Gabriel Purwaka Sigit (Kepala Subdirektorat Pengelolaan Bantuan dan Kedaruratan BNPB sekaligus pejabat pembuat komitmen/PPK); serta dua pihak swasta, Gery Prasetiawan dan Syifa Nrika Ghifarian — ditahan 20 hari pertama terhitung 14/10 hingga 2/11/2026 di Rutan Cabang Gedung Merah Putih KPK. Dugaan perkara menurut KPK: konflik kepentingan dan suap dalam pengadaan DSP BNPB.
+
+### 2026-10-27 — KPK periksa Sestama BNPB Rustian sekitar 7 jam dan sita dokumen proyek dugaan korupsi DSP bencana
+
+Penyidik KPK memeriksa Sekretaris Utama (Sestama) BNPB Rustian selama sekitar 7 jam di Gedung Merah Putih KPK, Jakarta Selatan, pada Selasa, 27 Oktober 2026, dan menyita sejumlah dokumen proyek terkait dugaan korupsi Dana Siap Pakai (DSP) kebencanaan BNPB. Juru bicara KPK Budi Prasetyo mengonfirmasi tas yang dibawa ajudan Rustian berisi beberapa dokumen proyek yang dikerjakan para tersangka dalam perkara itu, dan dokumen pengadaan barang/jasa tersebut disita penyidik untuk mendukung penyidikan. Nilai proyek DSP yang diberitakan dalam laporan ini mencapai Rp148 miliar — itu nilai proyek yang dilaporkan, BUKAN angka kerugian negara yang sudah ditetapkan. Perkembangan ini merupakan lanjutan perkara OTT BNPB yang sebelumnya sudah menetapkan 5 tersangka pada 14 Oktober 2026; Rustian sendiri sebelumnya berstatus saksi dan dipulangkan pada 14 Oktober 2026, dan sumber 27 Oktober ini tidak menyebut perubahan statusnya.
 
 ## Pola Umum
 
