@@ -19,7 +19,7 @@ confidence: 7
 risiko_editorial: "sedang"
 kategori: pasar-dan-kepemilikan
 kategori_tambahan: [sumber-daya-alam]
-last_updated: "2026-10-26"
+last_updated: "2026-10-27"
 ---
 
 # Perang Ultra Modern dan Geopolitik
@@ -84,6 +84,10 @@ Indeks Harga Saham Gabungan (IHSG) menutup perdagangan Jumat 23/10/2026 naik 0,9
 ### 2026-10-26 — IHSG ditutup melemah 1,22% ke 5.373,09; seluruh sektor merah
 
 Indeks Harga Saham Gabungan (IHSG) ditutup melemah 66,17 poin atau 1,22 persen ke level 5.373,09 pada perdagangan Senin 26/10/2026, menghentikan penguatan sepekan sebelumnya. Tekanan jual menyebar ke seluruh sektor — energi, infrastruktur, teknologi, hingga keuangan — di tengah sorotan pelaku pasar terhadap reformasi pasar modal dan perkembangan evaluasi indeks global MSCI. Menurut data perdagangan yang dilaporkan IDXChannel dan dikutip Aktualita.co: 542 saham melemah, 174 saham menguat, 247 saham stagnan; volume perdagangan sekitar 32,79 miliar saham dengan nilai transaksi Rp14,74 triliun; frekuensi sekitar 1,78 juta kali; kapitalisasi pasar sekitar Rp9.453 triliun. Artikel yang sama mencatat agenda perubahan metodologi indeks pada awal November 2026 sebagai hal yang perlu dicermati pelaku pasar: efektif 2 November 2026, saham berkategori High Shareholding Concentration (HSC) — saham dengan kepemilikan sangat terkonsentrasi pada sedikit pihak — akan dikeluarkan dari perhitungan IHSG; berdasarkan daftar yang dilaporkan 26/10/2026, terdapat 82 emiten berstatus HSC, dan pengeluaran dari perhitungan indeks tidak berarti saham tersebut delisted atau berhenti diperdagangkan.
+
+### 2026-10-27 — OJK: penegakan hukum pasar modal masih di bawah ekspektasi MSCI; komite konsentrasi kepemilikan dibentuk
+
+Ketua Dewan Komisioner Otoritas Jasa Keuangan (OJK) Friderica Widyasari Dewi menyatakan penegakan hukum (enforcement) masih menjadi tantangan utama dalam menjawab sorotan penyedia indeks global MSCI terhadap pasar modal Indonesia. Menurutnya, aspek keterbukaan informasi, transparansi, dan likuiditas sudah dipenuhi, tetapi "hanya satu area yang masih di bawah ekspektasi, yaitu penegakan". OJK akan mengumumkan langkah penegakan lanjutan (belum dirinci pada 27 Oktober 2026) dan telah membentuk komite untuk mengkaji konsentrasi kepemilikan saham tinggi (high shareholding concentration/HSC) yang menurut OJK beranggotakan pihak yang dinilai kredibel dan independen. Friderica juga menyambut positif keputusan FTSE Russell mempertahankan status Indonesia sebagai emerging market, namun menegaskan OJK tetap menindaklanjuti sorotan MSCI, khususnya penegakan.
 
 ## Aktor yang Terlibat
 

@@ -40,7 +40,7 @@ sumber:
   - url: "https://www.kompas.tv/nasional/693358"
   - url: "https://www.bbc.com/indonesia/articles/cmly4yeq6r34o"
 kategori: aturan-main-demokrasi
-last_updated: "2026-10-25"
+last_updated: "2026-10-26"
 last_verified: "2026-10-09"
 ---
 
@@ -97,6 +97,10 @@ Pena Bersayap memberitakan wacana pemakzulan Wakil Presiden Gibran Rakabuming Ra
 ### 2026-10-25 — PDIP terbuka berdialog dengan PKS soal tindak lanjut putusan MK; Gerindra: presiden tak bisa memberhentikan wapres sepihak
 
 Sekretaris Jenderal PDI Perjuangan Hasto Kristiyanto menyatakan PDIP terbuka berdialog menanggapi ajakan Partai Keadilan Sejahtera (PKS) untuk berkomunikasi dengan fraksi-fraksi DPR soal tindak lanjut putusan Mahkamah Konstitusi (MK) tentang ijazah Wakil Presiden Gibran Rakabuming Raka. Hasto menyampaikan hal itu kepada wartawan di Museum Sumpah Pemuda, Jakarta Pusat, Minggu 25/10/2026. Menurut Hasto, polemik itu bukan hanya soal pelanggaran etik; menurut pandangannya, Putusan MK Nomor 90 Tahun 2023 merupakan penyalahgunaan kekuasaan yang disengaja, dan MK dalam perkara ijazah tidak menemukan ijazah SMA atau yang sederajat — penilaian Hasto, bukan amar putusan yang memerintahkan pemberhentian. Sebelumnya, Sekretaris Jenderal PKS Muhammad Kholid (Rabu 20/10/2026) menyatakan DPP PKS menginstruksikan fraksi DPR PKS untuk lebih dulu menjalin komunikasi politik dengan fraksi lain, karena DPR sedang reses dan baru akan dibahas pada masa sidang berikutnya; PKS juga akan membahas kemungkinan penggunaan hak angket maupun hak menyatakan pendapat — keduanya masih wacana, bukan keputusan fraksi. Di sisi lain, anggota Komisi II DPR dari Fraksi Gerindra Azis Subekti — dalam pernyataan yang dikutip Minggu 25/10/2026 — menegaskan Presiden tidak berwenang memberhentikan Wakil Presiden secara sepihak; menurut Azis, pemberhentian presiden/wakil presiden mengikuti mekanisme Pasal 7A dan 7B UUD 1945 dan harus memenuhi alasan serta pembuktian yang ditentukan konstitusi, sementara amar Putusan MK Nomor 01/PHPU.PRES-XXIV/2026 menyatakan permohonan tidak dapat diterima karena pemohon tidak memiliki kedudukan hukum dan tidak memerintahkan pemberhentian Gibran.
+
+### 2026-10-26 — Analis: DPR masih menunggu bukti hukum sebelum melangkah; Bareskrim periksa pelapor suket Gibran pada 23 Oktober
+
+Analis komunikasi politik Universitas Padjadjaran Kunto Adi Wibowo menilai proses politik di DPR RI atas polemik ijazah Wakil Presiden Gibran Rakabuming Raka belum dimulai, dan DPR — menurut penilaiannya — masih bersikap hati-hati sambil menunggu bukti hukum. Kunto menyebut alternatif politik yang tersedia antara lain DPR memanggil KPU, lalu DPR menggunakan hak angket. Penilaian itu disampaikan dalam dialog di Kompas.TV pada Senin, 26 Oktober 2026, menanggapi laporan sejumlah pihak ke Bareskrim Polri soal surat keterangan penyetaraan ijazah (suket) SMA/sederajat Gibran. Kuasa hukum pelapor, Syamsir Jalil, menyebut pelapor Riyadi (alias Regas) dipanggil dan diperiksa Bareskrim pada Jumat, 23 Oktober 2026, dengan 15 pertanyaan; pelapor menduga ada ketidaksesuaian prosedur dalam penerbitan suket tersebut. Dugaan itu adalah klaim pelapor, bukan temuan penyidik.
 
 ## Aktor yang Terlibat
 
