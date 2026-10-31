@@ -8,6 +8,7 @@ tags: ["gibran rakabuming raka", "mahkamah konstitusi", "mahkamah agung", "dpr",
 description: "MA membatalkan suket penyetaraan SMA Gibran, MK sebelumnya tak menemukan bukti ijazah. Suket gugur, jabatan tidak otomatis gugur — bolanya kini di DPR."
 author: "Ira Amalia"
 categories: ["Adilkah Aturan Mainnya?"]
+audio_path: "/audio/dua-mahkamah-satu-suket-batal.mp3"
 ---
 
 # Dua Mahkamah, Satu Suket Batal: Membedah Polemik Dokumen SMA Gibran Tanpa Pusing
