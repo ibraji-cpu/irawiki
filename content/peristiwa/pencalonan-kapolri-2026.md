@@ -2,7 +2,7 @@
 title: "Pencalonan Kapolri 2026"
 description: 'Kronologi pencalonan Kapolri 2026: Surpres 30 September 2026 untuk memberhentikan Listyo Sigit Prabowo dan mengangkat Komjen Pol Suyudi Ario Seto.'
 date: 2026-10-01
-updated: '2026-10-24'
+updated: '2026-11-01'
 aliases:
 - "Pencalonan Kapolri 2026"
 - "Pergantian Kapolri 2026"
@@ -61,11 +61,17 @@ sumber:
 - url: "https://astacitamedia.com/uncategorized/kapolri-jenderal-suyudi-mutasi-19-kapolda-brigjen-pol-dr-adex-yudiswans-h-s-i-k-msi-jadi-wakapolda-metro-jaya/"
   judul: "Kapolri Jenderal Suyudi Mutasi 19 Kapolda, Brigjen Pol Dr. Adex Yudiswan Jadi Wakapolda Metro Jaya"
   tanggal: "2026-10-07"
+- url: "https://tribratanews.polri.go.id/blog/nasional-3/polri-mutasi-199-personel-kakorlantas-dan-kapolda-lampung-resmi-berganti-107048"
+  judul: "Polri Mutasi 199 Personel, Kakorlantas dan Kapolda Lampung Resmi Berganti"
+  tanggal: "2026-10-11"
+- url: "https://tribratanews.metro.polri.go.id/polri-mutasi-12-pati-dan-pamen-sejumlah-jabatan-di-bareskrim-hingga-kewilayahan-bergeser/"
+  judul: "Polri Mutasi 12 Pati dan Pamen, Sejumlah Jabatan di Bareskrim hingga Kewilayahan Bergeser"
+  tanggal: "2026-10-14"
 
 confidence: 4
 risiko_editorial: "rendah"
 kategori: kinerja-pemerintahan
-last_updated: "2026-10-24"
+last_updated: "2026-11-01"
 last_verified: "2026-10-06"
 relasi: []
 ---
@@ -114,6 +120,12 @@ IPW menilai mutasi cepat berpotensi menimbulkan gesekan internal dan mengingatka
 ### 2026-10-06 — Tagline "Polisi Bersama Masyarakat"
 Suyudi meluncurkan tagline "Polisi Bersama Masyarakat" sebagai doktrin kepemimpinan, kelanjutan visi "Polri Bersama Masyarakat" yang ia paparkan saat uji kelayakan.
 
+### 2026-10-10 — Mutasi 199 personel Polri
+Polri memutasi 199 perwira tinggi dan perwira menengah lewat Surat Telegram Kapolri Nomor ST/2251/X/KEP/2026. Jabatan strategis yang berganti antara lain Wakabaintelkam (Irjen Pol Wawan Muliawan digantikan Brigjen Pol Anom Setyadji), Kakorlantas (Irjen Pol Wibowo digantikan Brigjen Pol Aries Syahbudin), serta tiga Kapolda: Kepulauan Bangka Belitung (Irjen Pol Agus Wijayanto menggantikan Irjen Pol Viktor Theodorus Sihombing), Kalimantan Utara (Brigjen Pol Andi Syahriful Taufik menggantikan Irjen Pol Agus Wijayanto), dan Lampung (Brigjen Pol Yustan Alpiani menggantikan Irjen Pol Helfi Assegaf). Mutasi diumumkan Kadiv Humas Polri Irjen Pol Johnny Eddizon Isir pada 11 Oktober 2026.
+
+### 2026-10-12 — Mutasi pati dan pamen Bareskrim serta kewilayahan
+Polri memutasi perwira tinggi dan perwira menengah lewat Surat Telegram Kapolri Nomor ST/2262/X/KEP./2026. Di Bareskrim, Dirtipideksus Brigjen Pol Ade Safri Simanjuntak dimutasi menjadi Widyaiswara Kepolisian Tingkat II Sespim Lemdiklat Polri dan digantikan Kombes Pol Suhasto; pergeseran kewilayahan antara lain Dirreskrimsus Polda Jawa Timur dijabat Kombes Pol Rofiq Ripto Himawan (dari Kapolresta Banyuwangi), Kapolresta Banyuwangi dijabat Kombes Pol Muharman Arta (dari Kapolresta Pekanbaru), Kapolresta Pekanbaru dijabat Kombes Pol Ronny Riantoko Eppang, dan Dirreskrimsus Polda Jambi dijabat Kombes Pol Yakhob Silvana Delareskha. Kadiv Humas Polri menyampaikan keterangan pada 13 Oktober 2026. Catatan presisi: judul artikel sumber menyebut 12 personel, sementara uraiannya merinci 14 nama; entri ini memakai nomor surat dan jabatan, bukan angka total.
+
 ## Aktor yang Terlibat
 
 - [[suyudi-ario-seto|Suyudi Ario Seto]] — calon tunggal lalu Kapolri; Kepala BNN sejak 25 Agustus 2025; Akpol 1994; lahir 14 Juli 1973; pernah Kapolda Banten dan Wakapolda Metro Jaya; latar reserse.
@@ -132,6 +144,8 @@ Suyudi meluncurkan tagline "Polisi Bersama Masyarakat" sebagai doktrin kepemimpi
 - Sumbar Daily, "IPW Ungkap Beda Gaya Suyudi Ario Seto, Idham Azis dan Listyo Sigit Saat Awal jadi Kapolri", 5 Oktober 2026. https://sumbardaily.com/ipw-ungkap-beda-gaya-suyudi-ario-seto-idham-azis-dan-listyo-sigit-saat-awal-jadi-kapolri/
 - MCI News, "Suyudi Ario Seto Luncurkan Tagline Polisi Bersama Masyarakat", 6 Oktober 2026. https://mcinews.id/2026/10/06/suyudi-ario-seto-luncurkan-tagline-polisi-bersama-masyarakat/
 - Asta Cita Media, "Kapolri Jenderal Suyudi Mutasi 19 Kapolda, Brigjen Pol Dr. Adex Yudiswan Jadi Wakapolda Metro Jaya", 7 Oktober 2026. https://astacitamedia.com/uncategorized/kapolri-jenderal-suyudi-mutasi-19-kapolda-brigjen-pol-dr-adex-yudiswans-h-s-i-k-msi-jadi-wakapolda-metro-jaya/
+- Tribratanews Polri, "Polri Mutasi 199 Personel, Kakorlantas dan Kapolda Lampung Resmi Berganti", 11 Oktober 2026. https://tribratanews.polri.go.id/blog/nasional-3/polri-mutasi-199-personel-kakorlantas-dan-kapolda-lampung-resmi-berganti-107048
+- Tribratanews Polda Metro Jaya, "Polri Mutasi 12 Pati dan Pamen, Sejumlah Jabatan di Bareskrim hingga Kewilayahan Bergeser", 14 Oktober 2026. https://tribratanews.metro.polri.go.id/polri-mutasi-12-pati-dan-pamen-sejumlah-jabatan-di-bareskrim-hingga-kewilayahan-bergeser/
 
 ## Catatan presisi
 
