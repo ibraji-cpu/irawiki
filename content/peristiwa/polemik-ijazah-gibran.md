@@ -2,7 +2,7 @@
 title: "Polemik Ijazah Gibran"
 description: 'Hub polemik ijazah Gibran: gugatan perdata di PN Jakarta Pusat, sengketa syarat pendidikan di MK, dan putusan 01/PHPU.PRES-XXIV/2026.'
 date: 2026-10-09
-updated: '2026-10-24'
+updated: '2026-10-30'
 aliases:
   - Ijazah Gibran
   - Polemik Ijazah Gibran Rakabuming Raka
@@ -39,8 +39,10 @@ sumber:
   - url: "https://www.cnbcindonesia.com/news/20261002104005-4-772792"
   - url: "https://www.kompas.tv/nasional/693358"
   - url: "https://www.bbc.com/indonesia/articles/cmly4yeq6r34o"
+  - url: "https://nasional.kompas.com/read/2026/10/30/17550581/ma-kabulkan-gugatan-pembatalan-suket-penyetaraan-ijazah-gibran"
+    tanggal: "2026-10-30"
 kategori: aturan-main-demokrasi
-last_updated: "2026-10-26"
+last_updated: "2026-10-30"
 last_verified: "2026-10-09"
 ---
 
@@ -102,6 +104,10 @@ Sekretaris Jenderal PDI Perjuangan Hasto Kristiyanto menyatakan PDIP terbuka ber
 
 Analis komunikasi politik Universitas Padjadjaran Kunto Adi Wibowo menilai proses politik di DPR RI atas polemik ijazah Wakil Presiden Gibran Rakabuming Raka belum dimulai, dan DPR — menurut penilaiannya — masih bersikap hati-hati sambil menunggu bukti hukum. Kunto menyebut alternatif politik yang tersedia antara lain DPR memanggil KPU, lalu DPR menggunakan hak angket. Penilaian itu disampaikan dalam dialog di Kompas.TV pada Senin, 26 Oktober 2026, menanggapi laporan sejumlah pihak ke Bareskrim Polri soal surat keterangan penyetaraan ijazah (suket) SMA/sederajat Gibran. Kuasa hukum pelapor, Syamsir Jalil, menyebut pelapor Riyadi (alias Regas) dipanggil dan diperiksa Bareskrim pada Jumat, 23 Oktober 2026, dengan 15 pertanyaan; pelapor menduga ada ketidaksesuaian prosedur dalam penerbitan suket tersebut. Dugaan itu adalah klaim pelapor, bukan temuan penyidik.
 
+### 2026-10-30 — MA kabulkan kasasi Subhan: suket penyetaraan ijazah SMA Gibran dinyatakan tidak sah dan batal demi hukum
+
+Mahkamah Agung mengabulkan kasasi H. M. Subhan dalam perkara Nomor 742 K/TUN/2026, membatalkan putusan judex facti, dan mengadili sendiri dengan mengabulkan gugatan penggugat seluruhnya — amar yang tercantum di laman kepaniteraan MA dan diberitakan Kompas.com pada Jumat, 30 Oktober 2026. Majelis kasasi diketuai Yulius. Objek sengketanya adalah Surat Keterangan Nomor 9149/D.D1/KS/2019 tertanggal 6 Agustus 2019 tentang penyetaraan ijazah, yang diterbitkan Direktorat Jenderal Pendidikan Dasar dan Menengah dan dipakai Gibran Rakabuming Raka sebagai pemenuhan syarat pendidikan saat mendaftar calon wakil presiden pada Pemilu 2024. Dengan dikabulkannya gugatan seluruhnya, petitum penggugat menjadi isi putusan: suket itu dinyatakan tidak sah dan batal demi hukum, serta diperintahkan untuk ditarik dari pihak yang menguasainya untuk dimusnahkan. Perkara ini bermula dari gugatan Subhan ke PTUN Jakarta (62/G/2026/PTUN.JKT, diajukan 19 Februari 2026) terhadap Kementerian Pendidikan Dasar dan Menengah; PTUN pada 21 Mei 2026 menyatakan gugatan tidak dapat diterima, putusan itu dikuatkan Pengadilan Tinggi TUN Jakarta (130/B/2026/PT.TUN.JKT), lalu kasasi diterima MA pada 23 September 2026 dan diregistrasi 8 Oktober 2026. Hingga 30 Oktober 2026 salinan lengkap putusan kasasi belum tersedia di situs MA, dan juru bicara MA Yanto saat dikonfirmasi menyatakan belum memperoleh informasi mengenai amar perkara tersebut, sehingga pertimbangan majelis belum dapat dikutip. Di ranah politik, PKS dan PDIP diberitakan membuka komunikasi mengenai kemungkinan tindak lanjut, tetapi hingga 30 Oktober 2026 belum ada keputusan DPR untuk membentuk pansus, menggunakan hak angket, maupun mengajukan pemakzulan atas dasar putusan ini — putusan ini membatalkan suket, bukan memberhentikan wakil presiden. Perkara suket yang terpisah, yaitu gugatan PT Mercy Toga Kirana di PTUN Jakarta, dicabut penggugatnya pada 29 Oktober 2026 dan bukan perkara yang diputus MA ini.
+
 ## Aktor yang Terlibat
 
 - [[gibran-rakabuming-raka|Gibran Rakabuming Raka]] — Wapres RI 2024–2029; pihak yang syarat pendidikannya dipersoalkan.
@@ -117,7 +123,7 @@ Analis komunikasi politik Universitas Padjadjaran Kunto Adi Wibowo menilai prose
 
 - **2025:** detikJabar (14 Sept 2025, [tanggapan Jokowi](https://www.detik.com/jabar/berita/d-8111040/jokowi-berkumis-tipis-buka-bukaan-soal-sekolah-gibran-di-singapura)); detikJateng (25 Sept 2025, [klarifikasi SMPN 1 Solo](https://www.detik.com/jateng/berita/d-8130339/kepsek-pastikan-gibran-lulusan-smpn-1-solo-ada-ijazahnya)); detikNews (3 Okt 2025, [klarifikasi MDIS & respons PSI](https://news.detik.com/berita/d-8143557/mdis-sudah-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop)).
 - **September 2026 (Sidang MK):** detikNews (24 Sept 2026, [riwayat sekolah](https://news.detik.com/berita/d-8677899/syarat-pendidikan-gibran-digugat-ke-mk-jokowi-ungkap-riwayat-sekolah)); detikSumut (24 Sept 2026, [tanggapan Jokowi](https://www.detik.com/sumut/berita/d-8677439/tanggapan-jokowi-mengenai-ijazah-gibran-kini-disoal)); detikNews (30 Sept 2026: [permohonan panggil Gibran](https://news.detik.com/berita/d-8686883/bambang-widjojanto-minta-mk-panggil-gibran-di-sidang-pembuktian-besok), [sorotan Paket C](https://news.detik.com/berita/d-8686933/sidang-gugatan-ijazah-gibran-hakim-mk-sorot-banyak-calon-lulusan-paket-c), [sorotan PKPU 19/2023](https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran)); Kompas Video, Kompas TV, CNBC Indonesia, dan BBC Indonesia.
-- **Oktober 2026:** Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES-XXIV/2026 (6 Oktober 2026).
+- **Oktober 2026:** Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES-XXIV/2026 (6 Oktober 2026). Putusan kasasi Mahkamah Agung Nomor 742 K/TUN/2026 (30 Oktober 2026), diberitakan [Kompas.com](https://nasional.kompas.com/read/2026/10/30/17550581/ma-kabulkan-gugatan-pembatalan-suket-penyetaraan-ijazah-gibran) (30 Oktober 2026); amar putusan tercantum di laman kepaniteraan MA.
 
 ## Catatan presisi
 
@@ -125,3 +131,4 @@ Analis komunikasi politik Universitas Padjadjaran Kunto Adi Wibowo menilai prose
 - **Dalil vs pertimbangan:** klaim 3 temuan Denny Indrayana dan penerbitan surat penyetaraan <24 jam adalah dalil pemohon, bukan temuan MK.
 - **Penggabungan halaman:** halaman duplikat `peristiwa/sengketa-ijazah-gibran-2026.md` telah dilebur ke hub ini pada 24 Oktober 2026; URL lamanya dialihkan ke sini.
 - **Celah data:** salinan resmi PDF putusan MK dan risalah sidang belum ditautkan; belum ada jadwal pembahasan hak angket di DPR.
+- **Putusan kasasi MA bukan pemberhentian:** putusan 742 K/TUN/2026 membatalkan suket penyetaraan, bukan memberhentikan wakil presiden; pemberhentian mengikuti mekanisme Pasal 7A dan 7B UUD 1945, dan hingga 30 Oktober 2026 belum ada keputusan DPR soal pansus, hak angket, maupun pemakzulan atas dasar putusan ini. Salinan lengkap putusan kasasi belum tersedia per 30 Oktober 2026, sehingga pertimbangan majelis belum dapat dikutip.

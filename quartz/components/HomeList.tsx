@@ -1,9 +1,8 @@
 import { FullSlug, resolveRelative } from "../util/path"
 import { QuartzComponent, QuartzComponentConstructor, QuartzComponentProps } from "./types"
 
-interface Options {
-  /** "index" = hanya homepage, "not-index" = kecuali homepage, "all" = semua */
-  condition?: "index" | "not-index" | "all"
+/** Satu seksi daftar (judul + filter + urutan). */
+interface SectionOptions {
   /** Judul section, mis. "Baru Update" */
   title?: string
   /** Urutan: "updated" (terbaru dulu) atau "title" (A–Z) */
@@ -12,11 +11,35 @@ interface Options {
   limit?: number
   /** Batasi ke halaman ber-tag tertentu (mis. ["topik"]) */
   filterTags?: string[]
+  /** Batasi ke halaman di folder tertentu (prefix slug, mis. ["aktor"]) */
+  filterFolders?: string[]
+  /** Batasi ke halaman dengan frontmatter `entity_type` tertentu (mis. ["topik"]) */
+  filterEntityTypes?: string[]
   /** Tampilkan tanggal di samping judul */
   showDate?: boolean
   /** Tampilkan tag */
   showTags?: boolean
 }
+
+interface Options extends SectionOptions {
+  /** "index" = hanya homepage, "not-index" = kecuali homepage, "all" = semua */
+  condition?: "index" | "not-index" | "all"
+  /**
+   * Beberapa seksi sekaligus. Bila diisi, opsi seksi tunggal di level atas
+   * (title, filterTags, dst.) dipakai sebagai default untuk tiap seksi.
+   */
+  sections?: SectionOptions[]
+}
+
+/**
+ * Seksi default homepage: aktor terbaru dan hub (halaman topik) terbaru.
+ * Aktor diambil dari folder `aktor/` (bukan tag — tag `aktor` tidak konsisten).
+ * Hub = halaman ber-`entity_type: topik` (living document / hub topik).
+ */
+const DEFAULT_SECTIONS: SectionOptions[] = [
+  { title: "Terbaru di Wiki (Aktor)", filterFolders: ["aktor"] },
+  { title: "Terbaru di Wiki (Hub)", filterEntityTypes: ["topik"] },
+]
 
 const MONTHS = ["Jan", "Feb", "Mar", "Apr", "Mei", "Jun", "Jul", "Agu", "Sep", "Okt", "Nov", "Des"]
 
@@ -52,12 +75,21 @@ function isSkippable(f: any): boolean {
   return false
 }
 
-function collect(allFiles: any[], opts: Options): any[] {
+function collect(allFiles: any[], opts: SectionOptions): any[] {
   const list = allFiles.filter((f: any) => {
     if (isSkippable(f)) return false
     if (opts.filterTags && opts.filterTags.length > 0) {
-      const tags: string[] = (f?.frontmatter?.tags ?? []).map((t: string) => t.toLowerCase())
+      const tags: string[] = (f?.frontmatter?.tags ?? []).map((t: string) => String(t).toLowerCase())
       if (!opts.filterTags.some((t) => tags.includes(t.toLowerCase()))) return false
+    }
+    if (opts.filterFolders && opts.filterFolders.length > 0) {
+      const slug = String(f?.slug ?? "")
+      if (!opts.filterFolders.some((dir) => slug.startsWith(`${dir.replace(/\/+$/, "")}/`)))
+        return false
+    }
+    if (opts.filterEntityTypes && opts.filterEntityTypes.length > 0) {
+      const et = String(f?.frontmatter?.entity_type ?? "").toLowerCase()
+      if (!opts.filterEntityTypes.some((t) => t.toLowerCase() === et)) return false
     }
     return true
   })
@@ -88,10 +120,12 @@ const HomeListBody: QuartzComponent = ({
   sort,
   limit,
   filterTags,
+  filterFolders,
+  filterEntityTypes,
   showDate,
   showTags,
 }: QuartzComponentProps) => {
-  const pages = collect(allFiles, { sort, limit, filterTags })
+  const pages = collect(allFiles, { sort, limit, filterTags, filterFolders, filterEntityTypes })
   if (pages.length === 0) return null
 
   return (
@@ -164,26 +198,43 @@ HomeListBody.css = `
  * (closure) opsi miliknya sendiri — kalau opsi disimpan di properti modul,
  * dua instance dengan opsi berbeda akan saling menimpa.
  *
- * Default `title` "Baru Update" + `showDate` aktif: pemanggil dari
+ * Default: dua seksi (`DEFAULT_SECTIONS`) — "Terbaru di Wiki (Aktor)" dan
+ * "Terbaru di Wiki (Hub)" — dengan `showDate` aktif. Pemanggil dari
  * `layout.byPageType.*.positions` di quartz.config.yaml di-instantiate TANPA
- * opsi, jadi judul section harus punya nilai default di sini.
+ * opsi, jadi seksi & judulnya harus punya nilai default di sini.
+ *
+ * Bila pemanggil memberi `title`/filter tanpa `sections`, komponen kembali ke
+ * mode satu seksi seperti sebelumnya.
  */
 export default ((opts?: Options) => {
-  const merged: Required<Pick<Options, "condition" | "sort" | "limit" | "title" | "showDate">> &
-    Options = {
-    condition: "index",
+  const { condition = "index", sections: userSections, ...sectionDefaults } = opts ?? {}
+  const base: SectionOptions = {
     sort: "updated",
     limit: 12,
-    title: "Terbaru di Wiki",
     showDate: true,
-    ...opts,
+    ...sectionDefaults,
   }
+  const singleMode =
+    !userSections &&
+    (sectionDefaults.title !== undefined ||
+      sectionDefaults.filterTags !== undefined ||
+      sectionDefaults.filterFolders !== undefined ||
+      sectionDefaults.filterEntityTypes !== undefined)
+  const sections: SectionOptions[] = singleMode
+    ? [base]
+    : (userSections ?? DEFAULT_SECTIONS).map((s) => ({ ...base, ...s }))
 
   const HomeList: QuartzComponent = (props) => {
     const isIndex = props.fileData.slug === "index" || props.fileData.slug === "404"
-    if (merged.condition === "not-index" && isIndex) return null
-    if (merged.condition === "index" && !isIndex) return null
-    return <HomeListBody {...props} {...merged} />
+    if (condition === "not-index" && isIndex) return null
+    if (condition === "index" && !isIndex) return null
+    return (
+      <>
+        {sections.map((s) => (
+          <HomeListBody {...props} {...s} />
+        ))}
+      </>
+    )
   }
 
   HomeList.displayName = "HomeList"
