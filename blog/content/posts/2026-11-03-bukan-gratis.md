@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "apbn", "subsidi", "bbm-subsidi"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-03-bukan-gratis.mp3"
 ---
 
 # Bukan Gratis: Siapa yang Membayar Selisih Harga yang Ditahan?

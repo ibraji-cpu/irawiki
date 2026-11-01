@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "harga", "bbm-subsidi", "lpg", "biaya-hidup"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-02-harga-ditahan.mp3"
 ---
 
 # Harga Ditahan: Apa Saja yang Tidak Naik, dan Sampai Kapan?

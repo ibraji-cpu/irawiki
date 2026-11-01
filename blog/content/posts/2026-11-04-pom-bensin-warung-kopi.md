@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "harga", "beras", "biaya-hidup"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-04-pom-bensin-warung-kopi.mp3"
 ---
 
 # Di Pom Bensin dan Warung Kopi: Di Mana Kinerja Pemerintah Diuji?

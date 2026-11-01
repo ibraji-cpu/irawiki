@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "ojol", "biaya-hidup", "gen-z"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-05-siapa-paling-terbebani.mp3"
 ---
 
 # Siapa Paling Terbebani? Ojol dan Selisih Tipis Antara Ongkos dan Penghasilan

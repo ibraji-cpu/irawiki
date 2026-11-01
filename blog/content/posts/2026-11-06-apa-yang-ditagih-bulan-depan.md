@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "harga", "apbn", "biaya-hidup"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-06-apa-yang-ditagih-bulan-depan.mp3"
 ---
 
 # Apa yang Ditagih Bulan Depan? Daftar Cek Setelah 31 Desember 2026
