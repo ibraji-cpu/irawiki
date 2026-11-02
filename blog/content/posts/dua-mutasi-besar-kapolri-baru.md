@@ -7,6 +7,7 @@ tags: ["kapolri", "polri", "mutasi", "suyudi-ario-seto", "bareskrim"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/dua-mutasi-besar-kapolri-baru.mp3"
 ---
 
 # Dua Mutasi Besar Kapolri Baru: 199 Personel, lalu Bareskrim dan Daerah
