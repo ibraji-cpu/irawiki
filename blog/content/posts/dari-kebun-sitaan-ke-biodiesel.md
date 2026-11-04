@@ -7,6 +7,7 @@ tags: ["agrinas-palma", "sawit", "bioenergi", "b50", "pertamina", "brin", "satga
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/dari-kebun-sitaan-ke-biodiesel.mp3"
 ---
 
 # Dari Kebun Sitaan ke Biodiesel: Sepekan Dua Kesepakatan Agrinas Palma
