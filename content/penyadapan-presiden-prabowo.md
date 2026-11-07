@@ -1,6 +1,6 @@
 ---
 title: "Penyadapan Presiden Prabowo"
-description: Hub living document perkara dugaan penyadapan tanpa prosedur terhadap Presiden Prabowo Subianto dan sejumlah tokoh, 2025-2026: penetapan empat tersangka, pemberhentian Listyo Sigit Prabowo dari Kepala Staf Kepresidenan, dan tim khusus Kapolri.
+description: "Hub living document perkara dugaan penyadapan tanpa prosedur terhadap Presiden Prabowo Subianto dan sejumlah tokoh, 2025-2026: penetapan empat tersangka, pemberhentian Listyo Sigit Prabowo dari Kepala Staf Kepresidenan, dan tim khusus Kapolri."
 date: 2026-11-07
 updated: '2026-11-07'
 entity_type: topik
