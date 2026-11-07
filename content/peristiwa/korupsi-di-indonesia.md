@@ -2,7 +2,7 @@
 title: "Korupsi di Indonesia"
 description: 'Ringkasan sistemik korupsi di Indonesia pasca-reformasi 1998: kelahiran KPK, pasang surut pemberantasan, dan pola perkara besar.'
 date: 2026-10-15
-updated: '2026-10-21'
+updated: '2026-11-07'
 aliases:
   - Korupsi Indonesia
   - Tindak Pidana Korupsi di Indonesia
@@ -72,6 +72,7 @@ Angka-angkanya juga tidak boleh dibaca sebagai anggaran yang berpindah. Rp2,3 tr
 - **OTT ATR/BPN Bogor:** 15 September 2026, 8 tersangka.
 - **OTT BNPB:** 13 Oktober 2026, 5 tersangka ditetapkan 14 Oktober 2026.
 - **Sitaan perkara BNPB:** total barang bukti Rp5,47 miliar per pengumuman KPK 17 Oktober 2026.
+- **Geledah Kejagung perkara nikel Sultra:** 5 November 2026, 6 lokasi di Jakarta, sita uang tunai Rp11,7 miliar; Arif Kurniawan disebut pengendali 6 perusahaan dan belum ditetapkan sebagai tersangka.
 
 ## Kronologi
 
@@ -131,6 +132,16 @@ Komisi Pemberantasan Korupsi (KPK) menyita satu unit mobil BMW dari Richard Erla
 
 Penyidik KPK memeriksa Sekretaris Utama (Sestama) BNPB Rustian selama sekitar 7 jam di Gedung Merah Putih KPK, Jakarta Selatan, pada Selasa, 27 Oktober 2026, dan menyita sejumlah dokumen proyek terkait dugaan korupsi Dana Siap Pakai (DSP) kebencanaan BNPB. Juru bicara KPK Budi Prasetyo mengonfirmasi tas yang dibawa ajudan Rustian berisi beberapa dokumen proyek yang dikerjakan para tersangka dalam perkara itu, dan dokumen pengadaan barang/jasa tersebut disita penyidik untuk mendukung penyidikan. Nilai proyek DSP yang diberitakan dalam laporan ini mencapai Rp148 miliar — itu nilai proyek yang dilaporkan, BUKAN angka kerugian negara yang sudah ditetapkan. Perkembangan ini merupakan lanjutan perkara OTT BNPB yang sebelumnya sudah menetapkan 5 tersangka pada 14 Oktober 2026; Rustian sendiri sebelumnya berstatus saksi dan dipulangkan pada 14 Oktober 2026, dan sumber 27 Oktober ini tidak menyebut perubahan statusnya.
 
+### 2026-11-05 — Kejagung geledah 6 lokasi terafiliasi Arif Kurniawan, sita Rp11,7 miliar (dugaan korupsi tata kelola nikel Sultra)
+
+Kejaksaan Agung (Kejagung) menggeledah enam lokasi di Daerah Khusus Jakarta pada Kamis, 5 November 2026, dalam penyidikan kasus dugaan korupsi tambang nikel di Provinsi Sulawesi Tenggara (Sultra) periode 2013–2025. Keenam lokasi itu adalah rumah di Kecamatan Cilandak, Jakarta Selatan, serta kantor PT BSJ, PT KAA, dan PT DDA di APL Tower Central Park, dan kantor PT DDR di Mid Plaza Jalan Jenderal Sudirman dan di SCBD, Jakarta Pusat — semuanya diduga terafiliasi dengan pengusaha nikel Arif Kurniawan. Kepala Pusat Penerangan Hukum Kejagung Anang Supriatna menyampaikan hal itu dalam keterangannya, Jumat, 6 November 2026.
+
+Dari penggeledahan itu penyidik menyita dokumen kegiatan operasional tambang nikel di Sultra, barang bukti elektronik (telepon genggam, laptop, CPU, dan server), serta uang tunai total Rp11,7 miliar — Rp11,2 miliar dan Rp595 juta yang disimpan dalam sejumlah koper dan tas di salah satu kantor — yang diduga merupakan hasil tindak pidana korupsi. Penyidik juga memeriksa pihak-pihak yang bekerja di perusahaan-perusahaan tersebut. Kejagung menyatakan proses penyidikan dilaksanakan secara profesional, objektif, dan akuntabel dengan menjunjung asas praduga tidak bersalah.
+
+Berdasarkan penyidikan sejauh ini, Arif Kurniawan diketahui merupakan pengendali dan penerima manfaat (beneficial owner) dari perusahaan pertambangan nikel di Sultra: PT BSJ dengan luas IUP 1.030 hektare, PT KAA 1.036 hektare, PT ANI 106 hektare, PT AMI 1.000 hektare, PT AMID 1.026 hektare, dan PT HJ melalui Holding PT DDA bersama LEI. IUP eksplorasi PT BSJ dan PT KAA berakhir pada 2015, namun tetap diperpanjang melalui skema suspend sebanyak tiga kali — padahal hasil eksplorasi dan studi kelayakan kedua perusahaan disebut ditolak oleh pejabat Dinas ESDM Sultra karena wilayah izin seharusnya dikembalikan kepada negara, dan penolakan itu kemudian dicabut karena adanya penyalahgunaan wewenang penyelenggara negara. Menurut Direktur Penyidikan Jampidsus Kejagung Saiful Bahri Siregar, kedua perusahaan itu diduga tetap melanjutkan kegiatan pertambangan secara ilegal sejak 2015, setelah izin usaha produksi berakhir pada 2015. Tim penyidik menduga pihak korporasi memberikan sejumlah uang kepada penyelenggara negara untuk memanipulasi persetujuan RKAB korporasi-korporasi tersebut, sehingga korporasi dapat beroperasi secara melawan hukum dan mengakibatkan kerugian keuangan negara — angka kerugian negara belum ditetapkan dalam sumber ini, jadi tidak ditulis di sini.
+
+Arif Kurniawan saat ini berada di luar negeri; menurut Direktur Penyidikan Jampidsus Kejagung Saiful Bahri Siregar, posisinya tidak diketahui keberadaannya di Indonesia dan penyidik telah bekerja sama dengan pihak imigrasi untuk mencari keberadaannya. Dugaan keterlibatannya berasal dari keterangan 38 saksi yang telah diperiksa. Arif sebelumnya diungkap Satuan Tugas Penertiban Kawasan Hutan (Satgas PKH) sebagai pihak pengendali perusahaan-perusahaan yang menguasai kawasan hutan negara secara ilegal. Sehari sebelum penggeledahan, Rabu malam 4 November 2026, Juru Bicara Satgas PKH Barita Simanjuntak mengumumkan Satgas PKH memutuskan menertibkan seluruh lahan kawasan hutan yang berada di bawah kendali maupun terafiliasi dengan Arif Kurniawan, hasil rapat yang dipimpin Ketua Pengarah Satgas PKH Sjafrie Sjamsoeddin — entri lengkapnya ada di hub [[satgas-pkh|Satgas PKH]]. Sampai artikel ini terbit, Arif Kurniawan belum ditetapkan sebagai tersangka.
+
 ## Pola Umum
 
 Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/jasa dengan melibatkan pejabat pembuat komitmen dan pihak swasta rekanan; (2) suap perizinan di sektor agraria/pertanahan; (3) penyelewengan dana bantuan — baik bansos maupun dana kebencanaan — yang mestinya untuk masyarakat terdampak.
@@ -138,6 +149,8 @@ Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/j
 ## Aktor yang Terlibat
 
 - [[kpk|Komisi Pemberantasan Korupsi (KPK)]] — lembaga penegak utama pemberantasan korupsi sejak 2002/2003
+- [[kejaksaan-agung|Kejaksaan Agung]] — penyidik perkara dugaan korupsi tata kelola nikel Sultra (penggeledahan 5 November 2026).
+- Arif Kurniawan — pengusaha nikel; disebut Kejagung sebagai pengendali dan penerima manfaat 6 perusahaan tambang nikel Sultra; belum ditetapkan sebagai tersangka.
 
 ## Peristiwa Terkait
 
@@ -156,8 +169,13 @@ Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/j
 - Literasi Online — https://literasi-online.com/2026/10/23/kasus-ott-bupati-klaten-kpk-geledah-kantor-badan-pemeriksa-keuangan-jateng-sita-uang-jutaan-rupiah — 23 Oktober 2026
 - Astakom — https://astakom.com/2026/10/23/tni-bakal-tindaklanjuti-informasi-kpk-terkait-dugaan-prajurit-terlibat-korupsi-dana-bnpb — 23 Oktober 2026
 - Bsinnews.id — https://bsinews.id/kpk-periksa-petinggi-bela-parahiyangan — 23 Oktober 2026
+- InvestorTrust, "Kejagung Sita Rp 11,7 Miliar saat Geledah 6 Lokasi Terafiliasi Bos Nikel Arif Kurniawan" (7 November 2026 01:31 UTC). https://investortrust.id/national/121821/kejagung-sita-rp-11-7-miliar-saat-geledah-6-lokasi-terafiliasi-bos-nikel-arif-kurniawan
+- Harianjogja, Anshary Madya Sukma, "Kejagung Ungkap 6 Perusahaan yang Dikendalikan Bos Nikel Arif Kurniawan" (6 November 2026 20:27 WIB; sumber yang dicantumkan: Bisnis.com). https://news.harianjogja.com/r-1277889/kejagung-ungkap-6-perusahaan-yang-dikendalikan-bos-nikel-arif-kurniawan
 
 ## Catatan presisi
 
 - Status hukum mengikuti pernyataan resmi: yang "diamankan" dalam OTT belum tentu menjadi tersangka; yang menjadi tersangka belum tentu divonis bersalah.
 - Entri kronologi dapat ditambah seiring munculnya kasus baru yang terverifikasi; setiap penambahan wajib mencantumkan sumber.
+- **Arif Kurniawan belum tersangka.** Sampai 7 November 2026 Kejagung belum menetapkan Arif Kurniawan sebagai tersangka dalam perkara nikel Sultra — jangan ditulis ia tersangka, terdakwa, atau terbukti korupsi. Dugaan pengendali/beneficial owner, dugaan suap manipulasi RKAB, dan dugaan kerugian keuangan negara adalah konstruksi penyidikan berdasarkan keterangan saksi dan temuan penggeledahan, bukan putusan.
+- **Selisih ejaan antar sumber:** InvestorTrust menulis "Holding PT DAA", Harianjogja (Bisnis.com) menulis "Holding PT DDA"; hub memakai DDA mengikuti Harianjogja dan karena PT DDA juga muncul sebagai perusahaan yang digeledah. InvestorTrust menulis nama Dirdik Jampidsus "Saiful Bahri Siregar", Harianjogja menulis "Saeful Bahri Siregar"; hub memakai Saiful mengikuti InvestorTrust.
+- **Angka Rp11,7 miliar adalah uang tunai yang disita, bukan kerugian negara.** Rinciannya Rp11,2 miliar + Rp595 juta menurut Kapuspenkum Kejagung; sumber ini tidak menetapkan angka kerugian keuangan negara perkara ini.
