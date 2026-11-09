@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "pendidikan", "kurikulum", "koding-ai", "guru"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-10-bukan-kurikulum-baru-standar-normal-baru.mp3"
 ---
 
 # Bukan Kurikulum Baru: Standar Normal Baru di Sekolah

@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "pendidikan", "sekolah-rakyat", "pp-tunas", "kese
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-13-yang-tidak-diubah-kurikulum.mp3"
 ---
 
 # Yang Tidak Diubah Kurikulum

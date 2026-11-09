@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "pendidikan", "pasar-kerja", "beasiswa-garuda", "
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-12-pasar-kerja-masa-depan.mp3"
 ---
 
 # Pasar Kerja Masa Depan: Apa yang Benar-Benar Berubah?

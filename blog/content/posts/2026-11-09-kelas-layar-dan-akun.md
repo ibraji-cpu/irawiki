@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "pendidikan", "pp-tunas", "koding-ai", "anak-muda
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-09-kelas-layar-dan-akun.mp3"
 ---
 
 # Kelas, Layar, dan Akun: Siapa yang Boleh Masuk, Siapa yang Ditahan di Pintu?
