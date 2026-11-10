@@ -2,7 +2,7 @@
 title: "Polemik Ijazah Gibran"
 description: 'Hub polemik ijazah Gibran: gugatan perdata di PN Jakarta Pusat, sengketa syarat pendidikan di MK, dan putusan 01/PHPU.PRES-XXIV/2026.'
 date: 2026-10-09
-updated: '2026-10-30'
+updated: '2026-11-10'
 aliases:
   - Ijazah Gibran
   - Polemik Ijazah Gibran Rakabuming Raka
@@ -41,9 +41,13 @@ sumber:
   - url: "https://www.bbc.com/indonesia/articles/cmly4yeq6r34o"
   - url: "https://nasional.kompas.com/read/2026/10/30/17550581/ma-kabulkan-gugatan-pembatalan-suket-penyetaraan-ijazah-gibran"
     tanggal: "2026-10-30"
+  - url: "https://mkri.id/berita/pemohon-ingin-syarat-pendidikan-capres-cawapres-wajib-diverifikasi-faktual-oleh-kpu-26092"
+    tanggal: "2026-11-04"
+  - url: "https://www.mkri.id/berita/mkmk-mk-dilarang-untuk-menangani-perkara-26101"
+    tanggal: "2026-11-05"
 kategori: aturan-main-demokrasi
-last_updated: "2026-10-30"
-last_verified: "2026-10-09"
+last_updated: "2026-11-10"
+last_verified: "2026-11-10"
 ---
 
 # Polemik Ijazah Gibran
@@ -108,6 +112,14 @@ Analis komunikasi politik Universitas Padjadjaran Kunto Adi Wibowo menilai prose
 
 Mahkamah Agung mengabulkan kasasi H. M. Subhan dalam perkara Nomor 742 K/TUN/2026, membatalkan putusan judex facti, dan mengadili sendiri dengan mengabulkan gugatan penggugat seluruhnya — amar yang tercantum di laman kepaniteraan MA dan diberitakan Kompas.com pada Jumat, 30 Oktober 2026. Majelis kasasi diketuai Yulius. Objek sengketanya adalah Surat Keterangan Nomor 9149/D.D1/KS/2019 tertanggal 6 Agustus 2019 tentang penyetaraan ijazah, yang diterbitkan Direktorat Jenderal Pendidikan Dasar dan Menengah dan dipakai Gibran Rakabuming Raka sebagai pemenuhan syarat pendidikan saat mendaftar calon wakil presiden pada Pemilu 2024. Dengan dikabulkannya gugatan seluruhnya, petitum penggugat menjadi isi putusan: suket itu dinyatakan tidak sah dan batal demi hukum, serta diperintahkan untuk ditarik dari pihak yang menguasainya untuk dimusnahkan. Perkara ini bermula dari gugatan Subhan ke PTUN Jakarta (62/G/2026/PTUN.JKT, diajukan 19 Februari 2026) terhadap Kementerian Pendidikan Dasar dan Menengah; PTUN pada 21 Mei 2026 menyatakan gugatan tidak dapat diterima, putusan itu dikuatkan Pengadilan Tinggi TUN Jakarta (130/B/2026/PT.TUN.JKT), lalu kasasi diterima MA pada 23 September 2026 dan diregistrasi 8 Oktober 2026. Hingga 30 Oktober 2026 salinan lengkap putusan kasasi belum tersedia di situs MA, dan juru bicara MA Yanto saat dikonfirmasi menyatakan belum memperoleh informasi mengenai amar perkara tersebut, sehingga pertimbangan majelis belum dapat dikutip. Di ranah politik, PKS dan PDIP diberitakan membuka komunikasi mengenai kemungkinan tindak lanjut, tetapi hingga 30 Oktober 2026 belum ada keputusan DPR untuk membentuk pansus, menggunakan hak angket, maupun mengajukan pemakzulan atas dasar putusan ini — putusan ini membatalkan suket, bukan memberhentikan wakil presiden. Perkara suket yang terpisah, yaitu gugatan PT Mercy Toga Kirana di PTUN Jakarta, dicabut penggugatnya pada 29 Oktober 2026 dan bukan perkara yang diputus MA ini.
 
+### 2026-11-04 — Sidang pendahuluan perkara 400/PUU-XXIV/2026: pemohon minta syarat pendidikan capres-cawapres wajib diverifikasi faktual oleh KPU
+
+Mahkamah Konstitusi menggelar sidang pemeriksaan pendahuluan perkara Nomor 400/PUU-XXIV/2026 pada Rabu, 4 November 2026, dengan panel Hakim Konstitusi Enny Nurbaningsih (ketua), Ridwan Mansyur, dan Arsul Sani. Para pemohon — perseorangan warga negara Indonesia, di antaranya Ariyanto Zalukhu, Hana Sybil Vania Mendrofa, dan Berlian Suryo Putra Hia, dengan kuasa hukum Niatman Aperli Gea — menguji Pasal 169 huruf r Undang-Undang Nomor 7 Tahun 2017 tentang Pemilihan Umum dan meminta frasa "tamat" serta "atau sekolah lain yang sederajat" dimaknai mensyaratkan bukti kebenaran materiil mengenai penamatan jenjang pendidikan dan kesederajatan sekolah, yang wajib dibuktikan melalui verifikasi faktual oleh KPU. Latar belakang yang dikemukakan pemohon adalah fakta persidangan dalam Putusan MK Nomor 01/PHPU.PRES-XXIV/2026: mantan Ketua KPU RI periode Pilpres 2024 menerangkan verifikasi kebenaran dan keabsahan dokumen pendidikan Gibran Rakabuming Raka tidak dilakukan karena tidak ada keraguan maupun pengaduan masyarakat, serta dokumen serupa pernah digunakan dalam Pemilihan Wali Kota Surakarta Tahun 2020. Sidang ini belum memutus pokok permohonan; Hakim Konstitusi Ridwan Mansyur menasihati pemohon mempertegas uraian kerugian hak konstitusional, dan pemohon diberi satu kali kesempatan memperbaiki permohonan dengan berkas paling lambat diterima Mahkamah pada Selasa, 17 November 2026 pukul 12.00 WIB. Perkara ini adalah pengujian undang-undang yang terpisah, bukan upaya hukum lanjutan dalam perkara 01/PHPU.PRES-XXIV/2026.
+
+### 2026-11-05 — MKMK tolak laporan etik terhadap sembilan hakim pemeriksa PHPU 01
+
+Majelis Kehormatan Mahkamah Konstitusi (MKMK) memutus lima laporan dugaan pelanggaran Kode Etik dan Perilaku Hakim Konstitusi terhadap sembilan hakim yang memeriksa dan memutus perkara 01/PHPU.PRES-XXIV/2026, Kamis, 5 November 2026. Laporan Nomor 05, 06, 08, dan 09/MKMK/L/10/2026 ditolak, sedangkan laporan Nomor 07/MKMK/L/10/2026 dinyatakan tidak dapat diterima karena tidak memenuhi syarat sebagai Laporan; pelapor laporan 05 adalah Pian Andreo Halomoan Manurung, Ketua Umum Forum Mahasiswa Indonesia (Formasi). Pelapor menilai kesembilan hakim melanggar prinsip independensi karena memeriksa syarat dan prasyarat pencalonan presiden dan wakil presiden, yang menurut pelapor seharusnya menjadi tugas KPU dengan pengawasan Bawaslu serta DKPP. MKMK, melalui Anggota MKMK Ridwan Mansyur, menegaskan pengadilan dilarang menolak untuk memeriksa, mengadili, dan memutus perkara yang diajukan (Pasal 10 ayat (1) Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman), dan menyatakan penerbitan Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2026 tentang tahapan penanganan permohonan PHPU tidak dapat digunakan untuk mengukur pelanggaran independensi. Putusan ini tidak mengubah amar perkara 01/PHPU.PRES-XXIV/2026 maupun putusan MA tentang surat keterangan ijazah.
+
 ## Aktor yang Terlibat
 
 - [[gibran-rakabuming-raka|Gibran Rakabuming Raka]] — Wapres RI 2024–2029; pihak yang syarat pendidikannya dipersoalkan.
@@ -124,6 +136,7 @@ Mahkamah Agung mengabulkan kasasi H. M. Subhan dalam perkara Nomor 742 K/TUN/202
 - **2025:** detikJabar (14 Sept 2025, [tanggapan Jokowi](https://www.detik.com/jabar/berita/d-8111040/jokowi-berkumis-tipis-buka-bukaan-soal-sekolah-gibran-di-singapura)); detikJateng (25 Sept 2025, [klarifikasi SMPN 1 Solo](https://www.detik.com/jateng/berita/d-8130339/kepsek-pastikan-gibran-lulusan-smpn-1-solo-ada-ijazahnya)); detikNews (3 Okt 2025, [klarifikasi MDIS & respons PSI](https://news.detik.com/berita/d-8143557/mdis-sudah-angkat-bicara-psi-minta-polemik-ijazah-gibran-disetop)).
 - **September 2026 (Sidang MK):** detikNews (24 Sept 2026, [riwayat sekolah](https://news.detik.com/berita/d-8677899/syarat-pendidikan-gibran-digugat-ke-mk-jokowi-ungkap-riwayat-sekolah)); detikSumut (24 Sept 2026, [tanggapan Jokowi](https://www.detik.com/sumut/berita/d-8677439/tanggapan-jokowi-mengenai-ijazah-gibran-kini-disoal)); detikNews (30 Sept 2026: [permohonan panggil Gibran](https://news.detik.com/berita/d-8686883/bambang-widjojanto-minta-mk-panggil-gibran-di-sidang-pembuktian-besok), [sorotan Paket C](https://news.detik.com/berita/d-8686933/sidang-gugatan-ijazah-gibran-hakim-mk-sorot-banyak-calon-lulusan-paket-c), [sorotan PKPU 19/2023](https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran)); Kompas Video, Kompas TV, CNBC Indonesia, dan BBC Indonesia.
 - **Oktober 2026:** Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES-XXIV/2026 (6 Oktober 2026). Putusan kasasi Mahkamah Agung Nomor 742 K/TUN/2026 (30 Oktober 2026), diberitakan [Kompas.com](https://nasional.kompas.com/read/2026/10/30/17550581/ma-kabulkan-gugatan-pembatalan-suket-penyetaraan-ijazah-gibran) (30 Oktober 2026); amar putusan tercantum di laman kepaniteraan MA.
+- **November 2026:** Sidang pemeriksaan pendahuluan perkara 400/PUU-XXIV/2026 (4 November 2026) dan putusan MKMK atas laporan etik hakim PHPU 01 (5 November 2026), diberitakan [Humas MKRI](https://mkri.id/berita/pemohon-ingin-syarat-pendidikan-capres-cawapres-wajib-diverifikasi-faktual-oleh-kpu-26092) dan [Humas MKRI](https://www.mkri.id/berita/mkmk-mk-dilarang-untuk-menangani-perkara-26101).
 
 ## Catatan presisi
 
