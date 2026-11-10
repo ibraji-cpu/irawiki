@@ -45,6 +45,14 @@ sumber:
     tanggal: "2026-11-04"
   - url: "https://www.mkri.id/berita/mkmk-mk-dilarang-untuk-menangani-perkara-26101"
     tanggal: "2026-11-05"
+  - url: "https://www.cnbcindonesia.com/news/20261110152057-4-783938/breaking-news-wapres-gibran-ajukan-pengunduran-diri-kepada-prabowo"
+    tanggal: "2026-11-10"
+  - url: "https://investor.id/national/461419/gibran-ajukan-pengunduran-diri-istana-prabowo-tak-menolak"
+    tanggal: "2026-11-10"
+  - url: "https://www.cna.id/indonesia/gibran-pengunduran-diri-prabowo-52866"
+    tanggal: "2026-11-10"
+  - url: "https://www.beritasatu.com/nasional/3040087/begini-cara-wakil-presiden-mengundurkan-diri-menurut-uud-1945"
+    tanggal: "2026-11-10"
 kategori: aturan-main-demokrasi
 last_updated: "2026-11-10"
 last_verified: "2026-11-10"
@@ -54,7 +62,7 @@ last_verified: "2026-11-10"
 
 ## Ringkasan
 
-> **Ringkasan Topik:** Rangkaian polemik, gugatan perdata di PN Jakarta Pusat (September 2025), klarifikasi lembaga pendidikan, hingga permohonan Perselisihan Hasil Pemilihan Umum (PHPU) di [[mahkamah-konstitusi|Mahkamah Konstitusi]] perkara nomor 01/PHPU.PRES-XXIV/2026 (September–Oktober 2026) terkait syarat pendidikan dan ijazah Wakil Presiden [[gibran-rakabuming-raka|Gibran Rakabuming Raka]].
+> **Ringkasan Topik:** Rangkaian polemik, gugatan perdata di PN Jakarta Pusat (September 2025), klarifikasi lembaga pendidikan, hingga permohonan Perselisihan Hasil Pemilihan Umum (PHPU) di [[mahkamah-konstitusi|Mahkamah Konstitusi]] perkara nomor 01/PHPU.PRES-XXIV/2026 (September–Oktober 2026) terkait syarat pendidikan dan ijazah Wakil Presiden [[gibran-rakabuming-raka|Gibran Rakabuming Raka]]. Pada 10 November 2026, Gibran menyampaikan niat mengundurkan diri kepada Presiden Prabowo Subianto, yang dibenarkan Istana; hingga hari itu belum ada surat pengunduran diri resmi maupun keputusan pemberhentian.
 
 ## Apa relevansinya dengan anak muda?
 
@@ -120,6 +128,10 @@ Mahkamah Konstitusi menggelar sidang pemeriksaan pendahuluan perkara Nomor 400/P
 
 Majelis Kehormatan Mahkamah Konstitusi (MKMK) memutus lima laporan dugaan pelanggaran Kode Etik dan Perilaku Hakim Konstitusi terhadap sembilan hakim yang memeriksa dan memutus perkara 01/PHPU.PRES-XXIV/2026, Kamis, 5 November 2026. Laporan Nomor 05, 06, 08, dan 09/MKMK/L/10/2026 ditolak, sedangkan laporan Nomor 07/MKMK/L/10/2026 dinyatakan tidak dapat diterima karena tidak memenuhi syarat sebagai Laporan; pelapor laporan 05 adalah Pian Andreo Halomoan Manurung, Ketua Umum Forum Mahasiswa Indonesia (Formasi). Pelapor menilai kesembilan hakim melanggar prinsip independensi karena memeriksa syarat dan prasyarat pencalonan presiden dan wakil presiden, yang menurut pelapor seharusnya menjadi tugas KPU dengan pengawasan Bawaslu serta DKPP. MKMK, melalui Anggota MKMK Ridwan Mansyur, menegaskan pengadilan dilarang menolak untuk memeriksa, mengadili, dan memutus perkara yang diajukan (Pasal 10 ayat (1) Undang-Undang Nomor 48 Tahun 2009 tentang Kekuasaan Kehakiman), dan menyatakan penerbitan Peraturan Mahkamah Konstitusi Nomor 1 Tahun 2026 tentang tahapan penanganan permohonan PHPU tidak dapat digunakan untuk mengukur pelanggaran independensi. Putusan ini tidak mengubah amar perkara 01/PHPU.PRES-XXIV/2026 maupun putusan MA tentang surat keterangan ijazah.
 
+### 2026-11-10 — Gibran sampaikan niat mengundurkan diri kepada Prabowo; Istana: Prabowo tidak menolak
+
+Wakil Presiden [[gibran-rakabuming-raka|Gibran Rakabuming Raka]] menyampaikan niat mengundurkan diri dari jabatannya kepada Presiden [[prabowo-subianto|Prabowo Subianto]] dalam pertemuan tertutup di Istana Kepresidenan, Selasa pagi, 10 November 2026, yang berlangsung kurang lebih 2,5 jam. Hal itu dibenarkan Menteri Sekretaris Negara Prasetyo Hadi dalam konferensi pers di Istana, Selasa sore. Menurut Prasetyo, Gibran menyatakan niatan itu "menghadapi dinamika yang berkembang berkaitan dengan keputusan di Mahkamah Konstitusi maupun di Mahkamah Agung" — merujuk pada putusan MK Nomor 01/PHPU.PRES-XXIV/2026 (6 Oktober 2026) dan putusan kasasi MA Nomor 742 K/TUN/2026 (30 Oktober 2026) yang membatalkan surat keterangan penyetaraan ijazah SMA Gibran. Prasetyo sekaligus meluruskan bahwa tidak benar Prabowo menolak niat tersebut dalam pertemuan itu; tidak ada keterangan bahwa Prabowo menerima atau menindaklanjuti niat itu, dan tidak disebutkan adanya surat pengunduran diri resmi yang diserahkan — yang disampaikan Gibran adalah niatan. Dalam pertemuan yang sama, menurut Prasetyo sebagaimana diberitakan Investor.id dan CNA, Gibran memohon diberi kesempatan membuktikan keabsahan dokumen pendidikannya melalui proses di Pengadilan Tata Usaha Negara (PTUN). Hingga Selasa sore, Gibran masih menjabat Wakil Presiden — Ketua DPR RI [[puan-maharani|Puan Maharani]] menegaskan "Mas Gibran masih wapres" seusai rapat paripurna pembukaan Masa Persidangan II. Di DPR, usulan hak menyatakan pendapat (HMP) terhadap Gibran mulai diteken, sementara Ketua Fraksi PKB Jazilul Fawaid menegaskan mundur atau dimundurkannya Gibran tetap harus melalui sidang istimewa. Menurut Beritasatu (10 November 2026), pengunduran diri wakil presiden harus atas kehendak sendiri dan disampaikan secara tertulis — surat pengunduran diri adalah syarat utama, disampaikan kepada presiden lalu diteruskan kepada MPR, yang mengadakan sidang istimewa untuk memprosesnya; artikel itu mengaitkan mekanisme ini dengan Pasal 8 UUD 1945 secara umum, tanpa merinci ayatnya. Bila jabatan wakil presiden kosong, Pasal 8 ayat (2) UUD 1945 mewajibkan MPR bersidang paling lambat 60 hari untuk memilih pengganti dari dua calon yang diusulkan Presiden.
+
 ## Aktor yang Terlibat
 
 - [[gibran-rakabuming-raka|Gibran Rakabuming Raka]] — Wapres RI 2024–2029; pihak yang syarat pendidikannya dipersoalkan.
@@ -130,6 +142,7 @@ Majelis Kehormatan Mahkamah Konstitusi (MKMK) memutus lima laporan dugaan pelang
 - Wuryanti (Kepsek SMPN 1 Surakarta) & Management Development Institute of Singapore (MDIS) — pemberi klarifikasi riwayat studi.
 - Subhan (penggugat perdata di PN Jakpus) & Tifauzia Tyassuma / Dokter Tifa (penuding di media sosial X).
 - [[deddy-sitorus|Deddy Sitorus]] (PDIP), [[sugiat-santoso|Sugiat Santoso]] (Gerindra), [[raja-juli-antoni|Raja Juli Antoni]] & Andy Budiman (PSI) — pemberi tanggapan politik.
+- Prasetyo Hadi — Menteri Sekretaris Negara; membenarkan niat mundur Gibran dalam konferensi pers di Istana, 10 November 2026.
 
 ## Sumber
 
@@ -137,6 +150,7 @@ Majelis Kehormatan Mahkamah Konstitusi (MKMK) memutus lima laporan dugaan pelang
 - **September 2026 (Sidang MK):** detikNews (24 Sept 2026, [riwayat sekolah](https://news.detik.com/berita/d-8677899/syarat-pendidikan-gibran-digugat-ke-mk-jokowi-ungkap-riwayat-sekolah)); detikSumut (24 Sept 2026, [tanggapan Jokowi](https://www.detik.com/sumut/berita/d-8677439/tanggapan-jokowi-mengenai-ijazah-gibran-kini-disoal)); detikNews (30 Sept 2026: [permohonan panggil Gibran](https://news.detik.com/berita/d-8686883/bambang-widjojanto-minta-mk-panggil-gibran-di-sidang-pembuktian-besok), [sorotan Paket C](https://news.detik.com/berita/d-8686933/sidang-gugatan-ijazah-gibran-hakim-mk-sorot-banyak-calon-lulusan-paket-c), [sorotan PKPU 19/2023](https://news.detik.com/berita/d-8685776/tentang-pkpu-yang-disorot-hakim-mk-di-sidang-syarat-ijazah-pencalonan-gibran)); Kompas Video, Kompas TV, CNBC Indonesia, dan BBC Indonesia.
 - **Oktober 2026:** Putusan Mahkamah Konstitusi Nomor 01/PHPU.PRES-XXIV/2026 (6 Oktober 2026). Putusan kasasi Mahkamah Agung Nomor 742 K/TUN/2026 (30 Oktober 2026), diberitakan [Kompas.com](https://nasional.kompas.com/read/2026/10/30/17550581/ma-kabulkan-gugatan-pembatalan-suket-penyetaraan-ijazah-gibran) (30 Oktober 2026); amar putusan tercantum di laman kepaniteraan MA.
 - **November 2026:** Sidang pemeriksaan pendahuluan perkara 400/PUU-XXIV/2026 (4 November 2026) dan putusan MKMK atas laporan etik hakim PHPU 01 (5 November 2026), diberitakan [Humas MKRI](https://mkri.id/berita/pemohon-ingin-syarat-pendidikan-capres-cawapres-wajib-diverifikasi-faktual-oleh-kpu-26092) dan [Humas MKRI](https://www.mkri.id/berita/mkmk-mk-dilarang-untuk-menangani-perkara-26101).
+- **November 2026 (niat mundur):** [CNBC Indonesia](https://www.cnbcindonesia.com/news/20261110152057-4-783938/breaking-news-wapres-gibran-ajukan-pengunduran-diri-kepada-prabowo) (10 November 2026, Emir Yanwardhana); [Investor.id](https://investor.id/national/461419/gibran-ajukan-pengunduran-diri-istana-prabowo-tak-menolak) (10 November 2026); [CNA Indonesia](https://www.cna.id/indonesia/gibran-pengunduran-diri-prabowo-52866) (10 November 2026). Mekanisme pengunduran diri wapres menurut UUD 1945: [Beritasatu](https://www.beritasatu.com/nasional/3040087/begini-cara-wakil-presiden-mengundurkan-diri-menurut-uud-1945) (10 November 2026, Muhammad Firman).
 
 ## Catatan presisi
 
@@ -145,3 +159,5 @@ Majelis Kehormatan Mahkamah Konstitusi (MKMK) memutus lima laporan dugaan pelang
 - **Penggabungan halaman:** halaman duplikat `peristiwa/sengketa-ijazah-gibran-2026.md` telah dilebur ke hub ini pada 24 Oktober 2026; URL lamanya dialihkan ke sini.
 - **Celah data:** salinan resmi PDF putusan MK dan risalah sidang belum ditautkan; belum ada jadwal pembahasan hak angket di DPR.
 - **Putusan kasasi MA bukan pemberhentian:** putusan 742 K/TUN/2026 membatalkan suket penyetaraan, bukan memberhentikan wakil presiden; pemberhentian mengikuti mekanisme Pasal 7A dan 7B UUD 1945, dan hingga 30 Oktober 2026 belum ada keputusan DPR soal pansus, hak angket, maupun pemakzulan atas dasar putusan ini. Salinan lengkap putusan kasasi belum tersedia per 30 Oktober 2026, sehingga pertimbangan majelis belum dapat dikutip.
+- **Niat mundur bukan pengunduran diri resmi:** yang disampaikan Gibran pada 10 November 2026 adalah niatan, bukan surat pengunduran diri; tidak ada keterangan Prabowo menerima atau menindaklanjuti niat itu, dan Gibran masih menjabat wakil presiden hingga hari itu. Menurut Beritasatu (10 November 2026), pengunduran diri wapres harus sukarela dan tertulis — surat pengunduran diri disampaikan kepada presiden lalu diteruskan kepada MPR, yang mengadakan sidang istimewa untuk memprosesnya (Pasal 8 UUD 1945 secara umum, tanpa rincian ayat untuk tata cara ini). Pemberhentian wakil presiden (pemakzulan) mengikuti mekanisme Pasal 7A dan 7B UUD 1945; bila jabatan wakil presiden kosong, Pasal 8 ayat (2) UUD 1945 mewajibkan MPR bersidang paling lambat 60 hari untuk memilih pengganti dari dua calon yang diusulkan Presiden.
+
