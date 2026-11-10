@@ -7,6 +7,7 @@ tags: ["kinerja-pemerintahan", "pendidikan", "koding-ai", "guru", "digital"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-11-koding-dan-ai-siap-atau-tidak.mp3"
 ---
 
 # Koding dan AI di Sekolah: Siap atau Tidak?
