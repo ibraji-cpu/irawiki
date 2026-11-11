@@ -18,8 +18,7 @@
 - [RUU Satu Data Indonesia 2026](https://wiki.iraamalia.id/peristiwa/rencana-pengesahan-ruu-satu-data-indonesia-2026): 17 bab, 138 pasal, Badan Satu Data Indonesia.
 - [Andi Syamsuddin Arsyad (Haji Isam)](https://wiki.iraamalia.id/aktor/andi-syamsuddin-arsyad): profil pengusaha Batulicin dan konglomerasi Jhonlin.
 - [Prabowo Subianto](https://wiki.iraamalia.id/aktor/prabowo-subianto): profil presiden dan jaringan kekuasaan pendukungnya.
-- [Analisis Kepentingan RUU Satu Data](https://wiki.iraamalia.id/analisis/analisis-kepentingan-ruu-satu-data-indonesia): peta kepentingan aktor di balik legislasi data.
-- [Korpus lengkap](https://wiki.iraamalia.id/llms-full.txt): seluruh halaman peristiwa, analisis, dan hub dalam satu berkas markdown.
+- [Korpus lengkap](https://wiki.iraamalia.id/llms-full.txt): seluruh halaman hub dan peristiwa dalam satu berkas markdown (halaman aktor hanya sebagai daftar tautan).
 
 ## Kategori
 - [Siapa Tuan Tanahnya?](https://wiki.iraamalia.id/kategori/sumber-daya-alam): Siapa menguasai sumber daya Indonesia, siapa yang diuntungkan?
@@ -32,9 +31,36 @@
 ## Struktur situs
 - /aktor/* — profil aktor (pengusaha, politikus, perusahaan, lembaga)
 - /peristiwa/* — kronologi peristiwa bertanggal
-- /analisis/* — analisis tematik
+- /analisis/* — analisis tematik (saat ini belum ada halaman analisis yang terbit)
 - /kategori/* — enam kategori hub (taksonomi navigasi utama)
 - /tags/* — indeks topik
+
+## Cara membaca wiki ini
+- **Apa ini:** basis pengetahuan politik Indonesia — aktor, relasi kuasa,
+  dan kronologi kebijakan 2025–2026 — yang disusun agar bisa ditelusuri
+  kembali ke sumbernya. Wiki mengingat; blog (blog.iraamalia.id) menafsir.
+- **Jenis halaman:** hub (living document satu topik, kronologi
+  bertanggal), aktor (identitas, jabatan aktif/riwayat, afiliasi),
+  peristiwa (kejadian bertanggal), konsep (penjelas istilah).
+- **Relasi:** telusuri lewat seksi "Aktor yang Terlibat" / "Relasi Terkait"
+  dan tautan internal antarhalaman. Sebuah relasi hanya tercatat bila
+  disebutkan eksplisit oleh sumber atau didukung bukti dokumenter —
+  kemunculan bersama dalam satu berita BUKAN bukti relasi.
+- **Kronologi dan jabatan:** setiap entri kronologi bertanggal; jabatan
+  selalu dibaca beserta periodenya (mis. "2024–2029", "1 Okt–4 Nov 2026").
+  Jangan gabungkan periode jabatan yang berbeda menjadi satu.
+- **Sumber dan status verifikasi:** setiap halaman punya seksi Sumber dan
+  Catatan presisi. Perhatikan tanggal pembaruan halaman, tanggal sumber,
+  dan penanda seperti "diduga", "belum terverifikasi", "belum diketahui",
+  serta "SENGAJA tidak dimasukkan" beserta alasannya.
+- **Bedakan:** fakta terverifikasi, pernyataan resmi/pihak tertentu,
+  dugaan/tuduhan (selalu dengan atribusi siapa yang menduga), dan
+  analisis/interpretasi (hanya dari sumber yang dikutip, bukan pendirian
+  wiki). Status "tersangka" bukan vonis; penilaian pejabat bukan dakwaan.
+- **Batasan:** jangan membuat inferensi tanpa bukti — jangan menyatakan
+  dua aktor berhubungan, bersekongkol, atau memerintah sesuatu hanya
+  karena sering muncul bersama. Bila informasi belum tersedia, nyatakan
+  belum tersedia; bila sumber bertentangan, tampilkan keduanya.
 
 ## Cara mengutip
 - Kutip URL halaman spesifik (bukan homepage). Cantumkan tanggal akses;

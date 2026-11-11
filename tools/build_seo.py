@@ -7,6 +7,13 @@
 llms-full.txt layout:
   header -> root hub pages -> /peristiwa/* -> /analisis/* (full markdown)
   -> /aktor/* as grouped link list (no full text)
+
+Perubahan 2026-11-11 (Fase 1 audit GEO, keputusan user):
+  - Seksi ## Relasi dan ## Sumber DIPERTAHANKAN di korpus agar LLM dapat
+    menelusuri relasi dan memeriksa provenance klaim (sebelumnya dibuang).
+  - Judul lama "Kenapa penting buat Gen Z" dinormalisasi menjadi
+    "Apa relevansinya dengan anak muda?" (konvensi diputuskan 2026-10-21)
+    pada output korpus, selagi 81 file sumber masih memakai judul lama.
 """
 import os
 import re
@@ -43,17 +50,25 @@ def fm_value(fm, key):
     return v or None
 
 
-def strip_meta(body):
-    """Drop property/relationship blocks that are not narrative."""
-    out, skip = [], False
+OLD_HEADING = "Kenapa penting buat Gen Z"
+NEW_HEADING = "Apa relevansinya dengan anak muda?"
+
+
+def normalize_body(body):
+    """Keep ## Relasi and ## Sumber; normalize the legacy heading.
+
+    Relasi dan Sumber dipertahankan agar LLM dapat menelusuri hubungan
+    ant entitas dan memeriksa provenance klaim (keputusan user 2026-11-11).
+    Judul lama "Kenapa penting buat Gen Z" diubah menjadi konvensi yang
+    diputuskan 2026-10-21 pada output korpus, selagi file sumber masih
+    memakai judul lama (81 file, rename terpisah sebagai batch Hermes).
+    """
+    out = []
     for ln in body.split("\n"):
-        if re.match(r"^##\s+(Relasi|Sumber)\b", ln, re.I):
-            skip = True
-            continue
-        if skip and re.match(r"^##\s+", ln):
-            skip = False
-        if not skip:
-            out.append(ln)
+        m = re.match(r"^(#{1,6}\s+)Kenapa penting buat Gen Z\s*$", ln)
+        if m:
+            ln = m.group(1) + NEW_HEADING
+        out.append(ln)
     return "\n".join(out).strip()
 
 
@@ -98,7 +113,7 @@ def updated_of(page):
 
 
 def render(page, title_by_slug):
-    body = strip_meta(page["body"])
+    body = normalize_body(page["body"])
     body = unlink(body, title_by_slug)
     # drop duplicated leading H1 (the page title is printed by the file header)
     lines = body.split("\n")
@@ -134,6 +149,7 @@ def main():
     out.append(f"> Dibuat otomatis: {date.today().isoformat()}. Sumber: {BASE}")
     out.append("> Wiki politik Indonesia: aktor, relasi kuasa, kronologi kebijakan.")
     out.append("> Teks halaman /aktor/* disediakan sebagai daftar tautan, bukan teks penuh.")
+    out.append("> Seksi Relasi dan Sumber dipertahankan agar klaim dapat ditelusuri ke sumbernya.")
     out.append("")
     out.append(f"Isi: {len(roots)} hub, {len(event)} peristiwa, {len(analysis)} analisis, "
                f"{len(actors)} aktor.")
