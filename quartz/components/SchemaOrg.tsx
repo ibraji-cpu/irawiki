@@ -9,6 +9,14 @@ const SchemaOrg: QuartzComponent = ({ cfg, fileData }: QuartzComponentProps) => 
   
   const baseUrl = `https://${cfg.baseUrl}`
   const pageUrl = `${baseUrl}/${slug}`
+
+  // sameAs HANYA dari frontmatter yang terverifikasi; jangan ditebak dari slug
+  const frontmatterSameAs = fileData.frontmatter?.sameAs
+  const sameAsList: string[] = Array.isArray(frontmatterSameAs)
+    ? frontmatterSameAs.filter((v: unknown): v is string => typeof v === "string")
+    : typeof frontmatterSameAs === "string"
+      ? [frontmatterSameAs]
+      : []
   
   // Determine entity type from tags
   const personTags = ['tokoh', 'aktor', 'politikus', 'pengusaha', 'menteri', 'presiden', 'gubernur']
@@ -31,9 +39,7 @@ const SchemaOrg: QuartzComponent = ({ cfg, fileData }: QuartzComponentProps) => 
       "name": title,
       "url": pageUrl,
       "description": description,
-      "sameAs": [
-        `https://id.wikipedia.org/wiki/${slug.replace(/-/g, '_')}`
-      ]
+      ...(sameAsList.length > 0 ? { "sameAs": sameAsList } : {}),
     }
   } else if (isOrg) {
     mainSchema = {
@@ -42,9 +48,7 @@ const SchemaOrg: QuartzComponent = ({ cfg, fileData }: QuartzComponentProps) => 
       "name": title,
       "url": pageUrl,
       "description": description,
-      "sameAs": [
-        `https://id.wikipedia.org/wiki/${slug.replace(/-/g, '_')}`
-      ]
+      ...(sameAsList.length > 0 ? { "sameAs": sameAsList } : {}),
     }
   } else if (isTerm) {
     mainSchema = {

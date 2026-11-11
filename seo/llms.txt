@@ -18,7 +18,7 @@
 - [RUU Satu Data Indonesia 2026](https://wiki.iraamalia.id/peristiwa/rencana-pengesahan-ruu-satu-data-indonesia-2026): 17 bab, 138 pasal, Badan Satu Data Indonesia.
 - [Andi Syamsuddin Arsyad (Haji Isam)](https://wiki.iraamalia.id/aktor/andi-syamsuddin-arsyad): profil pengusaha Batulicin dan konglomerasi Jhonlin.
 - [Prabowo Subianto](https://wiki.iraamalia.id/aktor/prabowo-subianto): profil presiden dan jaringan kekuasaan pendukungnya.
-- [Korpus lengkap](https://wiki.iraamalia.id/llms-full.txt): seluruh halaman hub dan peristiwa dalam satu berkas markdown (halaman aktor hanya sebagai daftar tautan).
+- [Korpus lengkap](https://wiki.iraamalia.id/llms-full.txt): seluruh halaman hub dan peristiwa dalam satu berkas markdown (halaman aktor sebagai daftar tautan dengan ringkasan satu baris).
 
 ## Kategori
 - [Siapa Tuan Tanahnya?](https://wiki.iraamalia.id/kategori/sumber-daya-alam): Siapa menguasai sumber daya Indonesia, siapa yang diuntungkan?
