@@ -1,29 +1,62 @@
 # IRAWIKI Schema & Guidelines
 
 > Dokumen ini adalah panduan (tata tertib) untuk penulis (manusia) dan Agen AI yang mengelola IRAWIKI.
-> IRAWIKI mengadaptasi konsep "LLM Wiki", namun dimodifikasi khusus untuk arsitektur Flat-File Obsidian -> Quartz.
+> IRAWIKI mengadaptasi konsep "LLM Wiki", namun dimodifikasi khusus untuk arsitektur Markdown (Obsidian) -> Quartz.
+> Revisi 2026-11-11 (Fase 1 audit GEO): diselaraskan dengan skema frontmatter
+> dan struktur folder yang benar-benar live di repo.
 
-## 1. Arsitektur Flat-File (PENTING!)
-- **JANGAN PERNAH MEMBUAT SUB-FOLDER BARU** (seperti `raw/`, `entities/`, `concepts/`, dsb).
-- Semua file `.md` wajib diletakkan **sejajar** (di dalam root folder vault, atau mengikuti letak file `index.md`).
-- Sebagai pengganti sub-folder, klasifikasi HANYA dilakukan menggunakan atribut **Frontmatter `type:`**.
+## 1. Struktur folder (yang live)
+- Hub living document di root `content/` (mis. `content/satgas-pkh.md`,
+  `content/kinerja-pemerintahan-prabowo-gibran.md`).
+- Subfolder yang ada: `content/aktor/`, `content/peristiwa/`,
+  `content/kategori/` (dan `content/analisis/` bila ada halaman analisis
+  yang terbit — saat ini belum ada).
+- **JANGAN membuat subfolder baru** tanpa keputusan (mis. `raw/`,
+  `entities/`, `concepts/`).
+- Indeks: `content/index.md` (homepage wiki).
 
-## 2. Klasifikasi Tipe Halaman (`type:`)
-Selalu isi atribut `type:` di YAML sesuai dengan kriteria berikut:
-- `entity` : Untuk entitas (tokoh politik, pengusaha, perusahaan, partai, organisasi).
-- `concept` : Untuk konsep, peraturan perundang-undangan, atau isu kebijakan publik.
-- `comparison` : Untuk halaman analisis yang membandingkan dua atau lebih entitas secara mendalam.
-- `raw` : Untuk arsip mentah, *copy-paste* artikel berita panjang, transkrip, yang sifatnya *immutable* (tidak boleh diedit substansinya).
-- `query` : Halaman jawaban hasil rangkuman analisis dari suatu pertanyaan spesifik/kompleks.
+## 2. Klasifikasi halaman
+Klasifikasi dilakukan lewat frontmatter — BUKAN lewat atribut `type:`
+(`type: entity/concept/comparison/raw/query` sudah tidak dipakai):
+- `entity_type`: `individu` | `perusahaan` | `organisasi` | `lembaga` |
+  `peristiwa` | `topik` | `analisis` | `konsep`
+- `kategori` (taksonomi 6, nama tampil diputuskan 2026-10-22):
+  `sumber-daya-alam` | `pasar-dan-kepemilikan` | `aturan-main-demokrasi` |
+  `hukum-dan-pertanahan` | `kinerja-pemerintahan` | `konsep`
+- `kategori_tambahan`: list, opsional, bila satu halaman masuk dua kategori.
+- `category`: penanda asal folder (`aktor` dsb., warisan template) —
+  bukan taksonomi; jangan disamakan dengan `kategori`.
 
-## 3. Frontmatter & Kualitas Data
-Setiap halaman wajib/sangat disarankan memakai atribut YAML berikut untuk menjaga standar jurnalistik/intelijen:
-- `sources: []` : Senarai tautan/judul file referensi asli (berasal dari halaman `type: raw` atau URL).
-- `confidence: high | medium | low` :
-  - `high` : Didukung banyak sumber independen yang saling memvalidasi.
-  - `medium` / `low` : Hanya bersumber dari satu berita, gosip politik, atau klaim yang bergerak sangat cepat.
-- `contested: true | false` : Ubah menjadi `true` jika halaman ini mengandung klaim/fakta yang saling bertentangan antar-sumber.
-- `contradictions: []` : Daftar tautan ke halaman atau rujukan lain yang membantah fakta di halaman ini.
+## 3. Frontmatter (yang live)
+Field yang dipakai file-file di repo (contoh: `content/aktor/andi-syamsuddin-arsyad.md`,
+`content/peristiwa/polemik-ijazah-gibran.md`):
+- `title`, `description` (satu kalimat informatif), `date` (YYYY-MM-DD,
+  tanggal terbit), `updated` (YYYY-MM-DD, tanggal pembaruan terakhir)
+- `aliases`: list variasi nama/judul (untuk pencarian dan wikilink)
+- `tags`: list topik
+- `entity_type`, `entity_id` (slug konsisten untuk Wikilink, untuk hub/topik)
+- `status`: mis. `aktif`
+- `confidence` (1–10, angka — BUKAN `high/medium/low`): tingkat keyakinan
+  terhadap kualitas informasi terkumpul; sumber terbatas → nilai rendah
+- `risiko_editorial`: `rendah` | `sedang` | `tinggi` — kebutuhan
+  kehati-hatian editorial, **bukan vonis terhadap aktor**
+- `relasi`: list relasi terstruktur; boleh `[]` — relasi utama saat ini
+  hidup di Wikilink body + seksi `## Aktor yang Terlibat` /
+  `## Relasi Terkait` (lihat §8D). Jangan mengisi `relasi:` dengan
+  dugaan; hanya relasi yang didukung sumber.
+- `sumber`: list item `{url, tanggal}` — URL sumber asli + tanggal
+  publikasi sumber; jangan hapus sumber lama saat sumber baru ditemukan
+- `kategori`, `kategori_tambahan`, `last_verified` (YYYY-MM-DD,
+  tanggal verifikasi terakhir — BUKAN `last_updated`)
+- **Tidak dipakai lagi:** `type:`, `confidence: high/medium/low`,
+  `contested:`, `contradictions:` — bila sumber saling bertentangan,
+  tulis di seksi `## Catatan presisi` di body + naikkan `risiko_editorial`.
+- Jangan buat field baru untuk info tambahan; info tanpa tempat jelas
+  masuk body Markdown bila relevan. Jangan masukkan opini ke field fakta.
+- Judul seksi relevansi di body: `## Apa relevansinya dengan anak muda?`
+  (satu konvensi, diputuskan 2026-10-21). Judul lama
+  `## Kenapa penting buat Gen Z` masih ada di 81 file dan diseragamkan
+  bertahap; generator `tools/build_seo.py` menormalisasinya di `llms-full.txt`.
 
 ## 4. Kebijakan Jejak Rekam (Provenance)
 - Jika sebuah halaman mensintesis lebih dari 3 dokumen sumber berbeda, sangat disarankan menempelkan penanda kutipan spesifik (seperti catatan kaki) di akhir paragraf, contoh: `^[nama-file-sumber.md]`.
@@ -47,10 +80,10 @@ Tiga template utama di `templates/`:
 
 Masing-masing template sudah include frontmatter lengkap dengan:
 - `entity_id` (slug konsisten untuk Wikilink)
-- `entity_type` (individu | peristiwa | analisis)
+- `entity_type` (individu | peristiwa | analisis | topik | konsep | perusahaan | organisasi | lembaga)
 - `confidence` (1–10)
 - `risiko_editorial` (rendah | sedang | tinggi)
-- `last_updated` (YYYY-MM-DD)
+- `last_verified` (YYYY-MM-DD)
 
 ---
 
@@ -96,7 +129,7 @@ Bukan:
 Tugas utama adalah: **identifikasi → ekstraksi → klasifikasi → WikiLink → penyusunan Markdown.**
 Tidak perlu:
 - membangun teori jaringan;
-- mencari hubungan tersembunyai;
+- mencari hubungan tersembunyi;
 - memprediksi langkah aktor;
 - mengisi field yang tidak tersedia;
 - membuat konteks panjang;
