@@ -14,6 +14,11 @@ Perubahan 2026-11-11 (Fase 1 audit GEO, keputusan user):
   - Judul lama "Kenapa penting buat Gen Z" dinormalisasi menjadi
     "Apa relevansinya dengan anak muda?" (konvensi diputuskan 2026-10-21)
     pada output korpus, selagi 81 file sumber masih memakai judul lama.
+
+Perubahan 2026-11-11 (Fase 2 audit GEO):
+  - Daftar aktor di llms-full.txt diberi ringkasan satu baris dari
+    frontmatter `description` (sebelumnya hanya tautan tanpa konteks).
+    Halaman tanpa `description` tetap tampil sebagai tautan saja.
 """
 import os
 import re
@@ -148,7 +153,7 @@ def main():
     out.append("")
     out.append(f"> Dibuat otomatis: {date.today().isoformat()}. Sumber: {BASE}")
     out.append("> Wiki politik Indonesia: aktor, relasi kuasa, kronologi kebijakan.")
-    out.append("> Teks halaman /aktor/* disediakan sebagai daftar tautan, bukan teks penuh.")
+    out.append("> Teks halaman /aktor/* disediakan sebagai daftar tautan dengan ringkasan satu baris, bukan teks penuh.")
     out.append("> Seksi Relasi dan Sumber dipertahankan agar klaim dapat ditelusuri ke sumbernya.")
     out.append("")
     out.append(f"Isi: {len(roots)} hub, {len(event)} peristiwa, {len(analysis)} analisis, "
@@ -176,7 +181,11 @@ def main():
     for key in sorted(groups):
         out.append(f"## {key}")
         for p in groups[key]:
-            out.append(f"- [{p['title']}]({BASE}/{p['slug']})")
+            desc = fm_value(p["fm"], "description")
+            if desc:
+                out.append(f"- [{p['title']}]({BASE}/{p['slug']}): {desc}")
+            else:
+                out.append(f"- [{p['title']}]({BASE}/{p['slug']})")
         out.append("")
 
     os.makedirs(PUBLIC, exist_ok=True)

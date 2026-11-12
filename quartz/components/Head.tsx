@@ -25,6 +25,9 @@ export default (() => {
     const date = fileData.frontmatter?.date || ""
     const baseUrl = `https://${cfg.baseUrl}`
     const pageUrl = `${baseUrl}/${fileData.slug}`
+    const isIndex = (fileData.slug ?? "") === "index" || (fileData.slug ?? "") === ""
+    // URL kanonis: homepage tanpa "/index", halaman lain apa adanya
+    const canonicalUrl = isIndex ? baseUrl : pageUrl
 
     const toIso = (value: unknown): string | undefined => {
       if (!value) return undefined
@@ -52,6 +55,15 @@ export default (() => {
     const isOrg = tags.some((t: string) => orgTags.includes(t.toLowerCase()))
     const techTags = ['analisis', 'geopolitik', 'kebijakan', 'ekonomi', 'riset', 'perang-modern', 'tipologi', 'wiki', 'peristiwa']
     const isTech = tags.some((t: string) => techTags.includes(t.toLowerCase())) || slugStr.includes('perang') || slugStr.includes('analisis')
+    const termTags = ['glosarium', 'istilah', 'definisi', 'konsep']
+    const isTerm = tags.some((t: string) => termTags.includes(t.toLowerCase()))
+    // sameAs HANYA dari frontmatter yang terverifikasi; jangan ditebak dari slug
+    const frontmatterSameAs = fileData.frontmatter?.sameAs
+    const sameAsList: string[] = Array.isArray(frontmatterSameAs)
+      ? frontmatterSameAs.filter((v: unknown): v is string => typeof v === "string")
+      : typeof frontmatterSameAs === "string"
+        ? [frontmatterSameAs]
+        : []
     
     let mainSchema: Record<string, any> = {}
     
@@ -62,9 +74,7 @@ export default (() => {
         "name": title,
         "url": pageUrl,
         "description": description,
-        "sameAs": [
-          `https://id.wikipedia.org/wiki/${(fileData.slug || '').replace(/-/g, '_')}`
-        ]
+        ...(sameAsList.length > 0 ? { "sameAs": sameAsList } : {}),
       }
     } else if (isOrg) {
       mainSchema = {
@@ -73,9 +83,24 @@ export default (() => {
         "name": title,
         "url": pageUrl,
         "description": description,
-        "sameAs": [
-          `https://id.wikipedia.org/wiki/${(fileData.slug || '').replace(/-/g, '_')}`
-        ]
+        ...(sameAsList.length > 0 ? { "sameAs": sameAsList } : {}),
+      }
+    } else if (isIndex) {
+      mainSchema = {
+        "@context": "https://schema.org",
+        "@type": "WebSite",
+        "name": cfg.pageTitle,
+        "url": baseUrl,
+        "description": description,
+      }
+    } else if (isTerm) {
+      mainSchema = {
+        "@context": "https://schema.org",
+        "@type": "DefinedTerm",
+        "name": title,
+        "description": description,
+        "url": pageUrl,
+        "inDefinedTermSet": `${baseUrl}/`,
       }
     } else {
       mainSchema = {
@@ -115,20 +140,29 @@ export default (() => {
     const breadcrumbSchema = {
       "@context": "https://schema.org",
       "@type": "BreadcrumbList",
-      "itemListElement": [
-        {
-          "@type": "ListItem",
-          "position": 1,
-          "name": "Home",
-          "item": baseUrl
-        },
-        {
-          "@type": "ListItem",
-          "position": 2,
-          "name": title,
-          "item": pageUrl
-        }
-      ]
+      "itemListElement": isIndex
+        ? [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": baseUrl,
+            },
+          ]
+        : [
+            {
+              "@type": "ListItem",
+              "position": 1,
+              "name": "Home",
+              "item": baseUrl,
+            },
+            {
+              "@type": "ListItem",
+              "position": 2,
+              "name": title,
+              "item": pageUrl,
+            },
+          ],
     }
     
     const schemaList: Record<string, any>[] = [mainSchema, breadcrumbSchema]
@@ -146,7 +180,7 @@ export default (() => {
 
     // Url of current page
     const socialUrl =
-      fileData.slug === "404" ? url.toString() : joinSegments(url.toString(), fileData.slug!)
+      fileData.slug === "404" ? url.toString() : canonicalUrl
 
     const usesCustomOgImage = ctx.cfg.plugins.emitters.some((e) => e.name === "CustomOgImages")
     const ogImageDefaultPath = `https://${cfg.baseUrl}/static/covers/ira-amalia-cover.jpg?v=1789776273`
@@ -218,6 +252,8 @@ export default (() => {
 
         <link rel="icon" href={iconPath} />
         <meta name="description" content={description} />
+        <link rel="canonical" href={canonicalUrl} />
+        <meta name="robots" content="index, follow" />
         <meta name="generator" content="Quartz" />
 
         {css.map((resource) => CSSResourceToStyleElement(resource, true))}

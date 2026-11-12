@@ -7,6 +7,8 @@ aliases:
 - Haji Isam
 - Andi Syamsuddin Arsyad
 - Andi Syamsuddin Arsyad (Haji Isam)
+sameAs:
+- https://id.wikipedia.org/wiki/Haji_Isam
 category: aktor
 tags:
 - individu
