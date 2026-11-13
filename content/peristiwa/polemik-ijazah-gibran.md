@@ -17,6 +17,7 @@ entity_id: "polemik-ijazah-gibran"
 status: "aktif"
 confidence: 5
 risiko_editorial: "sedang"
+pandangan_tokoh: true
 relasi: []
 sumber:
   - url: "https://www.detik.com/jabar/berita/d-8111040/jokowi-berkumis-tipis-buka-bukaan-soal-sekolah-gibran-di-singapura"
@@ -229,4 +230,52 @@ Juga pada 12 November 2026, Pengadilan Tata Usaha Negara (PTUN) Jakarta menyatak
 - **Penilaian Yusril bukan putusan pengadilan:** pernyataan Menko Kumham Imipas Yusril Ihza Mahendra bahwa upaya pembuktian ke PTUN "tidak ada gunanya" adalah pendapat hukum pejabat; pada 12 November 2026 Kemendikdasmen mencabut suket itu (Keputusan Direktur Jenderal Nomor 206 Tahun 2026) dan PTUN Jakarta menyatakan gugatan PT Mercy Toga Kirana (255/G/2026/PTUN.JKT) gugur; penilaian Yusril soal tidak adanya lagi upaya hukum mempertahankan suket dan soal implikasi konstitusionalnya tetap merupakan pendapat pejabat, bukan putusan pengadilan.
 - **Gugur bukan putusan pokok:** putusan PTUN 12 November 2026 yang menyatakan gugatan PT Mercy Toga Kirana (255/G/2026/PTUN.JKT) gugur didasarkan pada dicabutnya objek sengketa (suket 9149/D.D1/KS/2019); majelis tidak mengadili sah atau tidaknya suket itu — soal itu sudah diputus MA lewat kasasi 742 K/TUN/2026. Perkara 400/PUU-XXIV/2026 di MK masih berjalan (perbaikan permohonan paling lambat 17 November 2026 pukul 12.00 WIB).
 - **Artikel Detik 10 November 2026 tidak dipakai sebagai sumber:** artikel Detik yang mengklaim memuat putusan lengkap 742 K/TUN/2026 bertentangan dengan salinan putusan dan banyak sumber lain (tanggal putusan, ketua majelis, tanggal suket, amar) sehingga tidak dikutip di entri ini.
+
+## Pandangan Tokoh Terpilih
+
+> **Seksi ini berisi pandangan tokoh yang dipilih pengguna. Isinya klaim dan interpretasi tokoh yang bersangkutan, bukan fakta wiki. Setiap entri disertai catatan verifikasi.**
+
+### Muhammad Said Didu — 13 November 2026
+
+- **Tokoh:** Muhammad Said Didu, mantan pejabat Kementerian BUMN.
+- **Sumber:** Naskah beredar "Fakta Lengkap proses Gibran Menjadi dan Berhenti sebagai Wapres — jangan terkecoh pemutarbalikan fakta", diterima pengguna via WhatsApp 13 November 2026. URL publik tidak ditemukan (pencarian 13 November 2026).
+- **Konteks:** Naskah 20 poin yang ditulis sehari setelah Gibran menyerahkan surat pengunduran diri ke MPR (12 November 2026); bertujuan membantah pembacaan bahwa Gibran "negarawan" yang mundur demi rakyat dan negara.
+- **Klaim utama:**
+  1. Gibran jadi cawapres bukan keinginan Prabowo, melainkan karena dipaksa dan direkayasa Jokowi; dua calon wapres lain dikriminalisasi sehingga Prabowo menemui jalan buntu.
+  2. Jokowi membangun dinasti sejak 2021 (Gibran Wali Kota Solo, Bobby Nasution Wali Kota Medan) setelah gagal menjadi presiden tiga periode.
+  3. Putusan MK soal umur (ditulis 16 Oktober 2026) hasil intervensi Anwar Usman; komposisi hakim 4 menolak, 3 setuju asal pernah jadi bupati/walikota/gubernur, 2 setuju asal pernah jadi gubernur — Anwar menafsirkan 4 lawan 5.
+  4. Gibran tidak memiliki ijazah SLTA; MK 6 Oktober 2026 memutuskan demikian; DPR menerima HMP 11 November 2026; Gibran mundur 12 November 2026 karena sudah tidak ada pilihan.
+- **Catatan verifikasi:**
+  - **Benar:** gugatan Almas Tsaqibbirru (mahasiswa UNS) ke MK; Anwar Usman dicopot MKMK dari jabatan Ketua MK karena pelanggaran etik berat; kasasi MA 742 K/TUN/2026 (30 Oktober 2026) membatalkan suket 9149/D.D1/KS/2019; Gibran menyerahkan surat pengunduran diri ke MPR 12 November 2026.
+  - **Salah:** (a) Putusan MK soal umur adalah 16 Oktober 2023, bukan 2026. (b) MK 6 Oktober 2026 (01/PHPU.PRES-XXIV/2026) putusannya "tidak dapat diterima" karena legal standing — MK tidak memutuskan soal ijazah Gibran. (c) DPR tidak "menerima" HMP — 120 anggota meneken usulan; rapat paripurna 12 November 2026 dibatalkan. (d) Gibran baru menyerahkan surat — jabatannya belum berubah secara ketatanegaraan sampai MPR bersidang (paling lambat 60 hari).
+  - **Soal komposisi hakim:** Putusan 90/PUU-XXI/2023 mencatat 4 dissenting (Wahiduddin Adams, Saldi Isra, Arief Hidayat, Suhartoyo) dan 2 concurring (Enny Nurbaningsih: amar seharusnya "berpengalaman sebagai Gubernur"; Daniel Yusmic P. Foekh: "kepala daerah tingkat provinsi"); hanya 3 hakim yang setuju dengan amar sebagaimana dibacakan. Pembacaan "5 setuju" menghitung 2 concurring sebagai setuju — inilah yang dipersoalkan Mahfud MD dan Wakil Ketua MPR Ahmad Basarah.
+  - **Tafsir (bukan fakta):** "dinasti", "memaksakan", "dikriminalisasi", Prabowo "terpaksa", Jokowi "pura-pura tidak mau" — interpretasi penulis tanpa bukti yang dikutip; dua calon yang disebut dikriminalisasi tidak dinamai.
+
+### Moh. Mahfud MD — 15 Oktober 2026
+
+- **Tokoh:** Moh. Mahfud MD, mantan Menko Polhukam; mantan Ketua Mahkamah Konstitusi.
+- **Sumber:** KoranKota, "Mahfud MD: 3 Menteri Diduga Ikut Kondisikan Aturan Pencalonan Gibran", 15 Oktober 2026 (podcast Terus Terang bersama Rizal Mustary). https://www.korankota.com/v151/t502/93567/mahfud-md-3-menteri-diduga-ikut-kondisikan-aturan-pencalonan-gibran
+- **Konteks:** Mahfud menyampaikan informasi dari podcast Bambang Widjojanto yang menghadirkan narasumber anonim ("mystery guest", mantan pejabat tinggi) soal dugaan pengondisian pencalonan Gibran.
+- **Klaim utama:**
+  1. Tiga menteri diduga memerintahkan agar pencalonan Gibran "dikondisikan", termasuk memastikan persyaratan pendidikan tidak menghambat pencalonan.
+  2. PKPU 19/2023 Pasal 18 ayat (3) (persyaratan pendidikan bagi capres/cawapres yang menempuh pendidikan di luar negeri) dibuat dengan arahan "jangan terhalang karena ijazah".
+  3. Dugaan manipulasi aturan perlu diusut, termasuk kemungkinan pelanggaran pidana; bila terbukti, itu "kejahatan moral yang luar biasa".
+- **Catatan verifikasi:**
+  - Yang disampaikan Mahfud adalah informasi dari narasumber anonim; identitas narasumber maupun ketiga menteri tidak diungkap. Klaim ini belum dapat diperlakukan sebagai fakta hukum yang terbukti — perlu verifikasi lewat bukti dan keterangan pihak terkait (ditegaskan sendiri oleh sumber).
+  - Terverifikasi sebagai konteks: Putusan MK 90/PUU-XXI/2023 (Oktober 2023) membuka pengecualian batas usia 40 tahun bagi yang pernah/sedang menduduki jabatan hasil pemilu; Anwar Usman adalah paman Gibran; MKMK menyatakan Anwar melakukan pelanggaran etik berat dan mencopotnya dari jabatan Ketua MK.
+  - Pasal 18 ayat (3) PKPU 19/2023 memang mengatur persyaratan pendidikan bagi yang menempuh pendidikan di luar negeri; dugaan bahwa pasal itu "dibuat" atas arahan adalah klaim, bukan fakta yang terbukti.
+
+### Yusril Ihza Mahendra — 10 November 2026
+
+- **Tokoh:** Yusril Ihza Mahendra, Menko Hukum, HAM, Imigrasi, dan Pemasyarakatan.
+- **Sumber:** CNN Indonesia, "Yusril soal Gibran Mau Buktikan Asli Ijazah ke PTUN: Tak Ada Gunanya", 10 November 2026. https://www.cnnindonesia.com/nasional/20261110173941-32-1425531/yusril-soal-gibran-mau-buktikan-asli-ijazah-ke-ptun-tak-ada-gunanya — sudah terverifikasi dan masuk hub via PR #145 (dibuka 10 November 2026; dibuka ulang 13 November 2026 gagal karena domain diblokir kebijakan browser — isi mengacu pada catatan verifikasi hub 10 November 2026).
+- **Konteks:** Menanggapi rencana Gibran membuktikan keaslian dokumen pendidikan lewat PTUN dan koordinasi Kemendikdasmen mengajukan PK ke MK, setelah Gibran menyampaikan niat mundur ke Prabowo (10 November 2026).
+- **Klaim utama:**
+  1. Upaya pembuktian ke PTUN "tidak ada gunanya" karena putusan MA sudah final atas materi yang sama dan putusan MK final and binding.
+  2. Gibran bukan pihak dalam perkara Subhan sehingga tidak dapat mengajukan PK.
+  3. PTUN diperkirakan akan menghentikan gugatan Mercy dan Denny Indrayana karena objek sengketanya sudah tidak ada lagi.
+- **Catatan verifikasi:**
+  - Ini pendapat hukum seorang pejabat, bukan putusan pengadilan (sudah dicatat di Catatan presisi hub).
+  - Fakta yang mendasarinya terverifikasi: kasasi MA 742 K/TUN/2026 (30 Oktober 2026) membatalkan suket; MK 01/PHPU.PRES-XXIV/2026 (6 Oktober 2026) tidak dapat diterima.
+  - Prediksi soal PTUN (poin 3) adalah prediksi, bukan fakta — per 10 November 2026 belum ada putusan PTUN yang menghentikan gugatan Mercy/Denny. Perkembangan 12 November 2026: PTUN Jakarta menyatakan gugatan atas suket itu gugur karena objek sengketanya sudah dicabut (lihat entri 2026-11-12 di hub ini).
 
