@@ -41,6 +41,8 @@ source_wiki:
 related_synthesis: []
 
 author: Ira Amalia
+ai_generated: true
+risiko_editorial: sedang
 status: analisis-terbuka
 update_policy: evidence-driven
 
