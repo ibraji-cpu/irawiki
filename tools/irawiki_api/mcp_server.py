@@ -67,6 +67,29 @@ async def irawiki_search(query: str, tipe: str = "", limit: int = 10) -> str:
 
 
 @mcp.tool()
+async def irawiki_search_opini(query: str, limit: int = 10) -> str:
+    """Cari PANDANGAN/KLAIM TOKOH di indeks opini TERPISAH (bukan fakta).
+
+    Gunakan ini — bukan irawiki_search — ketika pertanyaan menyangkut pendapat,
+    klaim, atau interpretasi seorang tokoh (mis. "pandangan Said Didu soal
+    Gibran"). Hasil(indeks `opini_fts`) selalu membawa `jenis='opini'` dan
+    `label='Klaim tokoh — bukan fakta wiki'`, plus kolom `tokoh` pemilik klaim.
+    indeks fakta (`chunks_fts`) sengaja TIDAK berisi klaim tokoh.
+
+    Args:
+        query: kata kunci (nama tokoh, topik, mis. "Said Didu Gibran").
+        limit: maksimum hasil (default 10).
+
+    Returns:
+        JSON {query, count, jenis:'opini', label, results:[{title, type,
+        page_path, section, tokoh, jenis, label, snippet, score}]}
+    """
+    if not wiki_query.available():
+        return _j({"error": "wiki_index.db belum tersedia"})
+    return _j(wiki_query.search_opini(query, limit=limit))
+
+
+@mcp.tool()
 async def irawiki_get_entity(nama: str) -> str:
     """Profil entitas: metadata halaman + relasi keluar/masuk + sumber.
 
@@ -175,6 +198,8 @@ async def irawiki_stats() -> str:
             "relations_wikilink": q("SELECT COUNT(*) FROM relations WHERE origin='wikilink'"),
             "aliases": q("SELECT COUNT(*) FROM aliases"),
             "sumber": q("SELECT COUNT(*) FROM sources"),
+            "chunks_fakta": q("SELECT COUNT(*) FROM chunks_fts"),
+            "chunks_opini": q("SELECT COUNT(*) FROM opini_fts"),
             "last_rebuild": conn.execute(
                 "SELECT value FROM index_meta WHERE key='last_rebuild'").fetchone()[0],
         })

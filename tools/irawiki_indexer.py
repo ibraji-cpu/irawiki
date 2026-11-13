@@ -10,6 +10,14 @@ Prinsip:
   - Idempotent: re-run tanpa perubahan -> 0 file diproses, DB tidak berubah.
   - Incremental via content_hash (sha256); --full untuk rebuild penuh.
 
+Dua indeks FTS5 yang terpisah sengaja:
+  - chunks_fts : indeks FAKTA. Narasi halaman kecuali seksi relasi/sumber.
+  - opini_fts  : indeks KLAIM TOKOH. Hanya seksi "Pandangan Tokoh ..." pada
+                halaman ber-frontmatter `pandangan_tokoh: true`. Kolom `jenis`
+                selalu 'opini' sebagai penanda eksplisit.
+Seksi opini juga dikecualikan dari relasi `menyebut` dan sub-event kronologi
+supaya klaim tokoh tidak ikut masuk lapisan fakta.
+
 Pemakaian:
   python3 tools/irawiki_indexer.py            # incremental
   python3 tools/irawiki_indexer.py --full     # rebuild penuh
@@ -40,7 +48,7 @@ DEFAULT_CONTENT = REPO_ROOT / "content"
 DEFAULT_DB = REPO_ROOT / "wiki_index.db"
 SCHEMA = Path(__file__).resolve().parent / "init_schema.sql"
 
-SCHEMA_VERSION = "1"
+SCHEMA_VERSION = "2"   # v2: + opini_fts (indeks klaim tokoh terpisah dari fakta)
 
 # Section yang isinya relasi, bukan narasi -> tidak dimasukkan ke FTS body
 RELATION_SECTIONS = re.compile(
@@ -48,6 +56,10 @@ RELATION_SECTIONS = re.compile(
     r"|Aktor yang Terlibat|Sumber)$",
     re.I,
 )
+# Section yang isinya KLAIM TOKOH -> indeks opini terpisah (bukan indeks fakta).
+OPINION_SECTION = re.compile(r"^(Pandangan\s+Tokoh(\s+Terpilih)?|Opini(\s+Tokoh)?)$", re.I)
+# Sub-heading entri opini: "### Nama Tokoh — 13 November 2026"
+OPINION_SUBHEAD = re.compile(r"^###\s+(.+?)\s+[\u2014\u2013\-]\s+(.*)$", re.M)
 WIKILINK = re.compile(r"\[\[([^\]|]+)(?:\|([^\]]+))?\]\]")
 TOPIC_EVENT_HEADING = re.compile(
     r"^###\s+(\d{4}-\d{2}-\d{2})\s+[\u2014\u2013\-]\s+(.+)$",
@@ -87,6 +99,25 @@ def split_sections(body: str):
     return out
 
 
+def strip_opinion_sections(body: str) -> str:
+    """Body tanpa seksi klaim tokoh — untuk relasi `menyebut` & sub-event.
+
+    Klaim tokoh tidak boleh ikut jadi edge graf fakta maupun sub-event kronologi.
+    """
+    parts = re.split(r"^(##\s+.+)$", body, flags=re.M)
+    out = [parts[0]]
+    i = 1
+    while i < len(parts):
+        heading = parts[i]
+        chunk = parts[i + 1] if i + 1 < len(parts) else ""
+        title = heading[3:].strip()
+        if not OPINION_SECTION.match(title):
+            out.append(heading)
+            out.append(chunk)
+        i += 2
+    return "".join(out)
+
+
 def sha256_file(path: Path) -> str:
     h = hashlib.sha256()
     h.update(path.read_bytes())
@@ -117,7 +148,7 @@ class Indexer:
             "scanned": 0, "changed": 0, "unchanged": 0, "removed": 0,
             "pages": 0, "chunks": 0, "entities": 0, "relations": 0,
             "aliases": 0, "sources": 0, "stubs_skipped_fts": 0,
-            "topic_timeline_events": 0,
+            "topic_timeline_events": 0, "opini_chunks": 0,
         }
 
     # -- schema ------------------------------------------------------------
@@ -173,6 +204,7 @@ class Indexer:
 
         # bersihkan turunan lama untuk halaman ini (idempotent)
         self.conn.execute("DELETE FROM chunks_fts WHERE page_path=?", (rel,))
+        self.conn.execute("DELETE FROM opini_fts WHERE page_path=?", (rel,))
         self.conn.execute("DELETE FROM entities WHERE page_path=?", (rel,))
         self.conn.execute("DELETE FROM aliases WHERE page_path=?", (rel,))
         self.conn.execute("DELETE FROM relations WHERE page_path=?", (rel,))
@@ -194,7 +226,7 @@ class Indexer:
                 "INSERT OR REPLACE INTO aliases(alias,page_path) VALUES(?,?)", (a, rel))
             self.stats["aliases"] += 1
 
-        # chunks_fts (stub dilewati dari FTS)
+        # chunks_fts (stub dilewati dari FTS) + opini_fts (klaim tokoh)
         if is_stub:
             self.stats["stubs_skipped_fts"] += 1
         else:
@@ -203,6 +235,10 @@ class Indexer:
                     continue
                 if RELATION_SECTIONS.match(section or ""):
                     continue  # section relasi/sumber bukan narasi
+                if OPINION_SECTION.match(section or ""):
+                    # klaim tokoh -> indeks opini TERPISAH, bukan indeks fakta
+                    self._index_opinion(rel, title, section, chunk)
+                    continue
                 self.conn.execute(
                     "INSERT INTO chunks_fts(page_path,title,section,body) VALUES(?,?,?,?)",
                     (rel, title, section, chunk))
@@ -253,7 +289,9 @@ class Indexer:
             self.stats["relations"] += 1
 
         # relations implisit dari wikilinks: predikat='menyebut', confidence='low'
-        for m in WIKILINK.finditer(body):
+        # (seksi klaim tokoh dikecualikan supaya klaim tidak jadi edge fakta)
+        fact_body = strip_opinion_sections(body)
+        for m in WIKILINK.finditer(fact_body):
             target = (m.group(2) or m.group(1)).strip()
             canonical = self.resolve(target, lookup)
             if not canonical or canonical == rel:
@@ -270,7 +308,34 @@ class Indexer:
 
         # topic_timeline_events: sub-event kronologi bila halaman bertipe topik
         if etype == "topik":
-            self._index_topic_events(rel, title, body, lookup)
+            self._index_topic_events(rel, title, fact_body, lookup)
+
+    def _index_opinion(self, page_path: str, title: str, section: str, chunk: str):
+        """Seksi klaim tokoh -> opini_fts (indeks terpisah, BUKAN fakta).
+
+        Setiap sub-heading "### Nama Tokoh — tanggal" menjadi satu baris dengan
+        kolom `tokoh`; `jenis` selalu 'opini' sebagai penanda eksplisit.
+        """
+        subs = list(OPINION_SUBHEAD.finditer(chunk))
+        if not subs:
+            self.conn.execute(
+                "INSERT INTO opini_fts(page_path,title,section,tokoh,jenis,body) "
+                "VALUES(?,?,?,?,?,?)",
+                (page_path, title, section, "", "opini", chunk))
+            self.stats["opini_chunks"] += 1
+            return
+        for i, m in enumerate(subs):
+            tokoh = clean(m.group(1))
+            start = m.end()
+            end = subs[i + 1].start() if i + 1 < len(subs) else len(chunk)
+            entry_body = chunk[start:end].strip()
+            if not entry_body:
+                continue
+            self.conn.execute(
+                "INSERT INTO opini_fts(page_path,title,section,tokoh,jenis,body) "
+                "VALUES(?,?,?,?,?,?)",
+                (page_path, title, section, tokoh, "opini", entry_body))
+            self.stats["opini_chunks"] += 1
 
     def _index_topic_events(self, hub_path: str, hub_title: str, body: str, lookup: dict):
         matches = list(TOPIC_EVENT_HEADING.finditer(body))
@@ -313,7 +378,7 @@ class Indexer:
         t0 = time.time()
         self.init_schema()
         if full:
-            for t in ("chunks_fts", "names_fts", "relations", "aliases",
+            for t in ("chunks_fts", "opini_fts", "names_fts", "relations", "aliases",
                       "entities", "sources", "pages", "topic_timeline_events"):
                 self.conn.execute(f"DELETE FROM {t}")
             self.conn.commit()
@@ -371,6 +436,7 @@ class Indexer:
         disk = {self.rel_path(p) for p in files}
         for rel in set(known) - disk:
             self.conn.execute("DELETE FROM chunks_fts WHERE page_path=?", (rel,))
+            self.conn.execute("DELETE FROM opini_fts WHERE page_path=?", (rel,))
             self.conn.execute("DELETE FROM relations WHERE page_path=?", (rel,))
             self.conn.execute("DELETE FROM sources WHERE page_path=?", (rel,))
             self.conn.execute("DELETE FROM aliases WHERE page_path=?", (rel,))

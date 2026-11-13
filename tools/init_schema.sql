@@ -24,10 +24,27 @@ CREATE TABLE IF NOT EXISTS pages(
 
 -- FTS5 full-text: page_path, title, section, body
 -- Bobot kolom diatur saat query via bm25(chunks_fts, w_path, w_title, w_section, w_body)
+-- INI INDEKS FAKTA. Klaim/pandangan tokoh TIDAK BOLEH masuk ke sini.
 CREATE VIRTUAL TABLE IF NOT EXISTS chunks_fts USING fts5(
   page_path,
   title,
   section,
+  body,
+  tokenize='unicode61 remove_diacritics 2'
+);
+
+-- FTS5 TERPISAH untuk klaim/opini tokoh (sumber: seksi "## Pandangan Tokoh
+-- Terpilih" pada halaman ber-frontmatter `pandangan_tokoh: true`).
+-- `jenis` selalu 'opini' = penanda eksplisit bahwa isinya klaim tokoh,
+-- bukan fakta wiki. Terpisah dari chunks_fts dengan sengaja: pencarian fakta
+-- tidak boleh pernah menghasilkan klaim tokoh, dan sebaliknya klaim tokoh
+-- tetap terjangkau lewat indeks ini.
+CREATE VIRTUAL TABLE IF NOT EXISTS opini_fts USING fts5(
+  page_path,
+  title,
+  section,   -- mis. "Pandangan Tokoh Terpilih"
+  tokoh,     -- nama tokoh pemilik klaim (dari sub-heading "### Nama — tanggal")
+  jenis,     -- selalu 'opini'
   body,
   tokenize='unicode61 remove_diacritics 2'
 );

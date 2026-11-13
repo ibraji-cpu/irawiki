@@ -183,11 +183,24 @@ async def search(q: str, limit: int = 10, tipe: str = ""):
         "section": r["section"],
         "snippet": r["snippet"],
         "score": r["score"],
+        "jenis": r.get("jenis", "fakta"),
     } for r in res["results"]]
-    out = {"query": q, "limit": limit, "results": results, "count": len(results)}
+    out = {"query": q, "limit": limit, "results": results, "count": len(results),
+           "jenis": "fakta"}
     if res.get("alias_expanded_to"):
         out["alias_expanded_to"] = res["alias_expanded_to"]
     return out
+
+@app.get("/search/opini")
+async def search_opini(q: str, limit: int = 10):
+    """Cari klaim/pandangan tokoh di indeks opini TERPISAH (bukan fakta).
+
+    Hasil selalu membawa `jenis='opini'` + `label='Klaim tokoh — bukan fakta
+    wiki'`. Bandingkan dengan `/search` yang hanya menyajikan indeks fakta.
+    """
+    if not wiki_query.available():
+        raise HTTPException(status_code=503, detail="wiki_index.db belum tersedia")
+    return wiki_query.search_opini(q, limit=limit)
 
 @app.post("/proposals")
 async def create_proposal(proposal: ProposalRequest):

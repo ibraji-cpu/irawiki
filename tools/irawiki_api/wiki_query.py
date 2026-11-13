@@ -26,6 +26,9 @@ DB_PATH = Path("/home/ubuntu/irawiki/wiki_index.db")
 # Bobot BM25: page_path, title, section, body (title x3, section x2, body x1)
 BM25_WEIGHTS = (1.0, 3.0, 2.0, 1.0)
 
+# Penanda eksplisit untuk hasil indeks opini (klaim tokoh, bukan fakta).
+OPINI_LABEL = "Klaim tokoh — bukan fakta wiki"
+
 
 def _connect() -> sqlite3.Connection:
     conn = sqlite3.connect(f"file:{DB_PATH}?mode=ro", uri=True)
@@ -129,11 +132,58 @@ def search(query: str, tipe: str | None = None, limit: int = 10) -> dict:
         "title": r["title"], "type": r["type"], "page_path": r["page_path"],
         "section": r["section"], "snippet": r["snippet"],
         "score": round(-r["score"], 4),  # bm25 negatif -> dibalik agar besar = relevan
+        "jenis": "fakta",              # indeks fakta (chunks_fts), bukan klaim tokoh
     } for r in rows]
-    out = {"query": query, "count": len(results), "results": results}
+    out = {"query": query, "count": len(results), "jenis": "fakta", "results": results}
     if alias_note:
         out["alias_expanded_to"] = alias_note
     return out
+
+
+def search_opini(query: str, limit: int = 10) -> dict:
+    """Cari di indeks OPINI terpisah (klaim/pandangan tokoh).
+
+    Isinya BUKAN fakta wiki. Tiap hasil membawa `jenis='opini'` + `label`
+    supaya tidak pernah disajikan sebagai fakta. Kolom `tokoh` memuat nama
+    pemilik klaim.
+    """
+    if not query or not query.strip():
+        return {"query": query, "count": 0, "jenis": "opini", "results": []}
+
+    match = _fts_quote(query.strip())
+    sql = """SELECT o.page_path, o.title, o.section, o.tokoh, o.jenis,
+                    snippet(opini_fts, 5, '[', ']', '…', 14) AS snippet,
+                    bm25(opini_fts, 1.0, 3.0, 2.0, 1.0, 1.0, 1.0) AS score,
+                    p.type, p.status
+             FROM opini_fts o
+             JOIN pages p ON p.path = o.page_path
+             WHERE opini_fts MATCH ?
+             ORDER BY score LIMIT ?"""
+    try:
+        with _connect() as conn:
+            rows = conn.execute(sql, (match, max(1, min(int(limit), 100)))).fetchall()
+    except sqlite3.OperationalError:
+        return {"query": query, "count": 0, "jenis": "opini", "results": [],
+                "error": "query tidak dapat diparse untuk FTS5"}
+
+    results = [{
+        "title": r["title"], "type": r["type"], "page_path": r["page_path"],
+        "section": r["section"], "tokoh": r["tokoh"], "jenis": r["jenis"],
+        "label": OPINI_LABEL, "snippet": r["snippet"],
+        "score": round(-r["score"], 4),
+    } for r in rows]
+    return {"query": query, "count": len(results), "jenis": "opini",
+            "label": OPINI_LABEL, "results": results}
+
+
+def list_opini(page_path: str) -> dict:
+    """Daftar klaim tokoh yang terindeks untuk satu halaman (indeks opini)."""
+    with _connect() as conn:
+        rows = conn.execute(
+            """SELECT tokoh, section, jenis, body FROM opini_fts
+               WHERE page_path=? ORDER BY rowid""", (page_path,)).fetchall()
+    return {"page_path": page_path, "jenis": "opini", "label": OPINI_LABEL,
+            "count": len(rows), "results": [dict(r) for r in rows]}
 
 
 # --------------------------------------------------------------- relations
