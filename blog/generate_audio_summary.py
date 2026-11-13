@@ -207,10 +207,12 @@ def summary_via_hermes_cli(prompt: str) -> str:
         tmp.unlink(missing_ok=True)
 
     out = (res.stdout or "").strip()
-    # Buang baris status/log Hermes, ambil paragraf terpanjang
+    # Buang baris status/log Hermes, lalu SATUKAN paragraf ringkasan.
+    # (Pernah gagal: `max(lines, key=len)` memilih satu baris pendek <80 kata
+    #  dari ringkasan multi-paragraf yang sebenarnya baik.)
     lines = [ln.strip() for ln in out.splitlines() if ln.strip()]
     lines = [ln for ln in lines if not ln.startswith(("ℹ", "✅", "⚠", "🚀", "[", "Error"))]
-    text = max(lines, key=len) if lines else ""
+    text = " ".join(lines)
     if len(text.split()) < 80:
         raise RuntimeError(
             f"Fallback LLM gagal menghasilkan ringkasan memadai (exit={res.returncode}): {out[:300]}"
