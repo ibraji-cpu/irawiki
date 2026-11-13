@@ -15,7 +15,7 @@ params:
       - "https://wiki.iraamalia.id"
       - "https://www.facebook.com/iraamaliabot"
       - "https://www.instagram.com/iraamaliabot/"
-  mainSections: ["posts"]
+  mainSections: ["posts", "sintesis"]
   author: "Ira Amalia"
   description: "Opini dan analisis Ira Amalia soal politik, ekonomi, dan sosial Indonesia — peristiwa, aktor, dan relasi yang membentuk kebijakan publik."
   defaultTheme: light
@@ -33,6 +33,9 @@ menu:
     - name: Arsip
       url: /archives/
       weight: 10
+    - name: Sintesis
+      url: /sintesis/
+      weight: 12
     - name: Kategori
       url: /categories/
       weight: 15

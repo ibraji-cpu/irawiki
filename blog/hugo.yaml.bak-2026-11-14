@@ -1,0 +1,50 @@
+baseURL: "https://blog.iraamalia.id"
+defaultContentLanguage: "id"
+locale: "id-ID"
+title: "Blog Ira Amalia"
+theme: ["PaperMod"]
+enableRobotsTXT: true
+buildFuture: true
+
+params:
+  env: production
+  schema:
+    publisherType: "Organization"
+    sameAs:
+      - "https://iraamalia.id"
+      - "https://wiki.iraamalia.id"
+      - "https://www.facebook.com/iraamaliabot"
+      - "https://www.instagram.com/iraamaliabot/"
+  mainSections: ["posts"]
+  author: "Ira Amalia"
+  description: "Opini dan analisis Ira Amalia soal politik, ekonomi, dan sosial Indonesia — peristiwa, aktor, dan relasi yang membentuk kebijakan publik."
+  defaultTheme: light
+  ShowReadingTime: true
+  ShowPostNavLinks: true
+  label:
+    text: "Blog Ira Amalia"
+    icon: "/images/logo.png"
+    iconHeight: 40
+  images:
+    - "images/og-image.jpg"
+
+menu:
+  main:
+    - name: Arsip
+      url: /archives/
+      weight: 10
+    - name: Kategori
+      url: /categories/
+      weight: 15
+    - name: Tag
+      url: /tags/
+      weight: 20
+    - name: Update Wiki
+      url: /update/
+      weight: 30
+    - name: Tentang
+      url: /tentang/
+      weight: 40
+
+outputs:
+  home: ["HTML", "RSS", "JSON"]

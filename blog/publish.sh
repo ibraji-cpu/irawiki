@@ -13,7 +13,7 @@ cd /home/ubuntu/irawiki/blog
 # 0. Generate ringkasan audio untuk artikel baru (belum punya audio)
 echo "🎙️ Cek artikel baru untuk ringkasan audio..."
 AUDIO_FAILED=()
-for md_file in $(find content/posts -maxdepth 2 -name "*.md" -not -name "_index.md" | sort); do
+for md_file in $(find content/posts content/sintesis -maxdepth 2 -name "*.md" -not -name "_index.md" | sort); do
   echo "  → $md_file"
   if ! /home/ubuntu/irawiki_venv/bin/python3 generate_audio_summary.py "$md_file" --update-frontmatter; then
     echo "  ⚠️ Gagal generate audio untuk $md_file, lanjut..."
