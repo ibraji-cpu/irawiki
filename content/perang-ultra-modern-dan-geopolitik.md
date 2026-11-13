@@ -2,7 +2,7 @@
 title: "Perang Ultra Modern dan Geopolitik"
 description: Tipologi perang ultra modern — narasi, ekonomi, sumber daya — plus kronologi tekanan terhadap ekonomi Indonesia 2026 (MSCI, IHSG, DHE, DSI).
 date: 2026-10-17
-updated: '2026-10-20'
+updated: '2026-11-12'
 entity_type: topik
 entity_id: "perang-ultra-modern-dan-geopolitik"
 aliases:
@@ -19,7 +19,7 @@ confidence: 7
 risiko_editorial: "sedang"
 kategori: pasar-dan-kepemilikan
 kategori_tambahan: [sumber-daya-alam]
-last_updated: "2026-10-27"
+last_updated: "2026-11-12"
 ---
 
 # Perang Ultra Modern dan Geopolitik
@@ -89,6 +89,10 @@ Indeks Harga Saham Gabungan (IHSG) ditutup melemah 66,17 poin atau 1,22 persen k
 
 Ketua Dewan Komisioner Otoritas Jasa Keuangan (OJK) Friderica Widyasari Dewi menyatakan penegakan hukum (enforcement) masih menjadi tantangan utama dalam menjawab sorotan penyedia indeks global MSCI terhadap pasar modal Indonesia. Menurutnya, aspek keterbukaan informasi, transparansi, dan likuiditas sudah dipenuhi, tetapi "hanya satu area yang masih di bawah ekspektasi, yaitu penegakan". OJK akan mengumumkan langkah penegakan lanjutan (belum dirinci pada 27 Oktober 2026) dan telah membentuk komite untuk mengkaji konsentrasi kepemilikan saham tinggi (high shareholding concentration/HSC) yang menurut OJK beranggotakan pihak yang dinilai kredibel dan independen. Friderica juga menyambut positif keputusan FTSE Russell mempertahankan status Indonesia sebagai emerging market, namun menegaskan OJK tetap menindaklanjuti sorotan MSCI, khususnya penegakan.
 
+### 2026-11-12 — Hasil review MSCI November 2026: BRPT dan BRMS keluar dari Global Standard; Indonesia tersisa 7 saham
+
+MSCI mengumumkan hasil November 2026 Index Review pada Rabu, 11 November 2026 (waktu Jenewa), atau Kamis, 12 November 2026 dini hari WIB. Dari MSCI Global Standard, dua saham Indonesia keluar: PT Barito Pacific Tbk (BRPT) keluar dari indeks, sedangkan PT Bumi Resources Minerals Tbk (BRMS) turun kelas ke MSCI Indonesia Small Cap. Dari Small Cap, tujuh saham keluar: PT Avia Avian Tbk (AVIA), PT Ciputra Development Tbk (CTRA), PT Dayamitra Telekomunikasi Tbk (MTEL), PT Elang Mahkota Teknologi Tbk (EMTK), PT Jasa Marga (Persero) Tbk (JSMR), PT Rukun Raharja Tbk (RAJA), dan PT Solusi Sinergi Digital Tbk (WIFI). Tidak ada saham baru yang masuk ke indeks mana pun. Dengan demikian, saham Indonesia yang tersisa di MSCI Global Standard tinggal tujuh: BBCA, BBRI, BMRI, TLKM, ASII, BBNI, dan UNTR; di Small Cap tersisa 28 saham. Perubahan dieksekusi pada penutupan perdagangan 30 November 2026 dan berlaku efektif 1 Desember 2026. MSCI masih membekukan penambahan saham baru, kenaikan foreign inclusion factor (FIF), dan promosi dari Small Cap ke Global Standard untuk pasar Indonesia. Mengutip riset Ciptadana Sekuritas Asia (12 November 2026), hasil review ini tidak mengejutkan; Ciptadana memperkirakan bobot Indonesia di indeks MSCI turun ke sekitar 0,35% dari 0,43% pada September 2026, yang berpotensi memicu arus keluar dana pasif tambahan pada tanggal efektif. MTEL juga masuk daftar High Shareholding Concentration (HSC) Bursa Efek Indonesia yang berlaku mulai 13 November 2026, sehingga dikeluarkan dari perhitungan IHSG.
+
 ## Aktor yang Terlibat
 
 - **MSCI (Morgan Stanley Capital International)** — Penyedia indeks global; membuka konsultasi penurunan klasifikasi Indonesia ke *Standalone Market* (15 Okt 2026).
@@ -107,6 +111,7 @@ Ketua Dewan Komisioner Otoritas Jasa Keuangan (OJK) Friderica Widyasari Dewi men
 - **Konten 1M65:** "Indonesia is Collapsing!!!!" (YouTube Short, bertag #1M65). https://www.youtube.com/shorts/cxHtfLTjUmI
 - **Liputan The Economist:** Lowy Institute. "What The Economist missed about Indonesia." https://www.lowyinstitute.org/the-interpreter/what-the-economist-missed-about-indonesia
 - ActaIndonesia.com — https://actaindonesia.com/ojk-jatuhkan-denda-rp252-triliun-kepada-pelaku-pelanggaran-pasar-modal/ — 23 Oktober 2026
+- **2026-11-12 (MSCI November 2026 Index Review):** Bareksa. "Daftar Lengkap Saham RI Keluar MSCI November 2026 dan Dampaknya." 12 November 2026. https://www.bareksa.com/berita/saham/2026-11-12/daftar-lengkap-saham-ri-keluar-msci-november-2026-dan-dampaknya
 
 ## Catatan presisi
 
@@ -116,4 +121,5 @@ Ketua Dewan Komisioner Otoritas Jasa Keuangan (OJK) Friderica Widyasari Dewi men
 - **Batas korelasi:** halaman ini tidak menyimpulkan bahwa penurunan IHSG disebabkan konten media sosial. Urutan waktu bukan bukti sebab-akibat.
 - **Angka ambigu:** kapitalisasi BEI "terpangkas ~38,8%" (5 Juni 2026) dihitung dari Rp16.014 triliun ke Rp9.807 triliun "dalam sepekan berjalan" — rentang waktu perhitungannya tidak tegas di sumber.
 - **Celah data:** realisasi penempatan DHE dan dampak kanal tunggal DSI belum tersedia; halaman belum memuat angka penempatan devisa aktual.
+- **Review MSCI November 2026 ≠ perubahan status pasar:** hasil *index review* 12 November 2026 (BRPT dan BRMS keluar dari Global Standard, tujuh saham keluar dari Small Cap) adalah peninjauan rutin konstituen, BUKAN keputusan status Indonesia sebagai *Emerging Market*. Konsultasi MSCI soal reklasifikasi ke *Standalone Market* masih berjalan (masukan sampai 30 April 2027; keputusan paling lambat Juni 2027) — jangan ditulis seolah Indonesia sudah diturunkan statusnya. Perkiraan bobot 0,35% (dari 0,43% pada September 2026) dan potensi arus keluar dana pasif adalah PERKIRAAN Ciptadana Sekuritas Asia, bukan angka resmi MSCI. Angka pergerakan harga saham terdampak sejak awal 2026 (mis. BRPT −76,6%, BRMS −72,9%) sengaja tidak dimasukkan ke entri. Review indeks berikutnya diumumkan 9 Februari 2027 dan berlaku 1 Maret 2027 — belum terjadi.
 
