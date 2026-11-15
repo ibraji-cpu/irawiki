@@ -1,8 +1,8 @@
 ---
 title: "Agrinas Palma Nusantara"
-description: Agrinas Palma Nusantara mengelola 140.762,04 hektare kebun hasil penertiban Satgas PKH; status kepemilikan BUMN atau swasta belum terverifikasi.
+description: Agrinas Palma Nusantara mengelola 140.762,04 hektare kebun hasil penertiban Satgas PKH; BUMN (PP 3/2025).
 date: 2026-10-06
-updated: '2026-10-20'
+updated: '2026-11-15'
 tags:
 - organisasi
 - perusahaan
@@ -14,7 +14,7 @@ nama_lengkap: "Agrinas Palma Nusantara"
 nama_alias: []
 
 bidang: "Perkebunan"
-status_belum: "Perlu verifikasi (BUMN?)"
+status: "BUMN"
 
 confidence: 3
 risiko_editorial: "sedang"
@@ -26,7 +26,7 @@ last_updated: "2026-11-02"
 
 ## Ringkasan
 
-Agrinas Palma Nusantara adalah entitas yang mengelola 140.762,04 hektare kebun hasil penertiban Satgas PKH. Status kepemilikan (BUMN atau swasta) belum terverifikasi.
+Agrinas Palma Nusantara adalah BUMN yang mengelola 140.762,04 hektare kebun hasil penertiban Satgas PKH. Perseroan resmi berdiri sebagai BUMN melalui transformasi dari PT Indra Karya (Persero) berdasarkan PP 3/2025 (16 Januari 2025); persetujuan perubahan nama menjadi PT Agrinas Palma Nusantara (Persero) diterbitkan 10 Februari 2025.
 
 ## Kenapa penting buat Gen Z
 
@@ -37,7 +37,7 @@ Agrinas Palma Nusantara mengelola 140.762,04 hektare kebun yang sebelumnya dikua
 - **Luas kelolaan:** 140.762,04 hektare kebun hasil penertiban Satgas PKH.
 - **Asal lahan:** diserahkan Kementerian Kehutanan setelah penertiban, dicatat pada 6 Oktober 2026.
 - **Konteks tahap VIII:** 259.230,73 hektare lahan dikuasai kembali negara pada tahap itu.
-- **Status badan usaha:** belum terverifikasi sebagai BUMN per 6 Oktober 2026 dalam sumber yang dipakai halaman ini.
+- **Status badan usaha:** BUMN — PP 3/2025 (16 Januari 2025); perubahan nama disetujui 10 Februari 2025; bidang usaha kelapa sawit berdasarkan SK Menteri BUMN S-61/MBU/02/2025.
 
 ## Peran yang Terdokumentasi
 
@@ -72,8 +72,10 @@ PT Agrinas Palma Nusantara (Persero) menandatangani Perjanjian Kerja Sama (PKS) 
 - NTV News. "Daftar 259.230 Ribu Hektar yang Disita Satgas PKH". 6 Oktober 2026.
 - PT Agrinas Palma Nusantara (Persero). "Agrinas Palma dan Pertamina Perkuat Kolaborasi Bioenergi melalui Penandatanganan MoU dan HoA di DTIIF 2026." 28 Oktober 2026. https://agrinaspalma.co.id/news/Agrinas%20Palma%20dan%20Pertamina%20Perkuat%20Kolaborasi%20Bioenergi%20melalui%20Penandatanganan%20MoU%20dan%20HoA%20di%20DTIIF%202026
 - PT Agrinas Palma Nusantara (Persero). "Mata Satelit BRIN Kawal Lahan Agrinas Palma Nusantara." 28 Oktober 2026. https://agrinaspalma.co.id/news/Mata%20Satelit%20BRIN%20Kawal%20Lahan%20Agrinas%20Palma%20Nusantara
+- PT Agrinas Palma Nusantara (Persero). "Laporan Tahunan 2025." 2025. https://storage.googleapis.com/compro-agrinas-assets/AR_Agrinas_2025_FINAL_250626_26f84f0049/AR_Agrinas_2025_FINAL_250626_26f84f0049.pdf
+- PT Agrinas Palma Nusantara (Persero). "Laporan Keberlanjutan 2025." 2025. https://cms.agrinaspalma.app/uploads/Full_Book_SR_Agrinas_2025_PT_Agrinas_Palma_Nusantara_Persero_compressed_953710ab72/Full_Book_SR_Agrinas_2025_PT_Agrinas_Palma_Nusantara_Persero_compressed_953710ab72.pdf
 
 ## Catatan presisi
 
-- Status BUMN perlu verifikasi sebelum ditegaskan di halangan
+- Status BUMN terverifikasi: PP 3/2025 (16 Januari 2025), perubahan nama 10 Februari 2025 — lihat Laporan Tahunan 2025
 - Perlu transparansi pengelolaan dan produktivitas
