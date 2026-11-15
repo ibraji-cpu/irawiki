@@ -2,7 +2,7 @@
 title: "Korupsi di Indonesia"
 description: 'Ringkasan sistemik korupsi di Indonesia pasca-reformasi 1998: kelahiran KPK, pasang surut pemberantasan, dan pola perkara besar.'
 date: 2026-10-15
-updated: '2026-10-21'
+updated: '2026-11-15'
 aliases:
   - Korupsi Indonesia
   - Tindak Pidana Korupsi di Indonesia
@@ -45,9 +45,29 @@ sumber:
     tanggal: "2026-10-21"
   - url: "https://afu.id/hukum-kriminal/kpk-proyek-rp148-miliar-bnpb-dimenangkan-perusahaan-istri-tersangka-korupsi"
     tanggal: "2026-10-21"
+  - url: "https://kejati-sulawesiselatan.kejaksaan.go.id/conference/news/15179/read"
+    tanggal: "2026-11-03"
+  - url: "https://regional.kompas.com/read/2026/11/05/114401578/eks-wali-kota-bengkulu-ahmad-kanedi-divonis-bebas-hakim-ma-18-bulan?page=all"
+    tanggal: "2026-11-05"
+  - url: "https://nasional.kompas.com/read/2026/11/06/05245491/vonis-eks-ketua-ombudsman-hery-susanto-5-tahun-penjara-bayar-rp-3875-miliar"
+    tanggal: "2026-11-06"
+  - url: "https://nasional.kompas.com/read/2026/11/12/12323871/penyuap-eks-ketua-ombudsman-hery-susanto-divonis-1-tahun-5-bulan-penjara"
+    tanggal: "2026-11-12"
+  - url: "https://bengkulu.antaranews.com/berita/485231/mantan-bupati-bengkulu-utara-imron-rosyadi-divonis-3-tahun-4-bulan-penjara"
+    tanggal: "2026-11-06"
+  - url: "https://regional.kompas.com/read/2026/11/10/165548878/bupati-cilacap-syamsul-aulia-divonis-5-tahun-penjara-dalam-kasus-korupsi"
+    tanggal: "2026-11-10"
+  - url: "https://www.detik.com/jateng/hukum-dan-kriminal/d-8746306/sekda-cilacap-sadmoko-divonis-4-tahun-bui-buntut-peras-anak-buah"
+    tanggal: "2026-11-10"
+  - url: "https://bengkulu.antaranews.com/amp/berita/485723/bupati-nonaktif-rejang-lebong-divonis-lima-tahun-penjara"
+    tanggal: "2026-11-10"
+  - url: "https://m.antaranews.com/amp/berita/5850559/tiga-eks-pejabat-bea-cukai-divonis-penjara-6-hingga-9-tahun"
+    tanggal: "2026-11-13"
+  - url: "https://tribratanews.sumsel.polri.go.id/berita/kortastipidkor-polri-dan-polda-sumsel-sita-44-aset-senilai-rp28627-miliar-terkait-kasus-pembiayaan-lpei"
+    tanggal: "2026-11-12"
 kategori: hukum-dan-pertanahan
-last_updated: "2026-10-27"
-last_verified: "2026-10-21"
+last_updated: "2026-11-12"
+last_verified: "2026-11-15"
 ---
 
 # Korupsi di Indonesia
@@ -131,6 +151,56 @@ Komisi Pemberantasan Korupsi (KPK) menyita satu unit mobil BMW dari Richard Erla
 
 Penyidik KPK memeriksa Sekretaris Utama (Sestama) BNPB Rustian selama sekitar 7 jam di Gedung Merah Putih KPK, Jakarta Selatan, pada Selasa, 27 Oktober 2026, dan menyita sejumlah dokumen proyek terkait dugaan korupsi Dana Siap Pakai (DSP) kebencanaan BNPB. Juru bicara KPK Budi Prasetyo mengonfirmasi tas yang dibawa ajudan Rustian berisi beberapa dokumen proyek yang dikerjakan para tersangka dalam perkara itu, dan dokumen pengadaan barang/jasa tersebut disita penyidik untuk mendukung penyidikan. Nilai proyek DSP yang diberitakan dalam laporan ini mencapai Rp148 miliar — itu nilai proyek yang dilaporkan, BUKAN angka kerugian negara yang sudah ditetapkan. Perkembangan ini merupakan lanjutan perkara OTT BNPB yang sebelumnya sudah menetapkan 5 tersangka pada 14 Oktober 2026; Rustian sendiri sebelumnya berstatus saksi dan dipulangkan pada 14 Oktober 2026, dan sumber 27 Oktober ini tidak menyebut perubahan statusnya.
 
+### 2026-11-02 — Tahap II perkara dugaan korupsi PT PMM, Pangkalpinang (JAM PIDSUS)
+
+JAM PIDSUS Kejagung menyerahkan 3 tersangka beserta barang bukti ke JPU Kejari Pangkalpinang, Senin 2 November 2026, setelah berkas dinyatakan lengkap (P-21). Perkara: dugaan korupsi tata kelola pertambangan mineral bukan logam PT Pangkalpinang Mineral Mining (PT PMM) 2018–2026. Tersangka: IS (perwakilan PT PMM), GP (Kepala Unit Pelayanan Pangkalpinang PT Sucofindo), JK (Kepala Kantor Bea Cukai Pangkalpinang).
+
+Presisi: rilis Kejagung itu sendiri tidak konsisten soal inisial — daftar tersangka menulis IS, tapi uraian peran menulis "Tersangka IW" yang meminta sampel hanya dari atas jumbo bag dan COA tanpa kandungan Logam Tanah Jarang (LTJ)/radioaktif; "IW" tidak dicatat sebagai tersangka keempat di sini. Sudut perkara: LTJ terdeteksi di laboratorium tapi tidak dicantumkan dalam Certificate of Analysis (COA), dan JK tetap menerbitkan PEB/NPE padahal laboratorium Bea Cukai Jakarta sudah mengetahui adanya LTJ. Status: Tahap II (peralihan ke penuntutan), belum putusan.
+
+### 2026-11-03 — MA bebaskan Ahmad Kanedi, batalkan vonis 2,5 tahun
+
+Mahkamah Agung mengabulkan kasasi Ahmad Kanedi (eks Wali Kota Bengkulu), putusan dibacakan Selasa 3 November 2026 (perkara 10964 K/PID.SUS/2026; SIPP: 70/Pid.Sus-TPK/2025/PN Bgl): membatalkan vonis PN Tipikor Bengkulu 12 Maret 2026 (2 tahun 6 bulan), mengadili sendiri, dan membebaskan dari seluruh dakwaan; kasasi JPU ditolak. Perkara: dugaan korupsi pengelolaan Mega Mall dan PTM Bengkulu (kebocoran PAD). Kanedi keluar Rutan Malabero 4 November 2026 setelah sekitar 16 bulan ditahan (sejak 22 Mei 2025); Kejati Bengkulu menerima salinan putusan 4 November dan menyatakan akan melaksanakannya.
+
+Presisi: judul Kompas menyebut "18 bulan dipenjara" — itu masa tahanan yang sudah dijalani, bukan vonis baru; jangan dibaca sebagai hukuman. Putusan kasasi ini bebas murni, bukan bebas bersyarat. URL Kompas tidak berhasil dibuka langsung dalam verifikasi; klaim terkonfirmasi penuh lewat sumber independen (Kabar Bengkulu, Poros Bengkulu, BSI News, TribunBengkulu).
+
+### 2026-11-05 — Vonis Hery Susanto 5 tahun; penyuapnya Laode 1 tahun 5 bulan (12 Nov)
+
+PN Tipikor Jakarta Pusat. Hery Susanto (eks Ketua Ombudsman RI): vonis dibacakan Kamis 5 November 2026 (Ketua Majelis Dwi Elyarahma Sulistyowati) — 5 tahun penjara, denda Rp300 juta, uang pengganti Rp3,875 miliar (subsider 3 tahun bila harta tidak cukup). Terbukti menerima suap uang dan 1 unit rumah (total Rp3,875 miliar) terkait tata kelola pertambangan nikel: agar LHP Ombudsman menyatakan penetapan PNBP PKH PT Toshida Indonesia dan PT Dinamika Sejahtera Mandiri sebagai maladministrasi, dan penolakan peningkatan IUP PT Mitra Kumala Energi dan PT Gold Nala Raya sebagai maladministrasi. Tuntutan JPU: 5,5 tahun dan uang pengganti Rp4,15 miliar. Penasihat hukum belum memutuskan banding; Hery membantah rumah di Pulogebang miliknya.
+
+Laode Sinarwan Oda alias Alan (penyuap): vonis Kamis 12 November 2026, majelis yang sama — 1 tahun 5 bulan penjara, denda Rp100 juta (subsider 60 hari). Tuntutan JPU: 2 tahun.
+
+Presisi: putusan tingkat pertama — belum inkracht; jangan ditulis berkekuatan hukum tetap.
+
+### 2026-11-06 — Vonis Imron Rosyadi 3 tahun 4 bulan dan Fadilah Marik 3 tahun (IUP batu bara)
+
+PN Tipikor Bengkulu, Jumat 6 November 2026, Ketua Majelis Achmadsyah Ade Murry. Imron Rosyadi (eks Bupati Bengkulu Utara 2006–2016): 3 tahun 4 bulan penjara, denda Rp750 juta subsider 165 hari. Fadilah Marik (eks Kadis Pertambangan dan Energi): 3 tahun penjara, denda Rp200 juta subsider 140 hari. Perkara: korupsi penerbitan IUP batu bara 2007–2008 (SK 327+328/2007 mengalihkan KP dari PT Niaga Baratama ke PT Ratu Samban Mining; SK 112/2008 kelayakan lingkungan bermasalah). Majelis: keduanya bersama terpidana Sonny Adnan menguntungkan Jubaira/Maihael Godath dkk lebih dari US$83 juta ke rekening PT Ratu Samban Mining; dugaan penerimaan sekitar Rp600 juta oleh Imron; retribusi daerah 10% tidak dipenuhi. Tuntutan JPU sebelumnya: Imron 4,5 tahun dan denda Rp1 miliar; Fadilah 4 tahun dan denda Rp500 juta.
+
+Presisi: putusan tingkat pertama (bukan inkracht); angka lebih dari US$83 juta adalah menurut majelis soal keuntungan pihak lain, bukan kerugian negara yang diaudit. Kerusakan lingkungan disebut hakim "masih asumsi", belum dimasukkan.
+
+### 2026-11-10 — Vonis Bupati dan Sekda Cilacap (pemerasan THR Forkopimda)
+
+PN Tipikor Semarang, Selasa 10 November 2026, Ketua Majelis Rosana Irawati. Syamsul Aulia Rachman (Bupati nonaktif Cilacap): 5 tahun penjara, denda Rp250 juta, uang pengganti Rp568 juta, pencabutan hak dipilih 2 tahun setelah pidana pokok. Sadmoko Danardono (Sekda nonaktif): 4 tahun penjara, denda Rp200 juta (subsider 80 hari kurungan), masa tahanan dikurangkan; sidang vonisnya terpisah dan dibacakan lebih dulu. Keduanya terbukti korupsi bersama-sama — pemerasan kepala OPD untuk THR Forkopimda; total terkumpul Rp568 juta, via Asisten II Ferry Adhi Dharma. Sadmoko: saksi mahkota, mengakui perbuatan (meringankan).
+
+Presisi: ejaan nama di sumber bervariasi (Syamsul Aulia Rachman/Rahman; Sadmoko Danardono); dipakai ejaan amar. Kalimat denda di detik tertulis "dituntut membayar" padahal konteksnya vonis — angkanya tetap Rp200 juta/subsider 80 hari. Putusan tingkat pertama — belum inkracht. Latar: perkara KPK, OTT Maret 2026 (penahanan 14 Maret–2 April 2026).
+
+### 2026-11-10 — Vonis Bupati Rejang Lebong 5 tahun dan Kadis PUPRPKP 4 tahun
+
+PN Tipikor Bengkulu, Selasa 10 November 2026, Ketua Majelis Fajar Pramono. Muhammad Fikri Thobari (Bupati nonaktif Rejang Lebong): 5 tahun penjara, denda Rp200 juta subsider 80 hari, pencabutan hak politik 5 tahun setelah pidana pokok. Harry Eko Purnomo (eks Kadis PUPRPKP): 4 tahun penjara, denda Rp200 juta subsider 80 hari. Terbukti suap dan gratifikasi pengondisian proyek/fee ijon. Dakwaan JPU KPK: sekitar Rp2,52 miliar dari kontraktor, fee 10–15% dari nilai proyek, TA 2025–2026. Tuntutan sebelumnya: Fikri 5 tahun; Harry 4 tahun 2 bulan.
+
+Presisi: ejaan nama kedua bervariasi di artikel (Harry/Hary Eko Purnomo) — dipakai "Harry" dari amar. Putusan tingkat pertama.
+
+### 2026-11-12 — Vonis 3 eks pejabat Bea Cukai 9/7/6 tahun (Blueray Cargo)
+
+PN Tipikor Jakarta Pusat, Kamis malam 12 November 2026, Hakim Ketua Brelly Yuniar. Rizal (eks Direktur Penindakan dan Penyidikan Bea Cukai): 9 tahun. Sisprian Subiaksono (eks Kasubdit Intelijen): 7 tahun. Orlando Hamonangan (eks Kasi Intelijen Kepabeanan I): 6 tahun. Denda masing-masing Rp1 miliar (subsider 190 hari). Uang pengganti: Rizal Rp15,7 miliar (subsider 2 tahun); Sisprian Rp7,4 miliar + SGD 150 ribu + USD 10 ribu (subsider 2 tahun); Orlando Rp5,56 miliar (subsider 1 tahun). Perkara: suap dan gratifikasi impor barang tiruan 2025–2026 (Blueray Cargo), total dakwaan Rp78,81 miliar — suap SGD Rp61,74 miliar + hiburan/barang mewah Rp1,85 miliar agar impor Blueray cepat lolos pengawasan; gratifikasi Rp15,22 miliar. Pemberi: pemilik Blueray John Field, Dedy Kurniawan, Andri. Tuntutan JPU: Rizal 11,5 tahun; Sisprian 10 tahun; Orlando 7,5 tahun.
+
+Presisi: nama lengkap Rizal tidak tercantum di artikel — ditulis "Rizal" saja. Artikel sekali menulis "Orlandoa" (salah ketik). Putusan tingkat pertama. Tanggal peristiwa 12 November (sidang), bukan 13 November (terbit).
+
+### 2026-11-12 — Penyitaan 44 aset LPEI Rp286,27 miliar (Kortastipidkor Polri)
+
+Kortastipidkor Polri dan Polda Sumsel menyita 44 objek tanah/bangunan senilai total Rp286,27 miliar, konferensi pers Kamis 12 November 2026 di Mapolda Sumsel; plang dipasang serentak sejak pekan sebelumnya. Rincian: Sumsel 38 objek sekitar Rp24,27 miliar (Palembang 3 bidang Rp3,93 miliar; Prabumulih 6 objek Rp7,08 miliar; Ogan Ilir 29 objek Rp13,25 miliar); luar Sumsel 6 objek (Jakarta Selatan 2 objek Rp248,7 miliar; Bener Meriah Rp4,3 miliar; Tangerang Rp2,5 miliar; Depok 2 objek Rp6,5 miliar). Perkara: dugaan korupsi fasilitas pembiayaan LPEI 2012–2016 — ke PT Duta Sarana Tehnology (macet USD 9 juta) lalu PT Maxima Inti Finance USD 47,5 juta via 17 pencairan, diduga menutup pembiayaan bermasalah tanpa verifikasi/jaminan memadai. Enam tersangka sejak 2 laporan polisi 22 Januari 2025 (5 internal LPEI: FH, NH, DSD, IS, AS; 1 Dirut Maxima: DM). BPK (LHP 4 September 2025): kerugian negara USD 43.617.739,13 (sekitar USD 43,62 juta).
+
+Presisi: penyitaan ini langkah penyidikan (pengamanan aset), bukan putusan; tersangka sudah ditetapkan Januari 2025 — yang baru 12 November adalah penyitaan 44 asetnya. Angka Rp286,27 miliar adalah nilai aset yang disita, bukan kerugian negara (kerugian menurut BPK = USD 43,62 juta) — jangan tertukar.
+
 ## Pola Umum
 
 Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/jasa dengan melibatkan pejabat pembuat komitmen dan pihak swasta rekanan; (2) suap perizinan di sektor agraria/pertanahan; (3) penyelewengan dana bantuan — baik bansos maupun dana kebencanaan — yang mestinya untuk masyarakat terdampak.
@@ -156,6 +226,17 @@ Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/j
 - Literasi Online — https://literasi-online.com/2026/10/23/kasus-ott-bupati-klaten-kpk-geledah-kantor-badan-pemeriksa-keuangan-jateng-sita-uang-jutaan-rupiah — 23 Oktober 2026
 - Astakom — https://astakom.com/2026/10/23/tni-bakal-tindaklanjuti-informasi-kpk-terkait-dugaan-prajurit-terlibat-korupsi-dana-bnpb — 23 Oktober 2026
 - Bsinnews.id — https://bsinews.id/kpk-periksa-petinggi-bela-parahiyangan — 23 Oktober 2026
+
+- Kejati Sulawesi Selatan (rilis Kejagung), Tahap II perkara dugaan korupsi PT PMM — https://kejati-sulawesiselatan.kejaksaan.go.id/conference/news/15179/read — 3 November 2026
+- Kompas, eks Wali Kota Bengkulu Ahmad Kanedi divonis bebas Hakim MA — https://regional.kompas.com/read/2026/11/05/114401578/eks-wali-kota-bengkulu-ahmad-kanedi-divonis-bebas-hakim-ma-18-bulan?page=all — 5 November 2026 (URL tidak berhasil dibuka langsung; terkonfirmasi lewat Kabar Bengkulu, Poros Bengkulu, BSI News, TribunBengkulu)
+- Kompas, vonis eks Ketua Ombudsman Hery Susanto 5 tahun penjara — https://nasional.kompas.com/read/2026/11/06/05245491/vonis-eks-ketua-ombudsman-hery-susanto-5-tahun-penjara-bayar-rp-3875-miliar — 6 November 2026 (sidang putusan 5 November 2026)
+- Kompas, penyuap eks Ketua Ombudsman Hery Susanto divonis 1 tahun 5 bulan penjara — https://nasional.kompas.com/read/2026/11/12/12323871/penyuap-eks-ketua-ombudsman-hery-susanto-divonis-1-tahun-5-bulan-penjara — 12 November 2026
+- ANTARA Bengkulu, mantan Bupati Bengkulu Utara Imron Rosyadi divonis 3 tahun 4 bulan penjara — https://bengkulu.antaranews.com/berita/485231/mantan-bupati-bengkulu-utara-imron-rosyadi-divonis-3-tahun-4-bulan-penjara — 6 November 2026
+- Kompas, Bupati Cilacap Syamsul Aulia divonis 5 tahun penjara — https://regional.kompas.com/read/2026/11/10/165548878/bupati-cilacap-syamsul-aulia-divonis-5-tahun-penjara-dalam-kasus-korupsi — 10 November 2026
+- detikJateng, Sekda Cilacap Sadmoko divonis 4 tahun bui — https://www.detik.com/jateng/hukum-dan-kriminal/d-8746306/sekda-cilacap-sadmoko-divonis-4-tahun-bui-buntut-peras-anak-buah — 10 November 2026
+- ANTARA Bengkulu, Bupati nonaktif Rejang Lebong divonis lima tahun penjara — https://bengkulu.antaranews.com/amp/berita/485723/bupati-nonaktif-rejang-lebong-divonis-lima-tahun-penjara — 10 November 2026
+- ANTARA, tiga eks pejabat Bea Cukai divonis penjara 6 hingga 9 tahun — https://m.antaranews.com/amp/berita/5850559/tiga-eks-pejabat-bea-cukai-divonis-penjara-6-hingga-9-tahun — 13 November 2026 (sidang 12 November 2026)
+- Tribrata News Polda Sumsel, Kortastipidkor Polri dan Polda Sumsel sita 44 aset senilai Rp286,27 miliar terkait kasus pembiayaan LPEI — https://tribratanews.sumsel.polri.go.id/berita/kortastipidkor-polri-dan-polda-sumsel-sita-44-aset-senilai-rp28627-miliar-terkait-kasus-pembiayaan-lpei — 12 November 2026
 
 ## Catatan presisi
 
