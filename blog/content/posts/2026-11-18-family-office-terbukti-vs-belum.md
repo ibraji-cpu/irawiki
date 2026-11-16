@@ -7,6 +7,7 @@ tags: ["family-office", "singapura", "cek-fakta"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-18-family-office-terbukti-vs-belum.mp3"
 ---
 
 # Family Office: Apa yang Terbukti, Apa yang Belum Terbukti

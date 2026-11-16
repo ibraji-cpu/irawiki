@@ -7,6 +7,7 @@ tags: ["haji-isam", "kepemilikan", "pasar-modal"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-17-jejak-haji-isam.mp3"
 ---
 
 # Jejak Haji Isam: Kronologi yang Terverifikasi

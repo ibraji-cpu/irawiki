@@ -7,6 +7,7 @@ tags: ["wiki", "arsip", "ira-amalia"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-19-cara-ira-mengingat.mp3"
 ---
 
 # Cara Ira Mengingat: Satu Ingatan, Banyak Pintu Masuk

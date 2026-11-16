@@ -7,6 +7,7 @@ tags: ["ekonomi", "PDB", "survei", "Prabowo"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-20-menagih-janji-dan-bukti.mp3"
 ---
 
 # Menagih Janji dan Bukti: PDB Tumbuh 5,47 Persen, Kok Dompet Tetap Sesak?

@@ -7,6 +7,7 @@ tags: ["tambang", "pasal-33", "kepemilikan", "BYAN"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-16-tambang-dan-pasal-33.mp3"
 ---
 
 # Tambang dan Pasal 33: Siapa Pemilik, Siapa Penerima Manfaat
