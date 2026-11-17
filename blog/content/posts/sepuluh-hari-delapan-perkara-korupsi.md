@@ -7,6 +7,7 @@ tags: ["korupsi", "kpk", "pengadilan-tipikor", "ombudsman", "bea-cukai", "lpei",
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/sepuluh-hari-delapan-perkara-korupsi.mp3"
 ---
 
 # Sepuluh Hari, Delapan Perkara: Korupsi Dihitung dari Ombudsman sampai Bea Cukai

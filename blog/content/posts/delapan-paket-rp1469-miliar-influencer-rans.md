@@ -7,6 +7,7 @@ tags: ["raffi-ahmad", "rans", "icw", "pengadaan", "influencer", "konflik-kepenti
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/delapan-paket-rp1469-miliar-influencer-rans.mp3"
 ---
 
 # Delapan Paket, Rp14,69 Miliar: Influencer RANS dan Uang Dua Kementerian
