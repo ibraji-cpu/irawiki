@@ -15,7 +15,7 @@ audio_path: "/audio/putusan-151g-gelar-pahlawan-soeharto.mp3"
 
 **Selasa, 17 November 2026, pukul 13.00 WIB, lewat sidang elektronik, PTUN Jakarta menolak seluruh gugatan koalisi GEMAS soal gelar Pahlawan Nasional Soeharto. Kali ini pengadilan tidak berhenti di pintu masuk — ia masuk ke isi perkara, dan tetap menolak.**
 
-*Guys*, perkara ini nomornya **151/G/2026/PTUN.JKT**. Penggugatnya koalisi **GEMAS** — Gerakan Masyarakat Adili Soeharto — sembilan pihak, termasuk **Nona Nani Nurani**, **YLBHI**, dan **ICW**. Yang mereka gugat **Keppres Nomor 116/TK/Tahun 2025**, keputusan presiden yang menganugerahkan gelar Pahlawan Nasional kepada **Jenderal Besar TNI H.M. Soeharto** pada 10 November 2025. Amar putusannya: eksepsi tergugat dan Tergugat II Intervensi dinyatakan tidak diterima; gugatan ditolak untuk seluruhnya; para penggugat dihukum membayar biaya perkara Rp461.000. Status di SIPP: Ditolak. Putusan verstek: Tidak.
+*Guys*, perkara ini nomornya **151/G/2026/PTUN.JKT**. Penggugatnya koalisi **GEMAS** — Gerakan Masyarakat Adili Soeharto — sembilan pihak, termasuk **Nona Nani Nurani**, **YLBHI**, dan **ICW**. Yang mereka gugat **Keppres Nomor 116/TK/Tahun 2025**, keputusan presiden yang menganugerahkan gelar Pahlawan Nasional kepada **Jenderal Besar TNI H.M. Soeharto** pada 10 November 2025. Amar putusannya: eksepsi tergugat dan Tergugat II Intervensi dinyatakan tidak diterima; gugatan ditolak untuk seluruhnya; para penggugat dihukum membayar biaya perkara Rp461.000. Status di SIPP: Ditolak. Putusan verstek: Tidak. Yang jadi sumber utama tulisan ini salinan resmi putusannya sendiri — 226 halaman, kubaca 18 November 2026 — bukan ringkasan berita.
 
 ## Dua perkara, dua cara kandas
 
@@ -25,7 +25,7 @@ Di 151/G, eksepsi yang sama diajukan — dan ditolak. Artinya majelis menilai gu
 
 ## Yang diputus pengadilan — dan yang tidak
 
-Ada satu hal yang perlu diluruskan. Judul berita *Suara.com* malam itu berbunyi "Gugatan Ditolak Hakim! Gelar Pahlawan Nasional Soeharto Sah". Kata "sah" itu hanya ada di judul. Isi beritanya — dan amar putusan yang dikutipnya — tidak memuat kalimat pengadilan yang menyatakan Keppres itu sah. Yang diputus: gugatan ditolak. Itu saja. Pertimbangan hakimnya belum tersedia, karena SIPP PTUN Jakarta baru memuat amar dan status putusan. **Jadi jangan baca putusan ini sebagai vonis pengadilan tentang benar-salahnya sejarah Soeharto. Yang diputus pengadilan adalah gugatannya, bukan sejarahnya.**
+Ada satu hal yang perlu diluruskan. Judul berita *Suara.com* malam itu berbunyi "Gugatan Ditolak Hakim! Gelar Pahlawan Nasional Soeharto Sah". Kata "sah" itu hanya ada di judul. Salinan resmi putusannya — sumber utama tulisan ini — tidak memuat kalimat pengadilan yang menyatakan Keppres itu sah. Yang diputus: gugatan ditolak. Itu saja. Putusan itu diputuskan dalam musyawarah Majelis Hakim Senin 16 November 2026, oleh **M. Herry Indrawan P.** selaku Hakim Ketua Majelis, **Febrina Permadi** dan **Yustika Hardwiandita** selaku Hakim Anggota. Pertimbangan intinya: penerbitan Keppres dari aspek kewenangan, prosedur, dan substansi sudah sesuai peraturan perundang-undangan dan Asas-Asas Umum Pemerintahan yang Baik, khususnya Asas Kepastian Hukum — dan para penggugat tidak dapat membuktikan kerugian maupun cacat formil atau materil atas penerbitan Keppres itu. **Jadi jangan baca putusan ini sebagai vonis pengadilan tentang benar-salahnya sejarah Soeharto. Yang diputus pengadilan adalah gugatannya, bukan sejarahnya.**
 
 ## Mengapa gelar ini kontroversial
 
@@ -43,9 +43,9 @@ Perkara pertama berhenti di garis *eksepsi formal*. Perkara kedua melewatinya �
 
 ## Apa yang masih terbuka
 
-Respons para pihak belum ada. Rencana banding belum diketahui. Dan pertimbangan hakim — alasan di balik penolakan di pokok perkara — belum bisa dibaca siapa pun sampai salinan putusannya tersedia. Jalan hukum ini belum tentu berhenti di sini; tapi untuk hari ini, dua pintu yang tersedia sudah sama-sama tertutup.
+Respons para pihak belum ada. Rencana banding belum diketahui. Pertimbangan hakim — alasan di balik penolakan di pokok perkara — sekarang sudah bisa dibaca dari salinan resmi putusannya. Jalan hukum ini belum tentu berhenti di sini; tapi untuk hari ini, dua pintu yang tersedia sudah sama-sama tertutup.
 
-Tulisan ini kususun dari sintesis data Wiki Ira Amalia dan perkembangan terbaru dari web. Seperti biasa, aku pisahkan mana fakta, mana klaim, mana tafsir.
+Tulisan ini kususun dari salinan resmi Putusan 151/G/2026/PTUN.JKT sebagai sumber utama, ditambah sintesis data Wiki Ira Amalia. Seperti biasa, aku pisahkan mana fakta, mana klaim, mana tafsir.
 
 ---
 
@@ -56,6 +56,7 @@ Tulisan ini kususun dari sintesis data Wiki Ira Amalia dan perkembangan terbaru 
 
 ## Daftar Pustaka
 
-1. Ira Amalia. "Soeharto Pahlawan Nasional." Wiki Ira Amalia, 17 November 2026. https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional
-2. Muhamad Yasir. "Gugatan Ditolak Hakim! Gelar Pahlawan Nasional Soeharto Sah." *Suara.com*, 17 November 2026, 18:47 WIB. https://www.suara.com/news/2026/11/17/184731/gugatan-ditolak-hakim-gelar-pahlawan-nasional-soeharto-sah
+1. Salinan resmi Putusan 151/G/2026/PTUN.JKT (226 hlm). Pengadilan Tata Usaha Negara Jakarta, diucapkan 17 November 2026. Sumber utama: amar, majelis, tanggal diputus/diucapkan, pertimbangan inti, dan rincian biaya perkara.
+2. Ira Amalia. "Soeharto Pahlawan Nasional." Wiki Ira Amalia, 17 November 2026. https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional
+3. Muhamad Yasir. "Gugatan Ditolak Hakim! Gelar Pahlawan Nasional Soeharto Sah." *Suara.com*, 17 November 2026, 18:47 WIB. https://www.suara.com/news/2026/11/17/184731/gugatan-ditolak-hakim-gelar-pahlawan-nasional-soeharto-sah — laporan media pertama atas putusan; judulnya yang dikoreksi di artikel ini.
 3. Ira Amalia. "Gugatan Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli Waris." *Blog Ira Amalia*, 15 Oktober 2026. https://blog.iraamalia.id/posts/gugatan-gelar-pahlawan-soeharto-ptun/
