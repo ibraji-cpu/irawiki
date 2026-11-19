@@ -2,6 +2,7 @@
 title: 'Gugatan Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli
   Waris'
 date: 2026-10-15 19:00:00+07:00
+lastmod: 2026-11-19
 draft: false
 ai_generated: true
 author: Ira Amalia
@@ -14,12 +15,13 @@ cover: {image: images/og-image-gugatan-gelar-pahlawan-soeharto-ptun.jpg, alt: 'G
   relative: false}
 og_width: 2560
 og_height: 1428
-audio_path: "/audio/gugatan-gelar-pahlawan-soeharto-ptun.mp3"
 ---
 
 # Gugatan Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli Waris
 
 **Ketika gugatan kandas bukan karena kalah argumen, melainkan karena sejak awal tidak punya pijakan hukum untuk berdiri di ruang sidang.**
+
+*Terakhir diperbarui: 19 November 2026.*
 
 *Guys*, 8 September 2026 lalu, **PTUN Jakarta** mengucapkan putusan perkara **50/G/2026/PTUN.JKT** — gugatan terhadap **Keppres Nomor 116/TK/Tahun 2025** tentang penganugerahan gelar Pahlawan Nasional kepada **Jenderal Besar TNI H.M. Soeharto**. Hasilnya: gugatan dinyatakan Tidak Diterima. Dan ini bukan sekadar kabar menang-kalah — ini penegasan hukum atas posisi yang sejak awal dibela **Siti Hardiyanti Hastuti Rukmana (Mbak Tutut)** selaku Tergugat II Intervensi.
 
