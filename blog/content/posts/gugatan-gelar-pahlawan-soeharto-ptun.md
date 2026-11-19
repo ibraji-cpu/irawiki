@@ -7,15 +7,13 @@ ai_generated: true
 author: Ira Amalia
 tags: ["soeharto", "gelar-pahlawan", "ptun"]
 categories: ["Adilkah Aturan Mainnya?"]
-description: 'PTUN Jakarta menyatakan gugatan gelar pahlawan Soeharto tidak diterima.
-  Putusan 50/G/2026 mengabulkan eksepsi tergugat dan ahli waris: penggugat tak punya
-  kedudukan hukum.'
+description: 'Dua gugatan atas gelar pahlawan Soeharto kini sudah diputus PTUN Jakarta:
+  50/G/2026 tidak diterima, 151/G/2026 ditolak untuk seluruhnya.'
 cover: {image: images/og-image-gugatan-gelar-pahlawan-soeharto-ptun.jpg, alt: 'Gugatan
     Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli Waris',
   relative: false}
 og_width: 2560
 og_height: 1428
-audio_path: "/audio/gugatan-gelar-pahlawan-soeharto-ptun.mp3"
 ---
 
 # Gugatan Gelar Pahlawan Soeharto: Putusan PTUN Menegaskan Kedudukan Hukum Ahli Waris
@@ -34,15 +32,16 @@ Fakta pentingnya lagi: karena eksepsi dikabulkan, pokok perkara — soal sah-tid
 
 **Bagi kubu ahli waris, putusan ini adalah validasi telak: sejak awal mereka berargumen bahwa gelar pahlawan adalah penghargaan kehormatan negara yang tidak menimbulkan akibat hukum bagi pihak ketiga — dan pengadilan mengamini logika itu.**
 
-Sementara itu, perkara kedua — **151/G/2026/PTUN.JKT** yang didaftarkan 30 April 2026 oleh koalisi **GEMAS** (Gerakan Masyarakat Adili Soeharto) — masih berjalan. Sidang 12 Oktober 2026 masuk tahap pembuktian ahli dengan **Richo Andi Wibowo** dan **Bivitri Susanti**, dan tahap berikutnya adalah penyerahan surat-surat. Belum ada putusan, dan memprediksinya hanya akan jadi spekulasi.
+Sementara itu, perkara kedua — **151/G/2026/PTUN.JKT** yang didaftarkan 30 April 2026 oleh koalisi **GEMAS** (Gerakan Masyarakat Adili Soeharto) — kini sudah diputus. Sidang 12 Oktober 2026 masuk tahap pembuktian ahli dengan **Richo Andi Wibowo** dan **Bivitri Susanti**, dan pada Selasa, 17 November 2026, pukul 13:00 WIB, putusan dibacakan secara elektronik: gugatan ditolak untuk seluruhnya. Para penggugat — sembilan pihak, termasuk YLBHI dan ICW — dihukum membayar biaya perkara Rp461.000.
 
-Masalahnya, persoalannya ternyata nggak sesederhana itu. Putusan 50/G memang menguatkan kubu ahli waris, tapi ia melakukannya tanpa menjawab pertanyaan terbesar: apakah gelar pahlawan termasuk KTUN yang bisa digugat ke PTUN. Pintu itu masih terbuka — dan 151/G-lah yang mungkin akan mengujinya. **Kalau 151/G juga kandas di soal kedudukan hukum, maka presedennya jelas: gugatan model begini tidak punya masa depan di PTUN.**
+Masalahnya, persoalannya ternyata nggak sesederhana itu. Putusan 50/G memang menguatkan kubu ahli waris, tapi ia melakukannya tanpa menjawab pertanyaan terbesar: apakah gelar pahlawan termasuk KTUN yang bisa digugat ke PTUN. Jawaban dari 151/G ternyata bukan di pintu kedudukan hukum: eksepsi Tergugat dan Tergugat II Intervensi justru dinyatakan tidak diterima, majelis masuk ke pokok perkara — dan di situlah gugatan ditolak untuk seluruhnya. **Jadi presedennya sekarang lebih tajam: perkara kedua ini melewati ambang kedudukan hukum, dinilai isinya, dan tetap kalah.**
 
-Jadi apa maknanya? Buat para ahli waris, putusannya melegakan: negara lewat pengadilannya menyatakan tidak ada hubungan hukum yang dilanggar oleh penganugerahan gelar itu. Buat publik, pelajarannya juga jernih — ruang sidang PTUN menguji prosedur dan kedudukan hukum, bukan mengadili benar-salahnya sejarah. Dan selama 151/G belum diputus, kisah ini belum selesai.
+Jadi apa maknanya? Buat para ahli waris, putusannya melegakan: negara lewat pengadilannya menyatakan tidak ada hubungan hukum yang dilanggar oleh penganugerahan gelar itu — dan kini gugatan keduanya pun ditolak setelah diperiksa pokoknya. Buat publik, pelajarannya juga jernih — ruang sidang PTUN menguji prosedur dan kedudukan hukum, bukan mengadili benar-salahnya sejarah. Yang belum diketahui: pertimbangan hakim atas 151/G, respons para pihak, dan apakah ada banding. Selama itu belum ada, kisah ini belum sepenuhnya selesai.
 
-*Artikel ini disusun sebagai sintesis data Wiki Ira Amalia dan dokumen resmi Putusan 50/G/2026/PTUN.JKT.*
+*Artikel ini disusun sebagai sintesis data Wiki Ira Amalia, dokumen resmi Putusan 50/G/2026/PTUN.JKT, dan data SIPP PTUN Jakarta atas Putusan 151/G/2026/PTUN.JKT (17 November 2026). Artikel ini diperbarui 19 November 2026 dengan hasil putusan 151/G.*
 
 ## Daftar Pustaka
 
-1. Ira Amalia. "Soeharto Pahlawan Nasional." Wiki Ira Amalia, 14 Oktober 2026. https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional
+1. Ira Amalia. "Soeharto Pahlawan Nasional." Wiki Ira Amalia, 18 November 2026. https://wiki.iraamalia.id/peristiwa/soeharto-pahlawan-nasional
 2. Ira Amalia. "Soeharto." Wiki Ira Amalia. https://wiki.iraamalia.id/aktor/soeharto
+3. Muhamad Yasir. "Gugatan Ditolak Hakim! Gelar Pahlawan Nasional Soeharto Sah." Suara.com, 17 November 2026. https://www.suara.com/news/2026/11/17/184731/gugatan-ditolak-hakim-gelar-pahlawan-nasional-soeharto-sah
