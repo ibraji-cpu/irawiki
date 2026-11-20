@@ -2,7 +2,7 @@
 title: "Korupsi di Indonesia"
 description: 'Ringkasan sistemik korupsi di Indonesia pasca-reformasi 1998: kelahiran KPK, pasang surut pemberantasan, dan pola perkara besar.'
 date: 2026-10-15
-updated: '2026-11-15'
+updated: '2026-11-19'
 aliases:
   - Korupsi Indonesia
   - Tindak Pidana Korupsi di Indonesia
@@ -201,6 +201,14 @@ Kortastipidkor Polri dan Polda Sumsel menyita 44 objek tanah/bangunan senilai to
 
 Presisi: penyitaan ini langkah penyidikan (pengamanan aset), bukan putusan; tersangka sudah ditetapkan Januari 2025 — yang baru 12 November adalah penyitaan 44 asetnya. Angka Rp286,27 miliar adalah nilai aset yang disita, bukan kerugian negara (kerugian menurut BPK = USD 43,62 juta) — jangan tertukar.
 
+### 2026-11-19 — DPR sahkan UU Perampasan Aset setelah 18 tahun; belum berlaku
+
+DPR RI mengesahkan Rancangan Undang-Undang tentang Perampasan Aset Terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya menjadi undang-undang dalam Rapat Paripurna Ke-13 Masa Persidangan II Tahun Sidang 2026–2027, Kamis 19 November 2026, dipimpin Ketua DPR Puan Maharani. Pembahasan tingkat I telah disepakati Komisi III DPR bersama pemerintah sehari sebelumnya (18 November 2026). RUU ini digagas PPATK sejak 2008; disetujui sebagai usul inisiatif DPR pada 6 Oktober 2026; Panja Komisi III (ketua Habiburokhman) membahas 397 DIM dan menggelar 87 RDP/RDPU menurut Habiburokhman sejak September 2025. Naskah yang disahkan memuat 74 pasal, antara lain perampasan aset tanpa putusan pidana (non-conviction based) bila pelaku meninggal dunia, melarikan diri, sakit permanen, atau tidak diketahui — dengan nilai aset paling sedikit Rp1 miliar — serta perampasan berdasarkan putusan pidana berkekuatan hukum tetap. Ruang lingkupnya: korupsi, narkotika dan psikotropika, terorisme dan pendanaan terorisme, penyelundupan manusia, penyelundupan senjata/amunisi/bahan berbahaya, perdagangan orang, dan penipuan/penggelapan berbasis teknologi informasi atau berdampak luas pada perekonomian masyarakat.
+
+Menurut ICW bersama Koalisi Advokasi Perampasan Aset, UU ini "palsu" karena tiga hal: klausul illicit enrichment (kekayaan pejabat tak wajar yang tak dilaporkan di LHKPN) dihapus dari draf 16 November 2026 — padahal KPK mengusulkannya dalam RDPU 27 Oktober 2026; ketentuan non-retroaktif (Pasal 72) dan pemberlakuan tertunda (Pasal 74) menutup jangkauan ke masa lalu, dan ambang NCB naik dari Rp100 juta (draf 2023) menjadi Rp1 miliar; serta pengelolaan aset tersentralisasi di bawah Presiden lewat Perpres. Koalisi membuka peluang uji formil dan materiil ke MK.
+
+Presisi: pengesahan paripurna belum berarti berlaku. UU masih menunggu pengesahan Presiden dan pengundangan, dan menurut Pasal 74 baru berlaku dan dilaksanakan 12 bulan setelah diundangkan serta setelah terbentuknya badan pengelola aset (Pasal 53) dan badan pengawas (Pasal 61). Nomor UU belum ada.
+
 ## Pola Umum
 
 Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/jasa dengan melibatkan pejabat pembuat komitmen dan pihak swasta rekanan; (2) suap perizinan di sektor agraria/pertanahan; (3) penyelewengan dana bantuan — baik bansos maupun dana kebencanaan — yang mestinya untuk masyarakat terdampak.
@@ -237,6 +245,11 @@ Kasus-kasus di atas memperlihatkan pola berulang: (1) korupsi pengadaan barang/j
 - ANTARA Bengkulu, Bupati nonaktif Rejang Lebong divonis lima tahun penjara — https://bengkulu.antaranews.com/amp/berita/485723/bupati-nonaktif-rejang-lebong-divonis-lima-tahun-penjara — 10 November 2026
 - ANTARA, tiga eks pejabat Bea Cukai divonis penjara 6 hingga 9 tahun — https://m.antaranews.com/amp/berita/5850559/tiga-eks-pejabat-bea-cukai-divonis-penjara-6-hingga-9-tahun — 13 November 2026 (sidang 12 November 2026)
 - Tribrata News Polda Sumsel, Kortastipidkor Polri dan Polda Sumsel sita 44 aset senilai Rp286,27 miliar terkait kasus pembiayaan LPEI — https://tribratanews.sumsel.polri.go.id/berita/kortastipidkor-polri-dan-polda-sumsel-sita-44-aset-senilai-rp28627-miliar-terkait-kasus-pembiayaan-lpei — 12 November 2026
+- InvestorTrust, "Rapat Paripurna DPR Sahkan RUU Perampasan Aset Jadi Undang-Undang setelah Penantian 18 Tahun" — https://investortrust.id/national/123050/rapat-paripurna-dpr-sahkan-ruu-perampasan-aset-jadi-undang-undang-setelah-penantian-18-tahun — 19 November 2026
+- ValidNews, "DPR Tegaskan Pembahasan RUU Perampasan Aset Transparan" — https://validnews.id/nasional/2026/11/19/dpr-tegaskan-pembahasan-ruu-perampasan-aset-transparan-125200194 — 19 November 2026
+- IndoWarta, "RUU Perampasan Aset Disahkan DPR, ICW Sebut UU Palsu dan Paparkan 3 Alasan UU Ini Bakal Mandul" — https://indowarta.com/114610-ruu-perampasan-aset-disahkan-dpr-icw-sebut-uu-palsu-dan-paparkan-3-alasan-uu-ini-bakal-mandul — 19 November 2026
+- Jakarta Review, "Pasal Kekayaan Tidak Wajar Dihapus, RUU Perampasan Aset Dinilai Tumpul Hadapi Koruptor Besar" — https://jakrev.com/nasional/pasal-kekayaan-tidak-wajar-dihapus-ruu-perampasan-aset-dinilai-tumpul-hadapi-koruptor-besar/ — 19 November 2026
+- Naskah RUU Perampasan Aset Terkait Tindak Pidana Korupsi dan Tindak Pidana Lainnya (draf tingkat I, 18 November 2026, 74 pasal) — dokumen PDF kiriman user, bukan URL.
 
 ## Catatan presisi
 
