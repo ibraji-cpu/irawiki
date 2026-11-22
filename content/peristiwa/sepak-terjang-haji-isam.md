@@ -2,7 +2,7 @@
 title: "Sepak Terjang Haji Isam"
 description: 'Living document manuver korporasi Haji Isam/Jhonlin Group: aksi mega-akuisisi, transaksi pasar modal, dan ekspansi konglomerasi.'
 date: 2026-10-09
-updated: '2026-10-22'
+updated: '2026-11-13'
 aliases:
   - Sepak Terjang Haji Isam
   - Aksi Korporasi Haji Isam
@@ -66,9 +66,23 @@ sumber:
     tanggal: "2026-08"
   - url: "https://www.idnfinancials.com/id/news/69988/rans-milik-raffi-ahmad-ditinggal-21-ribu-investor-harga-ambles-13-3"
     tanggal: "2026-10"
+  - url: "https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/58759f21be_b5b7ab81c0.pdf"
+    tanggal: "2026-10-22"
+  - url: "https://indoposonline.co.id/byan-gelar-rupslb-23-november-2026-bahas-perombakan-direksi-dan-komisaris/"
+    tanggal: "2026-11-02"
+  - url: "https://web.ksei.co.id/publications/corporate-action-schedules/meeting-convocation?file=104262620261106160152"
+    tanggal: "2026-11-06"
+  - url: "https://www.bareksa.com/berita/saham/2026-11-11/ini-daftar-resmi-300-saham-hsc-baru-per-sektor-ada-bdmn-dan-hmsp"
+    tanggal: "2026-11-11"
+  - url: "https://journalarta.com/news/2026/11/12/saham-hsc-bei-383-emiten-keluar-hitungan-ihsg/?all=1"
+    tanggal: "2026-11-12"
+  - url: "https://investor.id/market/461793/ihsg-pakai-522-saham-ini-top-10dengan-bobot-terbesar/2"
+    tanggal: "2026-11-12"
+  - url: "https://aktualita.co/ekonomi/bei-383-saham-keluar-ihsg-dampak-investor-november-2026"
+    tanggal: "2026-11-12"
 kategori: pasar-dan-kepemilikan
 kategori_tambahan: [sumber-daya-alam]
-last_updated: "2026-10-26"
+last_updated: "2026-11-13"
 last_verified: "2026-10-19"
 relasi:
   - tipe: terlibat_dalam
@@ -211,7 +225,7 @@ Pada saat yang sama, laporan riset pasar modal merangkum bahwa akuisisi 30% saha
 
 ### 2026-10-23 — PACK (afiliasi Haji Isam) umumkan rencana akuisisi tambang nikel Bumanik
 
-PT Abadi Nusantara Hijau Investama Tbk (PACK), emiten yang disebut FORTUNE Indonesia sebagai afiliasi Haji Isam, mengumumkan rencana mengambil alih 100% saham PT Bukit Makmur Istindo Nikeltama (Bumanik), perusahaan tambang bijih nikel di Morowali, Sulawesi Tengah, dengan nilai transaksi US$79 juta. Pengambilalihan akan dilakukan melalui dua anak usaha PACK, PT Daya Unggul Raya dan PT Gemilang Padma Raya, dari PT Merlot Grup Indonesia dan Pure Venture Capitol Limited. Bumanik memiliki konsesi 4.778 hektare. Rencana ini masih memerlukan persetujuan pemegang saham (RUPSLB dijadwalkan 30 November 2026 menurut pemberitaan keterbukaan informasi) dan karena itu ditulis sebagai rencana, bukan akuisisi yang sudah rampung. Bersamaan dengan itu PACK mengumumkan rencana rights issue (PMHMETD II) hingga US$463 juta atau sekitar Rp8,19 triliun, yang antara lain akan dipakai untuk akuisisi dan pelunasan pinjaman.
+PT Abadi Nusantara Hijau Investama Tbk (PACK), emiten yang disebut FORTUNE Indonesia sebagai afiliasi Haji Isam, mengumumkan rencana mengambil alih 100% saham PT Bukit Makmur Istindo Nikeltama (Bumanik), perusahaan tambang bijih nikel di Morowali, Sulawesi Tengah, dengan nilai transaksi US$79 juta. Pengambilalihan akan dilakukan melalui dua anak usaha PACK, PT Daya Unggul Raya dan PT Gemilang Padma Raya, dari PT Merlot Grup Indonesia dan Pure Venture Capitol Limited. Bumanik memiliki konsesi 4.778 hektare. Rencana ini masih memerlukan persetujuan pemegang saham (RUPSLB dijadwalkan 30 November 2026 menurut pemberitaan keterbukaan informasi) dan karena itu ditulis sebagai rencana, bukan akuisisi yang sudah rampung. Bersamaan dengan itu PACK mengumumkan rencana rights issue (PMHMETD II) hingga US$463 juta atau sekitar Rp8,19 triliun, yang antara lain akan dipakai untuk akuisisi dan pelunasan pinjaman. Keterbukaan Informasi PACK kepada BEI tertanggal 22 Oktober 2026 merinci nilai transaksi US$79 juta atau Rp1.398.537.000.000 (kurs 31 Agustus 2026 Rp17.703 per dolar AS), setara 26,40% ekuitas konsolidasi PACK; nilai pasar saham Bumanik menurut KJPP Kusnanto & Rekan Rp1.439.430.000.000. Perjanjian Jual Beli Saham Bersyarat ditandatangani 22 Oktober 2026; penyelesaian menunggu antara lain persetujuan Menteri ESDM atas perubahan komposisi kepemilikan saham Bumanik dan persetujuan RUPSLB PACK 30 November 2026, dengan batas penyelesaian 22 April 2027.
 
 ### 2026-10-24 — Analis Gema Goeyardi: akuisisi BYAN bukan penyebab ancaman MSCI; keterangan MSCI tak sebut BYAN atau Haji Isam
 
@@ -220,6 +234,22 @@ Founder dan CEO Astronacci International Gema Goeyardi menilai tudingan bahwa ak
 ### 2026-10-26 — Bank Mandiri klarifikasi fasilitas kredit Rp40 triliun ke Jhonlin Baratama; Rp17 triliun sudah ditarik
 
 PT Bank Mandiri (Persero) Tbk menyampaikan klarifikasi lanjutan kepada Bursa Efek Indonesia (BEI) atas fasilitas kredit kepada PT Jhonlin Baratama, entitas grup Haji Isam. Senior Vice President of Corporate Secretary Bank Mandiri Adhika Vista menyebut plafon fasilitas Rp40 triliun, dengan Rp17 triliun sudah ditarik. Menurut Adhika, fasilitas itu dialokasikan untuk belanja modal dan kebutuhan pembiayaan grup Haji Isam serta mendukung ekspansi grup "di industri batu bara dan sektor pendukungnya". Bank Mandiri menyatakan penilaian agunan saham mematuhi POJK 40/POJK.03/2017, agunan saham hanya sumber pembayaran sekunder yang dinilai konservatif, dan — dengan memakai harga intraday terendah JARR dan PGUN selama sebulan terakhir — rasio cakupan agunan (collateral coverage ratio) tetap 150%. Perjanjian kredit juga memuat klausul kewajiban tambahan agunan bila rasio cakupan turun di bawah ambang minimum. IDNFinancials melaporkan sebelumnya bahwa grup Haji Isam menggadaikan seluruh saham PGUN dan JARR kepada Bank Mandiri untuk mendanai akuisisi lebih dari 30% saham PT Bayan Resources Tbk (BYAN); klarifikasi Bank Mandiri sendiri tidak menyatakan fasilitas itu dipakai untuk pembelian BYAN.
+
+### 2026-10-30 — BYAN panggil RUPSLB 23 November 2026 untuk perombakan Direksi dan Komisaris
+
+PT Bayan Resources Tbk (BYAN) memanggil Rapat Umum Pemegang Saham Luar Biasa (RUPSLB) pada Senin, 23 November 2026 pukul 14.00 WIB di Jade Room, Fairmont Hotel Jakarta. Surat pemanggilan tertanggal 30 Oktober 2026 memuat dua agenda: persetujuan perubahan susunan Direksi dan perubahan susunan Dewan Komisaris (Pasal 14 Anggaran Dasar jo. POJK 33/POJK.04/2014). Nama calon yang akan diganti belum diungkap perseroan. Daftar pemegang saham yang berhak hadir ditetapkan 29 Oktober 2026 pukul 16.15 WIB; batas pemberian kuasa dan pemungutan suara elektronik (e-proxy/e-vote) 20 November 2026 pukul 12.00 WIB. Pemanggilan ini menyusul rampungnya akuisisi 30,25% saham BYAN oleh PT Jhonlin Baratama pada 7 Oktober 2026; Low Tuck Kwong tetap menjadi pengendali sampai RUPSLB memutuskan perubahan susunan organ perseroan. Entri ini mencatat pemanggilan, bukan keputusan — siapa masuk dan keluar belum diputuskan.
+
+### 2026-11-06 — PACK panggil RUPSLB 30 November 2026: empat agenda termasuk akuisisi Bumanik dan PMHMETD
+
+PT Abadi Nusantara Hijau Investama Tbk (PACK) memanggil RUPSLB pada 30 November 2026 pukul 10.00 WIB di Ruang Kulintang, Ascott Sudirman Jakarta, menurut dokumen pemanggilan KSEI tertanggal 6 November 2026. Empat mata acara: (1) perubahan kegiatan usaha, studi kelayakan, dan perubahan Pasal 3 Anggaran Dasar (POJK 17/POJK.04/2020); (2) akuisisi saham PT Bukit Makmur Istindo Nikeltama (Bumanik) dan pemberian kuasa kepada Direksi; (3) peningkatan modal dengan hak memesan efek terlebih dahulu (PMHMETD) dan perubahan anggaran dasar terkait; (4) rencana pembelian saham Denway Development Limited. Daftar pemegang saham yang berhak hadir ditetapkan 5 November 2026. Pemanggilan ini memformalkan rencana yang diumumkan 23 Oktober 2026 — akuisisi Bumanik dan PMHMETD kini naik ke agenda resmi RUPSLB — ditambah dua hal yang belum ada di pengumuman itu: perubahan kegiatan usaha dan pembelian Denway.
+
+### 2026-11-11 — BEI umumkan 300 saham HSC baru, termasuk JARR dengan konsentrasi 98,020%
+
+Bursa Efek Indonesia mengumumkan 300 saham baru berstatus High Shareholding Concentration (HSC) lewat Peng-HSC-00088/BEI.WAS/11-2026 tertanggal 11 November 2026; total saham HSC menjadi 383. Dasar penetapan: kepemilikan 10 pemegang saham terbesar minimal 92,5% per 30 Oktober 2026. PT Jhonlin Agro Raya Tbk (JARR) tercatat dalam daftar 300 saham baru di sektor Barang Konsumen Primer, dengan konsentrasi kepemilikan 98,020% menurut olahan JournalArta atas daftar resmi (PGUN 99,956%; BYAN 96,5%). Status HSC bukan pelanggaran dan bukan sanksi; saham tetap dapat diperdagangkan. Peristiwa yang sama dicatat di hub Perang Ultra Modern dan Geopolitik — di hub ini cukup fokus JARR/PGUN.
+
+### 2026-11-13 — JARR keluar dari perhitungan IHSG; yang dikeluarkan 296 saham, bukan 300
+
+Penyesuaian perhitungan Indeks Harga Saham Gabungan (IHSG) berlaku mulai Jumat, 13 November 2026 untuk periode 13 November 2026–29 Januari 2027; IHSG kini dihitung dari 522 saham. PT Jhonlin Agro Raya Tbk (JARR) termasuk saham yang dikeluarkan dari perhitungan, disebut eksplisit bersama GIAA, HITS, dan PGEO. Jumlah saham yang dikeluarkan adalah 296 — bukan 300 seperti pemberitaan awal — berdasarkan evaluasi insidental BEI (Peng-00219/BEI.POP/11-2026, 12 November 2026); selisihnya karena 4 dari 300 saham HSC baru sebelumnya bukan konstituen IHSG. Keluar dari perhitungan IHSG bukan delisting; saham tetap diperdagangkan.
 
 ## Aktor yang Terlibat
 
@@ -260,6 +290,15 @@ PT Bank Mandiri (Persero) Tbk menyampaikan klarifikasi lanjutan kepada Bursa Efe
 - [Saham JARR-PGUN Milik Haji Isam Dijaminkan ke Bank Mandiri, Ini Kata BEI](https://investortrust.id/market/119753/saham-jarr-pgun-milik-haji-isam-dijaminkan-ke-bank-mandiri-ini-kata-bei) — InvestorTrust, 19 Oktober 2026.
 - [BBCA Tertekan, Rumor Haji Isam Akuisisi BCA Kembali Jadi Sorotan](https://www.viva.co.id/bisnis/1936917-bbca-tertekan-rumor-haji-isam-akuisisi-bca-kembali-jadi-sorotan) — VIVA (Nadiyas Utami Pratiwi, sumber data Stockbit Sekuritas), 19 Oktober 2026.
 
+### Sumber Peristiwa November 2026
+- Keterbukaan Informasi PACK kepada BEI, 22 Oktober 2026 (PDF): https://www.idx.co.id/StaticData/NewsAndAnnouncement/ANNOUNCEMENTSTOCK/From_EREP/202610/58759f21be_b5b7ab81c0.pdf
+- [BYAN Gelar RUPSLB 23 November 2026 Bahas Perombakan Direksi dan Komisaris](https://indoposonline.co.id/byan-gelar-rupslb-23-november-2026-bahas-perombakan-direksi-dan-komisaris/) — IndoposOnline, 2 November 2026.
+- Dokumen pemanggilan RUPSLB PACK, KSEI, 6 November 2026: https://web.ksei.co.id/publications/corporate-action-schedules/meeting-convocation?file=104262620261106160152
+- [Ini Daftar Resmi 300 Saham HSC Baru per Sektor](https://www.bareksa.com/berita/saham/2026-11-11/ini-daftar-resmi-300-saham-hsc-baru-per-sektor-ada-bdmn-dan-hmsp) — Bareksa, 11 November 2026.
+- [Saham HSC BEI: 383 Emiten Keluar Hitungan IHSG](https://journalarta.com/news/2026/11/12/saham-hsc-bei-383-emiten-keluar-hitungan-ihsg/?all=1) — JournalArta, 12 November 2026.
+- [IHSG Pakai 522 Saham](https://investor.id/market/461793/ihsg-pakai-522-saham-ini-top-10dengan-bobot-terbesar/2) — Investor.id, 12 November 2026.
+- [BEI: 383 Saham Keluar IHSG, Dampak Investor November 2026](https://aktualita.co/ekonomi/bei-383-saham-keluar-ihsg-dampak-investor-november-2026) — Aktualita, 12 November 2026.
+
 ### Sumber Peristiwa September 2026
 - [Akuisisi BYAN oleh Jhonlin Tak Bebani JARR, Ini Faktanya](https://www.cnbcindonesia.com/market/20260927174800-17-771259/akuisisi-byan-oleh-jhonlin-tak-bebani-jarr-ini-faktanya) — CNBC Indonesia, 27 September 2026.
 - [Haji Isam Harus Siapkan Duit Segini Jika Mau Caplok BCA (BBCA)](https://www.cnbcindonesia.com/market/20260928152131-17-771505/haji-isam-harus-siapkan-duit-segini-jika-mau-caplok-bca--bbca-) — CNBC Indonesia, 28 September 2026.
@@ -280,6 +319,7 @@ PT Bank Mandiri (Persero) Tbk menyampaikan klarifikasi lanjutan kepada Bursa Efe
 
 - **Terverifikasi:** CSPA 16 September 2026, realisasi 7 Oktober 2026 (10.084.088.370 saham @Rp2.588), dan bantahan BCA 28 September 2026 dirujuk ke keterbukaan informasi BEI serta pemberitaan CNBC Indonesia dan Bloomberg Technoz.
 - **Dua nilai, dua dasar:** Rp115,25 triliun adalah **nilai pasar** porsi 30% pada harga penutupan Rp11.525 (17 September 2026); Rp26,09 triliun adalah **nilai transaksi** pada Rp2.588 (7 Oktober 2026). Keduanya benar untuk pertanyaan berbeda — jangan dikutip bergantian tanpa label.
+- **Tiga angka Bumanik, tiga arti:** US$79 juta (Rp1,398 triliun) adalah **nilai transaksi** akuisisi 100% Bumanik (Keterbukaan Informasi PACK, 22 Oktober 2026); Rp1,439 triliun adalah **nilai pasar** saham Bumanik menurut KJPP Kusnanto & Rekan; US$463 juta (Rp8,19 triliun) adalah **plafon PMHMETD II**, dana rights issue — bukan nilai akuisisi. Ketiganya benar untuk pertanyaan berbeda — jangan dikutip bergantian tanpa label.
 - **Rumor, bukan transaksi:** isu akuisisi BBCA tidak pernah dikonfirmasi BEI, OJK, maupun BCA. Penurunan BBCA 19 Oktober 2026 terjadi di tengah tekanan pasar luas (IHSG −4,31%); korelasi harga–rumor tidak terbukti.
 - **Dilaporkan, bukan terkonfirmasi:** angka penawaran tunai sekitar US$3 miliar bersumber laporan Bloomberg (9 September 2026) dan tidak dikonfirmasi para pihak.
 - **Nilai nominal dirahasiakan:** para pihak tidak membuka nilai nominal transaksi; angka Rp26,09 triliun dihitung dari harga pasar negosiasi.
