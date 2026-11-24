@@ -1,0 +1,33 @@
+---
+title: "BYAN Ganti Direksi, JARR Keluar dari IHSG: November yang Sibuk untuk Grup Haji Isam"
+date: 2026-11-24T08:00:00+07:00
+description: "Sebulan setelah akuisisi BYAN rampung, rapat pemegang saham mengganti direksi dan komisarisnya, BEI memasukkan JARR ke daftar HSC lalu mengeluarkannya dari IHSG — dan PACK menyiapkan rapatnya sendiri."
+author: "Ira Amalia"
+tags: ["haji-isam", "byan", "pasar-modal", "jarr"]
+categories: ["Opini"]
+draft: false
+ai_generated: true
+---
+
+# BYAN Ganti Direksi, JARR Keluar dari IHSG: November yang Sibuk untuk Grup Haji Isam
+
+**Sebulan setelah transaksi Rp26 triliun itu rampung, ceritanya pindah dari siapa yang membeli ke siapa yang duduk di kursi direksi — dan saham mana yang masih dihitung di IHSG.**
+
+Tulisan ini kususun dari sintesis data **Wiki Ira Amalia** dan perkembangan terbaru dari web — seperti biasa, aku pisahkan mana fakta, mana klaim, mana tafsir. Bahan utamanya adalah hub **"Sepak Terjang Haji Isam"** di wiki, yang sejak artikelku 17 November lalu bertambah empat entri baru, plus satu keputusan yang baru terjadi kemarin dan kuperiksa langsung dari pemberitaan.
+
+Tujuh Oktober lalu, **PT Jhonlin Baratama** merampungkan pembelian 30,25 persen saham **PT Bayan Resources Tbk (BYAN)** senilai sekitar Rp26,09 triliun. Yang tertinggal sesudahnya adalah satu pertanyaan formal: siapa yang akan menjalankan perusahaan itu? Jawabannya tidak bisa ditebak dari harga saham — ia harus diputuskan di rapat pemegang saham. Pada 30 Oktober, BYAN memanggil **Rapat Umum Pemegang Saham Luar Biasa (RUPSLB)** untuk Senin, 23 November 2026, pukul 14.00 WIB di Fairmont Hotel Jakarta, dengan dua agenda: perubahan susunan Direksi dan perubahan susunan Dewan Komisaris. Nama calon yang akan diganti belum diungkap perseroan saat itu, dan **Low Tuck Kwong** tetap menjadi pengendali sampai rapat memutuskan.
+
+Kemarin, rapat itu digelar — dan jawabannya lengkap. Pemegang saham menyetujui pengangkatan **Ary Bastari** sebagai Direktur Utama menggantikan Low Tuck Kwong. Ary sebelumnya menjabat Direktur Batubara di **PT PLN Energi Primer Indonesia**. Mendampinginya sebagai direktur: **Liana Saputri**, putri **Andi Syamsuddin Arsyad (Haji Isam)**; **Daud Kala' Bombang**; **Taufik Hidayat Kesatria**; dan **Siyoung Park**. Di dewan komisaris, **Budi Waseso** diangkat sebagai Komisaris Utama Independen dan **M. Hatta Rajasa** sebagai Komisaris Independen, bersama **Indra Surya**, **Tony Tribagus Spontana**, **Lifransyah Gumay**, dan **Nurfaizi**. Susunan direksi baru berlaku sampai Rapat Umum Pemegang Saham Tahunan 2029, komisaris sampai 2027. Di hari yang sama, saham BYAN ditutup naik 5,15 persen ke Rp8.675. **Dalam satu sore, nama di papan direksi BYAN berganti dari keluarga penjual ke orang-orang pilihan pembeli — dan itulah momen ketika akuisisi berhenti jadi angka transaksi dan mulai jadi kekuasaan yang nyata.**
+
+Sementara BYAN menutup bab pergantian pengurus, emiten afiliasi lain masih menyiapkan rapatnya. **PT Abadi Nusantara Hijau Investama Tbk (PACK)** — yang disebut **FORTUNE Indonesia** sebagai afiliasi Haji Isam — pada 23 Oktober mengumumkan rencana mengambil alih 100 persen saham tambang nikel **PT Bukit Makmur Istindo Nikeltama (Bumanik)** di Morowali. Tiga angka dalam pengumuman itu sering tertukar, jadi kususun rapi: US$79 juta — sekitar Rp1,398 triliun — adalah nilai transaksinya; Rp1,439 triliun adalah nilai pasar saham Bumanik menurut penilai independen **KJPP Kusnanto & Rekan**; dan US$463 juta — sekitar Rp8,19 triliun — adalah plafon rights issue keduanya, bukan nilai akuisisi. Perjanjian jual beli bersyaratnya diteken 22 Oktober 2026, dan penyelesaiannya masih menunggu persetujuan Menteri ESDM serta RUPSLB PACK, dengan batas 22 April 2027. Pada 6 November, PACK memanggil RUPSLB itu untuk 30 November 2026, dengan empat agenda: perubahan kegiatan usaha, akuisisi Bumanik, rights issue, dan rencana pembelian saham **Denway Development Limited**. Rapatnya belum terjadi — jadi semua ini masih agenda, bukan keputusan.
+
+Di minggu yang sama, giliran **Bursa Efek Indonesia (BEI)** yang menulis namanya sendiri. Pada 11 November, BEI mengumumkan 300 saham baru berstatus **High Shareholding Concentration (HSC)** — saham yang kepemilikannya terkonsentrasi di segelintir tangan — lewat pengumuman Peng-HSC-00088/BEI.WAS/11-2026; total saham HSC menjadi 383. Dasarnya: sepuluh pemegang saham terbesar menguasai minimal 92,5 persen per 30 Oktober 2026. **PT Jhonlin Agro Raya Tbk (JARR)**, emiten agribisnis afiliasi Haji Isam, masuk daftar itu dengan konsentrasi 98,020 persen. Dua hari kemudian, 13 November, JARR dikeluarkan dari perhitungan **Indeks Harga Saham Gabungan (IHSG)** — bersama 295 saham lain. Jumlah yang dikeluarkan adalah 296, bukan 300 seperti pemberitaan awal, karena empat dari 300 saham HSC baru itu memang bukan konstituen IHSG. IHSG kini dihitung dari 522 saham untuk periode 13 November 2026 sampai 29 Januari 2027. Dua hal perlu diluruskan: status HSC bukan pelanggaran dan bukan sanksi, dan keluar dari perhitungan IHSG bukan delisting — sahamnya tetap diperdagangkan seperti biasa.
+
+Buat anak muda yang baru belajar membaca pasar, November ini pelajaran yang padat. **Akuisisi itu baru separuh cerita; separuh lainnya ditulis di ruang rapat dan di pengumuman bursa — siapa yang diangkat, saham mana yang dicoret dari indeks.** RUPSLB menentukan siapa yang memegang kendali perusahaan. Daftar HSC dan IHSG menentukan seberapa mudah saham itu diperdagangkan dan dihitung. Keduanya dokumen publik, keduanya bisa dibaca siapa saja, dan keduanya lebih menentukan daripada rumor yang beredar di media sosial. Yang belum terjawab tetap belum terjawab: kenapa Low menjual 30 persen sahamnya jauh di bawah harga pasar — tidak ada dokumen yang menjawabnya sampai hari ini. Dan RUPSLB PACK 30 November masih menunggu: apakah pemegang saham menyetujui akuisisi Bumanik dan rights issue-nya, baru ketahuan minggu depan.
+
+## Daftar Pustaka
+
+1. Wiki Ira Amalia. "Sepak Terjang Haji Isam." wiki.iraamalia.id. https://wiki.iraamalia.id/peristiwa/sepak-terjang-haji-isam
+2. FORTUNE Indonesia. "Daftar Komisaris dan Direksi BYAN Terbaru, Putri Haji Isam Jadi Direktur." 23 November 2026. https://www.fortuneidn.com/business/daftar-komisaris-dan-direksi-byan-terbaru-d7w02-00-lflgw-0wxy0b
+3. Bareksa. "Ini Daftar Resmi 300 Saham HSC Baru per Sektor, Ada BDMN dan HMSP." 11 November 2026. https://www.bareksa.com/berita/saham/2026-11-11/ini-daftar-resmi-300-saham-hsc-baru-per-sektor-ada-bdmn-dan-hmsp
+4. Investor.id. "IHSG Pakai 522 Saham, Ini Top 10 dengan Bobot Terbesar." 12 November 2026. https://investor.id/market/461793/ihsg-pakai-522-saham-ini-top-10dengan-bobot-terbesar/2
