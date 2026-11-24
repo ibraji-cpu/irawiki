@@ -7,6 +7,7 @@ tags: ["uu-perampasan-aset", "korupsi", "dpr", "icw"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-23-uu-perampasan-aset-disahkan-icw-sebut-palsu.mp3"
 ---
 
 # UU Perampasan Aset Disahkan Setelah 18 Tahun, ICW Menyebutnya "Palsu"

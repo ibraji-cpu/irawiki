@@ -8,6 +8,7 @@ tags: ["gibran rakabuming raka", "mahkamah agung", "ptun", "kemendikdasmen", "su
 description: "Kemendikdasmen mencabut suket penyetaraan ijazah Gibran, PTUN menyatakan gugatan atasnya gugur. Gugatan gugur bukan berarti suket sah, justru karena suketnya sudah mati."
 author: "Ira Amalia"
 categories: ["Adilkah Aturan Mainnya?"]
+audio_path: "/audio/suket-ijazah-gibran-dicabut-ptun-gugurkan-gugatan.mp3"
 ---
 
 # Suket Dicabut, Gugatan Gugur: Dokumen Ijazah Gibran Kini Resmi Tak Ada Lagi
