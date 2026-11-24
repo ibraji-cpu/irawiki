@@ -7,6 +7,7 @@ tags: ["haji-isam", "byan", "pasar-modal", "jarr"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/2026-11-24-byan-ganti-direksi-jarr-keluar-dari-ihsg.mp3"
 ---
 
 # BYAN Ganti Direksi, JARR Keluar dari IHSG: November yang Sibuk untuk Grup Haji Isam
