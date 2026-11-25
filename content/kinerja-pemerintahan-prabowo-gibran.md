@@ -2,7 +2,7 @@
 title: "Kinerja Pemerintahan Prabowo-Gibran"
 description: "Ringkasan terverifikasi dua tahun pemerintahan Prabowo Subianto–Gibran Rakabuming Raka (20 Oktober 2024–20 Oktober 2026): indikator makro, laba BUMN, dan kebijakan per bidang — dengan koreksi dan catatan presisi atas daftar '200 fakta' yang beredar."
 date: 2026-10-20
-updated: "2026-11-12"
+updated: "2026-11-26"
 entity_type: topik
 entity_id: "kinerja-pemerintahan-prabowo-gibran"
 aliases:
@@ -16,7 +16,7 @@ tags:
 confidence: 8
 risiko_editorial: "sedang"
 kategori: kinerja-pemerintahan
-last_updated: "2026-11-12"
+last_updated: "2026-11-26"
 ---
 
 # Kinerja Pemerintahan Prabowo-Gibran
@@ -47,10 +47,8 @@ Sejumlah kebijakan periode ini langsung menyentuh pasar kerja, pendidikan, dan r
 
 
 ### 2. BUMN & BPI Danantara
-- **Peluncuran & rasionalisasi:** BPI Danantara diluncurkan 24/2/2025 (UU 1/2025, PP 10/2025, Keppres 30/2025). SE Danantara (30/7/2025) menghapus tantiem komisaris BUMN (hemat ±Rp8 T/tahun) dan membatasi komisaris bank BUMN maks. 6 orang; **290 BUMN ditutup** s.d. Agustus 2026 (target ≤300 entitas akhir 2026).
+- **Danantara — dipindah ke hub tersendiri:** BPI Danantara diluncurkan 24 Februari 2025 sebagai pengelola investasi negara yang memegang seluruh BUMN; rasionalisasi, Patriot Bond, polemik dividen, dan laporan keuangan konsolidasian perdana kini dikronologikan di hub [[danantara|Danantara]]. Ringkasnya: dividen BUMN kini mengalir ke Danantara, bukan ke kas negara — setoran dividen ke APBN menyusut dari Rp86,4 triliun (2024) menjadi Rp1,5 triliun (Semester I 2026) — dan polemik itu berujung pada pergantian Menkeu Purbaya Yudhi Sadewa ke Suahasil Nazara (14 September 2026).
 - **Laba BUMN (Semester I 2025 → Semester I 2026):** Bank BRI Rp26,53 T → **Rp31,18 T** (+17,5%); Bank Mandiri → **Rp30,4 T** (+24,4%); Pupuk Indonesia Rp2,41 T → **Rp8,51 T** (+252%); Pegadaian Rp3,58 T → **Rp6,59 T** (+84,4%); PTPN IV PalmCo → **Rp3,23 T** (+54%); PT Timah Rp300 M → **Rp2,71 T** (naik ±9x); Pelindo → **Rp2,57 T** (+60,44%); BTN Rp1,70 T → **Rp2,40 T** (+40,8%); Semen Indonesia (SIG) laba bersih **Rp207 M** (+445,9%, lini attributable Rp228,26 M).
-- **Patriot Bond (22/10/2025):** PT Danantara Investment Management menerbitkan *Patriot Bond* (*private placement*, kupon 2% flat/tahun, Seri A 5 tahun & Seri B 7 tahun); target Rp50 T, realisasi *oversubscribe* **Rp51,75 triliun** dari ±46 grup usaha (pembeli pertama tercatat di BEI: PT HM Sampoerna Tbk Rp500 M) untuk proyek strategis termasuk *waste-to-energy* di 33 lokasi. Pasal 50A UU P2SK (2026) memberi perlindungan hukum bagi pembeli di pasar primer.
-- **Polemik Dividen Danantara & Pergantian Menkeu (Agt–Okt 2026):** Menkeu [[purbaya-yudhi-sadewa|Purbaya Yudhi Sadewa]] mengumumkan rencana setoran Danantara ±Rp120 T ke APBN 2026 (28/8/2026), namun CEO Danantara Rosan Roeslani menyebut belum dibahas internal (9/9/2026). Usai merombak 1.585 pejabat Kemenkeu (10/9/2026), Purbaya digantikan Suahasil Nazara pada 14/9/2026 (Keppres 97/P/2026; lihat [[Reshuffle Kabinet Merah Putih]]). Pada 8/10/2026, Menkeu Suahasil Nazara dan COO Danantara Dony Oskaria menegaskan **APBN 2026 & 2027 tidak mencatat dividen Danantara** karena diinvestasikan kembali lewat DAM dan DIM; realisasi PNBP Kekayaan Negara Dipisahkan (KND) turun dari Rp86,4 T (2024) ke Rp12,7 T (2025) dan Rp1,5 T (Semester I 2026), sementara total PNBP Semester I 2026 naik 21,6% menjadi Rp271 T.
 
 ### 3. Pangan & Pertanian
 - **Harga acuan & stok Bulog:** HPP gabah kering panen Rp6.500/kg (Kepbadan 2/2025, 15/1/2025) dan HPP jagung Rp5.500/kg (Kepbadan 18 & 216/2025). Stok beras Bulog menembus rekor **5.000.198 ton** (23/4/2026) dan berada di 4,5 juta ton pada 18/10/2026; Perpres 14/2026 (21/4/2026) mempercepat infrastruktur pascapanen.
