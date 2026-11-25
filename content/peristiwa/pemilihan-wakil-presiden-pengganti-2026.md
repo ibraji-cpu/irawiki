@@ -2,7 +2,7 @@
 title: "Pemilihan Wakil Presiden Pengganti 2026"
 description: 'Hub pemilihan Wakil Presiden pengganti Gibran Rakabuming Raka: pengunduran diri, tahapan MPR, pengajuan dua nama oleh Presiden, dan sidang paripurna pemilihan.'
 date: 2026-11-24
-updated: '2026-11-24'
+updated: '2026-11-25'
 aliases:
   - Pemilihan Wapres Pengganti 2026
   - Suksesi Wakil Presiden 2026
@@ -27,13 +27,17 @@ sumber:
     tanggal: "2026-11-16"
   - url: "https://investortrust.id/national/122730/mpr-sebut-ada-22-syarat-calon-wapres-pengganti-gibran"
     tanggal: "2026-11-16"
+  - url: "https://www.cna.id/indonesia/sugiono-amran-sulaiman-calon-wapres-pengganti-gibran-53316"
+    tanggal: "2026-11-23"
+  - url: "https://www.ntvnews.id/news/01127380/mpr-verifikasi-amran-dan-sugiono-hingga-1-desember-pemilihan-wapres-digelar-11-desember"
+    tanggal: "2026-11-24"
 ---
 
 # Pemilihan Wakil Presiden Pengganti 2026
 
 ## Ringkasan
 
-Wakil Presiden Gibran Rakabuming Raka mengundurkan diri dan menyerahkan surat pengunduran diri kepada Presiden Prabowo Subianto pada 11 November 2026; surat itu diserahkan ke MPR pada 12 November 2026. MPR menyiapkan pemilihan pengganti dari dua calon yang diusulkan Presiden (Pasal 8 ayat (2) UUD 1945, selambat-lambatnya 60 hari). Rapat Gabungan MPR 13 November 2026 menargetkan sidang paripurna 2 Desember 2026; Rapat Gabungan 16 November 2026 mengundurkannya menjadi **Rabu, 9 Desember 2026**, dengan tenggat pengajuan dua nama **Rabu, 25 November 2026** dan verifikasi 25 November–8 Desember 2026. Sampai 24 November 2026, dua nama itu belum diumumkan.
+Wakil Presiden Gibran Rakabuming Raka mengundurkan diri dan menyerahkan surat pengunduran diri kepada Presiden Prabowo Subianto pada 11 November 2026; surat itu diserahkan ke MPR pada 12 November 2026. MPR menyiapkan pemilihan pengganti dari dua calon yang diusulkan Presiden (Pasal 8 ayat (2) UUD 1945, selambat-lambatnya 60 hari). Rapat Gabungan MPR 13 November 2026 menargetkan sidang paripurna 2 Desember 2026; Rapat Gabungan 16 November 2026 mengundurkannya menjadi Rabu, 9 Desember 2026, dengan tenggat pengajuan dua nama Rabu, 25 November 2026. Presiden Prabowo Subianto menyerahkan dua nama itu lebih awal, Senin sore, 23 November 2026 — **Andi Amran Sulaiman** dan **Sugiono** — dan Rapat Gabungan MPR menggeser sidang paripurna menjadi **Jumat, 11 Desember 2026** (penghitungan 14 hari kerja, bukan hari kalender). Verifikasi dokumen kedua calon dijadwalkan hingga 1 Desember 2026; pemeriksaan kesehatan keduanya dijadwalkan Kamis, 26 November 2026 di RSPAD Gatot Soebroto.
 
 ## Apa relevansinya dengan anak muda?
 
@@ -43,9 +47,10 @@ Wakil Presiden pengganti akan menjabat sampai 2029 dan ikut menentukan arah kebi
 
 - Kekosongan jabatan Wapres: surat pengunduran diri Gibran diserahkan ke MPR 12 November 2026.
 - Dasar konstitusi: Pasal 8 ayat (2) UUD 1945 — MPR memilih pengganti dari dua calon yang diusulkan Presiden, selambat-lambatnya 60 hari.
-- Tenggat dua nama dari Presiden: Rabu, 25 November 2026 (disepakati Rapat Gabungan MPR 16 November 2026; dikonfirmasi rapat perdana Panitia Ad Hoc 19 November 2026).
-- Verifikasi dokumen calon: 25 November–8 Desember 2026 (menurut Ketua Tim Verifikasi Habiburokhman).
-- Sidang Paripurna MPR untuk memilih, mengesahkan, dan melantik Wapres pengganti: Rabu, 9 Desember 2026 (diundur dari target awal 2 Desember 2026).
+- Dua nama resmi dari Presiden: **Andi Amran Sulaiman** (Menteri Pertanian, Kepala Badan Pangan Nasional) dan **Sugiono** (Menko PMK, Sekjen Partai Gerindra) — diserahkan Senin sore, 23 November 2026 di Gedung Nusantara IV dan dibacakan Ketua MPR Ahmad Muzani. Tenggat 25 November 2026 yang disepakati Rapat Gabungan 16 November 2026 sudah kedaluwarsa sebagai tenggat berjalan karena nama diserahkan lebih awal.
+- Verifikasi dokumen calon: dijadwalkan hingga 1 Desember 2026 (menurut Ketua MPR Ahmad Muzani); hasilnya dibawa ke rapat gabungan MPR 1 Desember 2026. Jendela lama 25 November–8 Desember 2026 (menurut Ketua Tim Verifikasi Habiburokhman, 16 November 2026) sudah tidak berlaku.
+- Pemeriksaan kesehatan kedua calon: dijadwalkan Kamis, 26 November 2026 di RSPAD Gatot Soebroto (jadwal, bukan hasil).
+- Sidang Paripurna MPR untuk memilih, mengesahkan, dan melantik Wapres pengganti: Jumat, 11 Desember 2026 (digeser dari 9 Desember 2026 oleh Rapat Gabungan MPR; sebelumnya target awal 2 Desember 2026).
 - Batas 60 hari: 11 Januari 2027 — TURUNAN hitung (60 hari dari 12 November 2026), bukan tanggal yang dinyatakan resmi; perlu konfirmasi saat MPR menyatakan kekosongan jabatan secara formal.
 
 ## Kronologi
@@ -70,10 +75,17 @@ Rapat Gabungan MPR RI di Kompleks Parlemen, Senayan, Jakarta, Senin (16/11/2026)
 
 Panitia Ad Hoc MPR menggelar rapat perdana pada Kamis, 19 November 2026, dan mengonfirmasi Presiden Prabowo Subianto akan menyerahkan dua nama calon Wakil Presiden pada Rabu, 25 November 2026. Rapat perdana itu prosedural, tanpa keputusan baru — tenggat 25 November dan paripurna 9 Desember 2026 sudah tercatat di entri 2026-11-16.
 
+
+### 2026-11-23 — Prabowo ajukan dua nama cawapres ke MPR: Andi Amran Sulaiman dan Sugiono; paripurna pemilihan 11 Desember 2026
+
+Presiden Prabowo Subianto menyerahkan surat pengusulan dua nama calon wakil presiden kepada pimpinan Majelis Permusyawaratan Rakyat (MPR), di Gedung Nusantara IV, Kompleks Parlemen, Senayan, Jakarta, Senin sore (23/11/2026), untuk mengisi kekosongan jabatan wakil presiden setelah Gibran Rakabuming Raka mengundurkan diri. Ketua MPR Ahmad Muzani membacakan isi surat itu: "Satu, Andi Amran Sulaiman. Dua, Sugiono." Amran Sulaiman saat ini menjabat Menteri Pertanian (sekaligus Kepala Badan Pangan Nasional sejak 13 Oktober 2025); Sugiono menjabat Menteri Koordinator Bidang Pembangunan Manusia dan Kebudayaan sekaligus Sekretaris Jenderal Partai Gerindra. Prabowo menjelaskan pertimbangannya memilih keduanya "semata-mata prestasi, pengabdian, kesetiaan kepada negara" dan keyakinan keduanya akan bekerja sebaik-baiknya; ia menyatakan telah berkonsultasi dengan partai-partai koalisi pengusung di parlemen serta Dewan Pembina Partai Gerindra, dan menegaskan konstitusi hanya membolehkan pengajuan dua nama. MPR akan memverifikasi kelengkapan persyaratan administratif kedua kandidat selama 14 hari kerja; Ketua Tim Verifikasi Pemilihan Wapres Habiburokhman menyampaikan kedua kandidat tidak harus mengundurkan diri dari jabatan menteri selama mengikuti proses pemilihan — kewajiban mundur baru berlaku setelah terpilih dan dilantik — dan pemeriksaan kesehatan keduanya dijadwalkan Kamis (26/11/2026) di RSPAD Gatot Soebroto. Ketua MPR Muzani mengumumkan Sidang Paripurna MPR untuk memilih, menetapkan, dan melantik wakil presiden pengganti ditetapkan pada Jumat, 11 Desember 2026 — diubah dari jadwal sebelumnya 9 Desember 2026 melalui rapat gabungan pimpinan MPR. Pemilihan dilakukan oleh 732 anggota MPR (580 anggota DPR dan 152 anggota DPD); calon peraih suara terbanyak ditetapkan sebagai wakil presiden terpilih untuk melanjutkan sisa masa jabatan hingga 2029, sesuai Pasal 8 ayat (2) UUD 1945 yang mewajibkan MPR menyelenggarakan sidang paling lambat 60 hari sejak kekosongan jabatan.
+
 ## Aktor yang Terlibat
 
 - **Gibran Rakabuming Raka** — Wakil Presiden yang mengundurkan diri, 11–12 November 2026.
-- **Prabowo Subianto** — Presiden; menerima surat pengunduran diri dan mengusulkan dua nama calon pengganti (tenggat 25 November 2026) serta meminta pengunduran paripurna ke 9 Desember 2026.
+- **Prabowo Subianto** — Presiden; menerima surat pengunduran diri dan mengusulkan dua nama calon pengganti pada 23 November 2026 (Andi Amran Sulaiman dan Sugiono) serta meminta pengunduran paripurna ke 9 Desember 2026 (kemudian digeser ke 11 Desember 2026).
+- **Andi Amran Sulaiman** — Calon resmi Wapres pengganti (diajukan 23 November 2026); Menteri Pertanian, Kepala Badan Pangan Nasional sejak 13 Oktober 2025.
+- **Sugiono** — Calon resmi Wapres pengganti (diajukan 23 November 2026); Menko PMK, Sekjen Partai Gerindra.
 - **Ahmad Muzani** — Ketua MPR.
 - **Bambang Wuryanto (Bambang Pacul)** — Ketua Tim Ad Hoc MPR (PDI Perjuangan).
 - **Lestari Moerdijat** — Koordinator Tim Verifikasi MPR (NasDem).
@@ -88,14 +100,19 @@ Panitia Ad Hoc MPR menggelar rapat perdana pada Kamis, 19 November 2026, dan men
 - Beritakota.id — https://beritakota.id/susul-pengunduran-diri-gibran-mpr-bentuk-tim-verifikasi-dan-ad-hoc-pemilihan-wapres-baru/ — 13 November 2026
 - Langit7 — https://langit7.id/read/63725/1/mpr-tetapkan-25-november-2026-sebagai-batas-akhir-nama-2-cawapres-pelantikan-9-desember-1794834679 — 16 November 2026
 - InvestorTrust — https://investortrust.id/national/122730/mpr-sebut-ada-22-syarat-calon-wapres-pengganti-gibran — 16 November 2026
+- CNA Indonesia — https://www.cna.id/indonesia/sugiono-amran-sulaiman-calon-wapres-pengganti-gibran-53316 — diperbarui 24 November 2026, 08:51 WIB (penyerahan surat, dua nama, alasan Prabowo, paripurna 11 Desember, komposisi 732 anggota)
+- LensaHukum — https://lensahukum.co.id/prabowo-ajukan-amran-dan-sugiono-sebagai-calon-wapres — 24 November 2026, 07:59 WIB (tes kesehatan 26 November, ketentuan tidak wajib mundur sebelum terpilih)
+- Garuda TV — https://garuda.tv/prestasi-pengabdian-jadi-modal-amran-sugiono-jadi-cawapres-prabowo/ — 24 November 2026 (paripurna diubah dari 9 Desember menjadi 11 Desember 2026 melalui rapat gabungan pimpinan MPR)
+- NTV News — https://www.ntvnews.id/news/01127380/mpr-verifikasi-amran-dan-sugiono-hingga-1-desember-pemilihan-wapres-digelar-11-desember — 24 November 2026 (verifikasi hingga 1 Desember, rapat gabungan 1 Desember)
 
 ## Catatan presisi
 
-- **Koreksi atas jawaban 24 Nov 17:02 WIB:** paripurna 2 Desember 2026 pukul 11.00 WIB adalah TARGET Rapat Gabungan 13 November 2026, dan sudah DIUBAH menjadi 9 Desember 2026 oleh Rapat Gabungan 16 November 2026. Jangan pakai 2 Desember sebagai jadwal berjalan.
-- Sidang paripurna 9 Desember 2026 adalah jadwal yang disepakati, bukan hasil pemilihan.
+- **Koreksi susulan 25 November 2026 (PR #186 sudah merge):** paripurna 9 Desember 2026 sudah DIUBAH lagi menjadi Jumat, 11 Desember 2026 oleh Rapat Gabungan MPR (penghitungan 14 hari memakai hari kerja, bukan hari kalender). Tenggat dua nama 25 November 2026 juga sudah kedaluwarsa sebagai tenggat berjalan — nama sudah diserahkan 23 November 2026 sore. Entri 2026-11-16 dan 2026-11-19 di atas adalah catatan historis keputusan saat itu dan TIDAK diubah; yang diperbaiki adalah Ringkasan, Fakta kunci, Aktor, dan bagian ini.
+- Sidang paripurna 11 Desember 2026 adalah jadwal yang disepakati, bukan hasil pemilihan.
+- Jendela verifikasi 25 November–8 Desember 2026 (Habiburokhman, 16 November 2026) sudah digantikan: verifikasi dijadwalkan hingga 1 Desember 2026 dan hasilnya dibawa ke rapat gabungan 1 Desember 2026 (menurut Muzani, via NTV News).
 - Jumlah anggota tim ad hoc TIDAK dimasukkan — sumber berbeda: 36 anggota (Antara) vs 26 anggota (InvestorTrust). Jumlah 36 orang tim verifikasi mengikuti sumber Beritakota.id 13 November 2026.
 - "Sekitar 22 syarat" adalah ucapan Muzani ("kalau enggak salah ada 22 syarat"), bukan angka resmi yang dikonfirmasi.
-- Nama-nama calon yang beredar (Sufmi Dasco Ahmad, Ahmad Muzani, Sugiono) adalah spekulasi/bursa — SENGAJA tidak dimasukkan. Usulan GMPP 15 November 2026 yang menyebut Hatta Rajasa dan Sufmi Dasco Ahmad adalah proposal kelompok, bukan pencalonan resmi — tidak masuk kronologi; bila dicatat, hanya sebagai proposal di bagian terpisah.
+- Nama-nama calon yang beredar sebelum 23 November 2026 (Sufmi Dasco Ahmad, Ahmad Muzani) adalah spekulasi/bursa — SENGAJA tidak dimasukkan. **Sugiono bukan lagi spekulasi**: sejak 23 November 2026 ia calon resmi yang diajukan Presiden (lihat entri 2026-11-23). Usulan GMPP 15 November 2026 yang menyebut Hatta Rajasa dan Sufmi Dasco Ahmad adalah proposal kelompok, bukan pencalonan resmi — tidak masuk kronologi; bila dicatat, hanya sebagai proposal di bagian terpisah.
 - Entri 2026-11-12 sudah ada di hub Polemik Ijazah Gibran (kronologi lengkapnya di sana; di sini dicatat ringkas sebagai titik awal suksesi, diisi dari entri hub Gibran yang sudah di main). Entri 2026-11-11 (surat ke Prabowo) belum ada di hub Gibran — hub Gibran pada tanggal itu hanya mencatat pencabutan suket (Kepdirjen 206/2026). Entri 2026-11-13 dan 2026-11-16 sudah diajukan lewat pantauan 14 dan 17 November 2026 dan menunggu injeksi Hermes ke hub Gibran; per 24 Nov keduanya BELUM masuk main, jadi hub baru ini menjadi tempat pertama keduanya di main — Hermes perlu tahu agar tidak menduplikasi saat injeksi pantauan berjalan.
 - Batas 60 hari (11 Januari 2027) adalah hitungan turunan dari 12 November 2026 — belum ada pernyataan resmi MPR yang menyebut tanggal itu; jangan ditulis sebagai tenggat resmi.
 - Belum diverifikasi dalam draf ini: frasa "dengan berat hati" dari Presiden — jangan tambahkan tanpa sumber.
