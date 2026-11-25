@@ -162,8 +162,8 @@ Seluruh substansi di bawah ini terverifikasi dari salinan resmi putusan 151/G/20
 
 ## Status Terkini
 
-- **50/G/2026/PTUN.JKT:** sudah diputus — gugatan Tidak Diterima (diputus 2 Sept 2026, diucapkan 8 Sept 2026). Alasan: eksepsi kepentingan dikabulkan; pokok perkara tidak dipertimbangkan. Putusan tingkat pertama; upaya hukum lanjutan (banding) belum diketahui.
-- **151/G/2026/PTUN.JKT:** sudah diputus — gugatan ditolak untuk seluruhnya (musyawarah Senin 16 Nov 2026; diucapkan Selasa 17 Nov 2026 secara elektronik, 13:00 WIB; biaya perkara Rp461.000). Seluruh eksepsi Tergugat dan Tergugat II Intervensi tidak diterima; majelis menyatakan para penggugat memiliki kepentingan, lalu menolak gugatan setelah menguji kewenangan, prosedur, dan substansi. Putusan tingkat pertama; upaya hukum lanjutan (banding) belum diketahui.
+- **50/G/2026/PTUN.JKT:** sudah diputus — gugatan Tidak Diterima (diputus 2 Sept 2026, diucapkan 8 Sept 2026). Alasan: eksepsi kepentingan dikabulkan; pokok perkara tidak dipertimbangkan. Putusan tingkat pertama; tidak ditemukan kabar banding — tenggat 14 hari sejak pemberitahuan sah sudah lama lewat bila dihitung dari pengucapan 8 September 2026.
+- **151/G/2026/PTUN.JKT:** sudah diputus — gugatan ditolak untuk seluruhnya (musyawarah Senin 16 Nov 2026; diucapkan Selasa 17 Nov 2026 secara elektronik, 13:00 WIB; biaya perkara Rp461.000). Seluruh eksepsi Tergugat dan Tergugat II Intervensi tidak diterima; majelis menyatakan para penggugat memiliki kepentingan, lalu menolak gugatan setelah menguji kewenangan, prosedur, dan substansi. Putusan tingkat pertama. Para penggugat (Gerakan Masyarakat Sipil Adili Soeharto/GEMAS bersama Amnesty International Indonesia) menyatakan pada 18 November 2026 akan mengajukan banding; per 25 November 2026 belum ada banding yang terkonfirmasi terdaftar. Tenggat banding menurut Pasal 123 UU 5/1986 adalah 14 hari setelah putusan diberitahukan secara sah — bukan sejak dibacakan — dan tanggal pemberitahuan sah tiap pihak tidak tercatat, sehingga tidak ada tanggal kedaluwarsa pasti (perkiraan kasar sekitar 1 Desember 2026 bila dihitung dari 17 November 2026 adalah hitungan, bukan tanggal resmi).
 
 ## Sumber
 
@@ -183,6 +183,11 @@ Seluruh substansi di bawah ini terverifikasi dari salinan resmi putusan 151/G/20
 - **Salinan resmi putusan** Nomor 151/G/2026/PTUN.JKT (PDF 226 hlm, ditandatangani digital bersertifikat BSrE BSSN) — dokumen yang diterima pengguna via Telegram pada 25 November 2026 dan dibaca seluruhnya. Sumber utama amar, majelis, para pihak, petitum, rincian biaya, dan pertimbangan hakim.
 - SIPP PTUN Jakarta, tab Putusan perkara 151/G/2026/PTUN.JKT (dicek langsung 17 November 2026, 16:58–17:00 WIB) — sumber tanggal putusan, status putusan (Ditolak), dan amar.
 - [Gugatan Ditolak Hakim! Gelar Pahlawan Nasional Soeharto Sah](https://www.suara.com/news/2026/11/17/184731/gugatan-ditolak-hakim-gelar-pahlawan-nasional-soeharto-sah) — Suara.com, 17 November 2026, 18:47 WIB. Laporan media pertama atas putusan; amarnya cocok dengan SIPP.
+
+### Sumber Status Terkini (25 November 2026)
+- Amnesty International Indonesia — pernyataan bersama GEMAS/Amnesty 18 November 2026, "kami akan mengajukan upaya hukum banding" — https://www.amnesty.id/kabar-terbaru/siaran-pers/koalisi-penjahat-ham-tetap-jadi-pahlawan-keadilan-telah-mati-dan-impunitas-menjelma-di-pengadilan-tata-usaha-negara-jakarta/11/2026/
+- Amnesty International Indonesia — petisi "Cabut Gelar Pahlawan Nasional Soeharto!" (diperbarui 24 November 2026), penggugat "bersiap mengajukan banding" — https://www.amnesty.id/petition/cabut-gelar-pahlawan-nasional-soeharto/
+- UU 5/1986, Pasal 123 ayat (1) — banding diajukan dalam 14 hari setelah putusan diberitahukan secara sah — https://peraturan.info/uu/1986/5/isi
 
 ### Dokumen Sumber (tunggal, belum terverifikasi independen)
 - "Ringkasan Kasus: Sengketa Hukum Penganugerahan Gelar Pahlawan Nasional (Perkara PTUN No. 50/G/2026/PTUN.JKT)" — dokumen Google Docs, diakses 12 Oktober 2026. Sumber bagi: nomor dan tanggal Keppres, identitas para pihak, dalil penggugat, eksepsi dan jawaban tergugat, riwayat litigasi Kedung Ombo, status tersangka 2000 dan SKP3 2006, serta riwayat penolakan TP2GP 2010 dan 2016.
