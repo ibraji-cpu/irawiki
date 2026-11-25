@@ -156,6 +156,7 @@ Seluruh substansi di bawah ini terverifikasi dari salinan resmi putusan 151/G/20
 | GEMAS (koalisi penggugat 151/G) | Penggugat 151/G/2026/PTUN.JKT | Nona Nani Nurani, Mudjiati, Utati, Irta Sumitra, Magdalena Martina Wulandari, Kusmiyati, Hardingga, Yayasan LBH Indonesia, dan Indonesia Corruption Watch. |
 | Prof. Dr. Asvi Warman Adam | Ahli pada perkara 151/G | Menjelaskan jasa Soeharto pada masa pra- dan pasca-kemerdekaan. |
 | [[prabowo-subianto|Prabowo Subianto]] | — | Presiden RI yang menganugerahkan gelar pada 10 November 2025. |
+| Ardianto Wardono | Pemohon gelar Pahlawan Nasional Soeharto (bersama Agus Sudono Centre) | Mengajukan gelar lewat Agus Sudono Centre; menanggapi putusan 151/G/2026/PTUN.JKT (17 Nov 2026) dengan menyatakan menghargai putusan. Bukan pihak dalam perkara PTUN. |
 | TP2GP Kementerian Sosial | — | Tim Peneliti dan Pengkajian Gelar Pusat; disebut menolak usulan gelar Soeharto pada 2010 dan 2016. |
 | Dewan Gelar, Tanda Jasa, dan Tanda Kehormatan | — | Lembaga verifikasi usulan gelar. |
 | PTUN Jakarta | — | Pengadilan yang memeriksa perkara 50/G/2026/PTUN-JKT dan 151/G/2026/PTUN-JKT. |
@@ -183,6 +184,9 @@ Seluruh substansi di bawah ini terverifikasi dari salinan resmi putusan 151/G/20
 - **Salinan resmi putusan** Nomor 151/G/2026/PTUN.JKT (PDF 226 hlm, ditandatangani digital bersertifikat BSrE BSSN) — dokumen yang diterima pengguna via Telegram pada 25 November 2026 dan dibaca seluruhnya. Sumber utama amar, majelis, para pihak, petitum, rincian biaya, dan pertimbangan hakim.
 - SIPP PTUN Jakarta, tab Putusan perkara 151/G/2026/PTUN.JKT (dicek langsung 17 November 2026, 16:58–17:00 WIB) — sumber tanggal putusan, status putusan (Ditolak), dan amar.
 - [Gugatan Ditolak Hakim! Gelar Pahlawan Nasional Soeharto Sah](https://www.suara.com/news/2026/11/17/184731/gugatan-ditolak-hakim-gelar-pahlawan-nasional-soeharto-sah) — Suara.com, 17 November 2026, 18:47 WIB. Laporan media pertama atas putusan; amarnya cocok dengan SIPP.
+
+### Sumber Tanggapan Pemohon Gelar (24 November 2026)
+- [Ardianto Hargai Putusan PTUN Jakarta Soal Gelar Pahlawan Nasional Jenderal Besar HM Soeharto](https://www.suarakarya.id/politik/26017944747/ardianto-hargai-putusan-ptun-jakarta-soal-gelar-pahlawan-nasional-jenderal-besar-hm-soeharto) — Suara Karya, 24 November 2026, 02:09 WIB (Agoes Sofyan). Ardianto Wardono selaku pemohon gelar (bersama Agus Sudono Centre) menyatakan menghargai putusan 151/G/2026/PTUN.JKT; tanggal putusan 17 November 2026 dan biaya perkara Rp461.000 cocok dengan salinan resmi putusan. Penilaian bahwa gelar "sudah final dan tak lagi bisa dipersoalkan" adalah pendapat Ardianto, bukan amar putusan — tidak dicatat sebagai fakta.
 
 ### Sumber Status Terkini (25 November 2026)
 - Amnesty International Indonesia — pernyataan bersama GEMAS/Amnesty 18 November 2026, "kami akan mengajukan upaya hukum banding" — https://www.amnesty.id/kabar-terbaru/siaran-pers/koalisi-penjahat-ham-tetap-jadi-pahlawan-keadilan-telah-mati-dan-impunitas-menjelma-di-pengadilan-tata-usaha-negara-jakarta/11/2026/
