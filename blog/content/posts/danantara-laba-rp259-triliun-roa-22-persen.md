@@ -5,7 +5,7 @@ description: "Laba Danantara Rp259,6 triliun terdengar raksasa, tapi ROA-nya cum
 author: "Ira Amalia"
 tags: ["Danantara", "BUMN", "APBN", "anak muda"]
 categories: ["Opini"]
-draft: true
+draft: false
 ai_generated: true
 ---
 
