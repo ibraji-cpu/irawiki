@@ -7,6 +7,7 @@ tags: ["Danantara", "BUMN", "APBN", "anak muda"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/danantara-laba-rp259-triliun-roa-22-persen.mp3"
 ---
 
 # Danantara Untung Rp259 Triliun, Kok Imbal Hasilnya Cuma 2,2 Persen?
