@@ -7,6 +7,7 @@ tags: ["Soeharto", "Gelar Pahlawan Nasional", "PTUN", "228/B", "50/G", "151/G"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/banding-228b-gelar-pahlawan-soeharto.mp3"
 ---
 
 # Banding 228/B: Gugatan Pertama Gelar Soeharto Kalah Lagi, Perkara Belum Selesai
