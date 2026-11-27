@@ -1,1 +1,134 @@
-LS0tCnRpdGxlOiAiQnVkaSBTYW50b3NvIgphbGlhc2VzOgotICJCdWRpIFNhbnRvc28iCmRlc2NyaXB0aW9uOiAiQnVkaSBTYW50b3NvIGFkYWxhaCBiaXJva3JhdCBrYXJpciBLZW1lbnRlcmlhbiBQZXJkYWdhbmdhbiB5YW5nIG1lbmphYmF0IE1lbnRlcmkgUGVyZGFnYW5nYW4gUmVwdWJsaWsgSW5kb25lc2lhIChzZWphayAyMSBPa3RvYmVyIDIwMjQpIGRhbGFtIEthYmluZXQgTWVyYWggUHV0aWg7IHNlYmVsdW1ueWEgRGlyZWt0dXIgSmVuZGVyYWwgUGVyZGFnYW5nYW4gTHVhciBOZWdlcmkgKDIwMjLigJMyMDI0KSBkYW4gU2VrcmV0YXJpcyBKZW5kZXJhbCBLZW1lbmRhZyAoMjAyNCkuIgpkYXRlOiAyMDI2LTEwLTA0CnVwZGF0ZWQ6ICcyMDI2LTEwLTIzJwpjYXRlZ29yeTogYWt0b3IKdGFnczoKLSBpbmRpdmlkdQotIHBvbGl0aXNpCi0gYmlyb2tyYXQKLSBla29ub21pCi0gcGVyZGFnYW5nYW4KZW50aXR5X3R5cGU6IGluZGl2aWR1CmVudGl0eV9pZDogImJ1ZGktc2FudG9zbyIKbmFtYV9sZW5na2FwOiAiQnVkaSBTYW50b3NvIgpuYW1hX2FsaWFzOgotICJCdWRpIFNhbnRvc28iCmphYmF0YW5fYWt0aWY6Ci0gIk1lbnRlcmkgUGVyZGFnYW5nYW4gUmVwdWJsaWsgSW5kb25lc2lhIChLYWJpbmV0IE1lcmFoIFB1dGloLCBzZWphayAyMSBPa3RvYmVyIDIwMjQ7IG1lbmdnYW50aWthbiBadWxraWZsaSBIYXNhbikiCmphYmF0YW5faGlzdG9yaXM6Ci0gIlNla3JldGFyaXMgSmVuZGVyYWwgS2VtZW50ZXJpYW4gUGVyZGFnYW5nYW4gKDE0IEFndXN0dXMgMjAyNCDigJMgT2t0b2JlciAyMDI0KSIKLSAiRGlyZWt0dXIgSmVuZGVyYWwgUGVyZGFnYW5nYW4gTHVhciBOZWdlcmkgS2VtZW5kYWcgKDEyIERlc2VtYmVyIDIwMjIg4oCTIEFndXN0dXMgMjAyNCkiCi0gIktlcGFsYSBLYW50b3IgRGFnYW5nIGRhbiBFa29ub21pIEluZG9uZXNpYSAoS0RFSSkgZGkgVGFpcGVpICgxMSBPa3RvYmVyIDIwMjAg4oCTIERlc2VtYmVyIDIwMjIpIgotICJLZXBhbGEgQmlybyBLZXVhbmdhbiBLZW1lbmRhZyAoSnVuaSAyMDIwIOKAkyBTZXB0ZW1iZXIgMjAyMCkiCi0gIktlcGFsYSBCaXJvIE9yZ2FuaXNhc2kgZGFuIEtlcGVnYXdhaWFuIEtlbWVuZGFnICgyMDE4KSIKLSAiS2VwYWxhIFB1c2F0IERhdGEgZGFuIEluZm9ybWFzaSBLZW1lbmRhZyAoMjAxNykiCi0gIkRpcmVrdHVyIEJpbmEgVXNhaGEgZGFuIFBlbGFrdSBEaXN0cmlidXNpICgyMDE3KSIKLSAiQXRhc2UgUGVyZGFnYW5nYW4gSW5kaWEgKGRpbGFwb3JrYW4gMjAxMuKAkzIwMTcpIgotICJLZXBhbGEgQmFnaWFuIFByb2dyYW0gZGFuIEtlcmphc2FtYSwgRGl0amVuIFBlbmdlbWJhbmdhbiBFa3Nwb3IgTmFzaW9uYWwiCi0gIktlcGFsYSBTdWJkaXJla3RvcmF0IEVrb25vbWkgS3JlYXRpZiwgRGl0amVuIFBlbmdlbWJhbmdhbiBFa3Nwb3IgTmFzaW9uYWwgKDIwMTApIgpwYXJ0YWk6ICJQYXJ0YWkgQW1hbmF0IE5hc2lvbmFsIChQQU4pIChzZWphayAyMDI0LCBkaWxhcG9ya2FuIFdpa2lwZWRpYSkiCmJhc2lzX2RhZXJhaDogIlN1a29oYXJqbywgSmF3YSBUZW5nYWgiCmxhdGFyX21pbGl0ZXI6ICJ0aWRhayBhZGEiCmFmaWxpYXNpX29ybWFzOiBbXQphZmlsaWFzaV9rZWFnYW1hYW46IFtdCmFmaWxpYXNpX2Jpc25pczogW10KZGluYXN0aV9wb2xpdGlrOiAidGlkYWsgYWRhIgprZXBlbWlsaWthbl9rb25zZXNpOiBbXQprZWJpamFrYW5fZGlkdWt1bmc6Ci0gIlBlbmdhbWFuYW4gcGFzYXIgZGFsYW0gbmVnZXJpIGRhbiBVTUtNIGdvIGdsb2JhbCAoZGlsYXBvcmthbiBUZW1wbywgMjIvMTAvMjAyNCkiCi0gIlBlbmdlbWJhbmdhbiBwYXNhciBla3Nwb3Igc2ViYWdhaSBwcmlvcml0YXMgS2VtZW5kYWcgMjAyNjsgcHJvZ3JhbSAnVU1LTSBCSVNBIEVrc3BvcicgKGRpbGFwb3JrYW4gaW5hY3JhZnRuZXdzLCA4LzEwLzIwMjYpIgprZWJpamFrYW5fZGl0b2xhazogW10KaXN1X2tvbnNpc3RlbjoKLSAiUGVuZ2VtYmFuZ2FuIGVrc3BvciBuYXNpb25hbCIKLSAiUGVybGluZHVuZ2FuIHBhc2FyIGRhbGFtIG5lZ2VyaSBkYW4gVU1LTSIKY2F0YXRhbl9rb250cm92ZXJzaWFsOiBbXQptZW1iZXJfb2Y6IFtdCmxlYWRlcl9vZjogW10KcGVuZ2FydWhfbWVkaWE6ICJ0aWRhayBkaWtldGFodWkiCnN0YXR1c19odWt1bTogInRpZGFrIGFkYSBrYXN1cyIKcmlzaWtvX2VkaXRvcmlhbDogInJlbmRhaCIKY29uZmlkZW5jZTogInRpbmdnaSIKbGFzdF91cGRhdGVkOiAiMjAyNi0xMC0wNCIKbGFzdF92ZXJpZmllZDogIjIwMjYtMTAtMjMiCnJlbGFzaToKLSB0aXBlOiBtZW5nYW5na2F0CiAgdGFyZ2V0OiBha3Rvci9wcmFib3dvLXN1YmlhbnRvCiAgdGFuZ2dhbDogIjIwMjQtMTAtMjEiCiAgc3VtYmVyOiAiV2lraXBlZGlhIElEICdCdWRpIFNhbnRvc28gKGJpcm9rcmF0KScgKyBpbmFjcmFmdG5ld3MuY29tIDgvMTAvMjAyNiDigJQgZGl1bXVta2FuIDIwLzEwLzIwMjQsIGRpbGFudGlrIDIxLzEwLzIwMjQiCiAgY2F0YXRhbjogIkRpYW5na2F0IFByZXNpZGVuIFByYWJvd28gU3ViaWFudG8gc2ViYWdhaSBNZW50ZXJpIFBlcmRhZ2FuZ2FuIEthYmluZXQgTWVyYWggUHV0aWggbWVuZ2dhbnRpa2FuIFp1bGtpZmxpIEhhc2FuLiIKLS0tCgojIEJ1ZGkgU2FudG9zbwoKQnVkaSBTYW50b3NvIChsYWhpciA5IEZlYnJ1YXJpIDE5NjgsIFN1a29oYXJqbywgSmF3YSBUZW5nYWgpIGFkYWxhaCBiaXJva3JhdCBrYXJpciBLZW1lbnRlcmlhbiBQZXJkYWdhbmdhbiB5YW5nIG1lbmphYmF0IE1lbnRlcmkgUGVyZGFnYW5nYW4gUmVwdWJsaWsgSW5kb25lc2lhIGtlLTM0IHNlamFrIDIxIE9rdG9iZXIgMjAyNCBkYWxhbSBLYWJpbmV0IE1lcmFoIFB1dGloLCBtZW5nZ2FudGlrYW4gWnVsa2lmbGkgSGFzYW4uIElhIG1lcnVwYWthbiBBU04gcGVydGFtYSB5YW5nIG1lbmNhcGFpIHBvc2lzaSBNZW50ZXJpIFBlcmRhZ2FuZ2FuIGRhcmkgamFsdXIga2FyaXIg4oCUIHBlbmdhYmRpYW5ueWEgZGltdWxhaSBzZWtpdGFyIDMwIHRhaHVuIHNpbGFtIGRpIEJpcm8gSHVidW5nYW4gTWFzeWFyYWthdCBEZXBhcnRlbWVuIFBlcmRhZ2FuZ2FuIChNYXJldCAxOTk0KS4KCiMjIFByb2ZpbAoKQnVkaSBsYWhpciBkaSBTb25vcmVqbyBkYW4gbHVsdXMgcGFkYSAxOTg3IGRhcmkgU01BTiAxIFN1a29oYXJqby4gSWEgYmVya3VsaWFoIGRpIEp1cnVzYW4gSWxtdSBLb211bmlrYXNpIFVuaXZlcnNpdGFzIFNlYmVsYXMgTWFyZXQgKFVOUywgc2FyamFuYSksIGxhbHUgbWVsYW5qdXRrYW4gbWFnaXN0ZXIgZGkgVW5pdmVyc2l0YXMgSW5kb25lc2lhIGRhbiBtZXJhaWggZ2VsYXIgRG9rdG9yIElsbXUgS29tdW5pa2FzaSBkYXJpIFVuaXZlcnNpdGFzIFNhaGlkIChkaWxhcG9ya2FuIHBlbGFrdWJpc25pcy5jb206IG1hZ2lzdGVyIElsbXUgS29tdW5pa2FzaSBVSSAyMDA4LCBkb2t0b3IgVW5pdmVyc2l0YXMgU2FoaWQgMjAyMiDigJQgcHJvZ3JhbSBtYWdpc3RlciBiZXJiZWRhIGRlbmdhbiB5YW5nIHRlcnR1bGlzIGRpIFdpa2lwZWRpYSwgZGljYXRhdCBzZWJhZ2FpICJkaWxhcG9ya2FuIikuCgpLYXJpZXJueWEgaGFtcGlyIHNlbHVydWhueWEgZGl0ZW1wdWggZGkgbGluZ2t1bmdhbiBLZW1lbnRlcmlhbiBQZXJkYWdhbmdhbi4gSWEgbXVsYWkgc2ViYWdhaSBLZXBhbGEgU3ViZGlyZWt0b3JhdCBFa29ub21pIEtyZWF0aWYgZGkgRGlyZWt0b3JhdCBKZW5kZXJhbCBQZW5nZW1iYW5nYW4gRWtzcG9yIE5hc2lvbmFsIHBhZGEgMjAxMCwgbGFsdSBkaXByb21vc2lrYW4gbWVuamFkaSBBdGFzZSBQZXJkYWdhbmdhbiBJbmRpYSAoZGlsYXBvcmthbiBwZWxha3ViaXNuaXMuY29tOiBNZWkgMjAxMuKAk0phbnVhcmkgMjAxNykuIFNlcHVsYW5nIGRhcmkgSW5kaWEgaWEgbWVuamFiYXQgS2VwYWxhIEJhZ2lhbiBQcm9ncmFtIGRhbiBLZXJqYXNhbWEgZGkgdW5pdCB5YW5nIHNhbWEuIFBhZGEgMjAxNyBpYSBkaXBlcmNheWEgbWVtZWdhbmcgZHVhIGphYmF0YW4gRXNlbG9uIElJIHNla2FsaWd1cyDigJQgS2VwYWxhIFB1c2F0IERhdGEgZGFuIEluZm9ybWFzaSBLZW1lbmRhZyBkYW4gRGlyZWt0dXIgQmluYSBVc2FoYSBkYW4gUGVsYWt1IERpc3RyaWJ1c2kg4oCUIGtlbXVkaWFuIEtlcGFsYSBCaXJvIE9yZ2FuaXNhc2kgZGFuIEtlcGVnYXdhaWFuICgyMDE4KS4gUGFkYSAxMSBPa3RvYmVyIDIwMjAgaWEgZGl0dWdhc2thbiBtZW1pbXBpbiBLYW50b3IgRGFnYW5nIGRhbiBFa29ub21pIEluZG9uZXNpYSAoS0RFSSkgZGkgVGFpcGVpIGhpbmdnYSBEZXNlbWJlciAyMDIyIChXaWtpcGVkaWEgbWVuY2F0YXQgaWEgc2VtcGF0IG1lcmFuZ2thcCBLZXBhbGEgQmlybyBLZXVhbmdhbiBKdW5p4oCTU2VwdGVtYmVyIDIwMjApLgoKUGFkYSAxMiBEZXNlbWJlciAyMDIyIGlhIGRpbGFudGlrIG1lbmphZGkgRGlyZWt0dXIgSmVuZGVyYWwgUGVyZGFnYW5nYW4gTHVhciBOZWdlcmksIGxhbHUgU2VrcmV0YXJpcyBKZW5kZXJhbCBLZW1lbnRlcmlhbiBQZXJkYWdhbmdhbiBwYWRhIDE0IEFndXN0dXMgMjAyNC4gUGVudW5qdWthbm55YSBzZWJhZ2FpIG1lbnRlcmkgZGl1bXVta2FuIFByZXNpZGVuIFByYWJvd28gcGFkYSBtYWxhbSAyMCBPa3RvYmVyIDIwMjQgZGFuIGlhIGRpbGFudGlrIGtlZXNva2FuIGhhcmlueWEsIDIxIE9rdG9iZXIgMjAyNCwgZGVuZ2FuIFdha2lsIE1lbnRlcmkgRHlhaCBSb3JvIEVzdGkgV2lkeWEgUHV0cmkuIFBlbmlsYWkgUEVQUyBBbnRob255IEJ1ZGlhd2FuIChkaWxhcG9ya2FuIGtvcmFua290YS5jby5pZCwgMjEvMTAvMjAyNCkgbWVuaWxhaSBQcmFib3dvIHRlcGF0IG1lbnVuanVrbnlhIGthcmVuYSBCdWRpIGFkYWxhaCBwZWphYmF0IGthcmlyIHlhbmcgIm11bGFpIGRhcmkgbm9sIiBkYW4gcGFsaW5nIHBhaGFtIHNlbHVrIGJlbHVrIEtlbWVuZGFnLgoKIyMgSmFiYXRhbiBBa3RpZgoKLSAqKk1lbnRlcmkgUGVyZGFnYW5nYW4gUmVwdWJsaWsgSW5kb25lc2lhKiog4oCUIHNlamFrIDIxIE9rdG9iZXIgMjAyNCAoS2FiaW5ldCBNZXJhaCBQdXRpaCksIG1lbmdnYW50aWthbiBadWxraWZsaSBIYXNhbjsgV2FraWwgTWVudGVyaSBEeWFoIFJvcm8gRXN0aSBXaWR5YSBQdXRyaS4KCiMjIEphYmF0YW4gSGlzdG9yaXMKCi0gU2VrcmV0YXJpcyBKZW5kZXJhbCBLZW1lbnRlcmlhbiBQZXJkYWdhbmdhbiAoMTQgQWd1c3R1cyAyMDI0IOKAkyBPa3RvYmVyIDIwMjQpLgotIERpcmVrdHVyIEplbmRlcmFsIFBlcmRhZ2FuZ2FuIEx1YXIgTmVnZXJpIEtlbWVuZGFnICgxMiBEZXNlbWJlciAyMDIyIOKAkyBBZ3VzdHVzIDIwMjQpLgotIEtlcGFsYSBLYW50b3IgRGFnYW5nIGRhbiBFa29ub21pIEluZG9uZXNpYSAoS0RFSSkgZGkgVGFpcGVpICgxMSBPa3RvYmVyIDIwMjAg4oCTIERlc2VtYmVyIDIwMjIpLgotIEtlcGFsYSBCaXJvIEtldWFuZ2FuIEtlbWVuZGFnIChKdW5pIDIwMjAg4oCTIFNlcHRlbWJlciAyMDIwKS4KLSBLZXBhbGEgQmlybyBPcmdhbmlzYXNpIGRhbiBLZXBlZ2F3YWlhbiBLZW1lbmRhZyAoMjAxOCkuCi0gS2VwYWxhIFB1c2F0IERhdGEgZGFuIEluZm9ybWFzaSBLZW1lbmRhZzsgRGlyZWt0dXIgQmluYSBVc2FoYSBkYW4gUGVsYWt1IERpc3RyaWJ1c2kgKDIwMTcpLgotIEF0YXNlIFBlcmRhZ2FuZ2FuIEluZGlhIChkaWxhcG9ya2FuIDIwMTLigJMyMDE3KS4KLSBLZXBhbGEgU3ViZGlyZWt0b3JhdCBFa29ub21pIEtyZWF0aWYsIERpdGplbiBQZW5nZW1iYW5nYW4gRWtzcG9yIE5hc2lvbmFsICgyMDEwKS4KCiMjIFBlcmtlbWJhbmdhbiBUZXJha2hpcgoKIyMjIDIwMjYtMTAtMDgKCkRhbGFtIHBlbWJ1a2FhbiBJTkFDUkFGVCBPY3RvYmVyIDIwMjYsIEJ1ZGkgbWVueWFtcGFpa2FuIHRpZ2EgYXJhaCBwcmlvcml0YXMgS2VtZW5kYWcgcGFkYSAyMDI2OiBwZW5nYW1hbmFuIHBhc2FyIGRhbGFtIG5lZ2VyaSwgcGVuZ2VtYmFuZ2FuIHBhc2FyIGVrc3BvciwgZGFuIHByb2dyYW0gIlVNS00gQklTQSBFa3Nwb3IiIChVc2FoYSBNaWtybywgS2VjaWwsIGRhbiBNZW5lbmdhaCBCZXJhbmkgSW5vdmFzaSwgU2lhcCBBZGFwdGFzaSBFa3Nwb3IpLiBJYSBqdWdhIG1lbmRvcm9uZyBwZW5ndWF0YW4gKnlvdXRocHJlbmV1ciogZGFuIHBlbWFuZmFhdGFuIGVrb3Npc3RlbSBkaWdpdGFsIGFnYXIgcHJvZHVrIEluZG9uZXNpYSBtZW1lbnVoaSBzdGFuZGFyIHBhc2FyIGludGVybmFzaW9uYWwgKGRpbGFwb3JrYW4gaW5hY3JhZnRuZXdzLmNvbSkuCgojIyMgMjAyNC0xMC0yMQoKRGlsYW50aWsgc2ViYWdhaSBNZW50ZXJpIFBlcmRhZ2FuZ2FuIFJlcHVibGlrIEluZG9uZXNpYSBrZS0zNCBkYWxhbSBLYWJpbmV0IE1lcmFoIFB1dGloIGRpIElzdGFuYSwgbWVuZ2dhbnRpa2FuIFp1bGtpZmxpIEhhc2FuLgoKIyMjIDIwMjQtMTAtMjAKClByZXNpZGVuIFByYWJvd28gU3ViaWFudG8gbWVuZ3VtdW1rYW4gbmFtYS1uYW1hIG1lbnRlcmkgS2FiaW5ldCBNZXJhaCBQdXRpaCBwYWRhIG1hbGFtIGhhcmk7IEJ1ZGkgU2FudG9zbyBkaXR1bmp1ayBzZWJhZ2FpIE1lbnRlcmkgUGVyZGFnYW5nYW4gKGRpbGFwb3JrYW4gQW50YXJhIHZpYSBXaWtpcGVkaWEsIGtvcmFua290YS5jby5pZCkuCgojIyBTdW1iZXIKCjEuIFdpa2lwZWRpYSBiYWhhc2EgSW5kb25lc2lhLCAiQnVkaSBTYW50b3NvIChiaXJva3JhdCkiIOKAlCBiaW9ncmFmaSwgcGVuZGlkaWthbiwgcml3YXlhdCBqYWJhdGFuLCBwZWxhbnRpa2FuIE1lbmRhZy4gaHR0cHM6Ly9pZC53aWtpcGVkaWEub3JnL3dpa2kvQnVkaV9TYW50b3NvXyhiaXJva3JhdCkKMi4gaW5hY3JhZnRuZXdzLmNvbSDigJQgIk1lbmRhZyBCdWRpIFNhbnRvc28gRG9yb25nIElOQUNSQUZUIEphZGkgUGludHUgRWtzcGFuc2kgS3JpeWEgSW5kb25lc2lhIGtlIFBhc2FyIEdsb2JhbCIsIDgvMTAvMjAyNiAodGlnYSBwcmlvcml0YXMgMjAyNjsgZGlsYW50aWsgMjEvMTAvMjAyNDsgQVNOIHBlcnRhbWEgamFsdXIga2FyaXIgZGFyaSBCaXJvIEh1bWFzIDE5OTQpLiBodHRwczovL2luYWNyYWZ0bmV3cy5jb20vbWVuZGFnLWJ1ZGktc2FudG9zby1kb3JvbmctaW5hY3JhZnQtamFkaS1waW50dS1la3NwYW5zaS1rcml5YS1pbmRvbmVzaWEta2UtcGFzYXItZ2xvYmFsLwozLiBrb3JhbmtvdGEuY28uaWQg4oCUICJQcmVzaWRlbiBQcmFib3dvIERpbmlsYWkgVGVwYXQgVHVuanVrIEJ1ZGkgU2FudG9zbyBNZW50ZXJpIFBlcmRhZ2FuZ2FuIiwgMjEvMTAvMjAyNCAocGVuaWxhaWFuIFBFUFMgQW50aG9ueSBCdWRpYXdhbjsgZGlhbmdrYXQgbWVuZ2dhbnRpa2FuIFp1bGtpZmxpIEhhc2FuIE1pbmdndSBtYWxhbSAyMC8xMC8yMDI0KS4gaHR0cHM6Ly93d3cua29yYW5rb3RhLmNvLmlkL3YxNTEvdDUwMi84MTg3Mi9wcmVzaWRlbi1wcmFib3dvLWRpbmlsYWktdGVwYXQtdHVuanVrLWJ1ZGktc2FudG9zby1tZW50ZXJpLXBlcmRhZ2FuZ2FuCjQuIGVuLndpa2lwZWRpYS5vcmcsICJCdWRpIFNhbnRvc28gKHBvbGl0aWNpYW4pIiDigJQga29uZmlybWFzaTogTWVuZGFnIGtlLTM0IHNlamFrIDIxLzEwLzIwMjQsIHByZXNpZGVuIFByYWJvd28sIHBlbmRhaHVsdSBadWxraWZsaSBIYXNhbiwgcGFydGFpIFBBTiBzZWphayAyMDI0LiBodHRwczovL2VuLndpa2lwZWRpYS5vcmcvd2lraS9CdWRpX1NhbnRvc29fKHBvbGl0aWNpYW4pCgojIyBDYXRhdGFuCgotIFRhbmdnYWwgcGVsYW50aWthbjogaW5mb2JveCBXaWtpcGVkaWEsIGVuLndpa2lwZWRpYSwgZGFuIGluYWNyYWZ0bmV3cy5jb20gbWVueWVidXQgMjEgT2t0b2JlciAyMDI0OyBiYWRhbiBhcnRpa2VsIFdpa2lwZWRpYSBJRCBtZW55ZWJ1dCAiZGlsYW50aWsgLi4uIHBhZGEgMjIgT2t0b2JlciAyMDI0IiBtZW5ndXRpcCBDTkJDIEluZG9uZXNpYSDigJQga2VtdW5na2luYW4gcGVyYmVkYWFuIHRhbmdnYWwgcHVibGlrYXNpIGJlcml0YS4gRGlwYWthaSAyMSBPa3RvYmVyIDIwMjQgc2ViYWdhaSB0YW5nZ2FsIHBlbGFudGlrYW4uCi0gUHJvZ3JhbSBtYWdpc3RlcjogV2lraXBlZGlhIElEIG1lbnllYnV0IE1hZ2lzdGVyIElsbXUgQWRtaW5pc3RyYXNpIFVuaXZlcnNpdGFzIEluZG9uZXNpYTsgcGVsYWt1YmlzbmlzLmNvbSAodmlhIFdpa2lwZWRpYSByZWYpIG1lbnllYnV0IE1hZ2lzdGVyIElsbXUgS29tdW5pa2FzaSBVSSAoMjAwOCkuIERpdGFuZGFpICJkaWxhcG9ya2FuIi4KLSBQZXJpb2RlIEtlcGFsYSBCaXJvIE9yZ2FuaXNhc2kgZGFuIEtlcGVnYXdhaWFuOiBXaWtpcGVkaWEgbWVueWVidXQgMjAxODsgcGVsYWt1YmlzbmlzLmNvbSBtZW55ZWJ1dCBKYW51YXJpIDIwMTjigJNKdW5pIDIwMjAuIERpcGFrYWkgMjAxOCBzZXN1YWkgV2lraXBlZGlhLgo=
+---
+title: "Budi Santoso"
+aliases:
+- "Budi Santoso"
+description: "Budi Santoso adalah birokrat karir Kementerian Perdagangan yang menjabat Menteri Perdagangan Republik Indonesia (sejak 21 Oktober 2024) dalam Kabinet Merah Putih; sebelumnya Direktur Jenderal Perdagangan Luar Negeri (2022–2024) dan Sekretaris Jenderal Kemendag (2024)."
+date: 2026-11-26
+updated: '2026-11-26'
+category: aktor
+tags:
+- individu
+- politisi
+- birokrat
+- ekonomi
+- perdagangan
+entity_type: individu
+entity_id: "budi-santoso"
+nama_lengkap: "Budi Santoso"
+nama_alias:
+- "Budi Santoso"
+jabatan_aktif:
+- "Menteri Perdagangan Republik Indonesia (Kabinet Merah Putih, sejak 21 Oktober 2024; menggantikan Zulkifli Hasan)"
+jabatan_historis:
+- "Sekretaris Jenderal Kementerian Perdagangan (14 Agustus 2024 – Oktober 2024)"
+- "Direktur Jenderal Perdagangan Luar Negeri Kemendag (12 Desember 2022 – Agustus 2024)"
+- "Kepala Kantor Dagang dan Ekonomi Indonesia (KDEI) di Taipei (11 Oktober 2020 – Desember 2022)"
+- "Kepala Biro Keuangan Kemendag (Juni 2020 – September 2020)"
+- "Kepala Biro Organisasi dan Kepegawaian Kemendag (2018)"
+- "Kepala Pusat Data dan Informasi Kemendag (2017)"
+- "Direktur Bina Usaha dan Pelaku Distribusi (2017)"
+- "Atase Perdagangan India (dilaporkan 2012–2017)"
+- "Kepala Bagian Program dan Kerjasama, Ditjen Pengembangan Ekspor Nasional"
+- "Kepala Subdirektorat Ekonomi Kreatif, Ditjen Pengembangan Ekspor Nasional (2010)"
+partai: "Partai Amanat Nasional (PAN) (sejak 2024, dilaporkan Wikipedia)"
+basis_daerah: "Sukoharjo, Jawa Tengah"
+latar_militer: "tidak ada"
+afiliasi_ormas: []
+afiliasi_keagamaan: []
+afiliasi_bisnis: []
+dinasti_politik: "tidak ada"
+kepemilikan_konsesi: []
+kebijakan_didukung:
+- "Pengamanan pasar dalam negeri dan UMKM go global (dilaporkan Tempo, 22/10/2024)"
+- "Pengembangan pasar ekspor sebagai prioritas Kemendag 2026; program 'UMKM BISA Ekspor' (dilaporkan inacraftnews, 8/10/2026)"
+- "Target ekspor ke Uni Eropa naik 50% dalam lima tahun melalui IEU-CEPA (ditandatangani 21/11/2026; dilaporkan periskop.id, 24/11/2026)"
+kebijakan_ditolak: []
+isu_konsisten:
+- "Pengembangan ekspor nasional"
+- "Perlindungan pasar dalam negeri dan UMKM"
+catatan_kontroversial: []
+member_of: []
+leader_of: []
+pengaruh_media: "tidak diketahui"
+status_hukum: "tidak ada kasus"
+risiko_editorial: "rendah"
+confidence: "tinggi"
+last_updated: "2026-11-26"
+last_verified: "2026-11-26"
+relasi:
+- tipe: mengangkat
+  target: aktor/prabowo-subianto
+  tanggal: "2024-10-21"
+  sumber: "Wikipedia ID 'Budi Santoso (birokrat)' + inacraftnews.com 8/10/2026 — diumumkan 20/10/2024, dilantik 21/10/2024"
+  catatan: "Diangkat Presiden Prabowo Subianto sebagai Menteri Perdagangan Kabinet Merah Putih menggantikan Zulkifli Hasan."
+---
+
+# Budi Santoso
+
+Budi Santoso (lahir 9 Februari 1968, Sukoharjo, Jawa Tengah) adalah birokrat karir Kementerian Perdagangan yang menjabat Menteri Perdagangan Republik Indonesia ke-34 sejak 21 Oktober 2024 dalam Kabinet Merah Putih, menggantikan Zulkifli Hasan. Ia merupakan ASN pertama yang mencapai posisi Menteri Perdagangan dari jalur karir — pengabdiannya dimulai sekitar 30 tahun silam di Biro Hubungan Masyarakat Departemen Perdagangan (Maret 1994).
+
+## Profil
+
+Budi lahir di Sonorejo dan lulus pada 1987 dari SMAN 1 Sukoharjo. Ia berkuliah di Jurusan Ilmu Komunikasi Universitas Sebelas Maret (UNS, sarjana), lalu melanjutkan magister di Universitas Indonesia dan meraih gelar Doktor Ilmu Komunikasi dari Universitas Sahid (dilaporkan pelakubisnis.com: magister Ilmu Komunikasi UI 2008, doktor Universitas Sahid 2022 — program magister berbeda dengan yang tertulis di Wikipedia, dicatat sebagai "dilaporkan").
+
+Kariernya hampir seluruhnya ditempuh di lingkungan Kementerian Perdagangan. Ia mulai sebagai Kepala Subdirektorat Ekonomi Kreatif di Direktorat Jenderal Pengembangan Ekspor Nasional pada 2010, lalu dipromosikan menjadi Atase Perdagangan India (dilaporkan pelakubisnis.com: Mei 2012–Januari 2017). Sepulang dari India ia menjabat Kepala Bagian Program dan Kerjasama di unit yang sama. Pada 2017 ia dipercaya memegang dua jabatan Eselon II sekaligus — Kepala Pusat Data dan Informasi Kemendag dan Direktur Bina Usaha dan Pelaku Distribusi — kemudian Kepala Biro Organisasi dan Kepegawaian (2018). Pada 11 Oktober 2020 ia ditugaskan memimpin Kantor Dagang dan Ekonomi Indonesia (KDEI) di Taipei hingga Desember 2022 (Wikipedia mencatat ia sempat merangkap Kepala Biro Keuangan Juni–September 2020).
+
+Pada 12 Desember 2022 ia dilantik menjadi Direktur Jenderal Perdagangan Luar Negeri, lalu Sekretaris Jenderal Kementerian Perdagangan pada 14 Agustus 2024. Penunjukannya sebagai menteri diumumkan Presiden Prabowo pada malam 20 Oktober 2024 dan ia dilantik keesokan harinya, 21 Oktober 2024, dengan Wakil Menteri Dyah Roro Esti Widya Putri. Penilai PEPS Anthony Budiawan (dilaporkan korankota.co.id, 21/10/2024) menilai Prabowo tepat menunjuknya karena Budi adalah pejabat karir yang "mulai dari nol" dan paling paham seluk beluk Kemendag.
+
+## Jabatan Aktif
+
+- **Menteri Perdagangan Republik Indonesia** — sejak 21 Oktober 2024 (Kabinet Merah Putih), menggantikan Zulkifli Hasan; Wakil Menteri Dyah Roro Esti Widya Putri.
+
+## Jabatan Historis
+
+- Sekretaris Jenderal Kementerian Perdagangan (14 Agustus 2024 – Oktober 2024).
+- Direktur Jenderal Perdagangan Luar Negeri Kemendag (12 Desember 2022 – Agustus 2024).
+- Kepala Kantor Dagang dan Ekonomi Indonesia (KDEI) di Taipei (11 Oktober 2020 – Desember 2022).
+- Kepala Biro Keuangan Kemendag (Juni 2020 – September 2020).
+- Kepala Biro Organisasi dan Kepegawaian Kemendag (2018).
+- Kepala Pusat Data dan Informasi Kemendag; Direktur Bina Usaha dan Pelaku Distribusi (2017).
+- Atase Perdagangan India (dilaporkan 2012–2017).
+- Kepala Subdirektorat Ekonomi Kreatif, Ditjen Pengembangan Ekspor Nasional (2010).
+
+## Perkembangan Terakhir
+
+### 2026-11-24
+
+Dalam sosialisasi IEU-CEPA di Auditorium Kementerian Perdagangan, Jakarta, Budi menargetkan ekspor Indonesia ke Uni Eropa naik 50% dalam lima tahun pertama setelah perjanjian berlaku, dengan tambahan nilai ekspor US$3,82–5,78 miliar per tahun. Ratifikasi ditargetkan selesai paling lambat akhir Desember 2026 agar perjanjian dapat diimplementasikan 1 Januari 2027 — mendesak karena skema GSP Uni Eropa berakhir 31 Desember 2026. Total perdagangan Indonesia–Uni Eropa Januari–September 2026 tercatat US$26 miliar, naik 11,64% dari periode yang sama tahun sebelumnya (dilaporkan periskop.id; bisnisjatim.id; CNBC Indonesia, 24/11/2026).
+
+Pada hari yang sama, Budi menyampaikan rencana pendataan importir kedelai mulai 2027 melalui instrumen Persetujuan Impor (PI) — bukan pembatasan volume impor — untuk memperkuat pengawasan dan menjaga stabilitas harga. Pembahasan lintas kementerian masih berlangsung dan kebijakan belum final (dilaporkan lensahukum.co.id mengutip Detik Finance, 24/11/2026).
+
+### 2026-11-21
+
+Indonesia dan Uni Eropa menandatangani Perjanjian Kemitraan Ekonomi Komprehensif Indonesia-Uni Eropa (IEU-CEPA) di Brussels, Belgia — ditandatangani Menteri Perdagangan Budi Santoso dan Komisioner Eropa Maros Sefcovic — menandai berakhirnya perundingan yang berlangsung sekitar satu dekade. Uni Eropa akan menghapus atau menurunkan tarif terhadap 98,35% dari 9.754 pos tarif produk Indonesia; 90,42% pos tarif langsung memperoleh bea masuk 0% saat perjanjian berlaku (dilaporkan periskop.id, 24/11/2026).
+
+### 2026-10-08
+
+Dalam pembukaan INACRAFT October 2026, Budi menyampaikan tiga arah prioritas Kemendag pada 2026: pengamanan pasar dalam negeri, pengembangan pasar ekspor, dan program "UMKM BISA Ekspor" (Usaha Mikro, Kecil, dan Menengah Berani Inovasi, Siap Adaptasi Ekspor). Ia juga mendorong penguatan *youthpreneur* dan pemanfaatan ekosistem digital agar produk Indonesia memenuhi standar pasar internasional (dilaporkan inacraftnews.com).
+
+### 2024-10-21
+
+Dilantik sebagai Menteri Perdagangan Republik Indonesia ke-34 dalam Kabinet Merah Putih di Istana, menggantikan Zulkifli Hasan.
+
+### 2024-10-20
+
+Presiden Prabowo Subianto mengumumkan nama-nama menteri Kabinet Merah Putih pada malam hari; Budi Santoso ditunjuk sebagai Menteri Perdagangan (dilaporkan Antara via Wikipedia, korankota.co.id).
+
+## Sumber
+
+1. Wikipedia bahasa Indonesia, "Budi Santoso (birokrat)" — biografi, pendidikan, riwayat jabatan, pelantikan Mendag. https://id.wikipedia.org/wiki/Budi_Santoso_(birokrat)
+2. inacraftnews.com — "Mendag Budi Santoso Dorong INACRAFT Jadi Pintu Ekspansi Kriya Indonesia ke Pasar Global", 8/10/2026 (tiga prioritas 2026; dilantik 21/10/2024; ASN pertama jalur karir dari Biro Humas 1994). https://inacraftnews.com/mendag-budi-santoso-dorong-inacraft-jadi-pintu-ekspansi-kriya-indonesia-ke-pasar-global/
+3. korankota.co.id — "Presiden Prabowo Dinilai Tepat Tunjuk Budi Santoso Menteri Perdagangan", 21/10/2024 (penilaian PEPS Anthony Budiawan; diangkat menggantikan Zulkifli Hasan Minggu malam 20/10/2024). https://www.korankota.co.id/v151/t502/81872/presiden-prabowo-dinilai-tepat-tunjuk-budi-santoso-menteri-perdagangan
+4. en.wikipedia.org, "Budi Santoso (politician)" — konfirmasi: Mendag ke-34 sejak 21/10/2024, presiden Prabowo, pendahulu Zulkifli Hasan, partai PAN sejak 2024. https://en.wikipedia.org/wiki/Budi_Santoso_(politician)
+5. periskop.id — "Ekspor RI ke Uni Eropa Dibidik Naik 50%, Tarif Nol Belum Cukup", 24/11/2026 (penandatanganan IEU-CEPA 21/11/2026 di Brussels oleh Budi dan Sefcovic; target +50% dan US$3,82–5,78 miliar/tahun; tarif 98,35% dari 9.754 pos; ratifikasi akhir Des 2026, implementasi 1 Jan 2027; total perdagangan Jan–Sep 2026 US$26 miliar, +11,64%; GSP berakhir 31/12/2026). https://periskop.id/perdagangan/20261124/ekspor-ri-uni-eropa-naik-50-persen-tantangan-ieu-cepa
+6. bisnisjatim.id — "Busan Optimistis IEU-CEPA Dongkrak Ekspor ke Eropa", 25/11/2026 (sosialisasi 24/11/2026; target tambahan ekspor; ratifikasi 1 Jan 2027). https://bisnisjatim.id/2026/11/25/busan-optimistis-ieu-cepa-dongkrak-ekspor-ke-eropa/
+7. CNBC Indonesia via lapor.co.id — "IEU-CEPA Diteken, Mendag Ungkap Efek Dahsyatnya bagi RI Begini", 24/11/2026 (target US$3,8–5,7 miliar/tahun; 95,61% ekspor industri pengolahan; GSP berakhir 31/12/2026). https://lapor.co.id/berita/ieu-cepa-diteken-mendag-ungkap-efek-dahsyatnya-bagi-ri-begini
+8. lensahukum.co.id — "Mendag Siapkan Pendataan Importir Kedelai Mulai 2027", 24/11/2026 (PI sebagai instrumen pendataan importir; mengutip Detik Finance; pembahasan belum final). https://lensahukum.co.id/pendataan-importir-kedelai-2027
+
+## Catatan
+
+- Tanggal pelantikan: infobox Wikipedia, en.wikipedia, dan inacraftnews.com menyebut 21 Oktober 2024; badan artikel Wikipedia ID menyebut "dilantik ... pada 22 Oktober 2024" mengutip CNBC Indonesia — kemungkinan perbedaan tanggal publikasi berita. Dipakai 21 Oktober 2024 sebagai tanggal pelantikan.
+- Program magister: Wikipedia ID menyebut Magister Ilmu Administrasi Universitas Indonesia; pelakubisnis.com (via Wikipedia ref) menyebut Magister Ilmu Komunikasi UI (2008). Ditandai "dilaporkan".
+- Periode Kepala Biro Organisasi dan Kepegawaian: Wikipedia menyebut 2018; pelakubisnis.com menyebut Januari 2018–Juni 2020. Dipakai 2018 sesuai Wikipedia.
+- Angka surplus perdagangan terhadap Uni Eropa berbeda antar sumber (bisnisjatim.id: US$3,06 miliar Jan–Sep 2026; Tribun Video: US$3,59 miliar) — tidak dipakai dalam draf ini.
+- SHA blob stub di main (diverifikasi 26 Nov 2026): a7ec0dad94fc34184615408de336511c671d4743.
