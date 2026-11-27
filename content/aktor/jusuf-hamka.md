@@ -1,1 +1,142 @@
-LS0tCnRpdGxlOiAiSnVzdWYgSGFta2EiCmFsaWFzZXM6Ci0gIkp1c3VmIEhhbWthIgotICJNb2hhbW1hZCBKdXN1ZiBIYW1rYSIKLSAiQmFiYWggQWx1biIKLSAiSmF1dyBBIExvZW4iCi0gIkFsdW4gSm9zZXBoIgpkZXNjcmlwdGlvbjogIk1vaGFtbWFkIEp1c3VmIEhhbWthIChha3JhYiBkaXNhcGEgQmFiYWggQWx1bikgYWRhbGFoIHBlbmd1c2FoYSBNdXNsaW0gVGlvbmdob2EtSW5kb25lc2lhIHBlbWlsaWsgUFQgQ2l0cmEgTWFyZ2EgTnVzYXBoYWxhIFBlcnNhZGEgVGJrICgncmFqYSBqYWxhbiB0b2wnKSwgbWFudGFuIEtldHVhIGxhbHUgQmVuZGFoYXJhIFBCTlUsIG1hbnRhbiBiZW5kYWhhcmEgVEtOIEpva293aS1NYSdydWYgKFBpbHByZXMgMjAxOSksIGRhbiBhbmdnb3RhIERld2FuIFBlcnRpbWJhbmdhbiBQcmVzaWRlbiAoZGlsYW50aWsgMiBPa3RvYmVyIDIwMjYpLiIKZGF0ZTogMjAyNi0xMC0wNAp1cGRhdGVkOiAnMjAyNi0xMC0yMycKY2F0ZWdvcnk6IGFrdG9yCnRhZ3M6Ci0gaW5kaXZpZHUKLSBwZW5ndXNhaGEKLSBwb2xpdGlzaQotIGtlYWdhbWFhbgotIGluZnJhc3RydWt0dXIKZW50aXR5X3R5cGU6IGluZGl2aWR1CmVudGl0eV9pZDogImp1c3VmLWhhbWthIgpuYW1hX2xlbmdrYXA6ICJNb2hhbW1hZCBKdXN1ZiBIYW1rYSIKbmFtYV9hbGlhczoKLSAiSnVzdWYgSGFta2EiCi0gIkJhYmFoIEFsdW4iCi0gIkphdXcgQSBMb2VuIgotICJBbHVuIEpvc2VwaCIKamFiYXRhbl9ha3RpZjoKLSAiQW5nZ290YSBEZXdhbiBQZXJ0aW1iYW5nYW4gUHJlc2lkZW4gKGRpbGFudGlrIDIgT2t0b2JlciAyMDI2KSIKLSAiUGVtaWxpay9wZW1lZ2FuZyBzYWhhbSBtYXlvcml0YXMgUFQgQ2l0cmEgTWFyZ2EgTnVzYXBoYWxhIFBlcnNhZGEgVGJrIChDTU5QKSIKamFiYXRhbl9oaXN0b3JpczoKLSAiQmVuZGFoYXJhIFBlbmd1cnVzIEJlc2FyIE5haGRsYXR1bCBVbGFtYSAoUEJOVSkgKDEzIEp1bmkgMjAyMyDigJMgMjAyNzsgcGVyYWxpaGFuIGFudGFyIHdha3R1IGRhcmkgS2V0dWEgUEJOVSB2aWEgU0sgUEJOVSAwMS5iL0EuSUkuMDQvMDYvMjAyMykiCi0gIktldHVhIFBCTlUgKDIwMjIg4oCTIDEzIEp1bmkgMjAyMykiCi0gIkJlbmRhaGFyYSBUaW0gS2FtcGFueWUgTmFzaW9uYWwgKFRLTikgSm9rbyBXaWRvZG/igJNNYSdydWYgQW1pbiAoUGlscHJlcyAyMDE5KSIKLSAiS29taXNhcmlzIFV0YW1hIFBUIE1hbmRhcmEgUGVybWFpIgotICJLb21pc2FyaXMgSW5kZXBlbmRlbiBQVCBJbmRvbW9iaWwgU3Vrc2VzIEludGVybmFzaW9uYWwgVGJrIgotICJLb21pc2FyaXMgUFQgSW5kb3NpYXIgVmlzdWFsIE1hbmRpcmkiCi0gIktvbWlzYXJpcyBQVCBDaXRyYSBNYXJnYXRhbWEgU3VyYWJheWEiCi0gIktvbWlzYXJpcyBQVCBNaXRyYSBLYWx0aW0gUmVzb3VyY2VzIEluZG9uZXNpYSIKcGFydGFpOiAiR29sa2FyIChoaW5nZ2EgMjAyNDsgbXVuZHVyIEFndXN0dXMgMjAyNCwgZGlsYXBvcmthbiBMaXB1dGFuNiB2aWEgV2lraXBlZGlhKSIKYmFzaXNfZGFlcmFoOiAiSmFrYXJ0YSIKbGF0YXJfbWlsaXRlcjogInRpZGFrIGFkYSIKYWZpbGlhc2lfb3JtYXM6Ci0gIk5haGRsYXR1bCBVbGFtYSAoS2V0dWEgUEJOVSAyMDIy4oCTMjAyMzsgQmVuZGFoYXJhIFBCTlUgc2VqYWsgMTMgSnVuaSAyMDIzKSIKYWZpbGlhc2lfa2VhZ2FtYWFuOgotICJNdXNsaW0gKG11YWxhZiAxOTgxLCBkaWJpbWJpbmcgQnV5YSBIYW1rYTsgZGlhbmdrYXQgYW5hayBvbGVoIEJ1eWEgSGFta2EgZGFuIE5lbGx5IEFkYW0gTWFsaWspIgphZmlsaWFzaV9iaXNuaXM6Ci0gIlBUIENpdHJhIE1hcmdhIE51c2FwaGFsYSBQZXJzYWRhIFRiayAoQ01OUCkg4oCUIHBlbWlsaWsvcGVtZWdhbmcgc2FoYW0gbWF5b3JpdGFzOyBtZW5nZWxvbGEgamFsYW4gdG9sIENhd2FuZ+KAk1Rhbmp1bmcgUHJpb2siCmRpbmFzdGlfcG9saXRpazogInRpZGFrIGFkYSIKa2VwZW1pbGlrYW5fa29uc2VzaToKLSAiSmFsYW4gdG9sIENhd2FuZ+KAk1Rhbmp1bmcgUHJpb2sgdmlhIFBUIENNTlAgKGRpbGFwb3JrYW4gV2lraXBlZGlhLCBtZW5pdG5ld3MuY28uaWQpIgprZWJpamFrYW5fZGlkdWt1bmc6Ci0gIkZpbGFudHJvcGk6IHBlbmRpcmkgV2FydW5nIE5hc2kgS3VuaW5nIHVudHVrIGthdW0gZHVhZmE7IHBlbWJhbmd1bmFuIE1hc2ppZCBCYWJhaCBBbHVuIGRpIGJhd2FoIGphbGFuIHRvbCBJci4gV2l5b3RvIFdpeW9ubywgVGFuanVuZyBQcmlvazsgdGVrYWQgbWVtYmFuZ3VuIDEuMDAwIG1hc2ppZCAoZGlsYXBvcmthbiBBbnRhcmEsIDIwMjEpIgprZWJpamFrYW5fZGl0b2xhazogW10KaXN1X2tvbnNpc3RlbjoKLSAiSW5mcmFzdHJ1a3R1ciBqYWxhbiB0b2wiCi0gIkZpbGFudHJvcGkgZGFuIGtlZ2lhdGFuIHNvc2lhbCIKY2F0YXRhbl9rb250cm92ZXJzaWFsOiBbXQptZW1iZXJfb2Y6Ci0gIkRld2FuIFBlcnRpbWJhbmdhbiBQcmVzaWRlbiIKbGVhZGVyX29mOiBbXQpwZW5nYXJ1aF9tZWRpYTogImRpa2VuYWwgc2ViYWdhaSBtb3RpdmF0b3IgZGFuIGZpZ3VyIHB1YmxpayAoJ0JhYmFoIEFsdW4nKSIKc3RhdHVzX2h1a3VtOiAidGlkYWsgYWRhIGthc3VzIgpyaXNpa29fZWRpdG9yaWFsOiAic2VkYW5nIgpjb25maWRlbmNlOiAidGluZ2dpIgpsYXN0X3VwZGF0ZWQ6ICIyMDI2LTEwLTA0IgpsYXN0X3ZlcmlmaWVkOiAiMjAyNi0xMC0yMyIKcmVsYXNpOgotIHRpcGU6IG1lbmdhbmdrYXQKICB0YXJnZXQ6IGFrdG9yL3ByYWJvd28tc3ViaWFudG8KICB0YW5nZ2FsOiAiMjAyNi0xMC0wMiIKICBzdW1iZXI6ICJXaWtpcGVkaWEgSUQgJ0p1c3VmIEhhbWthJyArIG1lbml0bmV3cy5jby5pZCAyLzEwLzIwMjYg4oCUIGRpbGFudGlrIFByZXNpZGVuIFByYWJvd28gc2ViYWdhaSBhbmdnb3RhIFdhbnRpbXByZXMiCiAgY2F0YXRhbjogIkRpYW5na2F0IFByZXNpZGVuIFByYWJvd28gU3ViaWFudG8gc2ViYWdhaSBhbmdnb3RhIERld2FuIFBlcnRpbWJhbmdhbiBQcmVzaWRlbi4iCi0tLQoKIyBKdXN1ZiBIYW1rYQoKTW9oYW1tYWQgSnVzdWYgSGFta2EgKGxhaGlyIDUgRGVzZW1iZXIgMTk1NywgSmFrYXJ0YSwgZGVuZ2FuIG5hbWEgSmF1dyBBIExvZW4gYXRhdSBBbHVuIEpvc2VwaCksIGFrcmFiIGRpc2FwYSBCYWJhaCBBbHVuLCBhZGFsYWggcGVuZ3VzYWhhIE11c2xpbSBUaW9uZ2hvYS1JbmRvbmVzaWEgeWFuZyBkaWtlbmFsIHNlYmFnYWkgInJhamEgamFsYW4gdG9sIiDigJQgcGVtaWxpay9wZW1lZ2FuZyBzYWhhbSBtYXlvcml0YXMgUFQgQ2l0cmEgTWFyZ2EgTnVzYXBoYWxhIFBlcnNhZGEgVGJrIChDTU5QKS4gSWEgYWRhbGFoIG11YWxhZiB5YW5nIGRpYmltYmluZyBCdXlhIEhhbWthICgxOTgxKSwgcGVybmFoIG1lbmphZGkgS2V0dWEgbGFsdSBCZW5kYWhhcmEgUEJOVSwgYmVuZGFoYXJhIFRLTiBKb2tvd2nigJNNYSdydWYgQW1pbiBwYWRhIFBpbHByZXMgMjAxOSwgZGFuIGRpbGFudGlrIG1lbmphZGkgYW5nZ290YSBEZXdhbiBQZXJ0aW1iYW5nYW4gUHJlc2lkZW4gb2xlaCBQcmVzaWRlbiBQcmFib3dvIFN1YmlhbnRvIHBhZGEgMiBPa3RvYmVyIDIwMjYuCgojIyBQcm9maWwKCkp1c3VmIHR1bWJ1aCBkYWxhbSBrZWx1YXJnYSBUaW9uZ2hvYSB5YW5nIHRlcnBlbGFqYXIgZGFuIG1vZGVyYXQuIEF5YWhueWEsIERyLiBKb3NlcGggU3VoYWltaSwgUy5ILiAoSmF1dyBUbyBUamlhbmcpLCBhZGFsYWggZG9zZW4gZGkgVW5pdmVyc2l0YXMgMTcgQWd1c3R1cyAxOTQ1IEpha2FydGEuIElhIGFuYWsga2VlbXBhdCBkYXJpIHR1anVoIGJlcnNhdWRhcmE7IHNhbGFoIHNhdHUgYWJhbmdueWEgYWRhbGFoIEFnZ3kgVGpldGplLgoKUGFkYSAxOTgxLCBkaSB1c2lhIDIzIHRhaHVuLCBpYSBtZW1lbHVrIElzbGFtIHNldGVsYWggbWVsaWhhdCBkaSBtYWphbGFoIFRlbXBvIGtpc2FoIG9yYW5nIG1hc3VrIElzbGFtIGRpIE1hc2ppZCBBZ3VuZyBBbC1Bemhhci4gSWEgbWVuZW11aSBVc3RhZHogWmFlbGFuaSwgc2VrcmV0YXJpcyBtYXNqaWQsIGxhbHUgZGliYXdhIGtlIHJ1bWFoIEJ1eWEgSGFta2EgKFByb2YuIERyLiBILiBBYmR1bCBNYWxpayBLYXJpbSBBbXJ1bGxhaCkgZGkgSmFsYW4gUmFkZW4gRmF0YWggZGFuIG1lbmd1Y2Fwa2FuIGR1YSBrYWxpbWF0IHN5YWhhZGF0IGRpIGJhd2FoIGJpbWJpbmdhbiBCdXlhIEhhbWthLiBOYW1hbnlhIGRpZ2FudGkgbWVuamFkaSBKdXN1ZiBIYW1rYSBkYW4gaWEgZGlhbmdrYXQgc2ViYWdhaSBhbmFrIG9sZWggQnV5YSBIYW1rYSBkYW4gTmVsbHkgQWRhbSBNYWxpay4gSWEgbWVudW5haWthbiBpYmFkYWggaGFqaSBwYWRhIDE5ODQgKGRpbGFwb3JrYW4gV2lraXBlZGlhKS4gUGVuZGlkaWthbm55YSBkaSBzZWp1bWxhaCBwZXJndXJ1YW4gdGluZ2dpIHRlcm5hbWEgdGlkYWsgYWRhIHlhbmcgZGl0dW50YXNrYW4ga2FyZW5hIGtldGlkYWtzdWthYW5ueWEgdGVyaGFkYXAgZm9ybWFsaXRhcyAoZGlsYXBvcmthbiBXaWtpcGVkaWEpLgoKS2FyaWVyIGJpc25pc255YSBkaW11bGFpIGRhcmkgYmF3YWg6IGRpdG9sYWsgbGViaWggZGFyaSAxMDAgcGVydXNhaGFhbiwgaWEgc2VtcGF0IG1lbmphZGkgb3BlcmF0b3IgdHJha3RvciBkaSBLYWxpbWFudGFuIHNlYmVsdW0gZGl0ZXJpbWEgZGkgUFQgQ01OUCBwYWRhIDE5ODkg4oCUIHRpdGlrIGJhbGlrIGhpZHVwbnlhIChkaWxhcG9ya2FuIG9sZW5rYS5pZCkuIElhIGtpbmkgbWVtZWdhbmcgc2FoYW0gbWF5b3JpdGFzIFBUIENNTlAgeWFuZyBtZW5nZWxvbGEgc2VqdW1sYWggcnVhcyBqYWxhbiB0b2wgYmVzYXIgdGVybWFzdWsgQ2F3YW5n4oCTVGFuanVuZyBQcmlvaywgZGFuIG1lbWVnYW5nIGphYmF0YW4gZGkgYmVyYmFnYWkgcGVydXNhaGFhbjogS29taXNhcmlzIFV0YW1hIFBUIE1hbmRhcmEgUGVybWFpLCBLb21pc2FyaXMgSW5kZXBlbmRlbiBQVCBJbmRvbW9iaWwgU3Vrc2VzIEludGVybmFzaW9uYWwgVGJrLCBLb21pc2FyaXMgUFQgSW5kb3NpYXIgVmlzdWFsIE1hbmRpcmksIEtvbWlzYXJpcyBQVCBDaXRyYSBNYXJnYXRhbWEgU3VyYWJheWEsIGRhbiBLb21pc2FyaXMgUFQgTWl0cmEgS2FsdGltIFJlc291cmNlcyBJbmRvbmVzaWEuCgpEaSByYW5haCBwb2xpdGlrIGRhbiBzb3NpYWw6IGlhIGRpcGVyY2F5YSBzZWJhZ2FpIGJlbmRhaGFyYSBUaW0gS2FtcGFueWUgTmFzaW9uYWwgKFRLTikgSm9rb3dp4oCTTWEncnVmIEFtaW4gcGFkYSBQaWxwcmVzIDIwMTk7IG1lbmphZGkgc2FsYWggc2F0dSBLZXR1YSBQQk5VIG1hc2Ega2hpZG1haCAyMDIy4oCTMjAyNywga2VtdWRpYW4gYmVyYWxpaCBtZW5qYWRpIEJlbmRhaGFyYSBQQk5VIG1lbGFsdWkgU0sgUEJOVSBOb21vciAwMS5iL0EuSUkuMDQvMDYvMjAyMyB0ZXJ0YW5nZ2FsIDEzIEp1bmkgMjAyMyAoZGlsYXBvcmthbiBpZGRiLmlkKS4gSWEgYWRhbGFoIGthZGVyIFBhcnRhaSBHb2xrYXIgaGluZ2dhIG11bmR1ciBwYWRhIEFndXN0dXMgMjAyNCAoZGlsYXBvcmthbiBMaXB1dGFuNiB2aWEgV2lraXBlZGlhKSBkYW4gbWVtYmF0YWxrYW4gcGVuY2Fsb25hbm55YSBwYWRhIGtvbnRlc3Rhc2kgUGlsa2FkYSAyMDI0IChkaWxhcG9ya2FuIG1lbml0bmV3cy5jby5pZCkuIElhIGp1Z2EgZGlrZW5hbCBzZWJhZ2FpIGZpbGFudHJvcGlzOiBwZW5kaXJpIFdhcnVuZyBOYXNpIEt1bmluZyB1bnR1ayBrYXVtIGR1YWZhLCBwZW5kaXJpIE1hc2ppZCBCYWJhaCBBbHVuIGRpIGJhd2FoIGphbGFuIHRvbCBJci4gV2l5b3RvIFdpeW9ubyBkaSBUYW5qdW5nIFByaW9rLCBKYWthcnRhIFV0YXJhLCBkYW4gcGVybmFoIG1lbnlhdGFrYW4gdGVrYWQgbWVtYmFuZ3VuIDEuMDAwIG1hc2ppZCAoZGlsYXBvcmthbiBBbnRhcmEsIDEzLzIvMjAyMSkuCgojIyBKYWJhdGFuIEFrdGlmCgotICoqQW5nZ290YSBEZXdhbiBQZXJ0aW1iYW5nYW4gUHJlc2lkZW4qKiDigJQgZGlsYW50aWsgMiBPa3RvYmVyIDIwMjYgb2xlaCBQcmVzaWRlbiBQcmFib3dvIFN1YmlhbnRvIGRpIElzdGFuYSBOZWdhcmEsIEpha2FydGEuCi0gKipQZW1pbGlrL3BlbWVnYW5nIHNhaGFtIG1heW9yaXRhcyBQVCBDaXRyYSBNYXJnYSBOdXNhcGhhbGEgUGVyc2FkYSBUYmsgKENNTlApKiog4oCUIHBlcnVzYWhhYW4gcGVuZ2Vsb2xhIGphbGFuIHRvbCAodGVybWFzdWsgQ2F3YW5n4oCTVGFuanVuZyBQcmlvaykuCgojIyBKYWJhdGFuIEhpc3RvcmlzCgotIEJlbmRhaGFyYSBQQk5VICgxMyBKdW5pIDIwMjMg4oCTIDIwMjc7IGFudGFyIHdha3R1IGRhcmkgS2V0dWEgUEJOVSkuCi0gS2V0dWEgUEJOVSAoMjAyMiDigJMgMTMgSnVuaSAyMDIzKS4KLSBCZW5kYWhhcmEgVEtOIEpva28gV2lkb2Rv4oCTTWEncnVmIEFtaW4gKFBpbHByZXMgMjAxOSkuCi0gS29taXNhcmlzIFV0YW1hIFBUIE1hbmRhcmEgUGVybWFpLgotIEtvbWlzYXJpcyBJbmRlcGVuZGVuIFBUIEluZG9tb2JpbCBTdWtzZXMgSW50ZXJuYXNpb25hbCBUYmsuCi0gS29taXNhcmlzIFBUIEluZG9zaWFyIFZpc3VhbCBNYW5kaXJpLgotIEtvbWlzYXJpcyBQVCBDaXRyYSBNYXJnYXRhbWEgU3VyYWJheWEuCi0gS29taXNhcmlzIFBUIE1pdHJhIEthbHRpbSBSZXNvdXJjZXMgSW5kb25lc2lhLgotIFBhcnRhaSBHb2xrYXIgKGhpbmdnYSBBZ3VzdHVzIDIwMjQpLgoKIyMgUGVya2VtYmFuZ2FuIFRlcmFraGlyCgojIyMgMjAyNi0xMC0wMgoKRGlsYW50aWsgUHJlc2lkZW4gUHJhYm93byBTdWJpYW50byBzZWJhZ2FpIGFuZ2dvdGEgRGV3YW4gUGVydGltYmFuZ2FuIFByZXNpZGVuIChXYW50aW1wcmVzKSBkaSBJc3RhbmEgTmVnYXJhLCBKYWthcnRhIOKAlCBtZW5hbmRhaSBrZXRlcmxpYmF0YW4gYmFydW55YSBkaSBsaW5na2FyYW4gcGVtZXJpbnRhaGFuIHB1c2F0IHNldGVsYWggbWVsZXBhcyBrZXRlcmxpYmF0YW4gcG9saXRpayBwcmFrdGlzIChtdW5kdXIgZGFyaSBHb2xrYXIsIGJhdGFsIG1hanUgUGlsa2FkYSAyMDI0KSBkYW4gbWVueWF0YWthbiBmb2t1cyBwYWRhIGtlZ2lhdGFuIHNvc2lhbCBzZXJ0YSBkdWt1bmdhbiBwcm9ncmFtIHBlbWJhbmd1bmFuIHBlbWVyaW50YWggKGRpbGFwb3JrYW4gbWVuaXRuZXdzLmNvLmlkKS4KCiMjIFN1bWJlcgoKMS4gV2lraXBlZGlhIGJhaGFzYSBJbmRvbmVzaWEsICJKdXN1ZiBIYW1rYSIg4oCUIGJpb2dyYWZpLCBrZWx1YXJnYSwgbXVhbGFmLCBrYXJpZXIgYmlzbmlzLCBUS04gMjAxOSwgR29sa2FyLCBwZWxhbnRpa2FuIFdhbnRpbXByZXMgMi8xMC8yMDI2LiBodHRwczovL2lkLndpa2lwZWRpYS5vcmcvd2lraS9KdXN1Zl9IYW1rYQoyLiBpZGRiLmlkIOKAlCAiU29zb2sgSnVzdWYgSGFta2EsIFRpb25naG9hIE11c2xpbSB5YW5nIGphZGkgUGV0aW5nZ2kgUEJOVSIsIDI1LzcvMjAyNCAoS2V0dWEgUEJOVSAyMDIy4oCTMjAyNyDihpIgQmVuZGFoYXJhIFBCTlUgdmlhIFNLIDAxLmIvQS5JSS4wNC8wNi8yMDIzLCAxMy82LzIwMjM7IG11YWxhZiAxOTgxOyBwZW1lZ2FuZyBzYWhhbSBtYXlvcml0YXMgQ01OUCkuIGh0dHBzOi8vaWRkYi5pZC8yMDI0LzA3LzI1L3Nvc29rLWp1c3VmLWhhbWthLXRpb25naG9hLW11c2xpbS15YW5nLWphZGktcGV0aW5nZ2ktcGJudS8KMy4gbWVuaXRuZXdzLmNvLmlkIOKAlCAiSnVzdWYgSGFta2EgUmVzbWkgRGlsYW50aWsgSmFkaSBBbmdnb3RhIFdhbnRpbXByZXMgUHJhYm93byIsIDIvMTAvMjAyNiAocGVsYW50aWthbiBXYW50aW1wcmVzOyBtdW5kdXIgR29sa2FyOyBiYXRhbCBQaWxrYWRhIDIwMjQ7IHBlbWlsaWsgQ01OUDsgYmVuZGFoYXJhIFRLTiAyMDE5KS4gaHR0cHM6Ly9tZW5pdG5ld3MuY28uaWQvMjAyNi8xMC8wMi9wZW5ndXNhaGEtaW5mcmFzdHJ1a3R1ci1qdXN1Zi1oYW1rYS1tYXN1ay1qYWphcmFuLWRld2FuLXBlcnRpbWJhbmdhbi1wcmVzaWRlbi8KCiMjIENhdGF0YW4KCi0gU3RhdHVzIGtlcGVtaWxpa2FuIENNTlAgZGl0dWxpcyAicGVtaWxpay9wZW1lZ2FuZyBzYWhhbSBtYXlvcml0YXMiIG1lbmdpa3V0aSByZWRha3NpIFdpa2lwZWRpYSAoInBlbWlsaWsgUFQgQ01OUCIpIGRhbiBpZGRiLmlkICgibWVtZWdhbmcgc2FoYW0gbWF5b3JpdGFzIGRpIFBUIENNTlAiKS4KLSBLbGFpbSBmaWxhbnRyb3BpIDEuMDAwIG1hc2ppZCBiZXJzdW1iZXIgZGFyaSBBbnRhcmEgKDEzLzIvMjAyMSkgeWFuZyBkaXJ1anVrIFdpa2lwZWRpYS4KLSBBcnRpa2VsIG9waW5pIG1pa2FuZXdzLmlkIHlhbmcgbWVueWVidXRueWEgImRpZHVnYSBiYWdpYW4gZGFyaSBtYWZpYSBvbGlnYXJraSIgc2VydGEgc2VuZ2tldGEgQ01OUOKAk1VuaWJhbmsgdGlkYWsgZGlwYWthaSBrYXJlbmEgYmVyc3VtYmVyIHR1bmdnYWwgZGFyaSBibG9nIG9waW5pIHRhbnBhIGtvcm9ib3Jhc2kg4oCUIGRpcGVybGFrdWthbiBzZWJhZ2FpIHRpZGFrIHRlcnZlcmlmaWthc2kuCg==
+---
+title: "Jusuf Hamka"
+aliases:
+- "Jusuf Hamka"
+- "Mohammad Jusuf Hamka"
+- "Babah Alun"
+- "Jauw A Loen"
+- "Alun Joseph"
+description: "Mohammad Jusuf Hamka (akrab disapa Babah Alun) adalah pengusaha Muslim Tionghoa-Indonesia pemilik PT Citra Marga Nusaphala Persada Tbk ('raja jalan tol'), mantan Ketua lalu Bendahara PBNU, mantan bendahara TKN Jokowi-Ma'ruf (Pilpres 2019), dan anggota Dewan Pertimbangan Presiden (dilantik 2 Oktober 2026)."
+date: 2026-11-26
+updated: '2026-11-26'
+category: aktor
+tags:
+- individu
+- pengusaha
+- politisi
+- keagamaan
+- infrastruktur
+entity_type: individu
+entity_id: "jusuf-hamka"
+nama_lengkap: "Mohammad Jusuf Hamka"
+nama_alias:
+- "Jusuf Hamka"
+- "Babah Alun"
+- "Jauw A Loen"
+- "Alun Joseph"
+jabatan_aktif:
+- "Anggota Dewan Pertimbangan Presiden (dilantik 2 Oktober 2026)"
+- "Pemilik/pemegang saham mayoritas PT Citra Marga Nusaphala Persada Tbk (CMNP)"
+jabatan_historis:
+- "Bendahara Pengurus Besar Nahdlatul Ulama (PBNU) (13 Juni 2023 – 2027; peralihan antar waktu dari Ketua PBNU via SK PBNU 01.b/A.II.04/06/2023)"
+- "Ketua PBNU (2022 – 13 Juni 2023)"
+- "Bendahara Tim Kampanye Nasional (TKN) Joko Widodo–Ma'ruf Amin (Pilpres 2019)"
+- "Komisaris Utama PT Mandara Permai"
+- "Komisaris Independen PT Indomobil Sukses Internasional Tbk"
+- "Komisaris PT Indosiar Visual Mandiri"
+- "Komisaris PT Citra Margatama Surabaya"
+- "Komisaris PT Mitra Kaltim Resources Indonesia"
+partai: "Golkar (hingga 2024; mundur Agustus 2024, dilaporkan Liputan6 via Wikipedia)"
+basis_daerah: "Jakarta"
+latar_militer: "tidak ada"
+afiliasi_ormas:
+- "Nahdlatul Ulama (Ketua PBNU 2022–2023; Bendahara PBNU sejak 13 Juni 2023)"
+afiliasi_keagamaan:
+- "Muslim (mualaf 1981, dibimbing Buya Hamka; diangkat anak oleh Buya Hamka dan Nelly Adam Malik)"
+afiliasi_bisnis:
+- "PT Citra Marga Nusaphala Persada Tbk (CMNP) — pemilik/pemegang saham mayoritas; mengelola jalan tol Cawang–Tanjung Priok"
+dinasti_politik: "tidak ada"
+kepemilikan_konsesi:
+- "Jalan tol Cawang–Tanjung Priok via PT CMNP (dilaporkan Wikipedia, menitnews.co.id)"
+kebijakan_didukung:
+- "Filantropi: pendiri Warung Nasi Kuning untuk kaum duafa; pembangunan Masjid Babah Alun di bawah jalan tol Ir. Wiyoto Wiyono, Tanjung Priok; tekad membangun 1.000 masjid (dilaporkan Antara, 2021)"
+kebijakan_ditolak: []
+isu_konsisten:
+- "Infrastruktur jalan tol"
+- "Filantropi dan kegiatan sosial"
+catatan_kontroversial: []
+member_of:
+- "Dewan Pertimbangan Presiden"
+leader_of: []
+pengaruh_media: "dikenal sebagai motivator dan figur publik ('Babah Alun')"
+status_hukum: "tidak ada kasus"
+risiko_editorial: "sedang"
+confidence: "tinggi"
+last_updated: "2026-11-26"
+last_verified: "2026-11-26"
+relasi:
+- tipe: mengangkat
+  target: aktor/prabowo-subianto
+  tanggal: "2026-10-02"
+  sumber: "Wikipedia ID 'Jusuf Hamka' + menitnews.co.id 2/10/2026 — dilantik Presiden Prabowo sebagai anggota Wantimpres"
+  catatan: "Diangkat Presiden Prabowo Subianto sebagai anggota Dewan Pertimbangan Presiden."
+- tipe: mendukung
+  target: aktor/prabowo-subianto
+  tanggal: "2026-11-07"
+  sumber: "Nusantara TV 7/11/2026 + Kompas TV 9/11/2026 — unggahan video Instagram Jusuf Hamka: meminta Prabowo tidak lengah atas kabar penyadapan dan mendukungnya melawan koruptor"
+  catatan: "Pernyataan dukungan publik Jusuf Hamka kepada Presiden Prabowo Subianto menanggapi kabar penyadapan presiden."
+---
+
+# Jusuf Hamka
+
+Mohammad Jusuf Hamka (lahir 5 Desember 1957, Jakarta, dengan nama Jauw A Loen atau Alun Joseph), akrab disapa Babah Alun, adalah pengusaha Muslim Tionghoa-Indonesia yang dikenal sebagai "raja jalan tol" — pemilik/pemegang saham mayoritas PT Citra Marga Nusaphala Persada Tbk (CMNP). Ia adalah mualaf yang dibimbing Buya Hamka (1981), pernah menjadi Ketua lalu Bendahara PBNU, bendahara TKN Jokowi–Ma'ruf Amin pada Pilpres 2019, dan dilantik menjadi anggota Dewan Pertimbangan Presiden oleh Presiden Prabowo Subianto pada 2 Oktober 2026.
+
+## Profil
+
+Jusuf tumbuh dalam keluarga Tionghoa yang terpelajar dan moderat. Ayahnya, Dr. Joseph Suhaimi, S.H. (Jauw To Tjiang), adalah dosen di Universitas 17 Agustus 1945 Jakarta. Ia anak keempat dari tujuh bersaudara; salah satu abangnya adalah Aggy Tjetje.
+
+Pada 1981, di usia 23 tahun, ia memeluk Islam setelah melihat di majalah Tempo kisah orang masuk Islam di Masjid Agung Al-Azhar. Ia menemui Ustadz Zaelani, sekretaris masjid, lalu dibawa ke rumah Buya Hamka (Prof. Dr. H. Abdul Malik Karim Amrullah) di Jalan Raden Fatah dan mengucapkan dua kalimat syahadat di bawah bimbingan Buya Hamka. Namanya diganti menjadi Jusuf Hamka dan ia diangkat sebagai anak oleh Buya Hamka dan Nelly Adam Malik. Ia menunaikan ibadah haji pada 1984 (dilaporkan Wikipedia). Pendidikannya di sejumlah perguruan tinggi ternama tidak ada yang dituntaskan karena ketidaksukaannya terhadap formalitas (dilaporkan Wikipedia).
+
+Karier bisnisnya dimulai dari bawah: ditolak lebih dari 100 perusahaan, ia sempat menjadi operator traktor di Kalimantan sebelum diterima di PT CMNP pada 1989 — titik balik hidupnya (dilaporkan olenka.id). Ia kini memegang saham mayoritas PT CMNP yang mengelola sejumlah ruas jalan tol besar termasuk Cawang–Tanjung Priok, dan memegang jabatan di berbagai perusahaan: Komisaris Utama PT Mandara Permai, Komisaris Independen PT Indomobil Sukses Internasional Tbk, Komisaris PT Indosiar Visual Mandiri, Komisaris PT Citra Margatama Surabaya, dan Komisaris PT Mitra Kaltim Resources Indonesia.
+
+Di ranah politik dan sosial: ia dipercaya sebagai bendahara Tim Kampanye Nasional (TKN) Jokowi–Ma'ruf Amin pada Pilpres 2019; menjadi salah satu Ketua PBNU masa khidmah 2022–2027, kemudian beralih menjadi Bendahara PBNU melalui SK PBNU Nomor 01.b/A.II.04/06/2023 tertanggal 13 Juni 2023 (dilaporkan iddb.id). Ia adalah kader Partai Golkar hingga mundur pada Agustus 2024 (dilaporkan Liputan6 via Wikipedia) dan membatalkan pencalonannya pada kontestasi Pilkada 2024 (dilaporkan menitnews.co.id). Ia juga dikenal sebagai filantropis: pendiri Warung Nasi Kuning untuk kaum duafa, pendiri Masjid Babah Alun di bawah jalan tol Ir. Wiyoto Wiyono di Tanjung Priok, Jakarta Utara, dan pernah menyatakan tekad membangun 1.000 masjid (dilaporkan Antara, 13/2/2021).
+
+## Jabatan Aktif
+
+- **Anggota Dewan Pertimbangan Presiden** — dilantik 2 Oktober 2026 oleh Presiden Prabowo Subianto di Istana Negara, Jakarta.
+- **Pemilik/pemegang saham mayoritas PT Citra Marga Nusaphala Persada Tbk (CMNP)** — perusahaan pengelola jalan tol (termasuk Cawang–Tanjung Priok).
+
+## Jabatan Historis
+
+- Bendahara PBNU (13 Juni 2023 – 2027; antar waktu dari Ketua PBNU).
+- Ketua PBNU (2022 – 13 Juni 2023).
+- Bendahara TKN Joko Widodo–Ma'ruf Amin (Pilpres 2019).
+- Komisaris Utama PT Mandara Permai.
+- Komisaris Independen PT Indomobil Sukses Internasional Tbk.
+- Komisaris PT Indosiar Visual Mandiri.
+- Komisaris PT Citra Margatama Surabaya.
+- Komisaris PT Mitra Kaltim Resources Indonesia.
+- Partai Golkar (hingga Agustus 2024).
+
+## Perkembangan Terakhir
+
+### 2026-11-07
+
+Dalam unggahan video di akun Instagram pribadinya, Jusuf menanggapi kabar penyadapan terhadap Presiden Prabowo Subianto yang dikaitkan dengan mantan Kapolri Jenderal Listyo Sigit Prabowo. Ia meminta Prabowo "tidak boleh lengah", menyatakan dukungan agar Prabowo terus melawan koruptor, dan menyebut hanya Prabowo yang berani menghadapi "raja minyak, raja sawit, raja batu bara, dan raja nikel" (dilaporkan Nusantara TV, 7/11/2026; Kompas TV, 9/11/2026).
+
+### 2026-11-03
+
+Sebagai anggota Wantimpres, Jusuf berkunjung silaturahmi ke Kedaton Kesultanan Kutai Kartanegara Ing Martadipura di Tenggarong dan bertemu Sultan Aji Muhammad Arifin. Ia menerima aspirasi agar pemerintah pusat menerbitkan Peraturan Presiden (Perpres) atau Peraturan Pemerintah (PP) yang memberi hak kepada kesultanan-kesultanan Nusantara sebagai pelestari adat dan budaya, serta agar kesultanan tidak hanya menjadi "penonton" di tengah pengelolaan sumber daya alam — aspirasi yang ia nyatakan siap disampaikan kepada Presiden Prabowo Subianto (dilaporkan beritaborneo.com, 5/11/2026; selajur.com, 3/11/2026).
+
+### 2026-10-02
+
+Dilantik Presiden Prabowo Subianto sebagai anggota Dewan Pertimbangan Presiden (Wantimpres) di Istana Negara, Jakarta — menandai keterlibatan barunya di lingkaran pemerintahan pusat setelah melepas keterlibatan politik praktis (mundur dari Golkar, batal maju Pilkada 2024) dan menyatakan fokus pada kegiatan sosial serta dukungan program pembangunan pemerintah (dilaporkan menitnews.co.id). Pelantikan didasarkan pada Keputusan Presiden Nomor 107/P Tahun 2026; dari 26 anggota Wantimpres yang dilantik, Jusuf tercatat sebagai anggota nomor 23 (dilaporkan indonesiamaritimenews.com; telaah.id).
+
+## Sumber
+
+1. Wikipedia bahasa Indonesia, "Jusuf Hamka" — biografi, keluarga, mualaf, karier bisnis, TKN 2019, Golkar, pelantikan Wantimpres 2/10/2026. https://id.wikipedia.org/wiki/Jusuf_Hamka
+2. iddb.id — "Sosok Jusuf Hamka, Tionghoa Muslim yang jadi Petinggi PBNU", 25/7/2024 (Ketua PBNU 2022–2027 → Bendahara PBNU via SK 01.b/A.II.04/06/2023, 13/6/2023; mualaf 1981; pemegang saham mayoritas CMNP). https://iddb.id/2024/07/25/sosok-jusuf-hamka-tionghoa-muslim-yang-jadi-petinggi-pbnu/
+3. menitnews.co.id — "Jusuf Hamka Resmi Dilantik Jadi Anggota Wantimpres Prabowo", 2/10/2026 (pelantikan Wantimpres; mundur Golkar; batal Pilkada 2024; pemilik CMNP; bendahara TKN 2019). https://menitnews.co.id/2026/10/02/pengusaha-infrastruktur-jusuf-hamka-masuk-jajaran-dewan-pertimbangan-presiden/
+4. beritaborneo.com — "Disdikbud Kukar Dorong Pengakuan Kesultanan sebagai Pelestari Budaya", 5/11/2026 (kunjungan 3/11/2026 ke Kedaton Kutai; aspirasi Perpres/PP; kutipan "jangan jadi penonton"). https://beritaborneo.com/disdikbud-kukar-dorong-pengakuan-kesultanan-sebagai-pelestari-budaya/
+5. selajur.com — "Silaturahmi ke Kedaton Kutai, Jusuf Hamka Prihatin Kesultanan Hanya Jadi Penonton di Tengah Melimpahnya Emas Hitam", 3/11/2026 (kunjungan 3/11/2026; Sultan Aji Muhammad Arifin; ikatan Jusuf dengan Damai, Long Iram, Tering, Kelian). https://selajur.com/silaturahmi-ke-kedaton-kutai-jusuf-hamka-prihatin-kesultanan-hanya-jadi-penonton-di-tengah-melimpahnya-emas-hitam/
+6. Kompas TV (YouTube) — "Wantimpres Jusuf Hamka Bicara Soal Penyadapan Presiden Prabowo: Singgung Raja Sawit!", 9/11/2026 (unggahan Instagram @jusufhamka; dukungan kepada Prabowo). https://www.youtube.com/watch?v=UUiofFkAMJA
+7. Nusantara TV (YouTube) — "Wantimpres Jusuf Hamka soal Presiden Prabowo Disadap Eks Kapolri Listyo: Bapak Tidak Boleh Lengah!", 7/11/2026 (unggahan video Instagram 7/11/2026; "tidak boleh lengah"). https://www.youtube.com/watch?v=bUpx_sMCNfA
+8. indonesiamaritimenews.com — "Presiden Prabowo Angkat 26 Anggota Wantimpres, ada Rocky Gerung, Margarito hingga Babah Alun" (Keppres 107/P/2026; Jusuf anggota nomor 23). https://www.indonesiamaritimenews.com/presiden-prabowo-angkat-26-anggota-wantimpres-ada-rocky-gerung-margarito-hingga-babah-alun
+
+## Catatan
+
+- Status kepemilikan CMNP ditulis "pemilik/pemegang saham mayoritas" mengikuti redaksi Wikipedia ("pemilik PT CMNP") dan iddb.id ("memegang saham mayoritas di PT CMNP").
+- Klaim filantropi 1.000 masjid bersumber dari Antara (13/2/2021) yang dirujuk Wikipedia.
+- Artikel opini mikanews.id yang menyebutnya "diduga bagian dari mafia oligarki" serta sengketa CMNP–Unibank tidak dipakai karena bersumber tunggal dari blog opini tanpa koroborasi — diperlakukan sebagai tidak terverifikasi.
+- Dugaan keterlibatan Jusuf Hamka dalam sengketa lahan (sertifikat SHGB 726) yang disampaikan warga melalui kuasa hukumnya (visinews.id, 19/11/2026) belum terverifikasi — artikel itu sendiri menyatakan dugaan masih memerlukan verifikasi dokumen serta klarifikasi DPR, kepolisian, dan BPN; tidak dipakai sebagai entri perkembangan.
+- SHA blob stub di main (diverifikasi 26 Nov 2026): ef5e399054a589a415ee4422d3469ce46268bff6.
