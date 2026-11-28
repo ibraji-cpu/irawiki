@@ -1,8 +1,8 @@
 ---
 title: "Danantara"
-description: 'Hub Badan Pengelola Investasi Daya Anagata Nusantara (BPI Danantara): peluncuran, rasionalisasi BUMN, Patriot Bond, polemik dividen dan pergantian Menteri Keuangan, serta laporan keuangan konsolidasian perdana 2025.'
+description: 'Hub Badan Pengelola Investasi Daya Anagata Nusantara (BPI Danantara): peluncuran, rasionalisasi BUMN, Patriot Bond, polemik dividen dan pergantian Menteri Keuangan, laporan keuangan konsolidasian perdana 2025, serta penunjukan unit Danantara sebagai pengelola sementara eks konsesi RAPP.'
 date: 2026-11-26
-updated: '2026-11-26'
+updated: '2026-11-28'
 aliases:
   - BPI Danantara
   - Danantara Indonesia
@@ -29,6 +29,10 @@ sumber:
     tanggal: "2026-11-25"
   - url: "https://www.topik.id/danantara-targetkan-dividen-rp160-triliun-pada-2027-proyek-hilirisasi-jadi-prioritas"
     tanggal: "2026-11-25"
+  - url: "https://www.fortuneidn.com/business/profil-garuda-adidaya-nusantara-d7w02-00-lflgw-42z1mx/amp"
+    tanggal: "2026-11-27"
+  - url: "https://www.bloombergtechnoz.com/detail-news/129000/profill-garuda-adidaya-anak-danantara-ambil-konsesi-rapp-tanoto"
+    tanggal: "2026-11-26"
   - url: "https://www.rctiplus.com/news/detail/ekonomi/5507988/kas-danantara--dim--tembus-rp123-triliun--mayoritas-parkir-di-deposito"
     tanggal: "2026-11-03"
   - url: "https://investortrust.id/business/121299/berbalik-untung-danantara-investment-management-dim-raup-laba-rp705-73-miliar"
@@ -57,6 +61,7 @@ Danantara memegang perusahaan-perusahaan yang menyentuh hidup sehari-hari anak m
 - DIM (lengan investasi): total aset Rp140,03 triliun per 30 April 2026 — kas dan setara kas ~Rp123 triliun (87,9%), investasi ~Rp16,63 triliun; laba bersih 4 bulan sampai 30 April 2026 Rp705,73 miliar (US$40,61 juta); proyeksi laba bersih 2026 hanya Rp800 miliar vs RKAP Rp3,4 triliun (23,53%).
 - Kampung Haji Indonesia di Makkah: Danantara membeli hotel 1.461 kamar + lahan ±5,4 ha; 13 tower masih tahap desain.
 - Proyek: 6 proyek hilirisasi Danantara senilai US$7 miliar di 13 lokasi (groundbreaking 6 Februari 2026); PSEL Danantara Bekasi (Rp3 triliun) dan Bogor Raya 1 (Rp2,8 triliun, target operasi 2028).
+- Eks konsesi RAPP: PT Garuda Adidaya Nusantara (99% dimiliki PT Danantara Asset Management) ditunjuk pengelola sementara kawasan 338.536 ha eks PBPH RAPP di Riau (SK Menhut 971/2026, 19 Nov 2026); penunjukan ini bukan akuisisi (penegasan COO Danantara, 26 Nov 2026).
 
 ## Kronologi
 
@@ -108,6 +113,10 @@ Rapat kerja Komisi XI DPR RI dengan PT Danantara Investment Management (DIM) dan
 
 BPI Danantara merilis laporan keuangan konsolidasian 2025 pada Rabu, 25 November 2026, dalam konferensi pers di Wisma Danantara, Jakarta. CEO Rosan Roeslani menyampaikan laporan itu diserahkan Badan Pemeriksa Keuangan (BPK) pukul 10.00 WIB hari yang sama dengan opini Wajar Tanpa Pengecualian (WTP), lalu diteruskan ke dewan pengawas. Rosan menjelaskan keterlambatan rilis — lebih dari sebelas bulan setelah peluncuran — karena ini pertama kalinya konsolidasi lebih dari 1.000 perusahaan BUMN dari berbagai sektor. Total aset tercatat Rp11.607 triliun per 31 Desember 2025, naik 5% dari posisi 31 Maret 2025; total ekuitas Rp2.980 triliun (+5,6%). Pendapatan usaha proforma 12 bulan (Januari–Desember 2025) Rp3.073 triliun (periode 9 bulan April–Desember: Rp2.385,2 triliun); EBITDA proforma Rp704,7 triliun (9 bulan: Rp552,5 triliun); laba usaha proforma Rp520,1 triliun (9 bulan: Rp390,4 triliun); laba sebelum pajak proforma Rp367,4 triliun (9 bulan: Rp292,7 triliun); laba bersih proforma Rp259,6 triliun (9 bulan: Rp203,4 triliun), dengan ROE proforma 8,7%. Rosan mengakui 90% laba berasal dari hanya 6 BUMN. Dalam kesempatan yang sama, Managing Director Finance Arief Budiman menyampaikan penerimaan dividen BUMN 2025 sebesar Rp143 triliun — Rp11 triliun di antaranya sudah disetor ke negara (sebagian pemberitaan menulis Rp11,8 triliun) — serta proyeksi penerimaan dividen 2026 Rp100–160 triliun (minimal sekitar Rp140 triliun; pengelola DAM meminta Rp160 triliun) dan 2027 Rp140–160 triliun. Pemerintah sebelumnya menyampaikan dividen yang dikelola Danantara tidak akan disetor ke APBN pada 2026 dan 2027.
 
+### 2026-11-25 — Garuda Adidaya Nusantara, unit Danantara, ditunjuk kelola sementara eks konsesi RAPP 338.536 ha
+
+Reuters melaporkan Rabu, 25 November 2026, berdasarkan dokumen Kementerian Hukum, bahwa PT Garuda Adidaya Nusantara — disahkan 19 November 2026, hari yang sama dengan SK Menteri Kehutanan No. 971/2026 yang mencabut PBPH PT Riau Andalan Pulp and Paper (RAPP) seluas 338.536 ha di Riau — 99% sahamnya dimiliki PT Danantara Asset Management, sisanya PT Danantara Mitra Sinergi. Perusahaan itu ditunjuk Kementerian Kehutanan sebagai pengelola sementara kawasan eks konsesi RAPP. COO BPI Danantara Dony Oskaria menegaskan pada 26 November 2026 di DPR bahwa penunjukan itu bukan akuisisi: Garuda Adidaya hanya mengelola sementara sampai proses hukum pencabutan izin berjalan, dan BPI Danantara tidak terlibat dalam proses hukum itu. Pencabutan didasarkan pada temuan Satgas PKH — kebakaran gambut berulang, ±18.362,74 ha perkebunan sawit, ±541,46 ha tambang tanpa izin, dan ±211,54 ha kerusakan kawasan lindung. RAPP, unit APRIL Group di bawah Royal Golden Eagle milik Sukanto Tanoto, menyatakan telah menerima SK pencabutan dan sedang menelaah dasar penerbitannya.
+
 ## Aktor yang Terlibat
 
 - **Rosan Roeslani** — CEO BPI Danantara (merangkap Meninvest/Kepala BKPM).
@@ -135,6 +144,11 @@ BPI Danantara merilis laporan keuangan konsolidasian 2025 pada Rabu, 25 November
 - InvestorTrust — https://investortrust.id/national/116178/purbaya-kena-reshuffle-prabowo-lantik-suahasil-sebagai-menkeu — 14 September 2026 (pelantikan Suahasil)
 - IDNFinancials/Antara — https://www.idnfinancials.com/id/news/70009/menteri-keuangan-danantara-tak-setor-dividen-ke-apbn — 8 Oktober 2026 (Danantara tak setor dividen ke APBN)
 - LensaHukum — https://lensahukum.co.id/danantara-investasi-dividen-luar-apbn — 9 Oktober 2026 (reinvestasi dividen Danantara)
+- Fortune Indonesia — https://www.fortuneidn.com/business/profil-garuda-adidaya-nusantara-d7w02-00-lflgw-42z1mx/amp — 27 November 2026 (profil Garuda Adidaya Nusantara, 99% DAM, disahkan 19 Nov 2026, alamat Wisma Danantara)
+- Fortune Indonesia — https://www.fortuneidn.com/news/garuda-adidaya-nusantara-disiapkan-untuk-kelola-eks-konsesi-rapp-00-my5jv-v5p85k — 26 November 2026 (pengelola sementara eks RAPP 338.536 ha, SK Menhut 971/2026, laporan Reuters 25 Nov)
+- Bloomberg Technoz — https://www.bloombergtechnoz.com/detail-news/129000/profill-garuda-adidaya-anak-danantara-ambil-konsesi-rapp-tanoto — 26 November 2026 (Garuda Adidaya disahkan 19 Nov 2026, rapat tindak lanjut 24 Nov)
+- Kontan via TradingView — https://id.tradingview.com/news/kontan:43b3de9ad87ea:0/ — 26 November 2026 (Danantara tegaskan hanya kelola sementara, bukan akuisisi; Dony Oskaria di DPR)
+- LensaHukum — https://lensahukum.co.id/pemerintah-cabut-izin-konsesi-rapp — 27 November 2026 (SK 971/2026, dokumen AHU 25 Nov: 99 lembar saham DAM, sisanya Danantara Mitra Sinergi)
 
 ## Catatan presisi
 
@@ -145,3 +159,4 @@ BPI Danantara merilis laporan keuangan konsolidasian 2025 pada Rabu, 25 November
 - **Dedup:** kerja sama Indonesia–Tiongkok 18 November 2026 (future smart city ±USD50 miliar, Hisense ±USD10 miliar, Danantara–SDIC ±USD10 miliar) dicatat di hub Kinerja — Danantara di sana hanya peserta, bukan subjek peristiwa. Pergantian Menkeu Purbaya→Suahasil dikronologikan lengkap di hub Reshuffle Kabinet Merah Putih. PFII bukan bagian hub ini (kebijakan terpisah; Danantara hanya menampung gedung operasional awal di Gedung Danareksa).
 - **"Dengan berat hati" dan klaim serupa dari Presiden soal Danantara** — tidak ada dalam draf ini; jangan tambahkan tanpa sumber.
 - Angka "290 BUMN ditutup" adalah posisi sampai Agustus 2026 (target ≤300 entitas akhir 2026), bukan peristiwa bertanggal tunggal — dicatat di Fakta kunci dan entri 2025-07-30, bukan sebagai entri kronologi tersendiri.
+- **Garuda Adidaya adalah pengelola sementara, bukan akuisisi** — penegasan COO BPI Danantara Dony Oskaria di DPR, 26 November 2026. Jangan tulis "Danantara mengakuisisi/mengambil alih konsesi RAPP" tanpa kualifikasi sementara.
