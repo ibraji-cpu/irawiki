@@ -7,6 +7,7 @@ tags: ["Wapres Pengganti", "MPR", "Gibran", "Amran Sulaiman", "Sugiono"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/dua-nama-wapres-pengganti-amran-sugiono.mp3"
 ---
 
 # Dua Nama untuk Kursi Wapres: Amran dan Sugiono
