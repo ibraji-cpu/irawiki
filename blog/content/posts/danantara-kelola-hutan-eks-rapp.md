@@ -7,6 +7,7 @@ tags: ["Danantara", "RAPP", "Satgas PKH", "Riau", "Hutan"]
 categories: ["Opini"]
 draft: false
 ai_generated: true
+audio_path: "/audio/danantara-kelola-hutan-eks-rapp.mp3"
 ---
 
 # Danantara Kelola Hutan Eks RAPP: Pengelola Sementara, Pertanyaan Permanen
